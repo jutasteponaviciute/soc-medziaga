@@ -74,7 +74,14 @@ Facebook, YouTube ir Instagram.
 Ryanair reklamos su humoristiniais tekstais ir netikėtomis nuotraukomis, jos priverčia sustoti, nes išsiskiria iš standartinės reklamos srauto.
 **[https://www.tiktok.com/@ryanair/video/7556286000952118550?lang=en](https://www.tiktok.com/@ryanair/video/7556286000952118550?lang=en)**
 
+ - **Žinutės perteikimas.** Vizualas padeda akimirksniu suprasti esmę.
+Smegenys vaizdą apdoroja daug greičiau nei tekstą, todėl tinkamai sukurtas dizainas perteikia žinutę be ilgo skaitymo.
+
+Šios Vinted reklamos yra puikus pavyzdys, kaip vizualas gali aiškiai perteikti žinutę be papildomo paaiškinimo. Trumpas tekstas Too many? (Per daug?) ir nuotraukos, kuriose žmonės laiko per daug drabužių, aksesuarų ar daiktų, iškart perteikia pagrindinę mintį: pardavimas yra sprendimas pertekliaus problemai.
+**[https://www.instagram.com/reel/C7WF0Odql5N/?igsh=ZTdtcnp6NGV5ZjRx](https://www.instagram.com/reel/C7WF0Odql5N/?igsh=ZTdtcnp6NGV5ZjRx)**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDQyNjU4MywtMzQxODgzODk3LC0xNj
-Y3OTU2MTQ0LC0xNTA3MzQ1NTE2XX0=
+eyJoaXN0b3J5IjpbLTE1NzkwMjk3MDQsLTU3NDQyNjU4MywtMz
+QxODgzODk3LC0xNjY3OTU2MTQ0LC0xNTA3MzQ1NTE2XX0=
 -->
