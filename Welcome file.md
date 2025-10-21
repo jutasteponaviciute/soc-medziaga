@@ -45,12 +45,16 @@ Tinka produktų, žmonių, erdvių pateikimui, nuotaikos / emocijos formavimui.
  - **Vaizdo įrašai.** Vienas stipriausių formatų dėmesio pritraukimui. Gali būti trumpi (Reels, YouTube Shorts) arba ilgesni (YouTube, Facebook). Tinka perteikti procesą, emociją, pokalbį ar pasakojimą, reklamuoti produktus.
 Reklamos pavyzdys: [https://www.instagram.com/reel/DOX_Tz5DQeV/](https://www.instagram.com/reel/DOX_Tz5DQeV/)
 Edukacijos/pokalbio pavyzdys: [https://www.instagram.com/reel/DI0uUsppHMx/](https://www.instagram.com/reel/DI0uUsppHMx/)
- - 
- - 
+ - **Animacijos ir GIF’ai.** Trumpi judantys vizualai, kurie pritraukia akį judesiu. Puikiai tinka akcentuoti veiksmą, pasiūlymą ar emociją.
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNybXdyMTFveG4yZWNnYWFhbHR0YWJsenpwd2V6cTJma2o0N2duZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3GSoFVODOkiPBFArlu/giphy.gif 
+ - **Memai ir iliustracijos.** Lengvai įsimenamas ir emocingas turinys. Naudojamas žaismingam, artimam tonui kurti, bet svarbu, kad atitiktų prekės ženklo stilių.
+ - **Infografikai.** Informaciją perteikiantys vizualai: grafikai, diagramos, struktūros.
+Padeda greitai suprasti sudėtingus dalykus, ypač edukaciniame turinyje.
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTM3MzIzMCwtMTY2Nzk1NjE0NCwtMT
+eyJoaXN0b3J5IjpbMTcwMzcyMTI2MiwtMTY2Nzk1NjE0NCwtMT
 UwNzM0NTUxNl19
 -->
