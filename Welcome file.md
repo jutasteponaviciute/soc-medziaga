@@ -25,26 +25,14 @@ Vartotojas sprendimą priima akimirksniu, o mūsų tikslas yra sukurti turinį, 
 Norint parduoti savo prekes ar paslaugas, auginti auditoriją, stiprinti prekinio ženklo įvaizdį ar tiesiog būti pastebėtiems pirmiausia reikia, kad žmogus sustotų. Jei jis nepastebi, visa kita nebeveikia.
 
 Vizualai padeda tai pasiekti, nes jie:
-
- - Greitai perteikia esmę. Žmogaus smegenys vaizdą apdoroja tūkstančius
-   kartų greičiau nei tekstą, todėl tinkamai sukurtas vizualas leidžia
-   iškart suprasti žinutę.
-   
-   Sukelia emocijas. Spalvos, formos, veidai ir kiti elementai veikia
-   mūsų nuotaiką bei skatina norą reaguoti arba nereguoti.
-   
-   Formuoja įspūdį apie prekės ženklą. Vientisas stilius ir aiški
-   vizualinė kalba leidžia atpažinti jus net be logotipo. Aplamai,
-   prekės ženklo siekiamybė turėtų būti ne dėti kuo didesnį logotipą, o
-   būti atpažįstamam be jo.
-   
-   Padeda parodyti supratimą apie auditoriją. Vizualas, kuris kalba
-   auditorijos kalba, parodo, kad žinote, kas ji, kas jai svarbu ir kaip
-   su ja bendrauti.
+ - **Greitai perteikia esmę.** Žmogaus smegenys vaizdą apdoroja tūkstančius kartų greičiau nei tekstą, todėl tinkamai sukurtas vizualas leidžia iškart suprasti žinutę.
+Sukelia emocijas. Spalvos, formos, veidai ir kiti elementai veikia mūsų nuotaiką bei skatina norą reaguoti arba nereguoti.
+ - **Formuoja įspūdį apie prekės ženklą**. Vientisas stilius ir aiški vizualinė kalba leidžia atpažinti jus net be logotipo. Aplamai, prekės ženklo siekiamybė turėtų būti ne dėti kuo didesnį logotipą, o būti atpažįstamam be jo.
+ - **Padeda parodyti supratimą apie auditoriją.** Vizualas, kuris kalba auditorijos kalba, parodo, kad žinote, kas ji, kas jai svarbu ir kaip su ja bendrauti.
 
 Vizualinė komunikacija yra ne tik grožis. Tai įrankis, padedantis laimėti mūšį dėl dėmesio, išlaikyti auditorijos susidomėjimą ilgiau nei tas kelias sekundes, kurias ji mums duoda, bei parduoti savo prekes ar paslaugas, auginti auditoriją ir pasiekti kitus tikslus, kuriuos keliame socialiniuose tinkluose.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3Nzc0MzY3MCwtMTY2Nzk1NjE0NCwtMT
-UwNzM0NTUxNl19
+eyJoaXN0b3J5IjpbLTEyNTczODE5MTIsLTE2Njc5NTYxNDQsLT
+E1MDczNDU1MTZdfQ==
 -->
