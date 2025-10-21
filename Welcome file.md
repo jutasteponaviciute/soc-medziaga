@@ -69,7 +69,12 @@ Facebook, YouTube ir Instagram.
 
 ## **Svarbiausias vizualo funkcijos**
 
+ - **Dėmesio patraukimas.** Vizualo tikslas yra priversti žmogų sustoti. Socialiniuose tinkluose vartotojas per 1-3 sekundes nusprendžia, ar jam įdomu. Stiprus vizualas tampa ta stabdymo jėga. 
+
+Ryanair reklamos su humoristiniais tekstais ir netikėtomis nuotraukomis, jos priverčia sustoti, nes išsiskiria iš standartinės reklamos srauto.
+**[https://www.tiktok.com/@ryanair/video/7556286000952118550?lang=en](https://www.tiktok.com/@ryanair/video/7556286000952118550?lang=en)**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTgwODAwOSwtMzQxODgzODk3LC0xNj
+eyJoaXN0b3J5IjpbLTU3NDQyNjU4MywtMzQxODgzODk3LC0xNj
 Y3OTU2MTQ0LC0xNTA3MzQ1NTE2XX0=
 -->
