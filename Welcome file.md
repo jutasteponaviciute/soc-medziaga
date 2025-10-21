@@ -36,16 +36,19 @@ Vizualinė komunikacija yra ne tik grožis. Tai įrankis, padedantis laimėti m�
 
 Skirtingos platformos palaiko įvairius vizualinio turinio formatus, todėl svarbu žinoti, ką galima kurti ir kokiam tikslui tai geriausiai tinka.
 
- - List item
-
-**Nuotraukos.**  Klasikinis ir vis dar labai veiksmingas formatas.
+ - **Nuotraukos.**  Klasikinis ir vis dar labai veiksmingas formatas.
 Tinka produktų, žmonių, erdvių pateikimui, nuotaikos / emocijos formavimui.
-**Karuselės (carousel).** Įrašai, kuriuose vartotojas gali slinkti kelias nuotraukas ar skaidres. Puikiai tinka istorijoms, procesams, patarimams ar kelių produktų pristatymui. Padeda išlaikyti dėmesį ilgiau, nes žmogus pats sąveikauja su turiniu.
-**Stories** (Instagram, Facebook, TikTok). Trumpalaikiai vaizdo įrašai, nuotraukos arba maketai, kuriose galima dalintis kasdienybe, akcijomis, naujienomis ar užkulisiais. Svarbiausia čia yra autentiškumas ir natūralumas, todėl dažnai kelti maketus nerekomenduoju.
+ - **Karuselės (carousel).** Įrašai, kuriuose vartotojas gali slinkti kelias nuotraukas ar skaidres. Puikiai tinka istorijoms, procesams, patarimams ar kelių produktų pristatymui. Padeda išlaikyti dėmesį ilgiau, nes žmogus pats sąveikauja su turiniu.
+ - **Stories** (Instagram, Facebook, TikTok). Trumpalaikiai vaizdo įrašai, nuotraukos arba maketai, kuriose galima dalintis kasdienybe, akcijomis, naujienomis ar užkulisiais. Svarbiausia čia yra autentiškumas ir natūralumas, todėl dažnai kelti maketus nerekomenduoju.
+ - **Interaktyvūs formatai.** Apklausos, testai, žaidimai ar klausimų lipdukai. Skatina įsitraukimą ir padeda geriau pažinti auditoriją.
+ - **Live transliacijos.** Tiesioginiai vaizdo įrašai, kurie leidžia bendrauti realiu laiku. Puikiai tinka produktų pristatymams, klausimams-atsakymams ar renginiams.
+ - **Vaizdo įrašai.** Vienas stipriausių formatų dėmesio pritraukimui. Gali būti trumpi (Reels, YouTube Shorts) arba ilgesni (YouTube, Facebook). Tinka perteikti procesą, emociją, pokalbį ar pasakojimą, reklamuoti produktus.
+ - 
+ - 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDU1OTYxOSwtMTY2Nzk1NjE0NCwtMT
-UwNzM0NTUxNl19
+eyJoaXN0b3J5IjpbLTY5NzAzNjI4LC0xNjY3OTU2MTQ0LC0xNT
+A3MzQ1NTE2XX0=
 -->
