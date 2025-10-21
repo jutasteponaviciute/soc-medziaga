@@ -60,19 +60,14 @@ Socialiniai tinklai yra erdvė, kurioje yra daugiausiai vizualinio turinio. Tai 
 Pagal 2025 m. gegužės mėn. duomenis, populiariausi socialiniai tinklai yra:
 Facebook, YouTube ir Instagram.
 
-Facebook - derina tekstą, nuotraukas, vaizdo įrašus ir Live translecijas, tačiau vizualinis turinys vis dar svarbus įsitraukimui. Šiame socialiniame tinkle galima sutikti tik tekstinių įrašų be jokio vizualo. 
-
-Instagram socialiniame tinkle galima rasti nuotraukas, karuseles, Stories ir Reels vaizdo įrašus, kurių trukmė šiuo metu gali siekti iki 3 minučių. Be to, Instagram palaiko ilgą formatą per Live transliacijas (verslo ir asmeninės iki 1 val., o kūrėjų iki 4 val.). Tokio formato kaip tiesiog tekstas Instagrame negalima talpinti, šioje platformoje eina vizualas + tekstas. 
-
-TikTok - platforma, paremta video medžiaga, nors dabar ten galima rasti ir nuotraukų bei karuselių. Anksčiau vyravo 15-60 sekundžių video, tačiau dabar galima kurti ir iki 10 minučių trukmės vaizdo įrašus. Trumpesnis formatas išlieka populiaresnis, tačiau ilgesni video leidžia pateikti išsamesnį turinį, pasakojimus, interviu ar edukacijas. 
-
-Pinterest - įkvėpimui ir idėjoms skirta platforma. Dominuoja nuotraukos, koliažai ir infografikai, tačiau vis labiau populiarėja Idea Pins - tai trumpi, iki 60 sekundžių, vaizdo įrašai. 
-
-LinkedIn - dominuoja tekstas, tačiau daugumą tekstų papildo vizualai, kurie padeda atkreipti dėmesį. Šiuo metu metu LinkedIn platformoje galima talpinti, nuotraukas, maketus, vaizdo įrašus ir karuseles (PDF formato įrašai), dokumentai, prezentacijos.
-
-YouTube - video platforma. YouTube Shorts (iki 60 sek.), įprasti vaizdo įrašai (5-30 min. ir daugiau). Tai puiki vieta reklamai, edukacijai ir pramogai.
+ - **Facebook** - derina tekstą, nuotraukas, vaizdo įrašus ir Live translecijas, tačiau vizualinis turinys vis dar svarbus įsitraukimui. Šiame socialiniame tinkle galima sutikti tik tekstinių įrašų be jokio vizualo. 
+ - **Instagram** socialiniame tinkle galima rasti nuotraukas, karuseles, Stories ir Reels vaizdo įrašus, kurių trukmė šiuo metu gali siekti iki 3 minučių. Be to, Instagram palaiko ilgą formatą per Live transliacijas (verslo ir asmeninės iki 1 val., o kūrėjų iki 4 val.). Tokio formato kaip tiesiog tekstas Instagrame negalima talpinti, šioje platformoje eina vizualas + tekstas. 
+ - **TikTok** - platforma, paremta video medžiaga, nors dabar ten galima rasti ir nuotraukų bei karuselių. Anksčiau vyravo 15-60 sekundžių video, tačiau dabar galima kurti ir iki 10 minučių trukmės vaizdo įrašus. Trumpesnis formatas išlieka populiaresnis, tačiau ilgesni video leidžia pateikti išsamesnį turinį, pasakojimus, interviu ar edukacijas. 
+ - **Pinterest** - įkvėpimui ir idėjoms skirta platforma. Dominuoja nuotraukos, koliažai ir infografikai, tačiau vis labiau populiarėja Idea Pins - tai trumpi, iki 60 sekundžių, vaizdo įrašai. 
+ - **LinkedIn** - dominuoja tekstas, tačiau daugumą tekstų papildo vizualai, kurie padeda atkreipti dėmesį. Šiuo metu metu LinkedIn platformoje galima talpinti, nuotraukas, maketus, vaizdo įrašus ir karuseles (PDF formato įrašai), dokumentai, prezentacijos.
+ - **YouTube** - video platforma. YouTube Shorts (iki 60 sek.), įprasti vaizdo įrašai (5-30 min. ir daugiau). Tai puiki vieta reklamai, edukacijai ir pramogai.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjczMjc2NTYsLTM0MTg4Mzg5NywtMT
-Y2Nzk1NjE0NCwtMTUwNzM0NTUxNl19
+eyJoaXN0b3J5IjpbLTY1MDQyODEwOCwtMzQxODgzODk3LC0xNj
+Y3OTU2MTQ0LC0xNTA3MzQ1NTE2XX0=
 -->
