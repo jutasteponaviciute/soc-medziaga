@@ -67,7 +67,9 @@ Facebook, YouTube ir Instagram.
  - **LinkedIn** - dominuoja tekstas, tačiau daugumą tekstų papildo vizualai, kurie padeda atkreipti dėmesį. Šiuo metu metu LinkedIn platformoje galima talpinti, nuotraukas, maketus, vaizdo įrašus ir karuseles (PDF formato įrašai), dokumentai, prezentacijos.
  - **YouTube** - video platforma. YouTube Shorts (iki 60 sek.), įprasti vaizdo įrašai (5-30 min. ir daugiau). Tai puiki vieta reklamai, edukacijai ir pramogai.
 
+## **Svarbiausias vizualo funkcijos**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDQyODEwOCwtMzQxODgzODk3LC0xNj
+eyJoaXN0b3J5IjpbLTI5OTgwODAwOSwtMzQxODgzODk3LC0xNj
 Y3OTU2MTQ0LC0xNTA3MzQ1NTE2XX0=
 -->
