@@ -43,12 +43,14 @@ Tinka produktų, žmonių, erdvių pateikimui, nuotaikos / emocijos formavimui.
  - **Interaktyvūs formatai.** Apklausos, testai, žaidimai ar klausimų lipdukai. Skatina įsitraukimą ir padeda geriau pažinti auditoriją.
  - **Live transliacijos.** Tiesioginiai vaizdo įrašai, kurie leidžia bendrauti realiu laiku. Puikiai tinka produktų pristatymams, klausimams-atsakymams ar renginiams.
  - **Vaizdo įrašai.** Vienas stipriausių formatų dėmesio pritraukimui. Gali būti trumpi (Reels, YouTube Shorts) arba ilgesni (YouTube, Facebook). Tinka perteikti procesą, emociją, pokalbį ar pasakojimą, reklamuoti produktus.
+Reklamos pavyzdys: [https://www.instagram.com/reel/DOX_Tz5DQeV/](https://www.instagram.com/reel/DOX_Tz5DQeV/)
+Edukacijos/pokalbio pavyzdys: [https://www.instagram.com/reel/DI0uUsppHMx/](https://www.instagram.com/reel/DI0uUsppHMx/)
  - 
  - 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzAzNjI4LC0xNjY3OTU2MTQ0LC0xNT
-A3MzQ1NTE2XX0=
+eyJoaXN0b3J5IjpbMTQyNTM3MzIzMCwtMTY2Nzk1NjE0NCwtMT
+UwNzM0NTUxNl19
 -->
