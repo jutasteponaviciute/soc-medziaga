@@ -51,10 +51,10 @@ https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNybXdyMTFveG4yZWNnYWFhbHR0YWJ
  - **Infografikai.** Informaciją perteikiantys vizualai: grafikai, diagramos, struktūros.
 Padeda greitai suprasti sudėtingus dalykus, ypač edukaciniame turinyje.
 
-
+Norint išsiskirti socialiniuose tinkluose, verta derinti kelis formatus, tačiau išlaikyti vieningą stilių ir toną. Kai turinys vizualiai nuoseklus ir atitinka prekės ženklo identitetą, auditorija jį greičiau atpažįsta ir labiau į jį įsitraukia.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzcyMTI2MiwtMTY2Nzk1NjE0NCwtMT
+eyJoaXN0b3J5IjpbLTM0MTg4Mzg5NywtMTY2Nzk1NjE0NCwtMT
 UwNzM0NTUxNl19
 -->
