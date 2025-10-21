@@ -32,7 +32,20 @@ Sukelia emocijas. Spalvos, formos, veidai ir kiti elementai veikia mūsų nuotai
 
 Vizualinė komunikacija yra ne tik grožis. Tai įrankis, padedantis laimėti mūšį dėl dėmesio, išlaikyti auditorijos susidomėjimą ilgiau nei tas kelias sekundes, kurias ji mums duoda, bei parduoti savo prekes ar paslaugas, auginti auditoriją ir pasiekti kitus tikslus, kuriuos keliame socialiniuose tinkluose.
 
+## Vizualinio turinio formatai socialiniuose tinkluose
+
+Skirtingos platformos palaiko įvairius vizualinio turinio formatus, todėl svarbu žinoti, ką galima kurti ir kokiam tikslui tai geriausiai tinka.
+
+ - List item
+
+**Nuotraukos.**  Klasikinis ir vis dar labai veiksmingas formatas.
+Tinka produktų, žmonių, erdvių pateikimui, nuotaikos / emocijos formavimui.
+**Karuselės (carousel).** Įrašai, kuriuose vartotojas gali slinkti kelias nuotraukas ar skaidres. Puikiai tinka istorijoms, procesams, patarimams ar kelių produktų pristatymui. Padeda išlaikyti dėmesį ilgiau, nes žmogus pats sąveikauja su turiniu.
+**Stories** (Instagram, Facebook, TikTok). Trumpalaikiai vaizdo įrašai, nuotraukos arba maketai, kuriose galima dalintis kasdienybe, akcijomis, naujienomis ar užkulisiais. Svarbiausia čia yra autentiškumas ir natūralumas, todėl dažnai kelti maketus nerekomenduoju.
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTczODE5MTIsLTE2Njc5NTYxNDQsLT
-E1MDczNDU1MTZdfQ==
+eyJoaXN0b3J5IjpbMjAxMDU1OTYxOSwtMTY2Nzk1NjE0NCwtMT
+UwNzM0NTUxNl19
 -->
