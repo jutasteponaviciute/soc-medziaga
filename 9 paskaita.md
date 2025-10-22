@@ -346,11 +346,12 @@ Viršuje galima ieškoti konkrečios programėlės arba filtruoti pagal funkcij�
 ### Content Planner puslapis
 
 Šiame paveiksle matoma Canva įrankio Content Planner (turinio planuoklis) aplinka, kuri skirta socialinių tinklų turinio planavimui ir publikavimui.
+![Content Planner puslapis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Content%20Planner%20puslapis.avif)
 
-
+### Canva Design School 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDkwMzI3OCwyMDQxNzI5NzYwLDkzOT
+eyJoaXN0b3J5IjpbMTI4MTQzMzUyMiwyMDQxNzI5NzYwLDkzOT
 k1NDIyOSwtMTkzNTE5MjE1NywzMTE2MjMyNDYsLTQxMzQ2NjUw
 LDIxMTU1NTI2NTksLTEzNDE4NzEwMTIsLTkzMzMxODY3LC0xOD
 IwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5MDI5NzA0XX0=
