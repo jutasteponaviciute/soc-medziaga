@@ -356,6 +356,14 @@ Canva Design School yra puikus šaltinis tiek pradedantiesiems, tiek pažengusie
 
 ## Apžvelkime dizaino kūrimo langą ir įrankius. 
 
+1.  Kairėje pusėje esančiame meniu pasirinkite Create – tai pagrindinis mygtukas, leidžiantis pradėti naujo dizaino kūrimą.   
+
+2.  Atsidariusiame lange pasirinkite Social media kategoriją.
+
+3.  Iš sąrašo pasirinkite platformą, kuriai kursite vizualą,šiuo atveju, Instagram.  
+
+4.  Tada spauskite Instagram Post (4:5), kad atsidarytų dizaino kūrimo langas.
+
 ### Viršutinė įrankių juosta
 
 1.  **File** – projekto nustatymai: pervadinti, įkelti failus, įjungti / išjungti liniuotę, paraštes, tinklelį, išsaugoti, perkelti, daryti kopiją, atsisiuntimas, versijų istorija, ištrynimas ir kt.
@@ -405,10 +413,10 @@ Viewing– tik peržiūros režimas.
 ![Canva diziano langas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Dizaino%20langas.avif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1NDQyODU2LDgxMzQxNDY2NCwtMTIwMz
-MyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5Mzk2LDEyODE0MzM1
-MjIsMjA0MTcyOTc2MCw5Mzk5NTQyMjksLTE5MzUxOTIxNTcsMz
-ExNjIzMjQ2LC00MTM0NjY1MCwyMTE1NTUyNjU5LC0xMzQxODcx
-MDEyLC05MzMzMTg2NywtMTgyMDMyMjkwOSwyNjM4ODM0OCwtMT
-U3OTAyOTcwNF19
+eyJoaXN0b3J5IjpbLTEzMzg3ODkyMDUsODEzNDE0NjY0LC0xMj
+AzMzI4NDQ1LC0xNzUwMTQ5OTQwLDE3NTExNTkzOTYsMTI4MTQz
+MzUyMiwyMDQxNzI5NzYwLDkzOTk1NDIyOSwtMTkzNTE5MjE1Ny
+wzMTE2MjMyNDYsLTQxMzQ2NjUwLDIxMTU1NTI2NTksLTEzNDE4
+NzEwMTIsLTkzMzMxODY3LC0xODIwMzIyOTA5LDI2Mzg4MzQ4LC
+0xNTc5MDI5NzA0XX0=
 -->
