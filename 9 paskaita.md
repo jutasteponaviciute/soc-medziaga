@@ -425,13 +425,14 @@ Pasirinkite norimą spalvą iš pasiūlytų arba įveskite savo spalvos HEX kod�
 3.  Arba kairėje meniu pasirinkite Background (Jei automatiškai neatsiranda, jį galima rasti tarp Apps).
 Čia galima rinktis iš įvairių fono paveikslėlių: abstrakčių, tekstūrinių ar teminių.
 Spustelėjus bet kurį iš jų, jis automatiškai pakeis dabartinį fono vaizdą.
-
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/fono%20parinkimas.avif)
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/spalvos%20parinkimas.avif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTgxODE1NDQsMTM4NDE4MDc3MywtOT
-k4MzI3MDcsLTEzMzg3ODkyMDUsODEzNDE0NjY0LC0xMjAzMzI4
-NDQ1LC0xNzUwMTQ5OTQwLDE3NTExNTkzOTYsMTI4MTQzMzUyMi
-wyMDQxNzI5NzYwLDkzOTk1NDIyOSwtMTkzNTE5MjE1NywzMTE2
-MjMyNDYsLTQxMzQ2NjUwLDIxMTU1NTI2NTksLTEzNDE4NzEwMT
-IsLTkzMzMxODY3LC0xODIwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5
-MDI5NzA0XX0=
+eyJoaXN0b3J5IjpbMTcwOTUwNDEyMCwxMzg0MTgwNzczLC05OT
+gzMjcwNywtMTMzODc4OTIwNSw4MTM0MTQ2NjQsLTEyMDMzMjg0
+NDUsLTE3NTAxNDk5NDAsMTc1MTE1OTM5NiwxMjgxNDMzNTIyLD
+IwNDE3Mjk3NjAsOTM5OTU0MjI5LC0xOTM1MTkyMTU3LDMxMTYy
+MzI0NiwtNDEzNDY2NTAsMjExNTU1MjY1OSwtMTM0MTg3MTAxMi
+wtOTMzMzE4NjcsLTE4MjAzMjI5MDksMjYzODgzNDgsLTE1Nzkw
+Mjk3MDRdfQ==
 -->
