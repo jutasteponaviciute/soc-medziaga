@@ -430,7 +430,7 @@ Spustelėjus bet kurį iš jų, jis automatiškai pakeis dabartinį fono vaizdą
 Įkėlus nuotrauką, Canva parodo nuotraukos spalvų paletę.
 ![spalvu palete is nuotraukos](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/nuotraukoje%20esancios%20spalvos.avif)
 Spaudžiame Elements ir čia pradedame paiešką.
-![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/paieska.avif)
+![elementu paieskos langas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/paieska.avif)
 ### Paieška 
 
 **-   Paieška pagal raktinius žodžius**   
@@ -449,7 +449,7 @@ Paieškos rezultatus galima susiaurinti pagal kategorijas, tokias kaip nuotrauko
 
 Jei radote gerą šabloną ar nuotrauką, galite greitai surasti panašius elementus paspaudę See more like this. Tai labai patogu, kai norite rasti daugiau variantų, kurie atitinka jūsų dizaino temą.
 
-![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/panasus%20elementai.avif)
+![panasiu elementu paieska](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/panasus%20elementai.avif)
 
 ### Vaizdo generavimo procesas iš teksto (prompt’o): 
 
@@ -461,7 +461,7 @@ Jei radote gerą šabloną ar nuotrauką, galite greitai surasti panašius eleme
 
 4.  Peržiūrėk rezultatus. Po kelių sekundžių sistema pateiks kelis sugeneruotus vaizdus pagal tavo aprašymą. Galėsi pasirinkti, kuris variantas labiausiai patinka, ir jį panaudoti.
 
-![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/vaizdo%20generavimas.avif)
+![vaizdu generavimas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/vaizdo%20generavimas.avif)
 
 Taip pat galima sugeneruoti kodą arba vaizdo įrašą.
 
@@ -522,7 +522,7 @@ Skirtingi pasidalinimo būdai:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDQwMzAwNSwtMTQyOTI1ODI3NywxNz
+eyJoaXN0b3J5IjpbLTE0MzU4ODA5NywtMTQyOTI1ODI3NywxNz
 A5NTA0MTIwLDEzODQxODA3NzMsLTk5ODMyNzA3LC0xMzM4Nzg5
 MjA1LDgxMzQxNDY2NCwtMTIwMzMyODQ0NSwtMTc1MDE0OTk0MC
 wxNzUxMTU5Mzk2LDEyODE0MzM1MjIsMjA0MTcyOTc2MCw5Mzk5
