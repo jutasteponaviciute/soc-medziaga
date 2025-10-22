@@ -458,8 +458,25 @@ Jei radote gerą šabloną ar nuotrauką, galite greitai surasti panašius eleme
 3.  Tada spausk “Generate images”.
 
 4.  Peržiūrėk rezultatus. Po kelių sekundžių sistema pateiks kelis sugeneruotus vaizdus pagal tavo aprašymą. Galėsi pasirinkti, kuris variantas labiausiai patinka, ir jį panaudoti.
+
+Taip pat galima sugeneruoti kodą arba vaizdo įrašą.
+
+### Nuotraukų pasirinkimas
+
+Canva suteikia prieigą prie daugybės nuotraukų, iliustracijų ir grafinių elementų – tiek mokamų, tiek nemokamų.
+
+Tips and Tricks: paspaudus dešinį pelės klavišą ant nuotraukos ir pasirinkus Replace background, nuotrauka iš karto tampa šablono fonu, todėl jos dydžio keitimas nėra būtinas.
+
+Paspaudus dešinį pelės klavišą ant nuotraukos ir pasirinkus Apply colours to page, nuotraukos spalvas, galima pritaikyti šablonui (kiekvieną kartą spaudžiant, keičiasi spalvos).
+
+Pavyzdžiui, pasirenku šabloną iš Design skilties.
+
+
+Kairiu pelės klavišu pasižymiu merginos nuotrauką, tada paspaudžiu dešinį pelės klavišą ir pasirenku Apply colors to page (kiekvieną kartą spaudžiant, keičiasi spalvos, tol kol yra skirtingų kombinacijų).
+ 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDIwODE1NiwxNzA5NTA0MTIwLDEzOD
+eyJoaXN0b3J5IjpbLTI5MDM4MDU4NiwxNzA5NTA0MTIwLDEzOD
 QxODA3NzMsLTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMzQxNDY2
 NCwtMTIwMzMyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5Mzk2LD
 EyODE0MzM1MjIsMjA0MTcyOTc2MCw5Mzk5NTQyMjksLTE5MzUx
