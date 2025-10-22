@@ -457,14 +457,13 @@ Jei radote gerą šabloną ar nuotrauką, galite greitai surasti panašius eleme
 
 3.  Tada spausk “Generate images”.
 
-4.  Peržiūrėk rezultatus.   
-Po kelių sekundžių sistema pateiks kelis sugeneruotus vaizdus pagal tavo aprašymą. Galėsi pasirinkti, kuris variantas labiausiai patinka, ir jį panaudoti.
+4.  Peržiūrėk rezultatus. Po kelių sekundžių sistema pateiks kelis sugeneruotus vaizdus pagal tavo aprašymą. Galėsi pasirinkti, kuris variantas labiausiai patinka, ir jį panaudoti.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0MzQzMDU4LDE3MDk1MDQxMjAsMTM4ND
-E4MDc3MywtOTk4MzI3MDcsLTEzMzg3ODkyMDUsODEzNDE0NjY0
-LC0xMjAzMzI4NDQ1LC0xNzUwMTQ5OTQwLDE3NTExNTkzOTYsMT
-I4MTQzMzUyMiwyMDQxNzI5NzYwLDkzOTk1NDIyOSwtMTkzNTE5
-MjE1NywzMTE2MjMyNDYsLTQxMzQ2NjUwLDIxMTU1NTI2NTksLT
-EzNDE4NzEwMTIsLTkzMzMxODY3LC0xODIwMzIyOTA5LDI2Mzg4
-MzQ4XX0=
+eyJoaXN0b3J5IjpbLTE3NDIwODE1NiwxNzA5NTA0MTIwLDEzOD
+QxODA3NzMsLTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMzQxNDY2
+NCwtMTIwMzMyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5Mzk2LD
+EyODE0MzM1MjIsMjA0MTcyOTc2MCw5Mzk5NTQyMjksLTE5MzUx
+OTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1MCwyMTE1NTUyNjU5LC
+0xMzQxODcxMDEyLC05MzMzMTg2NywtMTgyMDMyMjkwOSwyNjM4
+ODM0OF19
 -->
