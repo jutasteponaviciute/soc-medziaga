@@ -365,7 +365,7 @@ Editing – galima redaguoti dizainą.
 Commenting_ – galima palikti komentarus.        
 Viewing– tik peržiūros režimas.        
 4.  **Undo / Redo** – atšaukia paskutinį veiksmą arba grąžinti paskutinį veiksmą.    
-5.  **Išsaugojimas** – išsaugojimo s
+5.  **Išsaugojimas** – išsaugojimo statusas ir versijų istorija.
 6.  **Failo pavadinimas ir dizaino tipas** – rodo projekto pavadinimą ir pasirinktą formatą (pvz., Instagram Post 4:5).    
 7.  **Vartotojo profilis / komandos nariai** – leidžia matyti, kas redaguoja projektą, arba pakviesti kitus prisijungti.    
 8.  **Statistics / Insights** – rodo dizaino peržiūras ir įsitraukimus (Pro paskyrose).    
@@ -406,10 +406,10 @@ Viewing– tik peržiūros režimas.
 ![dizaino kūrimo langas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Dizaino%20langas.avif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2MjE4MzUzLC0xMjAzMzI4NDQ1LC0xNz
-UwMTQ5OTQwLDE3NTExNTkzOTYsMTI4MTQzMzUyMiwyMDQxNzI5
-NzYwLDkzOTk1NDIyOSwtMTkzNTE5MjE1NywzMTE2MjMyNDYsLT
-QxMzQ2NjUwLDIxMTU1NTI2NTksLTEzNDE4NzEwMTIsLTkzMzMx
-ODY3LC0xODIwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5MDI5NzA0XX
-0=
+eyJoaXN0b3J5IjpbMTMwMTg0MTUwNiwtMTIwMzMyODQ0NSwtMT
+c1MDE0OTk0MCwxNzUxMTU5Mzk2LDEyODE0MzM1MjIsMjA0MTcy
+OTc2MCw5Mzk5NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC
+00MTM0NjY1MCwyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMz
+MTg2NywtMTgyMDMyMjkwOSwyNjM4ODM0OCwtMTU3OTAyOTcwNF
+19
 -->
