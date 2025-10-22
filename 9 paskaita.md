@@ -403,13 +403,11 @@ Viewing– tik peržiūros režimas.
 31.  **Dizaino drobė (canvas)** – pagrindinė darbo sritis, kurioje kuriamas dizainas.    
 32.  **Liniuotės (rulers)** – padeda tiksliai išdėstyti elementus dizaino erdvėje.
 
-![dizaino kūrimo langas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Dizaino%20langas.avif)
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTE5NjI3MzQsLTEyMDMzMjg0NDUsLT
-E3NTAxNDk5NDAsMTc1MTE1OTM5NiwxMjgxNDMzNTIyLDIwNDE3
-Mjk3NjAsOTM5OTU0MjI5LC0xOTM1MTkyMTU3LDMxMTYyMzI0Ni
-wtNDEzNDY2NTAsMjExNTU1MjY1OSwtMTM0MTg3MTAxMiwtOTMz
-MzE4NjcsLTE4MjAzMjI5MDksMjYzODgzNDgsLTE1NzkwMjk3MD
-RdfQ==
+eyJoaXN0b3J5IjpbNTE4NTgwOTcyLC0xMjAzMzI4NDQ1LC0xNz
+UwMTQ5OTQwLDE3NTExNTkzOTYsMTI4MTQzMzUyMiwyMDQxNzI5
+NzYwLDkzOTk1NDIyOSwtMTkzNTE5MjE1NywzMTE2MjMyNDYsLT
+QxMzQ2NjUwLDIxMTU1NTI2NTksLTEzNDE4NzEwMTIsLTkzMzMx
+ODY3LC0xODIwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5MDI5NzA0XX
+0=
 -->
