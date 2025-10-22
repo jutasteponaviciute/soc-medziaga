@@ -356,11 +356,90 @@ Canva Design School yra puikus šaltinis tiek pradedantiesiems, tiek pažengusie
 
 ## Apžvelkime dizaino kūrimo langą ir įrankius. 
 
+### Viršutinė įrankių juosta
+
+1.  **File** – projekto nustatymai: pervadinti, sukurti kopiją, atsisiųsti ar atidaryti naują dizainą.    
+2.  **Resize** – leidžia keisti dizaino matmenis ar konvertuoti į kitą formatą (pvz., iš Instagram įrašas → plakatas).    
+3.  **Editing** – pasirinkimas tarp trijų darbo režimų:    
+Editing – galima redaguoti dizainą.        
+Commenting_ – galima palikti komentarus.        
+Viewing_ – tik peržiūros režimas.        
+4.  **Undo** – atšaukia paskutinį veiksmą.    
+5.  **Redo** – pakartoja paskutinį atšauktą veiksmą.    
+6.  **Failo pavadinimas ir dizaino tipas** – rodo projekto pavadinimą ir pasirinktą formatą (pvz., _Instagram Post 4:5_).
+    
+7.  **Vartotojo profilis / komandos nariai** – leidžia matyti, kas redaguoja projektą, arba pakviesti kitus prisijungti.
+    
+8.  **Statistics / Insights** – rodo dizaino peržiūras ir įsitraukimus (Pro paskyrose).
+    
+9.  **Komentarai** – galima peržiūrėti arba palikti komentarus projekte.
+    
+10.  **Share** – leidžia bendrinti, atsisiųsti ar publikuoti dizainą (pvz., Instagram, PDF, PNG formatais).
+    
+
+----------
+
+### 🔹 Kairioji įrankių juosta
+
+11.  **Design** – Canva siūlomi šablonai pagal formatą.
+    
+12.  **Elements** – figūros, linijos, ikonėlės, nuotraukos, grafikai ir kt.
+    
+13.  **Text** – teksto įrankiai: antraštės, paantraštės, pastraipos, teksto stiliai.
+    
+14.  **Brand** – prekės ženklo paletė, logotipai, šriftai (Pro naudotojams).
+    
+15.  **Uploads** – vieta, kur įkeliamos savo nuotraukos, vaizdo įrašai, garso failai.
+    
+16.  **Tools** – papildomi įrankiai, pvz., Magic Write, lentelės, vertimai, AI generavimas.
+    
+17.  **Projects** – visi tavo projektai vienoje vietoje.
+    
+18.  **Apps** – programėlės ir integracijos (Instagram, Google Drive, Pexels ir kt.).
+    
+19.  **Asistentas (Magic Assistant)** – Canva AI pagalbininkas, padedantis sukurti tekstus, idėjas ar dizainus.
+    
+
+----------
+
+### 🔹 Apatinė juosta
+
+20.  **Notes** – vieta užrašams ar pastaboms, pvz., scenarijui ar pristatymo tekstui.
+    
+21.  **Duration** – animacijos ar video trukmės nustatymas.
+    
+22.  **Timer** – laikmatis pristatymams ar įrašams.
+    
+23.  **Zoom valdymas** – leidžia didinti arba mažinti dizaino vaizdą.
+    
+24.  **Zoom procentai** – rodo dabartinį priartinimo lygį (pvz., 33%).
+    
+25.  **Pages** – perėjimas tarp puslapių ar skaidrių.
+    
+26.  **Puslapių skaičius** – kiek puslapių turi dizainas (pvz., 1/1).
+    
+27.  **Grid view** – rodo visus puslapius miniatiūrų režimu.
+    
+28.  **Full screen (viso ekrano režimas)** – išplečia dizaino vaizdą į visą ekraną.
+    
+29.  **Help / Pagalba** – Canva pagalbos centras ir trumpieji klavišai.
+    
+
+----------
+
+### 🔹 Pagrindinė darbo zona
+
+30.  **Puslapių valdymas** – pridėti naują puslapį arba pakeisti jų tvarką.
+    
+31.  **Dizaino drobė (canvas)** – pagrindinė darbo sritis, kurioje kuriamas dizainas.
+    
+32.  **Liniuotės (rulers)** – padeda tiksliai išdėstyti elementus dizaino erdvėje.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTE1OTM5NiwxMjgxNDMzNTIyLDIwND
-E3Mjk3NjAsOTM5OTU0MjI5LC0xOTM1MTkyMTU3LDMxMTYyMzI0
-NiwtNDEzNDY2NTAsMjExNTU1MjY1OSwtMTM0MTg3MTAxMiwtOT
-MzMzE4NjcsLTE4MjAzMjI5MDksMjYzODgzNDgsLTE1NzkwMjk3
-MDRdfQ==
+eyJoaXN0b3J5IjpbLTE3NTAxNDk5NDAsMTc1MTE1OTM5NiwxMj
+gxNDMzNTIyLDIwNDE3Mjk3NjAsOTM5OTU0MjI5LC0xOTM1MTky
+MTU3LDMxMTYyMzI0NiwtNDEzNDY2NTAsMjExNTU1MjY1OSwtMT
+M0MTg3MTAxMiwtOTMzMzE4NjcsLTE4MjAzMjI5MDksMjYzODgz
+NDgsLTE1NzkwMjk3MDRdfQ==
 -->
