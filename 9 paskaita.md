@@ -111,6 +111,10 @@ Kampanijos tikslas: parodyti, kad grožio samprata kinta su technologijomis, ir 
 IKEA kuria pasitikėjimą rodydama tikrą gyvenimą: natūralias situacijas, kasdienybę ir nuoširdžias emocijas. Skirtingose kampanijose išlaikomas tas pats šiltas apšvietimas, realistiški interjerai ir vientisa spalvų paletė. Šis nuoseklumas leidžia iš karto atpažinti prekės ženklą ir stiprina pasitikėjimą juo.
 **[https://www.youtube.com/watch?v=vAhpFfEBgDg](https://www.youtube.com/watch?v=vAhpFfEBgDg)**
 ![Ikea pavyzdys 1](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/ikea_pavyzdys1.avif)
+![Ikea pavyzdys 2](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/ikea_pavyzdys2.avif)
+![Ikea pavyzdys 3](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/ikea_pavyzdys3.avif)
+
+
 
  - **Įsitraukimo skatinimas.** Vizualas kviečia veikti: pakomentuoti, pasidalinti, sureaguoti ar spustelėti. Tai gali būti klausimas, provokacija ar įdomus vizualinis sprendimas. 
 
@@ -140,7 +144,7 @@ Pavyzdžiuose esantys elementai nurodo, ką vartotojas turėtų daryti toliau, p
 
 -   Socialiniai tinklai yra vizualinio turinio centras, todėl gebėjimas kurti stiprius vizualus yra viena svarbiausių šiuolaikinio komunikacijos specialisto kompetencijų.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzIyNTIxODgsLTEzNDE4NzEwMTIsLT
+eyJoaXN0b3J5IjpbLTE4OTU0MzAxMTQsLTEzNDE4NzEwMTIsLT
 kzMzMxODY3LC0xODIwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5MDI5
 NzA0XX0=
 -->
