@@ -364,8 +364,8 @@ Canva Design School yra puikus šaltinis tiek pradedantiesiems, tiek pažengusie
 Editing – galima redaguoti dizainą.        
 Commenting_ – galima palikti komentarus.        
 Viewing_ – tik peržiūros režimas.        
-4.  **Undo** – atšaukia paskutinį veiksmą.    
-5.  **Redo** – pakartoja paskutinį atšauktą veiksmą.    
+4.  **Undo / Redo** – atšaukia paskutinį veiksmą.    
+5.  
 6.  **Failo pavadinimas ir dizaino tipas** – rodo projekto pavadinimą ir pasirinktą formatą (pvz., Instagram Post 4:5).    
 7.  **Vartotojo profilis / komandos nariai** – leidžia matyti, kas redaguoja projektą, arba pakviesti kitus prisijungti.    
 8.  **Statistics / Insights** – rodo dizaino peržiūras ir įsitraukimus (Pro paskyrose).    
@@ -406,9 +406,9 @@ Viewing_ – tik peržiūros režimas.
 ![dizaino kūrimo langas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Dizaino%20langas.avif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODc0MDU0MCwtMTc1MDE0OTk0MCwxNz
-UxMTU5Mzk2LDEyODE0MzM1MjIsMjA0MTcyOTc2MCw5Mzk5NTQy
-MjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1MCwyMT
-E1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMzMTg2NywtMTgyMDMy
-MjkwOSwyNjM4ODM0OCwtMTU3OTAyOTcwNF19
+eyJoaXN0b3J5IjpbLTEyMDMzMjg0NDUsLTE3NTAxNDk5NDAsMT
+c1MTE1OTM5NiwxMjgxNDMzNTIyLDIwNDE3Mjk3NjAsOTM5OTU0
+MjI5LC0xOTM1MTkyMTU3LDMxMTYyMzI0NiwtNDEzNDY2NTAsMj
+ExNTU1MjY1OSwtMTM0MTg3MTAxMiwtOTMzMzE4NjcsLTE4MjAz
+MjI5MDksMjYzODgzNDgsLTE1NzkwMjk3MDRdfQ==
 -->
