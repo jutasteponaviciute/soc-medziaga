@@ -195,9 +195,33 @@ Canva turi ir mobiliąją programėlę, todėl dizainus galima kurti bet kur ir 
 Tai itin naudinga socialinių tinklų administratoriams, kurie dažnai dirba dinamiškai, pavyzdžiui, renginių metu ar kelionėje. Be to, projektai automatiškai sinchronizuojami su kompiuterio versija, todėl pradėjus darbą telefone galima lengvai tęsti jį kompiuteryje.
 
 ![Canva mobilioji programele](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Canva%20mobili%20programele.avif)
+
+##   CANVA meniu analizė ir galimybės
+    
+Home puslapis
+
+1.  Kairysis meniu (Navigation bar)   
+
+Jame rasite:
+-   Home – pagrindinį puslapį.    
+-   Projects – visus savo sukurtus, išsaugotus dizainus ir aplankus.    
+-   Templates – šablonų biblioteką įvairiems formatams.    
+-   Brand – prekės ženklo nustatymus (spalvos, logotipai, šriftai).    
+-   Canva AI – dirbtinio intelekto įrankiai.    
+-   More – papildomos funkcijos, tokios kaip Apps, Content Planner, Design School. 
+
+  2.  Paieškos juosta ir filtrai
+Šioje srityje galima ieškoti savo sukurtų dizainų, šablonų, paveikslėlių ar įkeltų failų. Paiešką galima patikslinti naudojant filtrus: pagal tipą, kategoriją, savininką ar datą.
+
+3.  Greito starto zona (Quick create)
+Ši sritis leidžia iš karto pasirinkti, kokio tipo dizainą norima kurti: el. laišką, dokumentą, whiteboard’ą, prezentaciją, įrašą socialiniams tinklams, vaizdo įrašą, tinklalapį ar kt.
+Taip pat čia galima nustatyti individualius išmatavimus (Custom size) arba įkelti savo failus (Upload). 
+
+4.  Naujausi projektai (Recents)
+Šioje dalyje rodomi naujausi ar neseniai redaguoti dizainai, todėl galima greitai tęsti darbą nuo ten, kur jis buvo sustabdytas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODc1OTE2MSwtMTkzNTE5MjE1NywzMT
-E2MjMyNDYsLTQxMzQ2NjUwLDIxMTU1NTI2NTksLTEzNDE4NzEw
-MTIsLTkzMzMxODY3LC0xODIwMzIyOTA5LDI2Mzg4MzQ4LC0xNT
-c5MDI5NzA0XX0=
+eyJoaXN0b3J5IjpbLTc3ODQ3OTAyLC0xOTM1MTkyMTU3LDMxMT
+YyMzI0NiwtNDEzNDY2NTAsMjExNTU1MjY1OSwtMTM0MTg3MTAx
+MiwtOTMzMzE4NjcsLTE4MjAzMjI5MDksMjYzODgzNDgsLTE1Nz
+kwMjk3MDRdfQ==
 -->
