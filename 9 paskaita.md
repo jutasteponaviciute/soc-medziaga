@@ -222,9 +222,11 @@ Taip pat čia galima nustatyti individualius išmatavimus (Custom size) arba įk
 **4.  Naujausi projektai (Recents)**
 
 Šioje dalyje rodomi naujausi ar neseniai redaguoti dizainai, todėl galima greitai tęsti darbą nuo ten, kur jis buvo sustabdytas.
+
+![Home puslapis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Home%20puslapis.avif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5OTU0MjI5LC0xOTM1MTkyMTU3LDMxMT
-YyMzI0NiwtNDEzNDY2NTAsMjExNTU1MjY1OSwtMTM0MTg3MTAx
-MiwtOTMzMzE4NjcsLTE4MjAzMjI5MDksMjYzODgzNDgsLTE1Nz
-kwMjk3MDRdfQ==
+eyJoaXN0b3J5IjpbLTE3MjA4ODk1NjAsOTM5OTU0MjI5LC0xOT
+M1MTkyMTU3LDMxMTYyMzI0NiwtNDEzNDY2NTAsMjExNTU1MjY1
+OSwtMTM0MTg3MTAxMiwtOTMzMzE4NjcsLTE4MjAzMjI5MDksMj
+YzODgzNDgsLTE1NzkwMjk3MDRdfQ==
 -->
