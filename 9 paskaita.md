@@ -40,6 +40,7 @@ Skirtingos platformos palaiko įvairius vizualinio turinio formatus, todėl svar
 Tinka produktų, žmonių, erdvių pateikimui, nuotaikos / emocijos formavimui.
  - **Karuselės (carousel).** Įrašai, kuriuose vartotojas gali slinkti kelias nuotraukas ar skaidres. Puikiai tinka istorijoms, procesams, patarimams ar kelių produktų pristatymui. Padeda išlaikyti dėmesį ilgiau, nes žmogus pats sąveikauja su turiniu.
  - **Stories** (Instagram, Facebook, TikTok). Trumpalaikiai vaizdo įrašai, nuotraukos arba maketai, kuriose galima dalintis kasdienybe, akcijomis, naujienomis ar užkulisiais. Svarbiausia čia yra autentiškumas ir natūralumas, todėl dažnai kelti maketus nerekomenduoju.
+ ![story formato pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/story_pvz.avif)
  - **Interaktyvūs formatai.** Apklausos, testai, žaidimai ar klausimų lipdukai. Skatina įsitraukimą ir padeda geriau pažinti auditoriją.
  - **Live transliacijos.** Tiesioginiai vaizdo įrašai, kurie leidžia bendrauti realiu laiku. Puikiai tinka produktų pristatymams, klausimams-atsakymams ar renginiams.
  - **Vaizdo įrašai.** Vienas stipriausių formatų dėmesio pritraukimui. Gali būti trumpi (Reels, YouTube Shorts) arba ilgesni (YouTube, Facebook). Tinka perteikti procesą, emociją, pokalbį ar pasakojimą, reklamuoti produktus.
@@ -123,5 +124,6 @@ Pavyzdžiuose esantys elementai nurodo, ką vartotojas turėtų daryti toliau, p
 
 -   Socialiniai tinklai yra vizualinio turinio centras, todėl gebėjimas kurti stiprius vizualus yra viena svarbiausių šiuolaikinio komunikacijos specialisto kompetencijų.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzODgzNDgsLTE1NzkwMjk3MDRdfQ==
+eyJoaXN0b3J5IjpbLTIxNDAyODcxMDUsMjYzODgzNDgsLTE1Nz
+kwMjk3MDRdfQ==
 -->
