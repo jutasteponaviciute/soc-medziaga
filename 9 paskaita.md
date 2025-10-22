@@ -186,6 +186,7 @@ Per šį laiką galima išbandyti visus Pro funkcionalumus, o po mėnesio nuspr�
 
 Visi mokami elementai žymimi karūnėle.
 
+![Mokamo diziano žymėjimo pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/mokamo%20diziano%20pavyzdys.avif)
 
 ## Canva mobilioji programėlė 
 
@@ -195,7 +196,7 @@ Tai itin naudinga socialinių tinklų administratoriams, kurie dažnai dirba din
 
 ![Canva mobilioji programele](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Canva%20mobili%20programele.avif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDAwODE5NSwtMTkzNTE5MjE1NywzMT
+eyJoaXN0b3J5IjpbMTg4ODc1OTE2MSwtMTkzNTE5MjE1NywzMT
 E2MjMyNDYsLTQxMzQ2NjUwLDIxMTU1NTI2NTksLTEzNDE4NzEw
 MTIsLTkzMzMxODY3LC0xODIwMzIyOTA5LDI2Mzg4MzQ4LC0xNT
 c5MDI5NzA0XX0=
