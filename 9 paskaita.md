@@ -76,6 +76,7 @@ Facebook, YouTube ir Instagram.
 
 Ryanair reklamos su humoristiniais tekstais ir netikėtomis nuotraukomis, jos priverčia sustoti, nes išsiskiria iš standartinės reklamos srauto.
 **[https://www.tiktok.com/@ryanair/video/7556286000952118550?lang=en](https://www.tiktok.com/@ryanair/video/7556286000952118550?lang=en)**
+![Ryanair pavyzdys 1](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/rynair_pavyzdys1.avif)
 
  - **Žinutės perteikimas.** Vizualas padeda akimirksniu suprasti esmę.
 Smegenys vaizdą apdoroja daug greičiau nei tekstą, todėl tinkamai sukurtas dizainas perteikia žinutę be ilgo skaitymo.
@@ -126,6 +127,6 @@ Pavyzdžiuose esantys elementai nurodo, ką vartotojas turėtų daryti toliau, p
 
 -   Socialiniai tinklai yra vizualinio turinio centras, todėl gebėjimas kurti stiprius vizualus yra viena svarbiausių šiuolaikinio komunikacijos specialisto kompetencijų.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTMwNTIyMywyNjM4ODM0OCwtMTU3OT
+eyJoaXN0b3J5IjpbMTMyMjc1NjkzNywyNjM4ODM0OCwtMTU3OT
 AyOTcwNF19
 -->
