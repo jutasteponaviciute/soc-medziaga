@@ -468,7 +468,7 @@ Taip pat galima sugeneruoti kodą arba vaizdo įrašą.
 
 Canva suteikia prieigą prie daugybės nuotraukų, iliustracijų ir grafinių elementų, tiek mokamų, tiek nemokamų.
 
-Tips and Tricks: paspaudus dešinį pelės klavišą ant nuotraukos ir pasirinkus Replace background, nuotrauka iš karto tampa šablono fonu, todėl jos dydžio keitimas nėra būtinas.
+Tips and Tricks: įsikėlus nuotrauką į diziano drobę, paspaudus dešinį pelės klavišą ant nuotraukos ir pasirinkus Replace background, nuotrauka iš karto tampa šablono fonu, todėl jos dydžio keitimas nėra būtinas.
 
 Paspaudus dešinį pelės klavišą ant nuotraukos ir pasirinkus Apply colours to page, nuotraukos spalvas, galima pritaikyti šablonui (kiekvieną kartą spaudžiant, keičiasi spalvos).
 
@@ -523,11 +523,11 @@ Skirtingi pasidalinimo būdai:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzMzIxMzcwLC0xNDI5MjU4Mjc3LDE3MD
-k1MDQxMjAsMTM4NDE4MDc3MywtOTk4MzI3MDcsLTEzMzg3ODky
-MDUsODEzNDE0NjY0LC0xMjAzMzI4NDQ1LC0xNzUwMTQ5OTQwLD
-E3NTExNTkzOTYsMTI4MTQzMzUyMiwyMDQxNzI5NzYwLDkzOTk1
-NDIyOSwtMTkzNTE5MjE1NywzMTE2MjMyNDYsLTQxMzQ2NjUwLD
-IxMTU1NTI2NTksLTEzNDE4NzEwMTIsLTkzMzMxODY3LC0xODIw
-MzIyOTA5XX0=
+eyJoaXN0b3J5IjpbMTM2Nzk1MTcxNiwtMTQyOTI1ODI3NywxNz
+A5NTA0MTIwLDEzODQxODA3NzMsLTk5ODMyNzA3LC0xMzM4Nzg5
+MjA1LDgxMzQxNDY2NCwtMTIwMzMyODQ0NSwtMTc1MDE0OTk0MC
+wxNzUxMTU5Mzk2LDEyODE0MzM1MjIsMjA0MTcyOTc2MCw5Mzk5
+NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1MC
+wyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMzMTg2NywtMTgy
+MDMyMjkwOV19
 -->
