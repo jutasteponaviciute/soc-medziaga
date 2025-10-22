@@ -461,8 +461,6 @@ Jei radote gerą šabloną ar nuotrauką, galite greitai surasti panašius eleme
 
 Taip pat galima sugeneruoti kodą arba vaizdo įrašą.
 
-### Nuotraukų pasirinkimas
-
 Canva suteikia prieigą prie daugybės nuotraukų, iliustracijų ir grafinių elementų, tiek mokamų, tiek nemokamų.
 
 Tips and Tricks: paspaudus dešinį pelės klavišą ant nuotraukos ir pasirinkus Replace background, nuotrauka iš karto tampa šablono fonu, todėl jos dydžio keitimas nėra būtinas.
@@ -472,14 +470,15 @@ Paspaudus dešinį pelės klavišą ant nuotraukos ir pasirinkus Apply colours t
 Pavyzdžiui, pasirenku šabloną iš Design skilties.
 
 Kairiu pelės klavišu pasižymiu merginos nuotrauką, tada paspaudžiu dešinį pelės klavišą ir pasirenku Apply colors to page (kiekvieną kartą spaudžiant, keičiasi spalvos, tol kol yra skirtingų kombinacijų).
+
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5MDMxNDQzLDE3MDk1MDQxMjAsMTM4ND
-E4MDc3MywtOTk4MzI3MDcsLTEzMzg3ODkyMDUsODEzNDE0NjY0
-LC0xMjAzMzI4NDQ1LC0xNzUwMTQ5OTQwLDE3NTExNTkzOTYsMT
-I4MTQzMzUyMiwyMDQxNzI5NzYwLDkzOTk1NDIyOSwtMTkzNTE5
-MjE1NywzMTE2MjMyNDYsLTQxMzQ2NjUwLDIxMTU1NTI2NTksLT
-EzNDE4NzEwMTIsLTkzMzMxODY3LC0xODIwMzIyOTA5LDI2Mzg4
-MzQ4XX0=
+eyJoaXN0b3J5IjpbLTk5NjgyMjI4MywxNzA5NTA0MTIwLDEzOD
+QxODA3NzMsLTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMzQxNDY2
+NCwtMTIwMzMyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5Mzk2LD
+EyODE0MzM1MjIsMjA0MTcyOTc2MCw5Mzk5NTQyMjksLTE5MzUx
+OTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1MCwyMTE1NTUyNjU5LC
+0xMzQxODcxMDEyLC05MzMzMTg2NywtMTgyMDMyMjkwOSwyNjM4
+ODM0OF19
 -->
