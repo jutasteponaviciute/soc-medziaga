@@ -420,16 +420,17 @@ Pakeiskite fono spalvą.
 1.  Pažymėkite dizaino foną – spustelėkite baltą dizaino plotą, kad jis būtų aktyvus.
     
 2.  Viršutiniame meniu spauskite spalvų piktogramą (spalvų ratuką).
-Pasirinkite norimą spalvą iš pasiūlytų arba įveskite savo spalvos kodą.
+Pasirinkite norimą spalvą iš pasiūlytų arba įveskite savo spalvos  kodą.
 
 3.  Arba kairėje meniu pasirinkite Background (Jei automatiškai neatsiranda, jį galima rasti tarp Apps).
 Čia galima rinktis iš įvairių fono paveikslėlių: abstrakčių, tekstūrinių ar teminių.
 Spustelėjus bet kurį iš jų, jis automatiškai pakeis dabartinį fono vaizdą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDE4MDc3MywtOTk4MzI3MDcsLTEzMz
-g3ODkyMDUsODEzNDE0NjY0LC0xMjAzMzI4NDQ1LC0xNzUwMTQ5
-OTQwLDE3NTExNTkzOTYsMTI4MTQzMzUyMiwyMDQxNzI5NzYwLD
-kzOTk1NDIyOSwtMTkzNTE5MjE1NywzMTE2MjMyNDYsLTQxMzQ2
-NjUwLDIxMTU1NTI2NTksLTEzNDE4NzEwMTIsLTkzMzMxODY3LC
-0xODIwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5MDI5NzA0XX0=
+eyJoaXN0b3J5IjpbLTIxMzIwMzY4MzksMTM4NDE4MDc3MywtOT
+k4MzI3MDcsLTEzMzg3ODkyMDUsODEzNDE0NjY0LC0xMjAzMzI4
+NDQ1LC0xNzUwMTQ5OTQwLDE3NTExNTkzOTYsMTI4MTQzMzUyMi
+wyMDQxNzI5NzYwLDkzOTk1NDIyOSwtMTkzNTE5MjE1NywzMTE2
+MjMyNDYsLTQxMzQ2NjUwLDIxMTU1NTI2NTksLTEzNDE4NzEwMT
+IsLTkzMzMxODY3LC0xODIwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5
+MDI5NzA0XX0=
 -->
