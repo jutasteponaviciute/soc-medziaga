@@ -114,11 +114,12 @@ IKEA kuria pasitikėjimą rodydama tikrą gyvenimą: natūralias situacijas, kas
 ![Ikea pavyzdys 2](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/ikea_pavyzdys2.avif)
 ![Ikea pavyzdys 3](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/ikea_pavyzdys3.avif)
 
-
+![Ikea pavyzdys 4](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/ikea_pavyzdys4.avif)
 
  - **Įsitraukimo skatinimas.** Vizualas kviečia veikti: pakomentuoti, pasidalinti, sureaguoti ar spustelėti. Tai gali būti klausimas, provokacija ar įdomus vizualinis sprendimas. 
 
 Šis Lidl Lietuva pavyzdys remiasi klausimu kaip įsitraukimo skatinimo priemone. Paprastas vizualas ir aiškus pasirinkimas A arba B padeda greitai suprasti žinutę ir paskatina vartotoją bent akimirkai sustoti ir palikti komentarą.
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/lidl_pavyzdys.avif)
 
  - **Pardavimų ir veiksmų skatinimas.** Vizualas padeda pereiti nuo susidomėjimo prie veiksmo – pirkimo, rezervacijos ar paspaudimo ant nuorodos.
 
@@ -144,7 +145,7 @@ Pavyzdžiuose esantys elementai nurodo, ką vartotojas turėtų daryti toliau, p
 
 -   Socialiniai tinklai yra vizualinio turinio centras, todėl gebėjimas kurti stiprius vizualus yra viena svarbiausių šiuolaikinio komunikacijos specialisto kompetencijų.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTU0MzAxMTQsLTEzNDE4NzEwMTIsLT
-kzMzMxODY3LC0xODIwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5MDI5
-NzA0XX0=
+eyJoaXN0b3J5IjpbNzQ0MDM3MDM0LC0xMzQxODcxMDEyLC05Mz
+MzMTg2NywtMTgyMDMyMjkwOSwyNjM4ODM0OCwtMTU3OTAyOTcw
+NF19
 -->
