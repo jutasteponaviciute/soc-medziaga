@@ -172,12 +172,12 @@ Pavyzdžiai:
 
 ## Pagrindiniai Canva planų skirtumai (2025 m. spalis)
 
-|  **Funkcijos/ planai**|  |
+|  Funkcijos/ planai| Canva Free | Canva Pro | Canva Teams | Canva for Nonprofits |
 |--|--|
 |  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyMzIwNjY2LC00MTM0NjY1MCwyMTE1NT
-UyNjU5LC0xMzQxODcxMDEyLC05MzMzMTg2NywtMTgyMDMyMjkw
-OSwyNjM4ODM0OCwtMTU3OTAyOTcwNF19
+eyJoaXN0b3J5IjpbMTEzMzI5MzQ3MCwtNDEzNDY2NTAsMjExNT
+U1MjY1OSwtMTM0MTg3MTAxMiwtOTMzMzE4NjcsLTE4MjAzMjI5
+MDksMjYzODgzNDgsLTE1NzkwMjk3MDRdfQ==
 -->
