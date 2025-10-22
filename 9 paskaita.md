@@ -188,11 +188,11 @@ Visi mokami elementai žymimi karūnėle.
 
 ## Canva mobilioji programėlė 
 
-Canva turi ir mobiliąją programėlę, todėl dizainus galima kurti bet kur ir bet kada. Ji suteikia galimybę redaguoti turinį tiesiai iš telefono. Patogu, kai reikia greitai pataisyti tekstą, pakeisti nuotrauką ar įkelti įrašą į socialinius tinklus. Programėlėje galima naudoti beveik visas pagrindines funkcijas: kurti dizainus nuo nulio, rinktis šablonus, redaguoti elementus, keisti spalvas ir šriftus.  
+Canva turi ir mobiliąją programėlę, todėl dizainus galima kurti bet kur ir bet kada. Ji suteikia galimybę redaguoti turinį tiesiai iš telefono. Patogu, kai reikia greitai pataisyti tekstą, pakeisti nuotrauką ar įkelti įrašą į socialinius tinklus. Programėlėje galima naudoti beveik visas pagrindines funkcijas: kurti dizainus nuo nulio, rinktis šablonus, redaguoti elementus, keisti spalvas ir šriftus.
 
 Tai itin naudinga socialinių tinklų administratoriams, kurie dažnai dirba dinamiškai, pavyzdžiui, renginių metu ar kelionėje. Be to, projektai automatiškai sinchronizuojami su kompiuterio versija, todėl pradėjus darbą telefone galima lengvai tęsti jį kompiuteryje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTMwMjc1NSwzMTE2MjMyNDYsLTQxMz
-Q2NjUwLDIxMTU1NTI2NTksLTEzNDE4NzEwMTIsLTkzMzMxODY3
-LC0xODIwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5MDI5NzA0XX0=
+eyJoaXN0b3J5IjpbLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC00MT
+M0NjY1MCwyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMzMTg2
+NywtMTgyMDMyMjkwOSwyNjM4ODM0OCwtMTU3OTAyOTcwNF19
 -->
