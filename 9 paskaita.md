@@ -380,8 +380,8 @@ Viewing– tik peržiūros režimas.
 14.  **Brand** – prekės ženklo paletė, logotipai, šriftai (Pro naudotojams).    
 15.  **Uploads** – vieta, kur įkeliamos savo nuotraukos, vaizdo įrašai, garso failai.    
 16.  **Tools** – papildomi įrankiai, pvz., pieštukas, trintukas, lipnūs lapeliai ir kt.
-17.  **Projects** – visi tavo projektai vienoje vietoje.    
-18.  **Apps** – programėlės ir integracijos (Instagram, Google Drive, Pexels ir kt.).    
+17.  **Projects** – visi projektai, dizianai, aplankalai ir paveikslėliai. 
+18.  **Apps** – programėlės ir integracijos (Google Drive, Mockups ir kt.).    
 19.  **Asistentas (Magic Assistant)** – Canva AI pagalbininkas, padedantis sukurti tekstus, idėjas ar dizainus.  
 20. 
 ### Apatinė juosta
@@ -406,7 +406,7 @@ Viewing– tik peržiūros režimas.
 ![dizaino kūrimo langas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Dizaino%20langas.avif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzI3ODUwNiwtMTIwMzMyODQ0NSwtMT
+eyJoaXN0b3J5IjpbMTE2MzI0NzUyMiwtMTIwMzMyODQ0NSwtMT
 c1MDE0OTk0MCwxNzUxMTU5Mzk2LDEyODE0MzM1MjIsMjA0MTcy
 OTc2MCw5Mzk5NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC
 00MTM0NjY1MCwyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMz
