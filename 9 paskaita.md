@@ -390,7 +390,7 @@ Viewing– tik peržiūros režimas.
 21.  **Duration** – animacijos ar video trukmės nustatymas.    
 22.  **Timer** – laikmatis pristatymams ar įrašams.    
 23.  **Zoom valdymas** – leidžia didinti arba mažinti dizaino vaizdą, taip pat ir rodo dabartinį priartinimo lygį (pvz., 33%).    
-24.  **Pages** – perėjimas tarp puslapių ar skaidrių.    
+24.  **Pages** – puslapių rodymo pasirinkimas.    
 26.  **Puslapių skaičius** – kiek puslapių turi dizainas (pvz., 1/1).    
 27.  **Grid view** – rodo visus puslapius miniatiūrų režimu.    
 28.  **Full screen (viso ekrano režimas)** – išplečia dizaino vaizdą į visą ekraną.    
@@ -403,10 +403,10 @@ Viewing– tik peržiūros režimas.
 32.  **Liniuotės (rulers)** – padeda tiksliai išdėstyti elementus dizaino erdvėje.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTEwMTA4MiwtMTIwMzMyODQ0NSwtMT
-c1MDE0OTk0MCwxNzUxMTU5Mzk2LDEyODE0MzM1MjIsMjA0MTcy
-OTc2MCw5Mzk5NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC
-00MTM0NjY1MCwyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMz
-MTg2NywtMTgyMDMyMjkwOSwyNjM4ODM0OCwtMTU3OTAyOTcwNF
-19
+eyJoaXN0b3J5IjpbLTEyMjk5NjQ3MzcsLTEyMDMzMjg0NDUsLT
+E3NTAxNDk5NDAsMTc1MTE1OTM5NiwxMjgxNDMzNTIyLDIwNDE3
+Mjk3NjAsOTM5OTU0MjI5LC0xOTM1MTkyMTU3LDMxMTYyMzI0Ni
+wtNDEzNDY2NTAsMjExNTU1MjY1OSwtMTM0MTg3MTAxMiwtOTMz
+MzE4NjcsLTE4MjAzMjI5MDksMjYzODgzNDgsLTE1NzkwMjk3MD
+RdfQ==
 -->
