@@ -107,19 +107,21 @@ Pavyzdžiuose esantys elementai nurodo, ką vartotojas turėtų daryti toliau, p
 
  - Vidutiniškai žmogus socialiniuose tinkluose nusprendžia, ar likti ties turinio vienetu, per 1-3 sekundes.
  
+ - Vaizdą smegenys apdoroja tūkstančius kartų greičiau nei tekstas, todėl vizualai lemia pirmą įspūdį.
+ 
 -   Dėmesys tapo viena brangiausių šiuolaikinės komunikacijos valiutų, be jo net geriausia žinutė neveikia.
 
--   Gera vizualinė komunikacija padeda laimėti šį mūšį, nes leidžia būti pastebėtiems, suprastiems ir įsimintiems.
-
--   Vaizdą smegenys apdoroja tūkstančius kartų greičiau nei tekstas, todėl vizualai lemia pirmą įspūdį.
+-   Gera vizualinė komunikacija padeda laimėti mūšį dėl dėmesio, nes leidžia būti pastebėtiems, suprastiems ir įsimintiems.
 
 -   Svarbiausia ne tik pritraukti, bet ir išlaikyti dėmesį, čia padeda nuoseklumas, aiškumas ir emocinis ryšys.
 
 -   Vientisas stilius (spalvos, šriftai, nuotraukų stilistika, grafiniai elementai, tonas) kuria atpažįstamumą ir stiprina prekės ženklo įvaizdį.
 
 -   Geras vizualas yra ne dekoras, o komunikacijos įrankis, kuris perduoda esmę.
+
 -   Didieji prekių ženklai (pvz. Telia, Dove, Vinted) dėmesį išlaiko ne per ryškius triukus, o per nuoseklų, aiškų ir autentišką vizualinį stilių.
+
 -   Socialiniai tinklai yra vizualinio turinio centras, todėl gebėjimas kurti stiprius vizualus yra viena svarbiausių šiuolaikinio komunikacijos specialisto kompetencijų.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTU1Nzg5OSwtMTU3OTAyOTcwNF19
+eyJoaXN0b3J5IjpbMjYzODgzNDgsLTE1NzkwMjk3MDRdfQ==
 -->
