@@ -298,9 +298,11 @@ Tai padeda greitai pradėti darbą su konkretaus tipo dizainu.
 **3.  Mygtukas Add new**    
 
 Šis mygtukas leidžia sukurti naują prekės ženklo rinkinį (Brand Kit). Tai naudinga, jei valdoma keli skirtingi projektai, verslai ar klientų prekės ženklai.
+
+![Brand puslapis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Brand%20puslapis.avif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2Mjc0MTg1LDIwNDE3Mjk3NjAsOTM5OT
-U0MjI5LC0xOTM1MTkyMTU3LDMxMTYyMzI0NiwtNDEzNDY2NTAs
-MjExNTU1MjY1OSwtMTM0MTg3MTAxMiwtOTMzMzE4NjcsLTE4Mj
-AzMjI5MDksMjYzODgzNDgsLTE1NzkwMjk3MDRdfQ==
+eyJoaXN0b3J5IjpbLTE2OTIxMDMwMzgsMjA0MTcyOTc2MCw5Mz
+k5NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1
+MCwyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMzMTg2NywtMT
+gyMDMyMjkwOSwyNjM4ODM0OCwtMTU3OTAyOTcwNF19
 -->
