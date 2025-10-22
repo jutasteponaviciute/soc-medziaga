@@ -171,10 +171,25 @@ Pavyzdžiai:
 -   ir kt.
 
 ## Pagrindiniai Canva planų skirtumai (2025 m. spalis)
+![Canva planų palyginimas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Canva%20planu%20palyginimas.avif)
 
+**Canva for Nonprofits (ne pelno siekiančioms organizacijoms)** 
 
+Nemokama Pro versija ne pelno siekiančioms organizacijoms, kurios atitinka Canva reikalavimus. Suteikia galimybę naudotis visais Pro plano įrankiais be prenumeratos mokesčio. Skirta stiprinti komunikaciją ir padėti kurti vizualus socialiniams projektams.
+
+Free Trial
+
+  
+
+Tiek Canva Pro, tiek Canva Teams suteikia 30 dienų nemokamą bandomąjį laikotarpį.
+
+Per šį laiką galima išbandyti visus Pro funkcionalumus, o po mėnesio nuspręsti, ar verta tęsti prenumeratą.
+
+  
+
+Visi mokami elementai žymimi karūnėle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExNjIzMjQ2LC00MTM0NjY1MCwyMTE1NT
-UyNjU5LC0xMzQxODcxMDEyLC05MzMzMTg2NywtMTgyMDMyMjkw
-OSwyNjM4ODM0OCwtMTU3OTAyOTcwNF19
+eyJoaXN0b3J5IjpbMTIzODgyMjA4NCwzMTE2MjMyNDYsLTQxMz
+Q2NjUwLDIxMTU1NTI2NTksLTEzNDE4NzEwMTIsLTkzMzMxODY3
+LC0xODIwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5MDI5NzA0XX0=
 -->
