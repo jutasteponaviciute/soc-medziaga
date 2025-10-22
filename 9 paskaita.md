@@ -247,10 +247,11 @@ Leidžia greitai rasti konkrečius projektus pagal pavadinimą ar raktinius žod
 **4. Projektų erdvė (Workspace)**    
 
 Tai pagrindinė darbo zona, kurioje rodomi visi sukurti ar bendrinami projektai. Iš čia galima pradėti naują darbą, pasirinkus Create design arba sukurti naują aplanką (Create folder) dizainų organizavimui.
-[p]
+
+[paveikslėlis]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5NzYyMjcyLDkzOTk1NDIyOSwtMTkzNT
-E5MjE1NywzMTE2MjMyNDYsLTQxMzQ2NjUwLDIxMTU1NTI2NTks
-LTEzNDE4NzEwMTIsLTkzMzMxODY3LC0xODIwMzIyOTA5LDI2Mz
-g4MzQ4LC0xNTc5MDI5NzA0XX0=
+eyJoaXN0b3J5IjpbLTIwOTY0OTM3MTAsOTM5OTU0MjI5LC0xOT
+M1MTkyMTU3LDMxMTYyMzI0NiwtNDEzNDY2NTAsMjExNTU1MjY1
+OSwtMTM0MTg3MTAxMiwtOTMzMzE4NjcsLTE4MjAzMjI5MDksMj
+YzODgzNDgsLTE1NzkwMjk3MDRdfQ==
 -->
