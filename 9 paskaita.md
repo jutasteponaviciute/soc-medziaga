@@ -53,7 +53,7 @@ Edukacijos/pokalbio pavyzdys: [https://www.instagram.com/reel/DI0uUsppHMx/](http
  - **Animacijos ir GIF’ai.** Trumpi judantys vizualai, kurie pritraukia akį judesiu. Puikiai tinka akcentuoti veiksmą, pasiūlymą ar emociją.
 https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNybXdyMTFveG4yZWNnYWFhbHR0YWJsenpwd2V6cTJma2o0N2duZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3GSoFVODOkiPBFArlu/giphy.gif 
  - **Memai ir iliustracijos.** Lengvai įsimenamas ir emocingas turinys. Naudojamas žaismingam, artimam tonui kurti, bet svarbu, kad atitiktų prekės ženklo stilių.
- ![meme pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/memas.avif)![Iliustracijos pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/iliustracijos_pavyzdys.avif)
+  ![meme pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/memas.avif)![Iliustracijos pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/iliustracijos_pavyzdys.avif)
  - **Infografikai.** Informaciją perteikiantys vizualai: grafikai, diagramos, struktūros.
 Padeda greitai suprasti sudėtingus dalykus, ypač edukaciniame turinyje.
 
@@ -147,7 +147,7 @@ Pavyzdžiuose esantys elementai nurodo, ką vartotojas turėtų daryti toliau, p
 
 -   Socialiniai tinklai yra vizualinio turinio centras, todėl gebėjimas kurti stiprius vizualus yra viena svarbiausių šiuolaikinio komunikacijos specialisto kompetencijų.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExNzY0NDAxLC0xMzQxODcxMDEyLC05Mz
-MzMTg2NywtMTgyMDMyMjkwOSwyNjM4ODM0OCwtMTU3OTAyOTcw
-NF19
+eyJoaXN0b3J5IjpbMjExNTU1MjY1OSwtMTM0MTg3MTAxMiwtOT
+MzMzE4NjcsLTE4MjAzMjI5MDksMjYzODgzNDgsLTE1NzkwMjk3
+MDRdfQ==
 -->
