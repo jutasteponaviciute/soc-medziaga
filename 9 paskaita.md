@@ -506,16 +506,23 @@ GIF (animacijoms);
 SVG (Vektorinis failas - naudingas didelės raiškos iliustracijoms, spausdinimui, nes nepraranda kokybės).
 PPTX - Microsoft PowerPont dokumentas
 
+### Savo vizualiniu turiniu galite dalintis su draugas ar kolegomis
+
+Skirtingi pasidalinimo būdai:    
+-   leidžiama tik peržiūrėti;    
+-   leidžiama tik komentuoti;    
+-   leidžiama redaguoti.
+
 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMTU5MTg2NSwxNzA5NTA0MTIwLDEzOD
-QxODA3NzMsLTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMzQxNDY2
-NCwtMTIwMzMyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5Mzk2LD
-EyODE0MzM1MjIsMjA0MTcyOTc2MCw5Mzk5NTQyMjksLTE5MzUx
-OTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1MCwyMTE1NTUyNjU5LC
-0xMzQxODcxMDEyLC05MzMzMTg2NywtMTgyMDMyMjkwOSwyNjM4
-ODM0OF19
+eyJoaXN0b3J5IjpbLTE0MjkyNTgyNzcsMTcwOTUwNDEyMCwxMz
+g0MTgwNzczLC05OTgzMjcwNywtMTMzODc4OTIwNSw4MTM0MTQ2
+NjQsLTEyMDMzMjg0NDUsLTE3NTAxNDk5NDAsMTc1MTE1OTM5Ni
+wxMjgxNDMzNTIyLDIwNDE3Mjk3NjAsOTM5OTU0MjI5LC0xOTM1
+MTkyMTU3LDMxMTYyMzI0NiwtNDEzNDY2NTAsMjExNTU1MjY1OS
+wtMTM0MTg3MTAxMiwtOTMzMzE4NjcsLTE4MjAzMjI5MDksMjYz
+ODgzNDhdfQ==
 -->
