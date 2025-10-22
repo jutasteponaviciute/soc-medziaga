@@ -84,6 +84,7 @@ Ryanair reklamos su humoristiniais tekstais ir netikėtomis nuotraukomis, jos pr
 ![Ryanair pavyzdys 1](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/rynair_pavyzdys1.avif)
 ![Ryanair pavyzdys 2](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/ryanair_pavyzdys2.avif)
 
+
  - **Žinutės perteikimas.** Vizualas padeda akimirksniu suprasti esmę.
 Smegenys vaizdą apdoroja daug greičiau nei tekstą, todėl tinkamai sukurtas dizainas perteikia žinutę be ilgo skaitymo.
 
@@ -133,6 +134,6 @@ Pavyzdžiuose esantys elementai nurodo, ką vartotojas turėtų daryti toliau, p
 
 -   Socialiniai tinklai yra vizualinio turinio centras, todėl gebėjimas kurti stiprius vizualus yra viena svarbiausių šiuolaikinio komunikacijos specialisto kompetencijų.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MzYxMjE1MCwtOTMzMzE4NjcsLTE4Mj
-AzMjI5MDksMjYzODgzNDgsLTE1NzkwMjk3MDRdfQ==
+eyJoaXN0b3J5IjpbLTEzNDE4NzEwMTIsLTkzMzMxODY3LC0xOD
+IwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5MDI5NzA0XX0=
 -->
