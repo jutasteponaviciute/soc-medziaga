@@ -173,11 +173,11 @@ Pavyzdžiai:
 ## Pagrindiniai Canva planų skirtumai (2025 m. spalis)
 
 |  Funkcijos/ planai| Canva Free | Canva Pro | Canva Teams | Canva for Nonprofits |
-|--|--|
-|  |  |
+|Kaina|**0 € / mėn**|
+| Kam skirta? |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzI5MzQ3MCwtNDEzNDY2NTAsMjExNT
+eyJoaXN0b3J5IjpbMTcxNDExNDM1OSwtNDEzNDY2NTAsMjExNT
 U1MjY1OSwtMTM0MTg3MTAxMiwtOTMzMzE4NjcsLTE4MjAzMjI5
 MDksMjYzODgzNDgsLTE1NzkwMjk3MDRdfQ==
 -->
