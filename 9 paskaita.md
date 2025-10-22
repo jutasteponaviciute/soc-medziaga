@@ -284,9 +284,23 @@ Tai padeda greitai pradėti darbą su konkretaus tipo dizainu.
 ![template puslapis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Templates%20puslapis.avif)
 
 ### Brand puslapis
+
+**1.  Šoninis meniu (Brand skiltis)**   
+
+-   Brand Kits – vieta, kur galima sukurti ir išsaugoti savo prekės ženklo spalvas, šriftus, logotipus bei kitus vizualinius elementus.    
+-   Brand Templates – leidžia išsaugoti šablonus, kad visa komanda galėtų naudoti vieningus dizainus.    
+-   Brand Controls – funkcija, skirta valdyti prekės ženklo taisykles (pasiekiama Pro ir Teams planuose).    
+
+**2.  Sukurti ar peržiūrėti esamą Brand Kit**   
+
+Čia rodomas jau sukurtas prekės ženklo rinkinys. Jame galima keisti ar papildyti spalvas, šriftus, logotipus bei įkelti kitus vizualinius elementus, kurie apibrėžia prekės ženklą.
+
+**3.  Mygtukas Add new**    
+
+Šis mygtukas leidžia sukurti naują prekės ženklo rinkinį (Brand Kit). Tai naudinga, jei valdoma keli skirtingi projektai, verslai ar klientų prekės ženklai.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzU0Nzk0ODgsMjA0MTcyOTc2MCw5Mz
-k5NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1
-MCwyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMzMTg2NywtMT
-gyMDMyMjkwOSwyNjM4ODM0OCwtMTU3OTAyOTcwNF19
+eyJoaXN0b3J5IjpbNDE2Mjc0MTg1LDIwNDE3Mjk3NjAsOTM5OT
+U0MjI5LC0xOTM1MTkyMTU3LDMxMTYyMzI0NiwtNDEzNDY2NTAs
+MjExNTU1MjY1OSwtMTM0MTg3MTAxMiwtOTMzMzE4NjcsLTE4Mj
+AzMjI5MDksMjYzODgzNDgsLTE1NzkwMjk3MDRdfQ==
 -->
