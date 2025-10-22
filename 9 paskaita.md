@@ -322,40 +322,29 @@ Kairiajame meniu (Navigation bar) Paspaudus tritaškį atsiranda dar trys pasiū
 
 ### Apps puslapis
 
-1.  Kairysis meniu (Programėlių kategorijos)   
+**1.  Kairysis meniu (Programėlių kategorijos)**   
 
 Šioje vietoje rodomos programėlių kategorijos.
 
-  
-
-2.  Rekomenduojamos programėlės
-    
+**2.  Rekomenduojamos programėlės**   
 
 Apatinėje meniu dalyje rodomos dažniausiai naudojamos arba Canvos siūlomos programėlės:
+-   Content Planner (turinio planavimas),    
+-   Product Photos (produktų nuotraukų kūrimas),    
+-   Mockups (produktų maketų kūrimas).  
 
--   Content Planner (turinio planavimas),
-    
--   Product Photos (produktų nuotraukų kūrimas),
-    
--   Mockups (produktų maketų kūrimas).
-    
+**3.  Paieškos ir filtravimo juosta**   
 
-  
+Viršuje galima ieškoti konkrečios programėlės arba filtruoti pagal funkciją (pvz., AI generation, Photo editing). Tai padeda greičiau rasti tinkamą įrankį pagal poreikius.  
 
-3.  Paieškos ir filtravimo juosta
-    
-
-Viršuje galima ieškoti konkrečios programėlės arba filtruoti pagal funkciją (pvz., AI generation, Photo editing). Tai padeda greičiau rasti tinkamą įrankį pagal poreikius.
-
-  
-
-4.  Siūlomos programėlės
-    
+**4.  Siūlomos programėlės**   
 
 Šioje dalyje matomos Canvos rekomendacijos, programėlės, kurios gali būti naudingos pagal jūsų veiklą. Čia dažnai pateikiamos integracijos su išorinėmis platformomis, tokiomis kaip Google Drive, Dropbox ar kt.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDU2MDc2NywyMDQxNzI5NzYwLDkzOT
-k1NDIyOSwtMTkzNTE5MjE1NywzMTE2MjMyNDYsLTQxMzQ2NjUw
-LDIxMTU1NTI2NTksLTEzNDE4NzEwMTIsLTkzMzMxODY3LC0xOD
-IwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5MDI5NzA0XX0=
+eyJoaXN0b3J5IjpbLTE1NzM0OTg4ODMsMjA0MTcyOTc2MCw5Mz
+k5NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1
+MCwyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMzMTg2NywtMT
+gyMDMyMjkwOSwyNjM4ODM0OCwtMTU3OTAyOTcwNF19
 -->
