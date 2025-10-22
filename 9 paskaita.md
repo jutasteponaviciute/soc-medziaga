@@ -430,22 +430,22 @@ Spustelėjus bet kurį iš jų, jis automatiškai pakeis dabartinį fono vaizdą
 Įkėlus nuotrauką, Canva parodo nuotraukos spalvų paletę.
 ![spalvu palete is nuotraukos](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/nuotraukoje%20esancios%20spalvos.avif)
 Spaudžiame Elements ir čia pradedame paiešką.
-
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/paieska.avif)
 ### Paieška 
 
--   Paieška pagal raktinius žodžius   
+**-   Paieška pagal raktinius žodžius**   
 
 Canvoje galite įvesti bet kokį raktinį žodį (pvz.: flowers, travel, business) ir sistema iškart pasiūlys susijusius šablonus, nuotraukas, iliustracijas ir kitus elementus;  
 
--   Tikslios frazės paieška:   
+**-   Tikslios frazės paieška**   
 
 Pavyzdžiui, jei ieškote Red flowers, įrašius šią frazę, paieškos rezultatai bus tik su raudonomis gėlėmis.  
 
--   Filtravimas pagal kategorijas:   
+**-   Filtravimas pagal kategorijas**
 
 Paieškos rezultatus galima susiaurinti pagal kategorijas, tokias kaip nuotraukos, formos, vaizdo įrašai, grafikos elementai, rėmeliai ir kt.  
 
--   Tips and Tricks: panašūs dizaino elementai:   
+**Tips and Tricks: panašūs dizaino elementai**   
 
 Jei radote gerą šabloną ar nuotrauką, galite greitai surasti panašius elementus paspaudę See more like this. Tai labai patogu, kai norite rasti daugiau variantų, kurie atitinka jūsų dizaino temą.
 
@@ -518,11 +518,11 @@ Skirtingi pasidalinimo būdai:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzgwNDMyOSwtMTQyOTI1ODI3NywxNz
-A5NTA0MTIwLDEzODQxODA3NzMsLTk5ODMyNzA3LC0xMzM4Nzg5
-MjA1LDgxMzQxNDY2NCwtMTIwMzMyODQ0NSwtMTc1MDE0OTk0MC
-wxNzUxMTU5Mzk2LDEyODE0MzM1MjIsMjA0MTcyOTc2MCw5Mzk5
-NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1MC
-wyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMzMTg2NywtMTgy
-MDMyMjkwOV19
+eyJoaXN0b3J5IjpbMTU0NzE0ODI1LC0xNDI5MjU4Mjc3LDE3MD
+k1MDQxMjAsMTM4NDE4MDc3MywtOTk4MzI3MDcsLTEzMzg3ODky
+MDUsODEzNDE0NjY0LC0xMjAzMzI4NDQ1LC0xNzUwMTQ5OTQwLD
+E3NTExNTkzOTYsMTI4MTQzMzUyMiwyMDQxNzI5NzYwLDkzOTk1
+NDIyOSwtMTkzNTE5MjE1NywzMTE2MjMyNDYsLTQxMzQ2NjUwLD
+IxMTU1NTI2NTksLTEzNDE4NzEwMTIsLTkzMzMxODY3LC0xODIw
+MzIyOTA5XX0=
 -->
