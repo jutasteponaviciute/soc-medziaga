@@ -427,12 +427,33 @@ Pasirinkite norimą spalvą iš pasiūlytų arba įveskite savo spalvos HEX kod�
 Spustelėjus bet kurį iš jų, jis automatiškai pakeis dabartinį fono vaizdą.
 ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/fono%20parinkimas.avif)
 ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/spalvos%20parinkimas.avif)
+Įkėlus nuotrauką, Canva parodo nuotraukoje esančias spalvas.
+
+Spaudžiame Elements ir čia pradedame paiešką.
+
+### Paieška 
+
+-   Paieška pagal raktinius žodžius   
+
+Canvoje galite įvesti bet kokį raktinį žodį (pvz.: flowers, travel, business) ir sistema iškart pasiūlys susijusius šablonus, nuotraukas, iliustracijas ir kitus elementus;  
+
+-   Tikslios frazės paieška:   
+
+Pavyzdžiui, jei ieškote Red flowers, įrašius šią frazę, paieškos rezultatai bus tik su raudonomis gėlėmis.  
+
+-   Filtravimas pagal kategorijas:   
+
+Paieškos rezultatus galima susiaurinti pagal kategorijas, tokias kaip nuotraukos, formos, vaizdo įrašai, grafikos elementai, rėmeliai ir kt.  
+
+-   Tips and Tricks: panašūs dizaino elementai:   
+
+Jei radote gerą šabloną ar nuotrauką, galite greitai surasti panašius elementus paspaudę See more like this. Tai labai patogu, kai norite rasti daugiau variantų, kurie atitinka jūsų dizaino temą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTUwNDEyMCwxMzg0MTgwNzczLC05OT
-gzMjcwNywtMTMzODc4OTIwNSw4MTM0MTQ2NjQsLTEyMDMzMjg0
-NDUsLTE3NTAxNDk5NDAsMTc1MTE1OTM5NiwxMjgxNDMzNTIyLD
-IwNDE3Mjk3NjAsOTM5OTU0MjI5LC0xOTM1MTkyMTU3LDMxMTYy
-MzI0NiwtNDEzNDY2NTAsMjExNTU1MjY1OSwtMTM0MTg3MTAxMi
-wtOTMzMzE4NjcsLTE4MjAzMjI5MDksMjYzODgzNDgsLTE1Nzkw
-Mjk3MDRdfQ==
+eyJoaXN0b3J5IjpbLTE5OTY4NDg5OSwxNzA5NTA0MTIwLDEzOD
+QxODA3NzMsLTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMzQxNDY2
+NCwtMTIwMzMyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5Mzk2LD
+EyODE0MzM1MjIsMjA0MTcyOTc2MCw5Mzk5NTQyMjksLTE5MzUx
+OTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1MCwyMTE1NTUyNjU5LC
+0xMzQxODcxMDEyLC05MzMzMTg2NywtMTgyMDMyMjkwOSwyNjM4
+ODM0OF19
 -->
