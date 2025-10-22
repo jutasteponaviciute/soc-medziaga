@@ -352,11 +352,13 @@ Viršuje galima ieškoti konkrečios programėlės arba filtruoti pagal funkcij�
 
 Canva Design School yra puikus šaltinis tiek pradedantiesiems, tiek pažengusiems, norintiems tobulinti dizaino įgūdžius ir išmokti efektyviai naudotis Canva įrankiais.
 
+![Canva Design School](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Canva%20Design%20School%20puslapis.avif)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDQ3OTAwOSwxMjgxNDMzNTIyLDIwND
-E3Mjk3NjAsOTM5OTU0MjI5LC0xOTM1MTkyMTU3LDMxMTYyMzI0
-NiwtNDEzNDY2NTAsMjExNTU1MjY1OSwtMTM0MTg3MTAxMiwtOT
-MzMzE4NjcsLTE4MjAzMjI5MDksMjYzODgzNDgsLTE1NzkwMjk3
-MDRdfQ==
+eyJoaXN0b3J5IjpbLTEzMTQxODQyNzcsMTI4MTQzMzUyMiwyMD
+QxNzI5NzYwLDkzOTk1NDIyOSwtMTkzNTE5MjE1NywzMTE2MjMy
+NDYsLTQxMzQ2NjUwLDIxMTU1NTI2NTksLTEzNDE4NzEwMTIsLT
+kzMzMxODY3LC0xODIwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5MDI5
+NzA0XX0=
 -->
