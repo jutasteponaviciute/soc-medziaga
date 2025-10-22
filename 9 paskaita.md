@@ -103,6 +103,7 @@ Taip pat buvo atnaujinta iniciatyva Real Beauty Pledge (naujieji pažadai), nuo 
 Kampanijos tikslas: parodyti, kad grožio samprata kinta su technologijomis, ir kad reikia sąmoningai formuoti reprezentacijas, kurios būtų tikros, o ne idealizuotos.
 **[https://www.youtube.com/watch?v=sD-R2OzcleQ](https://www.youtube.com/watch?v=sD-R2OzcleQ)**
 
+
  - **Atpažįstamumo formavimas.** Kai vizualai nuoseklūs (spalvos, šriftai, stilius), auditorija ima atpažinti turinį dar prieš pamatydama logotipą. 
 
 IKEA kuria pasitikėjimą rodydama tikrą gyvenimą: natūralias situacijas, kasdienybę ir nuoširdžias emocijas. Skirtingose kampanijose išlaikomas tas pats šiltas apšvietimas, realistiški interjerai ir vientisa spalvų paletė. Šis nuoseklumas leidžia iš karto atpažinti prekės ženklą ir stiprina pasitikėjimą juo.
@@ -136,7 +137,7 @@ Pavyzdžiuose esantys elementai nurodo, ką vartotojas turėtų daryti toliau, p
 
 -   Socialiniai tinklai yra vizualinio turinio centras, todėl gebėjimas kurti stiprius vizualus yra viena svarbiausių šiuolaikinio komunikacijos specialisto kompetencijų.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTA1MzM4NywtMTM0MTg3MTAxMiwtOT
+eyJoaXN0b3J5IjpbMTYyMjk2MTc4NSwtMTM0MTg3MTAxMiwtOT
 MzMzE4NjcsLTE4MjAzMjI5MDksMjYzODgzNDgsLTE1NzkwMjk3
 MDRdfQ==
 -->
