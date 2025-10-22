@@ -358,7 +358,7 @@ Canva Design School yra puikus šaltinis tiek pradedantiesiems, tiek pažengusie
 
 ### Viršutinė įrankių juosta
 
-1.  **File** – projekto nustatymai: pervadinti, įkelti failus, 
+1.  **File** – projekto nustatymai: pervadinti, įkelti failus, įjungti / išjungti liniuotę, paraštes, tinkleliį
 2.  **Resize** – leidžia keisti dizaino matmenis ar konvertuoti į kitą formatą (pvz., iš Instagram įrašas → plakatas).    
 3.  **Editing** – pasirinkimas tarp trijų darbo režimų:    
 Editing – galima redaguoti dizainą.        
@@ -406,10 +406,10 @@ Viewing_ – tik peržiūros režimas.
 ![dizaino kūrimo langas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Dizaino%20langas.avif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1NDgwMTcsLTEyMDMzMjg0NDUsLTE3NT
-AxNDk5NDAsMTc1MTE1OTM5NiwxMjgxNDMzNTIyLDIwNDE3Mjk3
-NjAsOTM5OTU0MjI5LC0xOTM1MTkyMTU3LDMxMTYyMzI0NiwtND
-EzNDY2NTAsMjExNTU1MjY1OSwtMTM0MTg3MTAxMiwtOTMzMzE4
-NjcsLTE4MjAzMjI5MDksMjYzODgzNDgsLTE1NzkwMjk3MDRdfQ
-==
+eyJoaXN0b3J5IjpbLTEwMzI3MzkwMjQsLTEyMDMzMjg0NDUsLT
+E3NTAxNDk5NDAsMTc1MTE1OTM5NiwxMjgxNDMzNTIyLDIwNDE3
+Mjk3NjAsOTM5OTU0MjI5LC0xOTM1MTkyMTU3LDMxMTYyMzI0Ni
+wtNDEzNDY2NTAsMjExNTU1MjY1OSwtMTM0MTg3MTAxMiwtOTMz
+MzE4NjcsLTE4MjAzMjI5MDksMjYzODgzNDgsLTE1NzkwMjk3MD
+RdfQ==
 -->
