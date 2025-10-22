@@ -415,11 +415,23 @@ Viewing– tik peržiūros režimas.
 
 ![Canva diziano langas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Dizaino%20langas.avif)
 
+Pakeiskite fono spalvą. 
+
+1.  Pažymėkite dizaino foną – spustelėkite baltą dizaino plotą, kad jis būtų aktyvus.
+    
+2.  Viršutiniame meniu spauskite spalvų piktogramą (spalvų ratuką).
+Pasirinkite norimą spalvą iš pasiūlytų arba įveskite savo spalvos kodą.
+3.  Arba kairėje meniu pasirinkite Background (Jei automatiškai neatsiranda, jį galima rasti tarp Apps).
+    
+
+Čia galima rinktis iš įvairių fono paveikslėlių: abstrakčių, tekstūrinių ar teminių.
+
+Spustelėjus bet kurį iš jų, jis automatiškai pakeis dabartinį fono vaizdą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMz
-QxNDY2NCwtMTIwMzMyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5
-Mzk2LDEyODE0MzM1MjIsMjA0MTcyOTc2MCw5Mzk5NTQyMjksLT
-E5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1MCwyMTE1NTUy
-NjU5LC0xMzQxODcxMDEyLC05MzMzMTg2NywtMTgyMDMyMjkwOS
-wyNjM4ODM0OCwtMTU3OTAyOTcwNF19
+eyJoaXN0b3J5IjpbLTE2MTQwNjAyODcsLTk5ODMyNzA3LC0xMz
+M4Nzg5MjA1LDgxMzQxNDY2NCwtMTIwMzMyODQ0NSwtMTc1MDE0
+OTk0MCwxNzUxMTU5Mzk2LDEyODE0MzM1MjIsMjA0MTcyOTc2MC
+w5Mzk5NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0
+NjY1MCwyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMzMTg2Ny
+wtMTgyMDMyMjkwOSwyNjM4ODM0OCwtMTU3OTAyOTcwNF19
 -->
