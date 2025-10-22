@@ -146,8 +146,11 @@ Pavyzdžiuose esantys elementai nurodo, ką vartotojas turėtų daryti toliau, p
 -   Didieji prekių ženklai (pvz. Telia, Dove, Vinted) dėmesį išlaiko ne per ryškius triukus, o per nuoseklų, aiškų ir autentišką vizualinį stilių.
 
 -   Socialiniai tinklai yra vizualinio turinio centras, todėl gebėjimas kurti stiprius vizualus yra viena svarbiausių šiuolaikinio komunikacijos specialisto kompetencijų.
+
+# Susipažinkime su Canva!
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTU1MjY1OSwtMTM0MTg3MTAxMiwtOT
-MzMzE4NjcsLTE4MjAzMjI5MDksMjYzODgzNDgsLTE1NzkwMjk3
-MDRdfQ==
+eyJoaXN0b3J5IjpbLTIwODczODA3MDgsMjExNTU1MjY1OSwtMT
+M0MTg3MTAxMiwtOTMzMzE4NjcsLTE4MjAzMjI5MDksMjYzODgz
+NDgsLTE1NzkwMjk3MDRdfQ==
 -->
