@@ -44,6 +44,7 @@ Tinka produktų, žmonių, erdvių pateikimui, nuotaikos / emocijos formavimui.
  - **Stories** (Instagram, Facebook, TikTok). Trumpalaikiai vaizdo įrašai, nuotraukos arba maketai, kuriose galima dalintis kasdienybe, akcijomis, naujienomis ar užkulisiais. Svarbiausia čia yra autentiškumas ir natūralumas, todėl dažnai kelti maketus nerekomenduoju.
  ![story formato pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/story_pvz.avif)
  - **Interaktyvūs formatai.** Apklausos, testai, žaidimai ar klausimų lipdukai. Skatina įsitraukimą ir padeda geriau pažinti auditoriją.
+ ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/interaktyvaus_formato_pavyzdys1.avif)
  - **Live transliacijos.** Tiesioginiai vaizdo įrašai, kurie leidžia bendrauti realiu laiku. Puikiai tinka produktų pristatymams, klausimams-atsakymams ar renginiams.
  - **Vaizdo įrašai.** Vienas stipriausių formatų dėmesio pritraukimui. Gali būti trumpi (Reels, YouTube Shorts) arba ilgesni (YouTube, Facebook). Tinka perteikti procesą, emociją, pokalbį ar pasakojimą, reklamuoti produktus.
 Reklamos pavyzdys: [https://www.instagram.com/reel/DOX_Tz5DQeV/](https://www.instagram.com/reel/DOX_Tz5DQeV/)
@@ -131,6 +132,6 @@ Pavyzdžiuose esantys elementai nurodo, ką vartotojas turėtų daryti toliau, p
 
 -   Socialiniai tinklai yra vizualinio turinio centras, todėl gebėjimas kurti stiprius vizualus yra viena svarbiausių šiuolaikinio komunikacijos specialisto kompetencijų.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDU3Mzc2MTksMjYzODgzNDgsLTE1Nz
+eyJoaXN0b3J5IjpbLTIwNjgwMzU0ODUsMjYzODgzNDgsLTE1Nz
 kwMjk3MDRdfQ==
 -->
