@@ -158,9 +158,26 @@ Canva suteikia galimybę greitai kurti profesionaliai atrodančius vizualus, net
 
 Canva – tai lengvai naudojama internetinė dizaino platforma, sukurta tam, kad būtų galima kurti vizualus be sudėtingų programų ir didelio žinių bagažo.
 
-## Kas yra Canva?
+## Ką galite kurti naudodami Canva?
+
+Canva palaiko daugybę formatų, todėl ją galima naudoti tiek verslui, tiek asmeniniams projektams.
+
+Pavyzdžiai:
+-   socialinių tinklų turinys;    
+-   skrajutės, vizitinės, kvietimai;    
+-   prezentacijos;    
+-   dokumentai ir el. knygos;    
+-   nesudėtingos internetinės svetainės ir nuorodų puslapiai;    
+-   ir kt.
+
+## Pagrindiniai Canva planų skirtumai (2025 m. spalis)
+
+|  **Funkcijos/ planai**|  |
+|--|--|
+|  |  |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjkwNTUwMywtNDEzNDY2NTAsMjExNT
-U1MjY1OSwtMTM0MTg3MTAxMiwtOTMzMzE4NjcsLTE4MjAzMjI5
-MDksMjYzODgzNDgsLTE1NzkwMjk3MDRdfQ==
+eyJoaXN0b3J5IjpbNzEyMzIwNjY2LC00MTM0NjY1MCwyMTE1NT
+UyNjU5LC0xMzQxODcxMDEyLC05MzMzMTg2NywtMTgyMDMyMjkw
+OSwyNjM4ODM0OCwtMTU3OTAyOTcwNF19
 -->
