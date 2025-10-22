@@ -363,6 +363,9 @@ Canva Design School yra puikus šaltinis tiek pradedantiesiems, tiek pažengusie
 3.  Iš sąrašo pasirinkite platformą, kuriai kursite vizualą,šiuo atveju, Instagram.  
 
 4.  Tada spauskite Instagram Post (4:5), kad atsidarytų dizaino kūrimo langas.
+![Dizaino kurimas 1](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/diziano%20kurimas%201.avif)
+![Dizaino kurimas 2](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/diziano%20kurimas%202.avif)
+![Dizaino kurimas 3 4](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/diziano%20kurimas%203.avif)
 
 ### Viršutinė įrankių juosta
 
@@ -413,10 +416,10 @@ Viewing– tik peržiūros režimas.
 ![Canva diziano langas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Dizaino%20langas.avif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzg3ODkyMDUsODEzNDE0NjY0LC0xMj
-AzMzI4NDQ1LC0xNzUwMTQ5OTQwLDE3NTExNTkzOTYsMTI4MTQz
-MzUyMiwyMDQxNzI5NzYwLDkzOTk1NDIyOSwtMTkzNTE5MjE1Ny
-wzMTE2MjMyNDYsLTQxMzQ2NjUwLDIxMTU1NTI2NTksLTEzNDE4
-NzEwMTIsLTkzMzMxODY3LC0xODIwMzIyOTA5LDI2Mzg4MzQ4LC
-0xNTc5MDI5NzA0XX0=
+eyJoaXN0b3J5IjpbLTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMz
+QxNDY2NCwtMTIwMzMyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5
+Mzk2LDEyODE0MzM1MjIsMjA0MTcyOTc2MCw5Mzk5NTQyMjksLT
+E5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1MCwyMTE1NTUy
+NjU5LC0xMzQxODcxMDEyLC05MzMzMTg2NywtMTgyMDMyMjkwOS
+wyNjM4ODM0OCwtMTU3OTAyOTcwNF19
 -->
