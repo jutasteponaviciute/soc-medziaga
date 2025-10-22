@@ -300,8 +300,22 @@ Tai padeda greitai pradėti darbą su konkretaus tipo dizainu.
 Šis mygtukas leidžia sukurti naują prekės ženklo rinkinį (Brand Kit). Tai naudinga, jei valdoma keli skirtingi projektai, verslai ar klientų prekės ženklai.
 
 ![Brand puslapis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Brand%20puslapis.avif)
+
+### Canva AI puslapis
+
+**1.  Kairysis meniu (AI pokalbiai)**   
+
+Čia galima pradėti naują pokalbį su Canva AI – įrankiu, kuris veikia kaip virtualus asistentas. Jis padeda generuoti idėjas, kurti tekstus, vizualus ar net kodą. Taip pat rodoma pokalbių istorija – visi ankstesni AI užklausų projektai.  
+
+**2.  Užklausų juosta**   
+
+Viršuje galima ANGLŲ KALBA įrašyti užklausą. Canva AI pagal tai sugeneruos dizainą, tekstą ar kitą kūrinį. 
+
+**3.  Pavyzdžiai, ką galima daryti su AI**   
+
+Apačioje pateikiami įvairūs AI galimybių pavyzdžiai: nuo dizaino idėjų ir logotipų iki tekstų rašymo, vaizdų generavimo ar vaizdo įrašų kūrimo. Tai padeda suprasti, kaip plačiai galima pritaikyti dirbtinį intelektą Canvoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTIxMDMwMzgsMjA0MTcyOTc2MCw5Mz
+eyJoaXN0b3J5IjpbLTE2NTYzNzU4NDAsMjA0MTcyOTc2MCw5Mz
 k5NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1
 MCwyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMzMTg2NywtMT
 gyMDMyMjkwOSwyNjM4ODM0OCwtMTU3OTAyOTcwNF19
