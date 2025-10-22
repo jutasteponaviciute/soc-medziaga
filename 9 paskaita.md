@@ -317,9 +317,44 @@ Apačioje pateikiami įvairūs AI galimybių pavyzdžiai: nuo dizaino idėjų ir
 
 ![Canva AI puslapis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Canva%20AI%20puslapis.avif)
 
+Kairiajame meniu (Navigation bar) Paspaudus tritaškį atsiranda dar trys pasiūlymai. (2025 m. spalis).
+![tritaskio meniu](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/3%20taskai%20meniu.avif)
+
 ### Apps puslapis
+
+1.  Kairysis meniu (Programėlių kategorijos)   
+
+Šioje vietoje rodomos programėlių kategorijos.
+
+  
+
+2.  Rekomenduojamos programėlės
+    
+
+Apatinėje meniu dalyje rodomos dažniausiai naudojamos arba Canvos siūlomos programėlės:
+
+-   Content Planner (turinio planavimas),
+    
+-   Product Photos (produktų nuotraukų kūrimas),
+    
+-   Mockups (produktų maketų kūrimas).
+    
+
+  
+
+3.  Paieškos ir filtravimo juosta
+    
+
+Viršuje galima ieškoti konkrečios programėlės arba filtruoti pagal funkciją (pvz., AI generation, Photo editing). Tai padeda greičiau rasti tinkamą įrankį pagal poreikius.
+
+  
+
+4.  Siūlomos programėlės
+    
+
+Šioje dalyje matomos Canvos rekomendacijos, programėlės, kurios gali būti naudingos pagal jūsų veiklą. Čia dažnai pateikiamos integracijos su išorinėmis platformomis, tokiomis kaip Google Drive, Dropbox ar kt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMTQyMTI0MiwyMDQxNzI5NzYwLDkzOT
+eyJoaXN0b3J5IjpbMTYxNDU2MDc2NywyMDQxNzI5NzYwLDkzOT
 k1NDIyOSwtMTkzNTE5MjE1NywzMTE2MjMyNDYsLTQxMzQ2NjUw
 LDIxMTU1NTI2NTksLTEzNDE4NzEwMTIsLTkzMzMxODY3LC0xOD
 IwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5MDI5NzA0XX0=
