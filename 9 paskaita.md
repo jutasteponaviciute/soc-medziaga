@@ -391,22 +391,22 @@ Viewing– tik peržiūros režimas.
 22.  **Timer** – laikmatis pristatymams ar įrašams.    
 23.  **Zoom valdymas** – leidžia didinti arba mažinti dizaino vaizdą, taip pat ir rodo dabartinį priartinimo lygį (pvz., 33%).    
 24.  **Pages** – puslapių atvaizdavimo pasirinkimas.    
-26.  **Puslapių skaičius** – kiek puslapių turi dizainas (pvz., 1/1).    
-27.  **Grid view** – rodo visus puslapius miniatiūrų režimu.    
-28.  **Full screen (viso ekrano režimas)** – išplečia dizaino vaizdą į visą ekraną.    
-29.  **Help / Pagalba** – Canva pagalbos centras ir trumpieji klavišai.
+25.  **Puslapių skaičius** – kiek puslapių turi dizainas (pvz., 1/1).    
+26.  **Grid view** – rodo visus puslapius miniatiūrų režimu.    
+27.  **Full screen (viso ekrano režimas)** – išplečia dizaino vaizdą į visą ekraną.    
+28.  **Help / Pagalba** – Canva pagalbos centras.
 
 ### Pagrindinė darbo zona
 
-30.  **Puslapių valdymas** – pridėti naują puslapį arba pakeisti jų tvarką.    
-31.  **Dizaino drobė (canvas)** – pagrindinė darbo sritis, kurioje kuriamas dizainas.    
-32.  **Liniuotės (rulers)** – padeda tiksliai išdėstyti elementus dizaino erdvėje.
+29.  **Puslapių valdymas** – pridėti naują puslapį.    
+30.  **Dizaino drobė (canvas)** – pagrindinė darbo sritis, kurioje kuriamas dizainas.    
+31.  **Liniuotė (ruler)** – padeda tiksliai išdėstyti elementus dizaino erdvėje.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDA2NzM4NzAsLTEyMDMzMjg0NDUsLT
-E3NTAxNDk5NDAsMTc1MTE1OTM5NiwxMjgxNDMzNTIyLDIwNDE3
-Mjk3NjAsOTM5OTU0MjI5LC0xOTM1MTkyMTU3LDMxMTYyMzI0Ni
-wtNDEzNDY2NTAsMjExNTU1MjY1OSwtMTM0MTg3MTAxMiwtOTMz
-MzE4NjcsLTE4MjAzMjI5MDksMjYzODgzNDgsLTE1NzkwMjk3MD
-RdfQ==
+eyJoaXN0b3J5IjpbODEzNDE0NjY0LC0xMjAzMzI4NDQ1LC0xNz
+UwMTQ5OTQwLDE3NTExNTkzOTYsMTI4MTQzMzUyMiwyMDQxNzI5
+NzYwLDkzOTk1NDIyOSwtMTkzNTE5MjE1NywzMTE2MjMyNDYsLT
+QxMzQ2NjUwLDIxMTU1NTI2NTksLTEzNDE4NzEwMTIsLTkzMzMx
+ODY3LC0xODIwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5MDI5NzA0XX
+0=
 -->
