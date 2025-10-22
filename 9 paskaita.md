@@ -314,9 +314,13 @@ Viršuje galima ANGLŲ KALBA įrašyti užklausą. Canva AI pagal tai sugeneruos
 **3.  Pavyzdžiai, ką galima daryti su AI**   
 
 Apačioje pateikiami įvairūs AI galimybių pavyzdžiai: nuo dizaino idėjų ir logotipų iki tekstų rašymo, vaizdų generavimo ar vaizdo įrašų kūrimo. Tai padeda suprasti, kaip plačiai galima pritaikyti dirbtinį intelektą Canvoje.
+
+![Canva AI puslapis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Canva%20AI%20puslapis.avif)
+
+### Apps puslapis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTYzNzU4NDAsMjA0MTcyOTc2MCw5Mz
-k5NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1
-MCwyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMzMTg2NywtMT
-gyMDMyMjkwOSwyNjM4ODM0OCwtMTU3OTAyOTcwNF19
+eyJoaXN0b3J5IjpbMTYyMTQyMTI0MiwyMDQxNzI5NzYwLDkzOT
+k1NDIyOSwtMTkzNTE5MjE1NywzMTE2MjMyNDYsLTQxMzQ2NjUw
+LDIxMTU1NTI2NTksLTEzNDE4NzEwMTIsLTkzMzMxODY3LC0xOD
+IwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5MDI5NzA0XX0=
 -->
