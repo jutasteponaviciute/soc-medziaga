@@ -56,6 +56,7 @@ https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNybXdyMTFveG4yZWNnYWFhbHR0YWJ
  ![meme pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/memas.avif)![Iliustracijos pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/iliustracijos_pavyzdys.avif)
  - **Infografikai.** Informaciją perteikiantys vizualai: grafikai, diagramos, struktūros.
 Padeda greitai suprasti sudėtingus dalykus, ypač edukaciniame turinyje.
+
 ![infografiko pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/infografiko_pavyzdys.avif)
 
 Norint išsiskirti socialiniuose tinkluose, verta derinti kelis formatus, tačiau išlaikyti vieningą stilių ir toną. Kai turinys vizualiai nuoseklus ir atitinka prekės ženklo identitetą, auditorija jį greičiau atpažįsta ir labiau į jį įsitraukia.
@@ -137,7 +138,7 @@ Pavyzdžiuose esantys elementai nurodo, ką vartotojas turėtų daryti toliau, p
 
 -   Socialiniai tinklai yra vizualinio turinio centras, todėl gebėjimas kurti stiprius vizualus yra viena svarbiausių šiuolaikinio komunikacijos specialisto kompetencijų.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjk2MTc4NSwtMTM0MTg3MTAxMiwtOT
-MzMzE4NjcsLTE4MjAzMjI5MDksMjYzODgzNDgsLTE1NzkwMjk3
-MDRdfQ==
+eyJoaXN0b3J5IjpbLTIwNTQwNjY4NDEsLTEzNDE4NzEwMTIsLT
+kzMzMxODY3LC0xODIwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5MDI5
+NzA0XX0=
 -->
