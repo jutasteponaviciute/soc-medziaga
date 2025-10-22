@@ -471,10 +471,47 @@ Pavyzdžiui, pasirenku šabloną iš Design skilties.
 
 Kairiu pelės klavišu pasižymiu merginos nuotrauką, tada paspaudžiu dešinį pelės klavišą ir pasirenku Apply colors to page (kiekvieną kartą spaudžiant, keičiasi spalvos, tol kol yra skirtingų kombinacijų).
 
+Prie elementų galima rasti:
+-   Shapes (Figūros)    
+-   Graphics (Grafikos elementai)    
+-   3D (3D elementai)    
+-   Stickers (Lipdukai)    
+-   Photos (Nuotraukos)    
+-   Frames (Rėmeliai)    
+-   Grids (Tinkleliai)    
+-   Videos (Vaizdo įrašai)    
+-   Audio (Garsai / Muzika)    
+-   Forms (Formos)    
+-   Mockups (Maketai / vizualizacijos)    
+-   Charts (Diagramos)    
+-   Sheets (Lentelės (skaičiuoklės tipo))    
+-   Tables (Lentelės (duomenų išdėstymui))
+
+### Teksto įrankiai
+
+Teksto pritaikymas:
+Pritaikykite šriftus, pakeiskite dydį, spalvą, tarpus, paryškinkite, paverskite kursyvu, vienu mygtuko paspaudimu, pakeiskite visas raides į didžiąsias.
+
+Šrifto parinktys:
+Canva suteikia platų šriftų pasirinkimą ir galimybę įkelti savo šriftus (Canva Pro vartotojams).
+
+### Išsaugojimo ir eksportavimo galimybės
+
+Formatai:
+PNG (palaiko skaidrų foną, geresnė kokybė, naudojama logotipams, grafiniams elementams su skaidriu fonu);
+JPG (mažesnės apimties failai, tinkami socialiniams tinklams);
+PDF (spausdinimui ir dokumentams);
+MP4 (vaizdo įrašams);
+GIF (animacijoms);
+SVG (Vektorinis failas - naudingas didelės raiškos iliustracijoms, spausdinimui, nes nepraranda kokybės).
+PPTX - Microsoft PowerPont dokumentas
+
+
+
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjgyMjI4MywxNzA5NTA0MTIwLDEzOD
+eyJoaXN0b3J5IjpbMTIzMTU5MTg2NSwxNzA5NTA0MTIwLDEzOD
 QxODA3NzMsLTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMzQxNDY2
 NCwtMTIwMzMyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5Mzk2LD
 EyODE0MzM1MjIsMjA0MTcyOTc2MCw5Mzk5NTQyMjksLTE5MzUx
