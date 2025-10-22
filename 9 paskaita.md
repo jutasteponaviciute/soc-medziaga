@@ -248,10 +248,13 @@ Leidžia greitai rasti konkrečius projektus pagal pavadinimą ar raktinius žod
 
 Tai pagrindinė darbo zona, kurioje rodomi visi sukurti ar bendrinami projektai. Iš čia galima pradėti naują darbą, pasirinkus Create design arba sukurti naują aplanką (Create folder) dizainų organizavimui.
 
-[paveikslėlis]
+![Projects puslapis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Projects%20puslapis.avif)
+
+### Templates puslapis
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTY0OTM3MTAsOTM5OTU0MjI5LC0xOT
-M1MTkyMTU3LDMxMTYyMzI0NiwtNDEzNDY2NTAsMjExNTU1MjY1
-OSwtMTM0MTg3MTAxMiwtOTMzMzE4NjcsLTE4MjAzMjI5MDksMj
-YzODgzNDgsLTE1NzkwMjk3MDRdfQ==
+eyJoaXN0b3J5IjpbMjA0MTcyOTc2MCw5Mzk5NTQyMjksLTE5Mz
+UxOTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1MCwyMTE1NTUyNjU5
+LC0xMzQxODcxMDEyLC05MzMzMTg2NywtMTgyMDMyMjkwOSwyNj
+M4ODM0OCwtMTU3OTAyOTcwNF19
 -->
