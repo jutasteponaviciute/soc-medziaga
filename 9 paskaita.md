@@ -368,14 +368,14 @@ Viewing– tik peržiūros režimas.
 5.  **Išsaugojimas** – išsaugojimo statusas ir versijų istorija.
 6.  **Failo pavadinimas ir dizaino tipas** – rodo projekto pavadinimą ir pasirinktą formatą (pvz., Instagram Post 4:5).    
 7.  **Vartotojo profilis / komandos nariai** – leidžia matyti, kas redaguoja projektą, arba pakviesti kitus prisijungti.    
-8.  **Statistics / Insights** – rodo dizaino peržiūras ir įsitraukimus.    
+8.  **Statistika** – rodo dizaino peržiūras ir įsitraukimus.    
 9.  **Komentarai** – galima peržiūrėti arba palikti komentarus projekte.    
-10.  **Share** – leidžia bendrinti, atsisiųsti ar publikuoti dizainą (pvz., Instagram, PDF, PNG formatais).
+10.  **Share** – leidžia bendrinti, atsisiųsti ar publikuoti dizainą (pvz., Instagram, PDF, PNG formatais) ir kt.
 
 ### Kairioji įrankių juosta
 
-11.  **Design** – Canva siūlomi šablonai pagal formatą.    
-12.  **Elements** – figūros, linijos, ikonėlės, nuotraukos, grafikai ir kt.    
+11.  **Design** – Canva siūlomi šablonai pagal formatą ir stiliai.    
+12.  **Elements** – figūros, linijos, ikonėlės, nuotraukos, grafikai, vaizdo įrašai ir kt.    
 13.  **Text** – teksto įrankiai: antraštės, paantraštės, pastraipos, teksto stiliai.    
 14.  **Brand** – prekės ženklo paletė, logotipai, šriftai (Pro naudotojams).    
 15.  **Uploads** – vieta, kur įkeliamos savo nuotraukos, vaizdo įrašai, garso failai.    
@@ -406,10 +406,10 @@ Viewing– tik peržiūros režimas.
 ![dizaino kūrimo langas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Dizaino%20langas.avif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyNDk2MTg5LC0xMjAzMzI4NDQ1LC0xNz
-UwMTQ5OTQwLDE3NTExNTkzOTYsMTI4MTQzMzUyMiwyMDQxNzI5
-NzYwLDkzOTk1NDIyOSwtMTkzNTE5MjE1NywzMTE2MjMyNDYsLT
-QxMzQ2NjUwLDIxMTU1NTI2NTksLTEzNDE4NzEwMTIsLTkzMzMx
-ODY3LC0xODIwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5MDI5NzA0XX
-0=
+eyJoaXN0b3J5IjpbLTQwNDQ0Mzg2NSwtMTIwMzMyODQ0NSwtMT
+c1MDE0OTk0MCwxNzUxMTU5Mzk2LDEyODE0MzM1MjIsMjA0MTcy
+OTc2MCw5Mzk5NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC
+00MTM0NjY1MCwyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMz
+MTg2NywtMTgyMDMyMjkwOSwyNjM4ODM0OCwtMTU3OTAyOTcwNF
+19
 -->
