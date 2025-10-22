@@ -252,9 +252,40 @@ Tai pagrindinė darbo zona, kurioje rodomi visi sukurti ar bendrinami projektai.
 
 ### Templates puslapis
 
+Šioje dalyje galima naršyti ir rinktis iš milijonų paruoštų dizaino šablonų įvairioms reikmėms.
+
+**1.  Kairysis meniu (Templates sidebar)**    
+
+-   Templates – prieiga prie visų šablonų tipų.    
+-   Photos – nuotraukų biblioteka.    
+-   Graphics – iliustracijos, piktogramos ir kiti grafiniai elementai.    
+-   Creators – turinio kūrėjų sukurti šablonai ir dizainai.    
+-   Starred content – pažymėti mėgstami šablonai ar elementai.    
+
+**2.  Paieškos juosta**
+    
+Leidžia greitai surasti reikiamą šabloną pagal raktažodžius. Galima filtruoti rezultatus pagal tipą ar kategoriją, kad būtų lengviau rasti tinkamą dizainą.
+
+**3.  Greito pasirinkimo zona (Quick create)**    
+
+Ši sritis leidžia iš karto pasirinkti, kokio tipo dizainą norima kurti: el. laišką, dokumentą, whiteboard’ą, prezentaciją, įrašą socialiniams tinklams, vaizdo įrašą, tinklalapį ar kt.
+
+Taip pat čia galima nustatyti individualius išmatavimus (Custom size) arba įkelti savo failus (Upload). Paspaudus čia dizainas čia yra kurias nuo nulio, o ne naudojamas šablonas.
+
+4.  Explore templates (Šablonų kategorijos)
+    
+
+Šioje dalyje galima rinktis iš populiariausių šablonų kategorijų: presentation, poster, resume, logo, Instagram post, story, video, flyer ir kt.
+
+Tai padeda greitai pradėti darbą su konkretaus tipo dizainu.
+
+5.  Discover Canva (Atraskite Canva)
+    
+
+Čia pateikiami naujausi ar rekomenduojami šablonai pagal temą, stilių ar populiarumą. Tai puikus būdas rasti įkvėpimo arba pamatyti naujausias tendencijas platformoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTcyOTc2MCw5Mzk5NTQyMjksLTE5Mz
-UxOTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1MCwyMTE1NTUyNjU5
-LC0xMzQxODcxMDEyLC05MzMzMTg2NywtMTgyMDMyMjkwOSwyNj
-M4ODM0OCwtMTU3OTAyOTcwNF19
+eyJoaXN0b3J5IjpbLTE1NzcyMDQ1NjEsMjA0MTcyOTc2MCw5Mz
+k5NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1
+MCwyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMzMTg2NywtMT
+gyMDMyMjkwOSwyNjM4ODM0OCwtMTU3OTAyOTcwNF19
 -->
