@@ -119,11 +119,13 @@ IKEA kuria pasitikėjimą rodydama tikrą gyvenimą: natūralias situacijas, kas
  - **Įsitraukimo skatinimas.** Vizualas kviečia veikti: pakomentuoti, pasidalinti, sureaguoti ar spustelėti. Tai gali būti klausimas, provokacija ar įdomus vizualinis sprendimas. 
 
 Šis Lidl Lietuva pavyzdys remiasi klausimu kaip įsitraukimo skatinimo priemone. Paprastas vizualas ir aiškus pasirinkimas A arba B padeda greitai suprasti žinutę ir paskatina vartotoją bent akimirkai sustoti ir palikti komentarą.
-![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/lidl_pavyzdys.avif)
+![Lidls pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/lidl_pavyzdys.avif)
 
  - **Pardavimų ir veiksmų skatinimas.** Vizualas padeda pereiti nuo susidomėjimo prie veiksmo – pirkimo, rezervacijos ar paspaudimo ant nuorodos.
 
 Pavyzdžiuose esantys elementai nurodo, ką vartotojas turėtų daryti toliau, pavyzdžiui, sukti ratą, registruotis ar pirkti. Aiškūs mygtukai, kontrastingos spalvos ir trumpi, veiksmo kryptį rodantys žodžiai padeda greičiau pereiti nuo susidomėjimo prie realaus veiksmo.
+![Reklamos pavyzdys 1](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/reklamos_pavyzdys1.avif)
+![Reklamos pavyzdys 2](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/reklamos_pavyzdys2.avif)
 
 ## **Apibendrinimas: ką svarbiausia įsiminti po šios dalies?**
 
@@ -145,7 +147,7 @@ Pavyzdžiuose esantys elementai nurodo, ką vartotojas turėtų daryti toliau, p
 
 -   Socialiniai tinklai yra vizualinio turinio centras, todėl gebėjimas kurti stiprius vizualus yra viena svarbiausių šiuolaikinio komunikacijos specialisto kompetencijų.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0MDM3MDM0LC0xMzQxODcxMDEyLC05Mz
+eyJoaXN0b3J5IjpbOTExNzY0NDAxLC0xMzQxODcxMDEyLC05Mz
 MzMTg2NywtMTgyMDMyMjkwOSwyNjM4ODM0OCwtMTU3OTAyOTcw
 NF19
 -->
