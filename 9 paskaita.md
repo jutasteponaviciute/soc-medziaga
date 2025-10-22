@@ -358,14 +358,14 @@ Canva Design School yra puikus šaltinis tiek pradedantiesiems, tiek pažengusie
 
 ### Viršutinė įrankių juosta
 
-1.  **File** – projekto nustatymai: pervadinti, įkelti failus, įjungti / išjungti liniuotę, paraštes, tinklelį, išsaugoti, perkelti, daryti kopiją, atsisiuntimas, versijų istorija, ištrynimas
-2.  **Resize** – leidžia keisti dizaino matmenis ar konvertuoti į kitą formatą (pvz., iš Instagram įrašas → plakatas).    
+1.  **File** – projekto nustatymai: pervadinti, įkelti failus, įjungti / išjungti liniuotę, paraštes, tinklelį, išsaugoti, perkelti, daryti kopiją, atsisiuntimas, versijų istorija, ištrynimas ir kt.
+2.  **Resize** – leidžia keisti dizaino matmenis ar konvertuoti į kitą formatą (pvz., iš Instagram įrašo → Story).    
 3.  **Editing** – pasirinkimas tarp trijų darbo režimų:    
 Editing – galima redaguoti dizainą.        
 Commenting_ – galima palikti komentarus.        
-Viewing_ – tik peržiūros režimas.        
-4.  **Undo / Redo** – atšaukia paskutinį veiksmą.    
-5.  
+Viewing– tik peržiūros režimas.        
+4.  **Undo / Redo** – atšaukia paskutinį veiksmą arba grąžinti paskutinį veiksmą.    
+5.  **Išsaugojimas** – išsaugojimo s
 6.  **Failo pavadinimas ir dizaino tipas** – rodo projekto pavadinimą ir pasirinktą formatą (pvz., Instagram Post 4:5).    
 7.  **Vartotojo profilis / komandos nariai** – leidžia matyti, kas redaguoja projektą, arba pakviesti kitus prisijungti.    
 8.  **Statistics / Insights** – rodo dizaino peržiūras ir įsitraukimus (Pro paskyrose).    
@@ -406,7 +406,7 @@ Viewing_ – tik peržiūros režimas.
 ![dizaino kūrimo langas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Dizaino%20langas.avif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyMDIyMTE0LC0xMjAzMzI4NDQ1LC0xNz
+eyJoaXN0b3J5IjpbNDk2MjE4MzUzLC0xMjAzMzI4NDQ1LC0xNz
 UwMTQ5OTQwLDE3NTExNTkzOTYsMTI4MTQzMzUyMiwyMDQxNzI5
 NzYwLDkzOTk1NDIyOSwtMTkzNTE5MjE1NywzMTE2MjMyNDYsLT
 QxMzQ2NjUwLDIxMTU1NTI2NTksLTEzNDE4NzEwMTIsLTkzMzMx
