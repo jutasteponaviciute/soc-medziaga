@@ -449,6 +449,8 @@ Paieškos rezultatus galima susiaurinti pagal kategorijas, tokias kaip nuotrauko
 
 Jei radote gerą šabloną ar nuotrauką, galite greitai surasti panašius elementus paspaudę See more like this. Tai labai patogu, kai norite rasti daugiau variantų, kurie atitinka jūsų dizaino temą.
 
+
+
 ### Vaizdo generavimo procesas iš teksto (prompt’o): 
 
 1.  Įvesk aprašymą (promptą). Į paieškos ar teksto laukelį įrašyk, ką nori sugeneruoti. Pvz.: “A dark red rose blossom covered with fresh morning dew, realistic close-up, soft natural light, dark background.” 
@@ -518,7 +520,7 @@ Skirtingi pasidalinimo būdai:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzE0ODI1LC0xNDI5MjU4Mjc3LDE3MD
+eyJoaXN0b3J5IjpbMzE4NDQ2NTczLC0xNDI5MjU4Mjc3LDE3MD
 k1MDQxMjAsMTM4NDE4MDc3MywtOTk4MzI3MDcsLTEzMzg3ODky
 MDUsODEzNDE0NjY0LC0xMjAzMzI4NDQ1LC0xNzUwMTQ5OTQwLD
 E3NTExNTkzOTYsMTI4MTQzMzUyMiwyMDQxNzI5NzYwLDkzOTk1
