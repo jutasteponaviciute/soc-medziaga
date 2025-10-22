@@ -421,17 +421,15 @@ Pakeiskite fono spalvą.
     
 2.  Viršutiniame meniu spauskite spalvų piktogramą (spalvų ratuką).
 Pasirinkite norimą spalvą iš pasiūlytų arba įveskite savo spalvos kodą.
+
 3.  Arba kairėje meniu pasirinkite Background (Jei automatiškai neatsiranda, jį galima rasti tarp Apps).
-    
-
 Čia galima rinktis iš įvairių fono paveikslėlių: abstrakčių, tekstūrinių ar teminių.
-
 Spustelėjus bet kurį iš jų, jis automatiškai pakeis dabartinį fono vaizdą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQwNjAyODcsLTk5ODMyNzA3LC0xMz
-M4Nzg5MjA1LDgxMzQxNDY2NCwtMTIwMzMyODQ0NSwtMTc1MDE0
-OTk0MCwxNzUxMTU5Mzk2LDEyODE0MzM1MjIsMjA0MTcyOTc2MC
-w5Mzk5NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0
-NjY1MCwyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMzMTg2Ny
-wtMTgyMDMyMjkwOSwyNjM4ODM0OCwtMTU3OTAyOTcwNF19
+eyJoaXN0b3J5IjpbMTM4NDE4MDc3MywtOTk4MzI3MDcsLTEzMz
+g3ODkyMDUsODEzNDE0NjY0LC0xMjAzMzI4NDQ1LC0xNzUwMTQ5
+OTQwLDE3NTExNTkzOTYsMTI4MTQzMzUyMiwyMDQxNzI5NzYwLD
+kzOTk1NDIyOSwtMTkzNTE5MjE1NywzMTE2MjMyNDYsLTQxMzQ2
+NjUwLDIxMTU1NTI2NTksLTEzNDE4NzEwMTIsLTkzMzMxODY3LC
+0xODIwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5MDI5NzA0XX0=
 -->
