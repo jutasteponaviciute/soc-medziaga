@@ -61,6 +61,7 @@ Socialiniai tinklai yra erdvė, kurioje yra daugiausiai vizualinio turinio. Tai 
 
 Pagal 2025 m. gegužės mėn. duomenis, populiariausi socialiniai tinklai yra:
 Facebook, YouTube ir Instagram.
+![Populiariausiu soc. tinklu statistika](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/populiariausi_soc_tinklai_statistika.avif)
 
  - **Facebook** - derina tekstą, nuotraukas, vaizdo įrašus ir Live translecijas, tačiau vizualinis turinys vis dar svarbus įsitraukimui. Šiame socialiniame tinkle galima sutikti tik tekstinių įrašų be jokio vizualo. 
  - **Instagram** socialiniame tinkle galima rasti nuotraukas, karuseles, Stories ir Reels vaizdo įrašus, kurių trukmė šiuo metu gali siekti iki 3 minučių. Be to, Instagram palaiko ilgą formatą per Live transliacijas (verslo ir asmeninės iki 1 val., o kūrėjų iki 4 val.). Tokio formato kaip tiesiog tekstas Instagrame negalima talpinti, šioje platformoje eina vizualas + tekstas. 
@@ -125,6 +126,6 @@ Pavyzdžiuose esantys elementai nurodo, ką vartotojas turėtų daryti toliau, p
 
 -   Socialiniai tinklai yra vizualinio turinio centras, todėl gebėjimas kurti stiprius vizualus yra viena svarbiausių šiuolaikinio komunikacijos specialisto kompetencijų.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4NzUwNjAyLDI2Mzg4MzQ4LC0xNTc5MD
-I5NzA0XX0=
+eyJoaXN0b3J5IjpbMTMxOTMwNTIyMywyNjM4ODM0OCwtMTU3OT
+AyOTcwNF19
 -->
