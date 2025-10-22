@@ -341,10 +341,14 @@ Viršuje galima ieškoti konkrečios programėlės arba filtruoti pagal funkcij�
 
 Šioje dalyje matomos Canvos rekomendacijos, programėlės, kurios gali būti naudingos pagal jūsų veiklą. Čia dažnai pateikiamos integracijos su išorinėmis platformomis, tokiomis kaip Google Drive, Dropbox ar kt.
 
+![App puslapis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Apps%20puslapis.avif)
+
+### Content Planner puslapis
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzM0OTg4ODMsMjA0MTcyOTc2MCw5Mz
-k5NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1
-MCwyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMzMTg2NywtMT
-gyMDMyMjkwOSwyNjM4ODM0OCwtMTU3OTAyOTcwNF19
+eyJoaXN0b3J5IjpbNTYyNDg2NDM0LDIwNDE3Mjk3NjAsOTM5OT
+U0MjI5LC0xOTM1MTkyMTU3LDMxMTYyMzI0NiwtNDEzNDY2NTAs
+MjExNTU1MjY1OSwtMTM0MTg3MTAxMiwtOTMzMzE4NjcsLTE4Mj
+AzMjI5MDksMjYzODgzNDgsLTE1NzkwMjk3MDRdfQ==
 -->
