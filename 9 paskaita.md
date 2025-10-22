@@ -83,13 +83,15 @@ Ryanair reklamos su humoristiniais tekstais ir netikėtomis nuotraukomis, jos pr
 **[https://www.tiktok.com/@ryanair/video/7556286000952118550?lang=en](https://www.tiktok.com/@ryanair/video/7556286000952118550?lang=en)**
 ![Ryanair pavyzdys 1](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/rynair_pavyzdys1.avif)
 ![Ryanair pavyzdys 2](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/ryanair_pavyzdys2.avif)
-
+![Ryanair pavyzdys 3](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/ryanair_pavyzdys3.avif)
 
  - **Žinutės perteikimas.** Vizualas padeda akimirksniu suprasti esmę.
 Smegenys vaizdą apdoroja daug greičiau nei tekstą, todėl tinkamai sukurtas dizainas perteikia žinutę be ilgo skaitymo.
 
 Šios Vinted reklamos yra puikus pavyzdys, kaip vizualas gali aiškiai perteikti žinutę be papildomo paaiškinimo. Trumpas tekstas Too many? (Per daug?) ir nuotraukos, kuriose žmonės laiko per daug drabužių, aksesuarų ar daiktų, iškart perteikia pagrindinę mintį: pardavimas yra sprendimas pertekliaus problemai.
 **[https://www.instagram.com/reel/C7WF0Odql5N/?igsh=ZTdtcnp6NGV5ZjRx](https://www.instagram.com/reel/C7WF0Odql5N/?igsh=ZTdtcnp6NGV5ZjRx)**
+![vinted pavyzdys 1](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/vinted_pavyzdys1.avif)
+![vinted pavyzdys 2](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/vinted_pavyzdys2.avif)
 
  - **Emocijos sukūrimas.** Spalvos, šviesa, veidai, kompozicij, visa tai kuria emocinį ryšį.
 Vizualas gali sukelti džiaugsmą, pasitikėjimą, susidomėjimą, nostalgiją ar kitą pasirinktą emociją. 
@@ -134,6 +136,7 @@ Pavyzdžiuose esantys elementai nurodo, ką vartotojas turėtų daryti toliau, p
 
 -   Socialiniai tinklai yra vizualinio turinio centras, todėl gebėjimas kurti stiprius vizualus yra viena svarbiausių šiuolaikinio komunikacijos specialisto kompetencijų.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDE4NzEwMTIsLTkzMzMxODY3LC0xOD
-IwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5MDI5NzA0XX0=
+eyJoaXN0b3J5IjpbMTc5OTA1MzM4NywtMTM0MTg3MTAxMiwtOT
+MzMzE4NjcsLTE4MjAzMjI5MDksMjYzODgzNDgsLTE1NzkwMjk3
+MDRdfQ==
 -->
