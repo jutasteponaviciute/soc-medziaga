@@ -177,19 +177,15 @@ Pavyzdžiai:
 
 Nemokama Pro versija ne pelno siekiančioms organizacijoms, kurios atitinka Canva reikalavimus. Suteikia galimybę naudotis visais Pro plano įrankiais be prenumeratos mokesčio. Skirta stiprinti komunikaciją ir padėti kurti vizualus socialiniams projektams.
 
-Free Trial
-
-  
+**Free Trial** 
 
 Tiek Canva Pro, tiek Canva Teams suteikia 30 dienų nemokamą bandomąjį laikotarpį.
 
-Per šį laiką galima išbandyti visus Pro funkcionalumus, o po mėnesio nuspręsti, ar verta tęsti prenumeratą.
-
-  
+Per šį laiką galima išbandyti visus Pro funkcionalumus, o po mėnesio nuspręsti, ar verta tęsti prenumeratą. 
 
 Visi mokami elementai žymimi karūnėle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODgyMjA4NCwzMTE2MjMyNDYsLTQxMz
-Q2NjUwLDIxMTU1NTI2NTksLTEzNDE4NzEwMTIsLTkzMzMxODY3
-LC0xODIwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5MDI5NzA0XX0=
+eyJoaXN0b3J5IjpbLTE4NTcyMDQ0NTAsMzExNjIzMjQ2LC00MT
+M0NjY1MCwyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMzMTg2
+NywtMTgyMDMyMjkwOSwyNjM4ODM0OCwtMTU3OTAyOTcwNF19
 -->
