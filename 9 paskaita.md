@@ -272,20 +272,21 @@ Leidžia greitai surasti reikiamą šabloną pagal raktažodžius. Galima filtru
 
 Taip pat čia galima nustatyti individualius išmatavimus (Custom size) arba įkelti savo failus (Upload). Paspaudus čia dizainas čia yra kurias nuo nulio, o ne naudojamas šablonas.
 
-4.  Explore templates (Šablonų kategorijos)
-    
+**4.  Explore templates (Šablonų kategorijos)**    
 
 Šioje dalyje galima rinktis iš populiariausių šablonų kategorijų: presentation, poster, resume, logo, Instagram post, story, video, flyer ir kt.
 
 Tai padeda greitai pradėti darbą su konkretaus tipo dizainu.
 
-5.  Discover Canva (Atraskite Canva)
-    
+**5.  Discover Canva (Atraskite Canva)**    
 
 Čia pateikiami naujausi ar rekomenduojami šablonai pagal temą, stilių ar populiarumą. Tai puikus būdas rasti įkvėpimo arba pamatyti naujausias tendencijas platformoje.
+
+
+### Brand puslapis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzcyMDQ1NjEsMjA0MTcyOTc2MCw5Mz
-k5NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1
-MCwyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMzMTg2NywtMT
-gyMDMyMjkwOSwyNjM4ODM0OCwtMTU3OTAyOTcwNF19
+eyJoaXN0b3J5IjpbLTk5NDQyMDY5NiwyMDQxNzI5NzYwLDkzOT
+k1NDIyOSwtMTkzNTE5MjE1NywzMTE2MjMyNDYsLTQxMzQ2NjUw
+LDIxMTU1NTI2NTksLTEzNDE4NzEwMTIsLTkzMzMxODY3LC0xOD
+IwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5MDI5NzA0XX0=
 -->
