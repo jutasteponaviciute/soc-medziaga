@@ -449,7 +449,7 @@ Paieškos rezultatus galima susiaurinti pagal kategorijas, tokias kaip nuotrauko
 
 Jei radote gerą šabloną ar nuotrauką, galite greitai surasti panašius elementus paspaudę See more like this. Tai labai patogu, kai norite rasti daugiau variantų, kurie atitinka jūsų dizaino temą.
 
-
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/panasus%20elementai.avif)
 
 ### Vaizdo generavimo procesas iš teksto (prompt’o): 
 
@@ -460,6 +460,8 @@ Jei radote gerą šabloną ar nuotrauką, galite greitai surasti panašius eleme
 3.  Tada spausk “Generate images”.
 
 4.  Peržiūrėk rezultatus. Po kelių sekundžių sistema pateiks kelis sugeneruotus vaizdus pagal tavo aprašymą. Galėsi pasirinkti, kuris variantas labiausiai patinka, ir jį panaudoti.
+
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/vaizdo%20generavimas.avif)
 
 Taip pat galima sugeneruoti kodą arba vaizdo įrašą.
 
@@ -520,11 +522,11 @@ Skirtingi pasidalinimo būdai:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4NDQ2NTczLC0xNDI5MjU4Mjc3LDE3MD
-k1MDQxMjAsMTM4NDE4MDc3MywtOTk4MzI3MDcsLTEzMzg3ODky
-MDUsODEzNDE0NjY0LC0xMjAzMzI4NDQ1LC0xNzUwMTQ5OTQwLD
-E3NTExNTkzOTYsMTI4MTQzMzUyMiwyMDQxNzI5NzYwLDkzOTk1
-NDIyOSwtMTkzNTE5MjE1NywzMTE2MjMyNDYsLTQxMzQ2NjUwLD
-IxMTU1NTI2NTksLTEzNDE4NzEwMTIsLTkzMzMxODY3LC0xODIw
-MzIyOTA5XX0=
+eyJoaXN0b3J5IjpbMTA2NDQwMzAwNSwtMTQyOTI1ODI3NywxNz
+A5NTA0MTIwLDEzODQxODA3NzMsLTk5ODMyNzA3LC0xMzM4Nzg5
+MjA1LDgxMzQxNDY2NCwtMTIwMzMyODQ0NSwtMTc1MDE0OTk0MC
+wxNzUxMTU5Mzk2LDEyODE0MzM1MjIsMjA0MTcyOTc2MCw5Mzk5
+NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1MC
+wyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMzMTg2NywtMTgy
+MDMyMjkwOV19
 -->
