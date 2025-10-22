@@ -90,8 +90,18 @@ Taip pat buvo atnaujinta iniciatyva Real Beauty Pledge (naujieji pažadai), nuo 
 Kampanijos tikslas: parodyti, kad grožio samprata kinta su technologijomis, ir kad reikia sąmoningai formuoti reprezentacijas, kurios būtų tikros, o ne idealizuotos.
 **[https://www.youtube.com/watch?v=sD-R2OzcleQ](https://www.youtube.com/watch?v=sD-R2OzcleQ)**
 
+ - **Atpažįstamumo formavimas.** Kai vizualai nuoseklūs (spalvos, šriftai, stilius), auditorija ima atpažinti turinį dar prieš pamatydama logotipą. 
+
+IKEA kuria pasitikėjimą rodydama tikrą gyvenimą: natūralias situacijas, kasdienybę ir nuoširdžias emocijas. Skirtingose kampanijose išlaikomas tas pats šiltas apšvietimas, realistiški interjerai ir vientisa spalvų paletė. Šis nuoseklumas leidžia iš karto atpažinti prekės ženklą ir stiprina pasitikėjimą juo.
+**[https://www.youtube.com/watch?v=vAhpFfEBgDg](https://www.youtube.com/watch?v=vAhpFfEBgDg)**
+
+ - **Įsitraukimo skatinimas.** Vizualas kviečia veikti: pakomentuoti, pasidalinti, sureaguoti ar spustelėti. Tai gali būti klausimas, provokacija ar įdomus vizualinis sprendimas.
+
+  
+
+Šis Lidl Lietuva pavyzdys remiasi klausimu kaip įsitraukimo skatinimo priemone. Paprastas vizualas ir aiškus pasirinkimas A arba B padeda greitai suprasti žinutę ir paskatina vartotoją bent akimirkai sustoti ir palikti komentarą.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTIyODAxNDcsLTE1NzkwMjk3MDRdfQ
+eyJoaXN0b3J5IjpbLTE3NjQ3NzMyNjYsLTE1NzkwMjk3MDRdfQ
 ==
 -->
