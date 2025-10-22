@@ -80,7 +80,18 @@ Smegenys vaizdą apdoroja daug greičiau nei tekstą, todėl tinkamai sukurtas d
 Šios Vinted reklamos yra puikus pavyzdys, kaip vizualas gali aiškiai perteikti žinutę be papildomo paaiškinimo. Trumpas tekstas Too many? (Per daug?) ir nuotraukos, kuriose žmonės laiko per daug drabužių, aksesuarų ar daiktų, iškart perteikia pagrindinę mintį: pardavimas yra sprendimas pertekliaus problemai.
 **[https://www.instagram.com/reel/C7WF0Odql5N/?igsh=ZTdtcnp6NGV5ZjRx](https://www.instagram.com/reel/C7WF0Odql5N/?igsh=ZTdtcnp6NGV5ZjRx)**
 
+ - **Emocijos sukūrimas.** Spalvos, šviesa, veidai, kompozicij, visa tai kuria emocinį ryšį.
+Vizualas gali sukelti džiaugsmą, pasitikėjimą, susidomėjimą, nostalgiją ar kitą pasirinktą emociją. 
+
+Dove pristatė kampaniją The Code, kurioje nagrinėjama dirbtinio intelekto (DI) įtaka grožio standartams. 
+
+Taip pat buvo atnaujinta iniciatyva Real Beauty Pledge (naujieji pažadai), nuo 2025 m. balandžio 15 d. Dove įsipareigoja nekurti arba nenaudoti DI sukurto ar iškreipto moterų įvaizdžio, atvaizduoti įvairias moteris (amžius, dydžiai, etninė kilmė, gebėjimai) ir leisti moterims pačioms apibrėžti, ką reiškia tikras grožis. 
+
+Kampanijos tikslas: parodyti, kad grožio samprata kinta su technologijomis, ir kad reikia sąmoningai formuoti reprezentacijas, kurios būtų tikros, o ne idealizuotos.
+**[https://www.youtube.com/watch?v=sD-R2OzcleQ](https://www.youtube.com/watch?v=sD-R2OzcleQ)**
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzkwMjk3MDRdfQ==
+eyJoaXN0b3J5IjpbLTE4NTIyODAxNDcsLTE1NzkwMjk3MDRdfQ
+==
 -->
