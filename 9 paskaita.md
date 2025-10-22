@@ -427,8 +427,8 @@ Pasirinkite norimą spalvą iš pasiūlytų arba įveskite savo spalvos HEX kod�
 Spustelėjus bet kurį iš jų, jis automatiškai pakeis dabartinį fono vaizdą.
 ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/fono%20parinkimas.avif)
 ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/spalvos%20parinkimas.avif)
-Įkėlus nuotrauką, Canva parodo nuotraukoje esančias spalvas.
-
+Įkėlus nuotrauką, Canva parodo nuotraukos spalvų paletę.
+![spalvu palete is nuotraukos](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/nuotraukoje%20esancios%20spalvos.avif)
 Spaudžiame Elements ir čia pradedame paiešką.
 
 ### Paieška 
@@ -518,11 +518,11 @@ Skirtingi pasidalinimo būdai:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjkyNTgyNzcsMTcwOTUwNDEyMCwxMz
-g0MTgwNzczLC05OTgzMjcwNywtMTMzODc4OTIwNSw4MTM0MTQ2
-NjQsLTEyMDMzMjg0NDUsLTE3NTAxNDk5NDAsMTc1MTE1OTM5Ni
-wxMjgxNDMzNTIyLDIwNDE3Mjk3NjAsOTM5OTU0MjI5LC0xOTM1
-MTkyMTU3LDMxMTYyMzI0NiwtNDEzNDY2NTAsMjExNTU1MjY1OS
-wtMTM0MTg3MTAxMiwtOTMzMzE4NjcsLTE4MjAzMjI5MDksMjYz
-ODgzNDhdfQ==
+eyJoaXN0b3J5IjpbLTEzNzgwNDMyOSwtMTQyOTI1ODI3NywxNz
+A5NTA0MTIwLDEzODQxODA3NzMsLTk5ODMyNzA3LC0xMzM4Nzg5
+MjA1LDgxMzQxNDY2NCwtMTIwMzMyODQ0NSwtMTc1MDE0OTk0MC
+wxNzUxMTU5Mzk2LDEyODE0MzM1MjIsMjA0MTcyOTc2MCw5Mzk5
+NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1MC
+wyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMzMTg2NywtMTgy
+MDMyMjkwOV19
 -->
