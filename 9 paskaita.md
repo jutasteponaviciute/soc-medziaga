@@ -198,9 +198,9 @@ Tai itin naudinga socialinių tinklų administratoriams, kurie dažnai dirba din
 
 ##   CANVA meniu analizė ir galimybės
     
-Home puslapis
+### Home puslapis
 
-1.  Kairysis meniu (Navigation bar)   
+**1.  Kairysis meniu (Navigation bar)**  
 
 Jame rasite:
 -   Home – pagrindinį puslapį.    
@@ -210,17 +210,20 @@ Jame rasite:
 -   Canva AI – dirbtinio intelekto įrankiai.    
 -   More – papildomos funkcijos, tokios kaip Apps, Content Planner, Design School. 
 
-  2.  Paieškos juosta ir filtrai
+  **2.  Paieškos juosta ir filtrai**
+  
 Šioje srityje galima ieškoti savo sukurtų dizainų, šablonų, paveikslėlių ar įkeltų failų. Paiešką galima patikslinti naudojant filtrus: pagal tipą, kategoriją, savininką ar datą.
 
-3.  Greito starto zona (Quick create)
+**3.  Greito starto zona (Quick create)**
+
 Ši sritis leidžia iš karto pasirinkti, kokio tipo dizainą norima kurti: el. laišką, dokumentą, whiteboard’ą, prezentaciją, įrašą socialiniams tinklams, vaizdo įrašą, tinklalapį ar kt.
 Taip pat čia galima nustatyti individualius išmatavimus (Custom size) arba įkelti savo failus (Upload). 
 
-4.  Naujausi projektai (Recents)
+**4.  Naujausi projektai (Recents)**
+
 Šioje dalyje rodomi naujausi ar neseniai redaguoti dizainai, todėl galima greitai tęsti darbą nuo ten, kur jis buvo sustabdytas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODQ3OTAyLC0xOTM1MTkyMTU3LDMxMT
+eyJoaXN0b3J5IjpbOTM5OTU0MjI5LC0xOTM1MTkyMTU3LDMxMT
 YyMzI0NiwtNDEzNDY2NTAsMjExNTU1MjY1OSwtMTM0MTg3MTAx
 MiwtOTMzMzE4NjcsLTE4MjAzMjI5MDksMjYzODgzNDgsLTE1Nz
 kwMjk3MDRdfQ==
