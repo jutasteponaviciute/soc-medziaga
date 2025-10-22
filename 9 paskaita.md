@@ -52,6 +52,7 @@ https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNybXdyMTFveG4yZWNnYWFhbHR0YWJ
  - **Memai ir iliustracijos.** Lengvai įsimenamas ir emocingas turinys. Naudojamas žaismingam, artimam tonui kurti, bet svarbu, kad atitiktų prekės ženklo stilių.
  - **Infografikai.** Informaciją perteikiantys vizualai: grafikai, diagramos, struktūros.
 Padeda greitai suprasti sudėtingus dalykus, ypač edukaciniame turinyje.
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/infografiko_pavyzdys.avif)
 
 Norint išsiskirti socialiniuose tinkluose, verta derinti kelis formatus, tačiau išlaikyti vieningą stilių ir toną. Kai turinys vizualiai nuoseklus ir atitinka prekės ženklo identitetą, auditorija jį greičiau atpažįsta ir labiau į jį įsitraukia.
 
@@ -127,6 +128,6 @@ Pavyzdžiuose esantys elementai nurodo, ką vartotojas turėtų daryti toliau, p
 
 -   Socialiniai tinklai yra vizualinio turinio centras, todėl gebėjimas kurti stiprius vizualus yra viena svarbiausių šiuolaikinio komunikacijos specialisto kompetencijų.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjc1NjkzNywyNjM4ODM0OCwtMTU3OT
-AyOTcwNF19
+eyJoaXN0b3J5IjpbLTIxMTI0OTQxOTQsMjYzODgzNDgsLTE1Nz
+kwMjk3MDRdfQ==
 -->
