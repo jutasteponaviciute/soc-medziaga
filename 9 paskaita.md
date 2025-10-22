@@ -281,12 +281,12 @@ Tai padeda greitai pradėti darbą su konkretaus tipo dizainu.
 **5.  Discover Canva (Atraskite Canva)**    
 
 Čia pateikiami naujausi ar rekomenduojami šablonai pagal temą, stilių ar populiarumą. Tai puikus būdas rasti įkvėpimo arba pamatyti naujausias tendencijas platformoje.
-
+![template puslapis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Templates%20puslapis.avif)
 
 ### Brand puslapis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDQyMDY5NiwyMDQxNzI5NzYwLDkzOT
-k1NDIyOSwtMTkzNTE5MjE1NywzMTE2MjMyNDYsLTQxMzQ2NjUw
-LDIxMTU1NTI2NTksLTEzNDE4NzEwMTIsLTkzMzMxODY3LC0xOD
-IwMzIyOTA5LDI2Mzg4MzQ4LC0xNTc5MDI5NzA0XX0=
+eyJoaXN0b3J5IjpbLTExNzU0Nzk0ODgsMjA0MTcyOTc2MCw5Mz
+k5NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1
+MCwyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMzMTg2NywtMT
+gyMDMyMjkwOSwyNjM4ODM0OCwtMTU3OTAyOTcwNF19
 -->
