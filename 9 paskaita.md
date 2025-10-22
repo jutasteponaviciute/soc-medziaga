@@ -229,27 +229,26 @@ Taip pat čia galima nustatyti individualius išmatavimus (Custom size) arba įk
 
 Šioje dalyje galima tvarkyti visus sukurtus ar su komanda bendrinamus dizainus.
 
-1.  Projektų valdymo meniu (Projects sidebar)
+**1.  Projektų valdymo meniu (Projects sidebar)**
 
 -   All projects – visus sukurtus ir bendrinamus projektus.    
 -   Your projects – asmeniškai sukurtus dizainus ir aplankus.    
 -   Shared with you – projektus, kuriuos su jumis pasidalijo kiti vartotojai.    
 -   Available offline – failus, prieinamus be interneto ryšio.
     
-2.  Šiukšlinė (Trash)  
+**2.  Šiukšlinė (Trash)**  
 
 Čia 30 dienų saugomi ištrinti dizainai ir failai. Jei reikia, juos galima atkurti arba visam laikui ištrinti.
 
-3.  Paieškos ir filtravimo juosta    
+**3.  Paieškos ir filtravimo juosta**    
 
 Leidžia greitai rasti konkrečius projektus pagal pavadinimą ar raktinius žodžius. Filtrai leidžia rūšiuoti pagal tipą, kategoriją, savininką ar datą.
 
-4.  Projektų erdvė (Workspace)
-    
+**4. Projektų erdvė (Workspace)**    
 
 Tai pagrindinė darbo zona, kurioje rodomi visi sukurti ar bendrinami projektai. Iš čia galima pradėti naują darbą, pasirinkus Create design arba sukurti naują aplanką (Create folder) dizainų organizavimui.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzIzOTQwLDkzOTk1NDIyOSwtMTkzNT
+eyJoaXN0b3J5IjpbODY5ODU5MjYyLDkzOTk1NDIyOSwtMTkzNT
 E5MjE1NywzMTE2MjMyNDYsLTQxMzQ2NjUwLDIxMTU1NTI2NTks
 LTEzNDE4NzEwMTIsLTkzMzMxODY3LC0xODIwMzIyOTA5LDI2Mz
 g4MzQ4LC0xNTc5MDI5NzA0XX0=
