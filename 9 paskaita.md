@@ -149,14 +149,14 @@ Pavyzdžiuose esantys elementai nurodo, ką vartotojas turėtų daryti toliau, p
 
 # Susipažinkime su Canva!
 
-Canva suteikia galimybę greitai kurti profesionaliai atrodančius vizualus, net jei neturite dizaino išsilavinimo. Šis įrankis leidžia smulkiems verslams ir kūrėjams konkuruoti dėl dėmesio su dideliais prekių ženklais.
+Canva suteikia galimybę greitai kurti profesionaliai atrodančius vizualus, net jei neturite dizaino išsilavinimo. 
 
-Įdomus faktas: net Disney+, airbnb, FedEx ir kt., kai kurių vizualų kūrimui naudoja Canva.
-https://www.youtube.com/watch?v=LupwvXsOQqs&t=2627s
+Įdomus faktas: net Disney+, airbnb, FedEx ir kt., kai kurių vizualų kūrimui naudoja Canva. https://www.youtube.com/watch?v=LupwvXsOQqs&t=2627s
 **Žiūrėti nuo 7:00 iki 8:33**
+## Kas yra Canva?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQxOTkyMDQsLTQxMzQ2NjUwLDIxMT
-U1NTI2NTksLTEzNDE4NzEwMTIsLTkzMzMxODY3LC0xODIwMzIy
-OTA5LDI2Mzg4MzQ4LC0xNTc5MDI5NzA0XX0=
+eyJoaXN0b3J5IjpbLTQ0NDAwMTg4NywtNDEzNDY2NTAsMjExNT
+U1MjY1OSwtMTM0MTg3MTAxMiwtOTMzMzE4NjcsLTE4MjAzMjI5
+MDksMjYzODgzNDgsLTE1NzkwMjk3MDRdfQ==
 -->
