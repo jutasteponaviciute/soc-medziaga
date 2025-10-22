@@ -383,7 +383,7 @@ Viewing– tik peržiūros režimas.
 17.  **Projects** – visi projektai, dizianai, aplankalai ir paveikslėliai. 
 18.  **Apps** – programėlės ir integracijos (Google Drive, Mockups ir kt.).    
 19.  **Asistentas (Magic Assistant)** – Canva AI pagalbininkas, padedantis sukurti tekstus, idėjas ar dizainus.  
-20. 
+
 ### Apatinė juosta
 
 20.  **Notes** – vieta užrašams ar pastaboms, pvz., scenarijui ar pristatymo tekstui.    
@@ -406,10 +406,10 @@ Viewing– tik peržiūros režimas.
 ![dizaino kūrimo langas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Dizaino%20langas.avif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzI0NzUyMiwtMTIwMzMyODQ0NSwtMT
-c1MDE0OTk0MCwxNzUxMTU5Mzk2LDEyODE0MzM1MjIsMjA0MTcy
-OTc2MCw5Mzk5NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC
-00MTM0NjY1MCwyMTE1NTUyNjU5LC0xMzQxODcxMDEyLC05MzMz
-MTg2NywtMTgyMDMyMjkwOSwyNjM4ODM0OCwtMTU3OTAyOTcwNF
-19
+eyJoaXN0b3J5IjpbLTE2OTE5NjI3MzQsLTEyMDMzMjg0NDUsLT
+E3NTAxNDk5NDAsMTc1MTE1OTM5NiwxMjgxNDMzNTIyLDIwNDE3
+Mjk3NjAsOTM5OTU0MjI5LC0xOTM1MTkyMTU3LDMxMTYyMzI0Ni
+wtNDEzNDY2NTAsMjExNTU1MjY1OSwtMTM0MTg3MTAxMiwtOTMz
+MzE4NjcsLTE4MjAzMjI5MDksMjYzODgzNDgsLTE1NzkwMjk3MD
+RdfQ==
 -->
