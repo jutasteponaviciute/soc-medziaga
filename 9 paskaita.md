@@ -553,6 +553,7 @@ Formatai:
 **GIF** (animacijoms);
 - **SVG** (Vektorinis failas - naudingas didelės raiškos iliustracijoms, spausdinimui, nes nepraranda kokybės).
 - **PPTX** (Microsoft PowerPont dokumentas)
+
 ![eksportavimo galimybes](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/eksportavimas.avif)
 
 ### Savo vizualiniu turiniu galite dalintis su kitais
@@ -561,6 +562,7 @@ Skirtingi pasidalinimo būdai:
 -   leidžiama tik peržiūrėti;    
 -   leidžiama tik komentuoti;    
 -   leidžiama redaguoti.
+
 ![dalinimasisi su kitais](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/dalinimasis.avif)
 
 # Praktinės užduotys
@@ -647,7 +649,7 @@ Kaip dizaino elementai (spalvos, šriftai, struktūra) prisideda prie žinutės 
 Ar vizualas atitinka prekės ženklo stilių?   
 -   Įkelkite įrašo nuorodą arba ekrano nuotrauką ir aprašymą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxMjA0NjE2LDExNjQzMzU2ODcsLTEzMD
+eyJoaXN0b3J5IjpbMjk4Mjg0NjgwLDExNjQzMzU2ODcsLTEzMD
 c2NDg2NTEsLTE1MTE1ODU4MTMsMjg3MzY4Mzg0LC00MTg0Mjk2
 NywxMzg2NTA5MjcxLDI1NTUwMjA5OCwxNjgwMjkyODcwLC04Nz
 E5Mzk1MiwxMjY3MjY5NDQxLDE2MTExMTg0MzMsNzgzNDkxNTg5
