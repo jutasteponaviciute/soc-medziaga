@@ -36,11 +36,13 @@ Blogas dizainas:
 -   neaišku, koks jo tikslas;    
 -   neperduoda žinutės arba ją užgožia.
 
+Pavyzdžiui, abiejuose, žemiau pateiktuose, dizainuose trūksta aiškios struktūros ir vizualinės hierarchijos, todėl žiūrovas nežino, kur sutelkti dėmesį. Naudojama per daug spalvų, skirtingų elementų ir šriftų, dėl to bendra žinutė pasimeta. Dizainai atrodo perkrauti, neapibrėžta, kas yra svarbiausia, todėl neaišku, koks jų tikslas ir ką turėtų įsiminti žiūrovas.
+
 ![blogo diziano pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/blogo%20dizaino%20pvz%201.avif)
 ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/blogo%20dizaino%20pvz%202.avif)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTM1NDA1NCw1MzUxMjU0MTQsLTExMz
-ExMDc3ODZdfQ==
+eyJoaXN0b3J5IjpbLTg0MTE1OTczMCwtNzc1MzU0MDU0LDUzNT
+EyNTQxNCwtMTEzMTEwNzc4Nl19
 -->
