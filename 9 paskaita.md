@@ -525,13 +525,14 @@ Canva suteikia platų šriftų pasirinkimą ir galimybę įkelti savo šriftus (
 ### Išsaugojimo ir eksportavimo galimybės
 
 Formatai:
-**PNG** (palaiko skaidrų foną, geresnė kokybė, naudojama logotipams, grafiniams elementams su skaidriu fonu);
-**JPG** (mažesnės apimties failai, tinkami socialiniams tinklams);
-**PDF** (spausdinimui ir dokumentams);
-**MP4** (vaizdo įrašams);
+- **PNG** (palaiko skaidrų foną, geresnė kokybė, naudojama logotipams, grafiniams elementams su skaidriu fonu);
+- **JPG** (mažesnės apimties failai, tinkami socialiniams tinklams);
+- **PDF** (spausdinimui ir dokumentams);
+- **MP4** (vaizdo įrašams);
 **GIF** (animacijoms);
-**SVG** (Vektorinis failas - naudingas didelės raiškos iliustracijoms, spausdinimui, nes nepraranda kokybės).
-**PPTX** (Microsoft PowerPont dokumentas)
+- **SVG** (Vektorinis failas - naudingas didelės raiškos iliustracijoms, spausdinimui, nes nepraranda kokybės).
+- **PPTX** (Microsoft PowerPont dokumentas)
+![eksportavimo galimybes](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/eksportavimas.avif)
 
 ### Savo vizualiniu turiniu galite dalintis su draugas ar kolegomis
 
@@ -545,11 +546,11 @@ Skirtingi pasidalinimo būdai:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODA1MjU5LC00MTg0Mjk2NywxMzg2NT
-A5MjcxLDI1NTUwMjA5OCwxNjgwMjkyODcwLC04NzE5Mzk1Miwx
-MjY3MjY5NDQxLDE2MTExMTg0MzMsNzgzNDkxNTg5LDEzNjc5NT
-E3MTYsLTE0MjkyNTgyNzcsMTcwOTUwNDEyMCwxMzg0MTgwNzcz
-LC05OTgzMjcwNywtMTMzODc4OTIwNSw4MTM0MTQ2NjQsLTEyMD
-MzMjg0NDUsLTE3NTAxNDk5NDAsMTc1MTE1OTM5NiwxMjgxNDMz
-NTIyXX0=
+eyJoaXN0b3J5IjpbLTE0NDU2MDEwODUsLTQxODQyOTY3LDEzOD
+Y1MDkyNzEsMjU1NTAyMDk4LDE2ODAyOTI4NzAsLTg3MTkzOTUy
+LDEyNjcyNjk0NDEsMTYxMTExODQzMyw3ODM0OTE1ODksMTM2Nz
+k1MTcxNiwtMTQyOTI1ODI3NywxNzA5NTA0MTIwLDEzODQxODA3
+NzMsLTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMzQxNDY2NCwtMT
+IwMzMyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5Mzk2LDEyODE0
+MzM1MjJdfQ==
 -->
