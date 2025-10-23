@@ -497,7 +497,8 @@ Prie elementų galima rasti:
 ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Videos.avif)    
 -   Audio (Garsai / Muzika)
 ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Audio.avif)   
--   Forms (Formos)    
+-   Forms (Formos) 
+   
 -   Mockups (Maketai / vizualizacijos)    
 -   Charts (Diagramos)    
 -   Sheets (Lentelės (skaičiuoklės tipo))    
@@ -534,11 +535,11 @@ Skirtingi pasidalinimo būdai:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MTkzOTUyLDEyNjcyNjk0NDEsMTYxMT
-ExODQzMyw3ODM0OTE1ODksMTM2Nzk1MTcxNiwtMTQyOTI1ODI3
-NywxNzA5NTA0MTIwLDEzODQxODA3NzMsLTk5ODMyNzA3LC0xMz
-M4Nzg5MjA1LDgxMzQxNDY2NCwtMTIwMzMyODQ0NSwtMTc1MDE0
-OTk0MCwxNzUxMTU5Mzk2LDEyODE0MzM1MjIsMjA0MTcyOTc2MC
-w5Mzk5NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0
-NjY1MF19
+eyJoaXN0b3J5IjpbOTAyOTI0MTc0LC04NzE5Mzk1MiwxMjY3Mj
+Y5NDQxLDE2MTExMTg0MzMsNzgzNDkxNTg5LDEzNjc5NTE3MTYs
+LTE0MjkyNTgyNzcsMTcwOTUwNDEyMCwxMzg0MTgwNzczLC05OT
+gzMjcwNywtMTMzODc4OTIwNSw4MTM0MTQ2NjQsLTEyMDMzMjg0
+NDUsLTE3NTAxNDk5NDAsMTc1MTE1OTM5NiwxMjgxNDMzNTIyLD
+IwNDE3Mjk3NjAsOTM5OTU0MjI5LC0xOTM1MTkyMTU3LDMxMTYy
+MzI0Nl19
 -->
