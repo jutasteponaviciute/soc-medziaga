@@ -562,7 +562,7 @@ Procesas pažingsniui:
 3.  Iš sąrašo pasirinkite platformą, kuriai kursite vizualą,šiuo atveju, Instagram.    
 4.  Tada spauskite Instagram Post (4:5), kad atsidarytų dizaino kūrimo langas.    
 5.  Pažymėkite dizaino foną – spustelėkite baltą dizaino plotą, kad jis būtų aktyvus.    
-6.  Viršutiniame meniu spauskite spalvų piktogramą (spalvų ratuką).
+6.  Viršutiniame meniu spauskite spalvų piktogramą (spalvų ratuką). ![5-6 ](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/6%205%20zingsnis.avif)
 7.  Įveskite spalvos kodą: #000000    
 8.   Tarp elementų susiraskite Stambulo nuotraukų.    
 9.   Paspauskite ant patinkančios nuotraukos. Kai ji atsiras maketavimo vietoje, spauskite dešinįjį pelės klavišą ir pasirinkite Replace background. 
@@ -590,10 +590,10 @@ Procesas pažingsniui:
 31.  Pasižymim rėmelį.    
 32.  Spaudžiam Position.    
 33.  Pasirenkam Arrange.    
-34.  Suvedam Width: 320px Height: 426px
+34.  Suvedam Width: 320px Height: 426px. ![32-34 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/32-34.avif)
 35. Susikuriam dar du tokius rėmelius, kurių išmatavimai yar Width: 254px Height: 338px.
-36. Ir dar du kurių išmatavimai yar Width: 202px Height: 268px.
-37. Pasižymim visus rėmelius ir uždedam jiems baltus apvedimus.
+36. Ir dar du kurių išmatavimai yar Width: 202px Height: 268px. ![36 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/36%20zingsnis.avif)
+37. Pasižymim visus rėmelius ir uždedam jiems baltus apvedimus. ![37 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/37%20zingsnis.avif)
 38. Tarp elementų susirandam nuotraukas, kurios atspindi temą ir sudedam skirtingas nuotraukas į visus rėmelius.
 ![1 uzduoties rezultatas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/1%20uzduotis.%20rezultatas.avif)
 39. Atsiskaitymui įkelkite PNG formatu išeksportuotą dizainą.
@@ -626,7 +626,7 @@ Kaip dizaino elementai (spalvos, šriftai, struktūra) prisideda prie žinutės 
 Ar vizualas atitinka prekės ženklo stilių?   
 -   Įkelkite įrašo nuorodą arba ekrano nuotrauką ir aprašymą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTk3OTcyMCwtMTUxMTU4NTgxMywyOD
+eyJoaXN0b3J5IjpbLTkwMTI4NTgyMSwtMTUxMTU4NTgxMywyOD
 czNjgzODQsLTQxODQyOTY3LDEzODY1MDkyNzEsMjU1NTAyMDk4
 LDE2ODAyOTI4NzAsLTg3MTkzOTUyLDEyNjcyNjk0NDEsMTYxMT
 ExODQzMyw3ODM0OTE1ODksMTM2Nzk1MTcxNiwtMTQyOTI1ODI3
