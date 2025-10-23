@@ -517,12 +517,16 @@ Prie elementų galima rasti:
 
 ![Forms (Formos) ](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Forms.avif)   
 -   Mockups (Maketai / vizualizacijos)
+
     ![Mockups (Maketai / vizualizacijos)](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Mockups.avif)
 -   Charts (Diagramos) 
+
    ![Charts (Diagramos) ](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Charts.avif)
 -   Sheets (Lentelės (skaičiuoklės tipo)) 
+
   ![Sheets (Lentelės (skaičiuoklės tipo)) ](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Sheets.avif) 
 -   Tables (Lentelės (duomenų išdėstymui))
+
 ![Tables (Lentelės (duomenų išdėstymui))](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Tables.avif)
 
 ### Teksto įrankiai
@@ -643,11 +647,11 @@ Kaip dizaino elementai (spalvos, šriftai, struktūra) prisideda prie žinutės 
 Ar vizualas atitinka prekės ženklo stilių?   
 -   Įkelkite įrašo nuorodą arba ekrano nuotrauką ir aprašymą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTg4Mzc0OCwxMTY0MzM1Njg3LC0xMz
-A3NjQ4NjUxLC0xNTExNTg1ODEzLDI4NzM2ODM4NCwtNDE4NDI5
-NjcsMTM4NjUwOTI3MSwyNTU1MDIwOTgsMTY4MDI5Mjg3MCwtOD
-cxOTM5NTIsMTI2NzI2OTQ0MSwxNjExMTE4NDMzLDc4MzQ5MTU4
-OSwxMzY3OTUxNzE2LC0xNDI5MjU4Mjc3LDE3MDk1MDQxMjAsMT
-M4NDE4MDc3MywtOTk4MzI3MDcsLTEzMzg3ODkyMDUsODEzNDE0
-NjY0XX0=
+eyJoaXN0b3J5IjpbOTAxMjA0NjE2LDExNjQzMzU2ODcsLTEzMD
+c2NDg2NTEsLTE1MTE1ODU4MTMsMjg3MzY4Mzg0LC00MTg0Mjk2
+NywxMzg2NTA5MjcxLDI1NTUwMjA5OCwxNjgwMjkyODcwLC04Nz
+E5Mzk1MiwxMjY3MjY5NDQxLDE2MTExMTg0MzMsNzgzNDkxNTg5
+LDEzNjc5NTE3MTYsLTE0MjkyNTgyNzcsMTcwOTUwNDEyMCwxMz
+g0MTgwNzczLC05OTgzMjcwNywtMTMzODc4OTIwNSw4MTM0MTQ2
+NjRdfQ==
 -->
