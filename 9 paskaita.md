@@ -551,19 +551,19 @@ Tikslas: praktikoje, savarankiškai išbandyti pagrindines funkcijas.
 Šioje užduotyje vertinamas jūsų gebėjimas pritaikyti Canva funkcijas ir atkurti pateiktą maketą. 
 
 - Naudojamos spalvos: #000000 (juoda), #ffffff (balta) ir #ffc0c0 (rožinė).
--Šriftai: Extenda 30 Deca ir Montserrat.
-Nuotraukas tarp elementų reikia susirasti savarankiškai, jos gali skirtis nuo pateiktų pavyzdyje.
+- Šriftai: Extenda 30 Deca ir Montserrat.
+- Nuotraukas tarp elementų reikia susirasti savarankiškai, jos gali skirtis nuo pateiktų pavyzdyje.
 
 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjcxODA3NCwtNDE4NDI5NjcsMTM4Nj
-UwOTI3MSwyNTU1MDIwOTgsMTY4MDI5Mjg3MCwtODcxOTM5NTIs
-MTI2NzI2OTQ0MSwxNjExMTE4NDMzLDc4MzQ5MTU4OSwxMzY3OT
-UxNzE2LC0xNDI5MjU4Mjc3LDE3MDk1MDQxMjAsMTM4NDE4MDc3
-MywtOTk4MzI3MDcsLTEzMzg3ODkyMDUsODEzNDE0NjY0LC0xMj
-AzMzI4NDQ1LC0xNzUwMTQ5OTQwLDE3NTExNTkzOTYsMTI4MTQz
-MzUyMl19
+eyJoaXN0b3J5IjpbLTE0MDAxOTUwMDksLTQxODQyOTY3LDEzOD
+Y1MDkyNzEsMjU1NTAyMDk4LDE2ODAyOTI4NzAsLTg3MTkzOTUy
+LDEyNjcyNjk0NDEsMTYxMTExODQzMyw3ODM0OTE1ODksMTM2Nz
+k1MTcxNiwtMTQyOTI1ODI3NywxNzA5NTA0MTIwLDEzODQxODA3
+NzMsLTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMzQxNDY2NCwtMT
+IwMzMyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5Mzk2LDEyODE0
+MzM1MjJdfQ==
 -->
