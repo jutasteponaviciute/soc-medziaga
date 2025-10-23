@@ -258,14 +258,19 @@ Reikia rinktis 3 spalvas, kurios išsidėsto tokiu procentu:
 -   **30%** – antrinė spalva. Ši spalva gali būti naudojama tekstams ar grafiniams elementams.    
 -   **10%** – akcentinė spalva. Ši spalva skirta pridėti akcentus, pavyzdžiui, raginimus veikti (CTA) ar svarbias žinutes.
   
+  ![spalvu paletes pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/Spalvu%20derinimo%20principas.avif)
+![spalvu paletes pritaikymo pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/spalvu%20paletes%20pritaikymo%20pvz.avif)  
 
 Sukūrus spalvų paletę, būtina patikrinti jos kontrastą ir apibrėžti, kokias kombinacijas galima naudoti.
+
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/kontrasto%20tikrinimas.avif)
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTU4MDg5OSwxMDE4NTA3NCwtMjQ3OD
+eyJoaXN0b3J5IjpbLTQzMzI4NDQ0NCwxMDE4NTA3NCwtMjQ3OD
 g3MDEsLTk5Mjc3MTAxNSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMw
 LC03NzUzNTQwNTQsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
 -->
