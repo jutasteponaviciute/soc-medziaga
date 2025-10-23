@@ -13,8 +13,22 @@ Gero dizaino esmė yra ne tik estetika, o tai, kaip vizualas veikia žmogaus suv
 Geras dizainas padeda pamatyti, suprasti ir veikti.
 
 Jis perteikia žinutę taip, kad žmogus akimirksniu suprastų, apie ką kalba, kodėl tai svarbu ir ką daryti toliau.
+
 ### Kas iš tiesų yra „geras dizainas“?
+
+„Geras dizainas“ gali būti apibūdinamas trimis žodžiais:
+-   Aiškus – žmogus iškart supranta esmę.    
+-   Tikslingas – kiekvienas elementas turi priežastį būti.    
+-   Estetiškas – tvarkingas, vizualiai suderintas, malonus akiai.  
+
+Geras dizainas:
+-   palaiko prekės ženklo stilių ir nuoseklumą;    
+-   perteikia emociją ar vertybę;    
+-   padeda žmogui ne tik pamatyti, bet ir įsitraukti;    
+-   neišblaško dėmesio nuo pagrindinės minties.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTU2OTg3OSw1MzUxMjU0MTQsLTExMz
-ExMDc3ODZdfQ==
+eyJoaXN0b3J5IjpbODgzMzgzNTQzLDUzNTEyNTQxNCwtMTEzMT
+EwNzc4Nl19
 -->
