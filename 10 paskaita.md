@@ -110,12 +110,36 @@ Pavyzdžiai:
 -   Reklama, kur antraštė yra viršuje, vaizdas viduryje, o mygtukas apačioje dešinėje yra Z principo taikymas.    
 -   Naujienlaiškis, kuriame kairėje pusėje logotipas, meniu ar pagrindinės nuorodos yra F principas.
 
+### Vizualinė hierarchija: kaip parodyti, kas svarbiausia? 
 
+Vizualinė hierarchija – tai informacijos išdėstymas pagal svarbą.
+
+Pirmiausia žmogus pamato didžiausią, kontrastingiausią arba ryškiausią elementą.
+
+Todėl labai svarbu aiškiai nustatyti, kas vizuale turi būti „pirmas balsas“.  
+
+Hierarchiją galima kurti per:
+-   dydį (svarbiausi elementai – didesni);
+    
+-   spalvą (ryškesni elementai išsiskiria);
+    
+-   kontrastą (tamsus fonas – šviesus tekstas arba atvirkščiai);
+    
+-   tarpus (jei paliekame erdvės aplink svarbią žinutę – ji tampa labiau matoma);
+    
+-   išdėstymą (aukščiau ar centre – dažnai svarbiausia vieta).
+    
+
+  
+
+Pavyzdžiai:
+
+-   Antraštė didžiausiu šriftu, po ja mažesnis paaiškinimas, o CTA (veiksmo mygtukas) yra aiškiai išskirtas spalva.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTY0MzkzOTcsLTExNzk0NjQwMTksLT
+eyJoaXN0b3J5IjpbLTE1MjQ1NzQ4MjQsLTExNzk0NjQwMTksLT
 g0MTE1OTczMCwtNzc1MzU0MDU0LDUzNTEyNTQxNCwtMTEzMTEw
 Nzc4Nl19
 -->
