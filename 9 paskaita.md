@@ -510,14 +510,17 @@ Prie elementų galima rasti:
 
 ### Teksto įrankiai
 
+Norėdami įterpti tekstą, kairėje įrankių juostoje pasirinkite Text ir spustelėkite Add a text box. Dizaino lange atsiras teksto laukelis, kuriame galite rašyti ir redaguoti tekstą.
 
-![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/tekstas1.avif)
-Teksto pritaikymas:
+![teksto laukelio įterpimas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/tekstas1.avif)
+
+**Teksto pritaikymas:**
 Pritaikykite šriftus, pakeiskite dydį, spalvą, tarpus, paryškinkite, paverskite kursyvu, vienu mygtuko paspaudimu, pakeiskite visas raides į didžiąsias.
 
-Šrifto parinktys:
+**Šrifto parinktys:**
 Canva suteikia platų šriftų pasirinkimą ir galimybę įkelti savo šriftus (Canva Pro vartotojams).
-![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/tekstas2.avif)
+
+![teksto pritaimymas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/tekstas2.avif)
 
 ### Išsaugojimo ir eksportavimo galimybės
 
@@ -542,11 +545,11 @@ Skirtingi pasidalinimo būdai:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1NTAyMDk4LDE2ODAyOTI4NzAsLTg3MT
-kzOTUyLDEyNjcyNjk0NDEsMTYxMTExODQzMyw3ODM0OTE1ODks
-MTM2Nzk1MTcxNiwtMTQyOTI1ODI3NywxNzA5NTA0MTIwLDEzOD
-QxODA3NzMsLTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMzQxNDY2
-NCwtMTIwMzMyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5Mzk2LD
-EyODE0MzM1MjIsMjA0MTcyOTc2MCw5Mzk5NTQyMjksLTE5MzUx
-OTIxNTddfQ==
+eyJoaXN0b3J5IjpbMTM4NjUwOTI3MSwyNTU1MDIwOTgsMTY4MD
+I5Mjg3MCwtODcxOTM5NTIsMTI2NzI2OTQ0MSwxNjExMTE4NDMz
+LDc4MzQ5MTU4OSwxMzY3OTUxNzE2LC0xNDI5MjU4Mjc3LDE3MD
+k1MDQxMjAsMTM4NDE4MDc3MywtOTk4MzI3MDcsLTEzMzg3ODky
+MDUsODEzNDE0NjY0LC0xMjAzMzI4NDQ1LC0xNzUwMTQ5OTQwLD
+E3NTExNTkzOTYsMTI4MTQzMzUyMiwyMDQxNzI5NzYwLDkzOTk1
+NDIyOV19
 -->
