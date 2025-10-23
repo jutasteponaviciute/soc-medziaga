@@ -628,40 +628,40 @@ Procesas pažingsniui:
 24. Prisidedam dar vieną teksto laukelį ir tekstą pakeičiam į „Tai įspūdingas miestas, kuriame susitinka Europa ir Azija, o turtinga istorija, kultūra ir architektūra žavi kiekvieną keliautoją.”    
 25.  Pasirenkame šriftą: Montserrat    
 26.  Parenkame teksto dydį: 21    
-37.  Parenkame teksto spalvą: #ffffff    
-31.  Įsitikiname, kad abiejų žodžių lygiavimas būtų centrinis. 
+27.  Parenkame teksto spalvą: #ffffff    
+28.  Įsitikiname, kad abiejų žodžių lygiavimas būtų centrinis. 
 
 ![28 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/28%20zingsnis.avif)
 
-32. Einame į Elements ir pasirenkame Frame.
+29. Einame į Elements ir pasirenkame Frame.
 
  ![29 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/29%20zingsnis.avif)
 
-33. Susirandame Rounded Square Frame ir paspaudžiame. 
+30. Susirandame Rounded Square Frame ir paspaudžiame. 
 
 ![30 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/30%20zingsnis.avif)
 
-34.  Pasižymim rėmelį.    
-35.  Spaudžiam Position.    
-36.  Pasirenkam Arrange.    
-37.  Suvedam Width: 320px Height: 426px.
+31.  Pasižymim rėmelį.    
+32.  Spaudžiam Position.    
+33.  Pasirenkam Arrange.    
+34.  Suvedam Width: 320px Height: 426px.
 
  ![32-34 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/32-34.avif)
 
-39. Susikuriam dar du tokius rėmelius, kurių išmatavimai yar Width: 254px Height: 338px.
-40. Ir dar du kurių išmatavimai yar Width: 202px Height: 268px.
+35. Susikuriam dar du tokius rėmelius, kurių išmatavimai yar Width: 254px Height: 338px.
+36. Ir dar du kurių išmatavimai yar Width: 202px Height: 268px.
 
  ![36 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/36%20zingsnis.avif)
 
-41. Pasižymim visus rėmelius ir uždedam jiems baltus apvedimus.
+37. Pasižymim visus rėmelius ir uždedam jiems baltus apvedimus.
 
  ![37 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/37%20zingsnis.avif)
 
-42. Tarp elementų susirandam nuotraukas, kurios atspindi temą ir sudedam skirtingas nuotraukas į visus rėmelius.
+38. Tarp elementų susirandam nuotraukas, kurios atspindi temą ir sudedam skirtingas nuotraukas į visus rėmelius.
 
 ![1 uzduoties rezultatas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/1%20uzduotis.%20rezultatas.avif)
 
-42. Atsiskaitymui įkelkite PNG formatu išeksportuotą dizainą.
+39. Atsiskaitymui įkelkite PNG formatu išeksportuotą dizainą.
 
 ### 2 užduotis. Savarankiškas dizaino kūrimas
 
@@ -691,11 +691,11 @@ Kaip dizaino elementai (spalvos, šriftai, struktūra) prisideda prie žinutės 
 Ar vizualas atitinka prekės ženklo stilių?   
 -   Įkelkite įrašo nuorodą arba ekrano nuotrauką ir aprašymą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTI4MzI2OTcsLTIwMDYwODEwMzgsMT
-E1Njg0MDM5OSw5NTIwNzk3LDExNjQzMzU2ODcsLTEzMDc2NDg2
-NTEsLTE1MTE1ODU4MTMsMjg3MzY4Mzg0LC00MTg0Mjk2NywxMz
-g2NTA5MjcxLDI1NTUwMjA5OCwxNjgwMjkyODcwLC04NzE5Mzk1
-MiwxMjY3MjY5NDQxLDE2MTExMTg0MzMsNzgzNDkxNTg5LDEzNj
-c5NTE3MTYsLTE0MjkyNTgyNzcsMTcwOTUwNDEyMCwxMzg0MTgw
-NzczXX0=
+eyJoaXN0b3J5IjpbNzEyMjE2MiwtMjAwNjA4MTAzOCwxMTU2OD
+QwMzk5LDk1MjA3OTcsMTE2NDMzNTY4NywtMTMwNzY0ODY1MSwt
+MTUxMTU4NTgxMywyODczNjgzODQsLTQxODQyOTY3LDEzODY1MD
+kyNzEsMjU1NTAyMDk4LDE2ODAyOTI4NzAsLTg3MTkzOTUyLDEy
+NjcyNjk0NDEsMTYxMTExODQzMyw3ODM0OTE1ODksMTM2Nzk1MT
+cxNiwtMTQyOTI1ODI3NywxNzA5NTA0MTIwLDEzODQxODA3NzNd
+fQ==
 -->
