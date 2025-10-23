@@ -86,37 +86,34 @@ Gera kompozicija:
 -   išryškina svarbiausią informaciją;    
 -   užtikrina estetinę pusiausvyrą tarp visų elementų.    
 
-  
-
 Bloga kompozicija dažnai atrodo chaotiška, nežinai, nuo ko pradėti žiūrėti, o svarbiausia žinutė pasimeta tarp kitų detalių.
 
-Akių kelias: kaip žmogus „skaito“ vaizdą (Z ir F principai). 
+### Akių kelias: kaip žmogus „skaito“ vaizdą (Z ir F principai). 
 
 Žmogaus akys seka tam tikrą kelią, kai žiūri į dizainą.
 
 Svarbu tai žinoti, kad pagrindinę informaciją padėtume ten, kur ji bus pirmiausia pastebėta.
 
-Z principas. Akys juda Z formos keliu:
+![akiu kelio pavyzdziai](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/akiu%20kelio%20pavyzdys.avif)
+
+**Z principas.** Akys juda Z formos keliu:
 iš kairės į dešinę viršuje → įstrižai į apačią → vėl iš kairės į dešinę apačioje.  
 
 Šis principas dažnai taikomas reklamose, plakatuose ir vizualuose, kur reikia greitai perteikti žinutę (pvz., antraštė viršuje, vaizdas centre, CTA apačioje).  
 
-F principas.Akys seka F raidės formą:
+**F principas.** Akys seka F raidės formą:
 žiūrovas pirmiausia peržvelgia viršutinę eilutę, tada antrą, galiausiai akys slenka žemyn kairiąja puse.  
 
 Šis principas dažniausiai naudojamas internetinių svetainių ir naujienlaiškių diziane, svarbiausi elementai dedami kairėje.
-
-  
+ 
 
 Pavyzdžiai:
-
--   Reklama, kur antraštė yra viršuje, vaizdas viduryje, o mygtukas apačioje dešinėje yra Z principo taikymas.
-    
+-   Reklama, kur antraštė yra viršuje, vaizdas viduryje, o mygtukas apačioje dešinėje yra Z principo taikymas.    
 -   Naujienlaiškis, kuriame kairėje pusėje logotipas, meniu ar pagrindinės nuorodos yra F principas.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTQwMjM3NSwtODQxMTU5NzMwLC03Nz
-UzNTQwNTQsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
+eyJoaXN0b3J5IjpbLTExNzk0NjQwMTksLTg0MTE1OTczMCwtNz
+c1MzU0MDU0LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl19
 -->
