@@ -556,78 +556,50 @@ Tikslas: praktikoje, savarankiškai išbandyti pagrindines funkcijas.
 
 Procesas pažingsniui: 
 
-1.  Kairėje pusėje esančiame meniu pasirinkite Create – tai pagrindinis mygtukas, leidžiantis pradėti naujo dizaino kūrimą.
-    
-2.  Atsidariusiame lange pasirinkite Social media kategoriją.
-    
-3.  Iš sąrašo pasirinkite platformą, kuriai kursite vizualą,šiuo atveju, Instagram.
-    
-4.  Tada spauskite Instagram Post (4:5), kad atsidarytų dizaino kūrimo langas.
-    
-5.  Pažymėkite dizaino foną – spustelėkite baltą dizaino plotą, kad jis būtų aktyvus.
-    
+1.  Kairėje pusėje esančiame meniu pasirinkite Create – tai pagrindinis mygtukas, leidžiantis pradėti naujo dizaino kūrimą.    
+2.  Atsidariusiame lange pasirinkite Social media kategoriją.    
+3.  Iš sąrašo pasirinkite platformą, kuriai kursite vizualą,šiuo atveju, Instagram.    
+4.  Tada spauskite Instagram Post (4:5), kad atsidarytų dizaino kūrimo langas.    
+5.  Pažymėkite dizaino foną – spustelėkite baltą dizaino plotą, kad jis būtų aktyvus.    
 6.  Viršutiniame meniu spauskite spalvų piktogramą (spalvų ratuką).
-
-7.  Įveskite spalvos kodą: #000000
-    
-8.   Tarp elementų susiraskite Stambulo nuotraukų.
-    
-9.   Paspauskite ant patinkančios nuotraukos. Kai ji atsiras maketavimo vietoje, spauskite dešinįjį pelės klavišą ir pasirinkite Replace background.
- 
-10.  Kad nuotrauka patamsėtų ir geriau matytųsi kiti elementai, reikia iki 30 sumažinti Transparency.
-    
+7.  Įveskite spalvos kodą: #000000    
+8.   Tarp elementų susiraskite Stambulo nuotraukų.    
+9.   Paspauskite ant patinkančios nuotraukos. Kai ji atsiras maketavimo vietoje, spauskite dešinįjį pelės klavišą ir pasirinkite Replace background. 
+10.  Kad nuotrauka patamsėtų ir geriau matytųsi kiti elementai, reikia iki 30 sumažinti Transparency.    
 11.  Prie teksto spaudžiame Add a heading.
-
-12.  Keičiame tekstą į „Stambule”.
-    
-13.  Pasirenkame šriftą: Extenda 30 Deca
-    
-14.  Parenkame teksto dydį: 200
-    
-15.  Parenkame teksto spalvą: #ffc0c0
-    
+12.  Keičiame tekstą į „Stambule”.    
+13.  Pasirenkame šriftą: Extenda 30 Deca    
+14.  Parenkame teksto dydį: 200    
+15.  Parenkame teksto spalvą: #ffc0c0    
 16.  Paspaudžiame ant šios ikonos, jog visos raidės būtų didžiosios.
-
-17.  Prisidedam dar vieną teksto laukelį ir tekstą pakeičiam į „Apsilankyk”.
-    
-18.  Pasirenkame šriftą: Montserrat
-    
-19.  Parenkame teksto dydį: 37
-    
-20.  Parenkame teksto spalvą: #ffffff
-    
+17.  Prisidedam dar vieną teksto laukelį ir tekstą pakeičiam į „Apsilankyk”.    
+18.  Pasirenkame šriftą: Montserrat    
+19.  Parenkame teksto dydį: 37    
+20.  Parenkame teksto spalvą: #ffffff    
 21.  Pasirenkame parinktį, kuri visas raides padaro didžiosiomis.     
 22.  Pasirenkame, kad tekstas būtų Bold.   
-
 23. Įsitikiname, kad abiejų žodžių lygiavimas būtų centrinis.
-24. Prisidedam dar vieną teksto laukelį ir tekstą pakeičiam į „Tai įspūdingas miestas, kuriame susitinka Europa ir Azija, o turtinga istorija, kultūra ir architektūra žavi kiekvieną keliautoją.”
-    
-25.  Pasirenkame šriftą: Montserrat
-    
-26.  Parenkame teksto dydį: 21
-    
-27.  Parenkame teksto spalvą: #ffffff
-    
+24. Prisidedam dar vieną teksto laukelį ir tekstą pakeičiam į „Tai įspūdingas miestas, kuriame susitinka Europa ir Azija, o turtinga istorija, kultūra ir architektūra žavi kiekvieną keliautoją.”    
+25.  Pasirenkame šriftą: Montserrat    
+26.  Parenkame teksto dydį: 21    
+27.  Parenkame teksto spalvą: #ffffff    
 28.  Įsitikiname, kad abiejų žodžių lygiavimas būtų centrinis.
-
 29. Einame į Elements ir pasirenkame Frame.
-
 30. Susirandame Rounded Square Frame ir paspaudžiame.
-
-31.  Pasižymim rėmelį.
-    
-32.  Spaudžiam Position.
-    
-33.  Pasirenkam Arrange
-    
+31.  Pasižymim rėmelį.    
+32.  Spaudžiam Position.    
+33.  Pasirenkam Arrange.    
 34.  Suvedam Width: 320px Height: 426px
-35. 
+35. Susikuriam dar du tokius rėmelius, kurių išmatavimai yar Width: 254px Height: 338px.
+36. Ir dar du kurių išmatavimai yar Width: 202px Height: 268px.
+37. Pasižymim visus rėmelius ir uždedam jiems baltus apvedimus.
+38. Tarp elementų susirandam nuotraukas, kurios atspindi temą ir sudedam skirtingas nuotraukas į visus rėmelius.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTUyOTg2LDI4NzM2ODM4NCwtNDE4ND
-I5NjcsMTM4NjUwOTI3MSwyNTU1MDIwOTgsMTY4MDI5Mjg3MCwt
-ODcxOTM5NTIsMTI2NzI2OTQ0MSwxNjExMTE4NDMzLDc4MzQ5MT
-U4OSwxMzY3OTUxNzE2LC0xNDI5MjU4Mjc3LDE3MDk1MDQxMjAs
-MTM4NDE4MDc3MywtOTk4MzI3MDcsLTEzMzg3ODkyMDUsODEzND
-E0NjY0LC0xMjAzMzI4NDQ1LC0xNzUwMTQ5OTQwLDE3NTExNTkz
-OTZdfQ==
+eyJoaXN0b3J5IjpbLTE4MjQ3ODcwNDgsMjg3MzY4Mzg0LC00MT
+g0Mjk2NywxMzg2NTA5MjcxLDI1NTUwMjA5OCwxNjgwMjkyODcw
+LC04NzE5Mzk1MiwxMjY3MjY5NDQxLDE2MTExMTg0MzMsNzgzND
+kxNTg5LDEzNjc5NTE3MTYsLTE0MjkyNTgyNzcsMTcwOTUwNDEy
+MCwxMzg0MTgwNzczLC05OTgzMjcwNywtMTMzODc4OTIwNSw4MT
+M0MTQ2NjQsLTEyMDMzMjg0NDUsLTE3NTAxNDk5NDAsMTc1MTE1
+OTM5Nl19
 -->
