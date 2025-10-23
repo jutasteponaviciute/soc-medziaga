@@ -185,26 +185,19 @@ Spalvų reikšmė gali būti sudėtinga ir įvairialypė, o skirtingi atspalviai
 Žalia spalva, pavyzdžiui, dažnai asocijuojasi su gamta ir šviežumu, tačiau jos atspalviai gali turėti skirtingus niuansus: 
 - **Neoninė žalia** simbolizuoja energiją ir modernumą, puikiai tinkanti inovatyviems projektams ir jaunatviškai auditorijai.
 
-Šalavijo žalia perteikia ramybę ir harmoniją, dažnai naudojama sveikatingumo ar ekologiškų prekės ženklų.
+- **Šalavijo žalia** perteikia ramybę ir harmoniją, dažnai naudojama sveikatingumo ar ekologiškų prekės ženklų. 
+- **Tamsi miško žalia** asocijuojasi su stabilumu ir patikimumu, idealiai tinkanti prabangioms prekių ženklams, panašią žalią naudoja Rolex laikrodžiai.
+- **Laimo žalia** simbolizuoja gaivumą ir energiją, perteikdama pozityvumą ir šviežumą, puikiai tinka sveikatingumo srityje, kai tikslinė auditorija yra jaunimas.
+- **Alyvuogių žalia** išreiškia žemiškumą ir natūralumą, tinkančia ekologiškiems ir tvariems prekių ženklams.
 
-  
-
-Tamsi miško žalia asocijuojasi su stabilumu ir patikimumu, idealiai tinkanti prabangioms prekių ženklams, panašią žalią naudoja Rolex laikrodžiai.
-
-  
-
-Laimo žalia simbolizuoja gaivumą ir energiją, perteikdama pozityvumą ir šviežumą, puikiai tinka sveikatingumo srityje, kai tikslinė auditorija yra jaunimas.
-
-  
-
-Alyvuogių žalia išreiškia žemiškumą ir natūralumą, tinkančia ekologiškiems ir tvariems prekių ženklams.
+![skirtingu atspalviu reiksniu pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/spalvu%20reiksme%202.avif)
 
 Renkantis spalvas savo prekės ženklui, svarbu ne tik atsižvelgti į tai, kad jums yra gražu, bet ir į tai, kaip spalvos atspindi jūsų vertybes bei siunčia žinutę auditorijai. Kiekviena spalva gali turėti įtakos vartotojų emocijoms ir sprendimams, todėl kruopščiai apgalvokite, kokią nuotaiką norite sukurti.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTc5NzcxMywtMjQ3ODg3MDEsLTk5Mj
-c3MTAxNSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMwLC03NzUzNTQw
-NTQsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
+eyJoaXN0b3J5IjpbLTE3NDI3NjcwMTcsLTI0Nzg4NzAxLC05OT
+I3NzEwMTUsLTExNzk0NjQwMTksLTg0MTE1OTczMCwtNzc1MzU0
+MDU0LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl19
 -->
