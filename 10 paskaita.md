@@ -130,11 +130,28 @@ Antraštė didžiausiu šriftu, po ja mažesnis paaiškinimas, o CTA (veiksmo my
 
 ![vizualines hierarchijos pavyzdys reklamoje](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/sriftu%20hierarchijos%20pvz.avif)
 
+### Taisyklė: mažiau yra daugiau (balanso ir tuščios erdvės reikšmė). 
+
+Perkrautas dizainas neatrodo įspūdingai, jis tiesiog vargina.
+
+Tuščia erdvė (angl. white space) leidžia akiai pailsėti, padeda pabrėžti tai, kas svarbiausia. 
+
+Balansas yra kai elementai vizuale pasiskirstę tolygiai, nei viena pusė neatrodo „sunkesnė“.
+
+Tai nebūtinai reiškia simetriją, galima išlaikyti pusiausvyrą net ir su skirtingo dydžio formomis. 
+
+Pavyzdžiai: 
+
+-   Tekstas užima vieną pusę, o vizualas užima kitą, tarp jų palikta oro.  
+-   Logotipas ar mygtukas nėra priglaustas prie krašto, aplink palikta erdvės, kad jis „kvėpuotų“.
+
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Mjc3MTAxNSwtMTE3OTQ2NDAxOSwtOD
-QxMTU5NzMwLC03NzUzNTQwNTQsNTM1MTI1NDE0LC0xMTMxMTA3
-Nzg2XX0=
+eyJoaXN0b3J5IjpbLTEzNDIxMzIwMTksLTk5Mjc3MTAxNSwtMT
+E3OTQ2NDAxOSwtODQxMTU5NzMwLC03NzUzNTQwNTQsNTM1MTI1
+NDE0LC0xMTMxMTA3Nzg2XX0=
 -->
