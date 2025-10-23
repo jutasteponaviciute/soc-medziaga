@@ -50,15 +50,18 @@ Dizainas turi būti ne tik gražus, bet ir funkcionalus. Jo tikslas – padėti 
 Jei dizainas atrodo įspūdingai, bet nepadeda suprasti, ką norima pasakyti, jis neatlieka savo pagrindinės funkcijos.  
 
 Pavyzdžiui:
--   Jeigu reklamos fonas toks ryškus, kad užgožia tekstą, žinutė tampa sunkiai įskaitoma.   
-![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/prasto%20skaitomumo%20pvz.avif)
+-   Jeigu reklamos fonas toks ryškus, kad užgožia tekstą, žinutė tampa sunkiai įskaitoma. 
+  
+![prasto skaitomumo del kontrasto pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/prasto%20skaitomumo%20pvz.avif)
 
--   Jei pasirinktas šriftas atrodo įdomiai, bet jį sunku perskaityti, turinys praranda aiškumą.    
+-   Jei pasirinktas šriftas atrodo įdomiai, bet jį sunku perskaityti, turinys praranda aiškumą.
+
+![prasto skaitomumo del srifto pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/sunkaus%20skaitymo%20del%20srifto%20pvz.avif)
 
 Geras dizainas turi padėti išlaikyti pusiausvyrą tarp estetikos ir aiškumo. Jis nukreipia dėmesį į esmę, sustiprina žinutę ir padeda vartotojui ją suprasti greitai.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwMTI2OTI5LC04NDExNTk3MzAsLTc3NT
-M1NDA1NCw1MzUxMjU0MTQsLTExMzExMDc3ODZdfQ==
+eyJoaXN0b3J5IjpbMTkwNTIxNDE2MywtODQxMTU5NzMwLC03Nz
+UzNTQwNTQsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
 -->
