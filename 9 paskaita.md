@@ -549,6 +549,7 @@ Skirtingi pasidalinimo būdai:
 Tikslas: praktikoje, savarankiškai išbandyti pagrindines funkcijas.
 
 Šioje užduotyje vertinamas jūsų gebėjimas pritaikyti Canva funkcijas ir atkurti pateiktą maketą. 
+![1 užduoties rezultato pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/1%20uzduotis.%20Pateikto%20dizaino%20maketo%20atkartojimas.avif)
 
 - Naudojamos spalvos: #000000 (juoda), #ffffff (balta) ir #ffc0c0 (rožinė).
 - Šriftai: Extenda 30 Deca ir Montserrat.
@@ -594,6 +595,7 @@ Procesas pažingsniui:
 36. Ir dar du kurių išmatavimai yar Width: 202px Height: 268px.
 37. Pasižymim visus rėmelius ir uždedam jiems baltus apvedimus.
 38. Tarp elementų susirandam nuotraukas, kurios atspindi temą ir sudedam skirtingas nuotraukas į visus rėmelius.
+![1 uz](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/1%20uzduotis.%20rezultatas.avif)
 39. Atsiskaitymui įkelkite PNG formatu išeksportuotą dizainą.
 
 ### 2 užduotis. Savarankiškas dizaino kūrimas
@@ -624,11 +626,11 @@ Kaip dizaino elementai (spalvos, šriftai, struktūra) prisideda prie žinutės 
 Ar vizualas atitinka prekės ženklo stilių?   
 -   Įkelkite įrašo nuorodą arba ekrano nuotrauką ir aprašymą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTE1ODU4MTMsMjg3MzY4Mzg0LC00MT
-g0Mjk2NywxMzg2NTA5MjcxLDI1NTUwMjA5OCwxNjgwMjkyODcw
-LC04NzE5Mzk1MiwxMjY3MjY5NDQxLDE2MTExMTg0MzMsNzgzND
-kxNTg5LDEzNjc5NTE3MTYsLTE0MjkyNTgyNzcsMTcwOTUwNDEy
-MCwxMzg0MTgwNzczLC05OTgzMjcwNywtMTMzODc4OTIwNSw4MT
-M0MTQ2NjQsLTEyMDMzMjg0NDUsLTE3NTAxNDk5NDAsMTc1MTE1
-OTM5Nl19
+eyJoaXN0b3J5IjpbLTE3MTc3NzcyMTIsLTE1MTE1ODU4MTMsMj
+g3MzY4Mzg0LC00MTg0Mjk2NywxMzg2NTA5MjcxLDI1NTUwMjA5
+OCwxNjgwMjkyODcwLC04NzE5Mzk1MiwxMjY3MjY5NDQxLDE2MT
+ExMTg0MzMsNzgzNDkxNTg5LDEzNjc5NTE3MTYsLTE0MjkyNTgy
+NzcsMTcwOTUwNDEyMCwxMzg0MTgwNzczLC05OTgzMjcwNywtMT
+MzODc4OTIwNSw4MTM0MTQ2NjQsLTEyMDMzMjg0NDUsLTE3NTAx
+NDk5NDBdfQ==
 -->
