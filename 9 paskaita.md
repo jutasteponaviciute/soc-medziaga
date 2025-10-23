@@ -573,13 +573,26 @@ Procesas pažingsniui:
 8.   Tarp elementų susiraskite Stambulo nuotraukų.
     
 9.   Paspauskite ant patinkančios nuotraukos. Kai ji atsiras maketavimo vietoje, spauskite dešinįjį pelės klavišą ir pasirinkite Replace background.
+ 
+10.  Kad nuotrauka patamsėtų ir geriau matytųsi kiti elementai, reikia iki 30 sumažinti Transparency.
+    
+11.  Prie teksto spaudžiame Add a heading.
 
+12.  Keičiame tekstą į „Stambule”.
+    
+13.  Pasirenkame šriftą: Extenda 30 Deca
+    
+14.  Parenkame teksto dydį: 200
+    
+4.  Parenkame teksto spalvą: #ffc0c0
+    
+5.  Paspaudžiame ant šios ikonos, jog visos raidės būtų didžiosios.
 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDgwMTgzNCwtNDE4NDI5NjcsMTM4Nj
+eyJoaXN0b3J5IjpbLTQzMDkwMjI3NywtNDE4NDI5NjcsMTM4Nj
 UwOTI3MSwyNTU1MDIwOTgsMTY4MDI5Mjg3MCwtODcxOTM5NTIs
 MTI2NzI2OTQ0MSwxNjExMTE4NDMzLDc4MzQ5MTU4OSwxMzY3OT
 UxNzE2LC0xNDI5MjU4Mjc3LDE3MDk1MDQxMjAsMTM4NDE4MDc3
