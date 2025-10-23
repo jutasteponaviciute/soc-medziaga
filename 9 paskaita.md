@@ -594,6 +594,7 @@ Procesas pažingsniui:
 36. Ir dar du kurių išmatavimai yar Width: 202px Height: 268px.
 37. Pasižymim visus rėmelius ir uždedam jiems baltus apvedimus.
 38. Tarp elementų susirandam nuotraukas, kurios atspindi temą ir sudedam skirtingas nuotraukas į visus rėmelius.
+39. Atsiskaitymui įkelkite PNG formatu išeksportuotą dizainą.
 
 ### 2 užduotis. Savarankiškas dizaino kūrimas
 
@@ -605,7 +606,7 @@ Sąlygos:
 -   Naudokite bent kelis skirtingus elementus iš Elements skilties;    
 -   Pritaikykite spalvas ir šriftus, pakeiskite jų dydį ir spalvas.    
 -  Dizaino tema laisvai pasirenkama.
-- Įkelkite PNG formatu išeksportuotą dizainą.
+- Atsiskaitymui įkelkite PNG formatu išeksportuotą dizainą.
 
 Pastaba: Vertinamas gebėjimas savarankiškai pritaikyti Canva įrankius ir logiškai komponuoti elementus, o ne pats dizaino grožis ar estetiniai sprendimai.
 
@@ -623,11 +624,11 @@ Kaip dizaino elementai (spalvos, šriftai, struktūra) prisideda prie žinutės 
 Ar vizualas atitinka prekės ženklo stilių?   
 -   Įkelkite įrašo nuorodą arba ekrano nuotrauką ir aprašymą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjkwNjcxNiwyODczNjgzODQsLTQxOD
-QyOTY3LDEzODY1MDkyNzEsMjU1NTAyMDk4LDE2ODAyOTI4NzAs
-LTg3MTkzOTUyLDEyNjcyNjk0NDEsMTYxMTExODQzMyw3ODM0OT
-E1ODksMTM2Nzk1MTcxNiwtMTQyOTI1ODI3NywxNzA5NTA0MTIw
-LDEzODQxODA3NzMsLTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMz
-QxNDY2NCwtMTIwMzMyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5
-Mzk2XX0=
+eyJoaXN0b3J5IjpbLTE1MTE1ODU4MTMsMjg3MzY4Mzg0LC00MT
+g0Mjk2NywxMzg2NTA5MjcxLDI1NTUwMjA5OCwxNjgwMjkyODcw
+LC04NzE5Mzk1MiwxMjY3MjY5NDQxLDE2MTExMTg0MzMsNzgzND
+kxNTg5LDEzNjc5NTE3MTYsLTE0MjkyNTgyNzcsMTcwOTUwNDEy
+MCwxMzg0MTgwNzczLC05OTgzMjcwNywtMTMzODc4OTIwNSw4MT
+M0MTQ2NjQsLTEyMDMzMjg0NDUsLTE3NTAxNDk5NDAsMTc1MTE1
+OTM5Nl19
 -->
