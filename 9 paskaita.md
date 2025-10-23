@@ -525,6 +525,7 @@ Canva suteikia platų šriftų pasirinkimą ir galimybę įkelti savo šriftus (
 ### Išsaugojimo ir eksportavimo galimybės
 
 Formatai:
+
 PNG (palaiko skaidrų foną, geresnė kokybė, naudojama logotipams, grafiniams elementams su skaidriu fonu);
 JPG (mažesnės apimties failai, tinkami socialiniams tinklams);
 PDF (spausdinimui ir dokumentams);
@@ -545,11 +546,11 @@ Skirtingi pasidalinimo būdai:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NjUwOTI3MSwyNTU1MDIwOTgsMTY4MD
-I5Mjg3MCwtODcxOTM5NTIsMTI2NzI2OTQ0MSwxNjExMTE4NDMz
-LDc4MzQ5MTU4OSwxMzY3OTUxNzE2LC0xNDI5MjU4Mjc3LDE3MD
-k1MDQxMjAsMTM4NDE4MDc3MywtOTk4MzI3MDcsLTEzMzg3ODky
-MDUsODEzNDE0NjY0LC0xMjAzMzI4NDQ1LC0xNzUwMTQ5OTQwLD
-E3NTExNTkzOTYsMTI4MTQzMzUyMiwyMDQxNzI5NzYwLDkzOTk1
-NDIyOV19
+eyJoaXN0b3J5IjpbLTQxODQyOTY3LDEzODY1MDkyNzEsMjU1NT
+AyMDk4LDE2ODAyOTI4NzAsLTg3MTkzOTUyLDEyNjcyNjk0NDEs
+MTYxMTExODQzMyw3ODM0OTE1ODksMTM2Nzk1MTcxNiwtMTQyOT
+I1ODI3NywxNzA5NTA0MTIwLDEzODQxODA3NzMsLTk5ODMyNzA3
+LC0xMzM4Nzg5MjA1LDgxMzQxNDY2NCwtMTIwMzMyODQ0NSwtMT
+c1MDE0OTk0MCwxNzUxMTU5Mzk2LDEyODE0MzM1MjIsMjA0MTcy
+OTc2MF19
 -->
