@@ -602,10 +602,11 @@ Tikslas: lavinti gebėjimą naviguoti Canva programoje ir savarankiškai kurti v
 Užduotis: Sukurkite savo dizainą nuo nulio. Tai turi būti Instagram įrašas (4:5). 
 
 Sąlygos:
--   naudokite bent kelis skirtingus elementus iš Elements skilties;    
--   pritaikykite spalvas ir šriftus, pakeiskite jų dydį ir spalvas.    
--   dizaino tema laisvai pasirenkama.
-- 
+-   Naudokite bent kelis skirtingus elementus iš Elements skilties;    
+-   Pritaikykite spalvas ir šriftus, pakeiskite jų dydį ir spalvas.    
+-  Dizaino tema laisvai pasirenkama.
+- Įkelkite PNG formatu išeksportuotą dizainą.
+
 Pastaba: Vertinamas gebėjimas savarankiškai pritaikyti Canva įrankius ir logiškai komponuoti elementus, o ne pats dizaino grožis ar estetiniai sprendimai.
 
 ### 3 užduotis.  Vizualinio turinio analizė
@@ -616,22 +617,17 @@ Užduotis:
 -   Užeikite į pasirinktą socialinį tinklą, skrolinkite naujienų sraute, kol kažkoks vizualas patrauks ir išlaikys jūsų dėmesį.    
 -   Padarykite ekrano nuotrauką su tuo vizualu.    
 -   Atsakykite raštu:   
---Kas patraukė jūsų žvilksnį?
-    
--   Kokią emociją sukėlė vizualas?
-    
--   Kaip dizaino elementai (spalvos, šriftai, struktūra) prisideda prie žinutės aiškumo?
-    
--   Ar vizualas atitinka prekės ženklo stilių?
-    
-
+Kas patraukė jūsų žvilksnį?
+Kokią emociją sukėlė vizualas?
+Kaip dizaino elementai (spalvos, šriftai, struktūra) prisideda prie žinutės aiškumo?
+Ar vizualas atitinka prekės ženklo stilių?   
 -   Įkelkite įrašo nuorodą arba ekrano nuotrauką ir aprašymą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTExMzI2MDIsMjg3MzY4Mzg0LC00MT
-g0Mjk2NywxMzg2NTA5MjcxLDI1NTUwMjA5OCwxNjgwMjkyODcw
-LC04NzE5Mzk1MiwxMjY3MjY5NDQxLDE2MTExMTg0MzMsNzgzND
-kxNTg5LDEzNjc5NTE3MTYsLTE0MjkyNTgyNzcsMTcwOTUwNDEy
-MCwxMzg0MTgwNzczLC05OTgzMjcwNywtMTMzODc4OTIwNSw4MT
-M0MTQ2NjQsLTEyMDMzMjg0NDUsLTE3NTAxNDk5NDAsMTc1MTE1
-OTM5Nl19
+eyJoaXN0b3J5IjpbLTQzNjkwNjcxNiwyODczNjgzODQsLTQxOD
+QyOTY3LDEzODY1MDkyNzEsMjU1NTAyMDk4LDE2ODAyOTI4NzAs
+LTg3MTkzOTUyLDEyNjcyNjk0NDEsMTYxMTExODQzMyw3ODM0OT
+E1ODksMTM2Nzk1MTcxNiwtMTQyOTI1ODI3NywxNzA5NTA0MTIw
+LDEzODQxODA3NzMsLTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMz
+QxNDY2NCwtMTIwMzMyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5
+Mzk2XX0=
 -->
