@@ -489,10 +489,14 @@ Prie elementų galima rasti:
     ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Stickers.avif)
 -   Photos (Nuotraukos)
     ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Photos.avif)
--   Frames (Rėmeliai)    
--   Grids (Tinkleliai)    
--   Videos (Vaizdo įrašai)    
--   Audio (Garsai / Muzika)    
+-   Frames (Rėmeliai) 
+   ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Frames.avif)
+-   Grids (Tinkleliai)   
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Grids.avif) 
+-   Videos (Vaizdo įrašai)
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Videos.avif)    
+-   Audio (Garsai / Muzika)
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Audio.avif)   
 -   Forms (Formos)    
 -   Mockups (Maketai / vizualizacijos)    
 -   Charts (Diagramos)    
@@ -530,11 +534,11 @@ Skirtingi pasidalinimo būdai:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzUyNTQzOSwxMjY3MjY5NDQxLDE2MT
-ExMTg0MzMsNzgzNDkxNTg5LDEzNjc5NTE3MTYsLTE0MjkyNTgy
-NzcsMTcwOTUwNDEyMCwxMzg0MTgwNzczLC05OTgzMjcwNywtMT
-MzODc4OTIwNSw4MTM0MTQ2NjQsLTEyMDMzMjg0NDUsLTE3NTAx
-NDk5NDAsMTc1MTE1OTM5NiwxMjgxNDMzNTIyLDIwNDE3Mjk3Nj
-AsOTM5OTU0MjI5LC0xOTM1MTkyMTU3LDMxMTYyMzI0NiwtNDEz
-NDY2NTBdfQ==
+eyJoaXN0b3J5IjpbLTg3MTkzOTUyLDEyNjcyNjk0NDEsMTYxMT
+ExODQzMyw3ODM0OTE1ODksMTM2Nzk1MTcxNiwtMTQyOTI1ODI3
+NywxNzA5NTA0MTIwLDEzODQxODA3NzMsLTk5ODMyNzA3LC0xMz
+M4Nzg5MjA1LDgxMzQxNDY2NCwtMTIwMzMyODQ0NSwtMTc1MDE0
+OTk0MCwxNzUxMTU5Mzk2LDEyODE0MzM1MjIsMjA0MTcyOTc2MC
+w5Mzk5NTQyMjksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0
+NjY1MF19
 -->
