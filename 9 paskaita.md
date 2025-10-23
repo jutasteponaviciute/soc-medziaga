@@ -602,22 +602,19 @@ Tikslas: lavinti gebėjimą naviguoti Canva programoje ir savarankiškai kurti v
 Užduotis: Sukurkite savo dizainą nuo nulio. Tai turi būti Instagram įrašas (4:5). 
 
 Sąlygos:
--   naudokite bent kelis skirtingus elementus iš „Elements“ skilties;    
--   pritaikykite spalvas ir šriftus, pakeiskite jų dydį ir spavas.    
--   kūrinio tema laisvai pasirenkama.
-    
+-   naudokite bent kelis skirtingus elementus iš Elements skilties;    
+-   pritaikykite spalvas ir šriftus, pakeiskite jų dydį ir spalvas.    
+-   dizaino tema laisvai pasirenkama.
+- 
+Pastaba: Vertinamas gebėjimas savarankiškai pritaikyti Canva įrankius ir logiškai komponuoti elementus, o ne pats dizaino grožis ar estetiniai sprendimai.
 
-  
-
-Pastaba:
-
-Vertinamas gebėjimas savarankiškai pritaikyti Canva įrankius ir logiškai komponuoti elementus, o ne pats dizaino grožis ar estetiniai sprendimai.
+### 3 užduotis. **Savarankiškas dizaino kūrimas**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTc1MTcxNywyODczNjgzODQsLTQxOD
-QyOTY3LDEzODY1MDkyNzEsMjU1NTAyMDk4LDE2ODAyOTI4NzAs
-LTg3MTkzOTUyLDEyNjcyNjk0NDEsMTYxMTExODQzMyw3ODM0OT
-E1ODksMTM2Nzk1MTcxNiwtMTQyOTI1ODI3NywxNzA5NTA0MTIw
-LDEzODQxODA3NzMsLTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMz
-QxNDY2NCwtMTIwMzMyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5
-Mzk2XX0=
+eyJoaXN0b3J5IjpbLTE5MTM0NTQ2MTQsMjg3MzY4Mzg0LC00MT
+g0Mjk2NywxMzg2NTA5MjcxLDI1NTUwMjA5OCwxNjgwMjkyODcw
+LC04NzE5Mzk1MiwxMjY3MjY5NDQxLDE2MTExMTg0MzMsNzgzND
+kxNTg5LDEzNjc5NTE3MTYsLTE0MjkyNTgyNzcsMTcwOTUwNDEy
+MCwxMzg0MTgwNzczLC05OTgzMjcwNywtMTMzODc4OTIwNSw4MT
+M0MTQ2NjQsLTEyMDMzMjg0NDUsLTE3NTAxNDk5NDAsMTc1MTE1
+OTM5Nl19
 -->
