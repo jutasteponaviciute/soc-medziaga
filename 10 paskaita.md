@@ -151,34 +151,29 @@ Pavyzdžiai:
 
 Ašis – tai nematoma linija, pagal kurią išdėstomi elementai, kad dizainas atrodytų tvarkingai. Dauguma dizainų turi vertikalią arba horizontalią ašį, tai padeda išlaikyti struktūrą.  
 
-Proporcijos – ryšys tarp elementų dydžių. Kai vienas elementas per didelis arba per mažas, jis išbalansuoja visą vaizdą.
-  
+Proporcijos – ryšys tarp elementų dydžių. Kai vienas elementas per didelis arba per mažas, jis išbalansuoja visą vaizdą. 
 
-Simetrija – sukuria ramybės ir tvarkos įspūdį.
+Simetrija – sukuria ramybės ir tvarkos įspūdį. 
 
-  
-
-Asimetrija – suteikia judesio, energijos ir šiuolaikiškumo.
-
-  
+Asimetrija – suteikia judesio, energijos ir šiuolaikiškumo. 
 
 Abu principai geri, svarbiausia yra pasirinkti pagal tikslą.
 
-  
-
 Pavyzdžiai:
-
-  
-
 -   Minimalistinis vizualas su centruotu tekstu – simetriškas dizainas.
-    
+
+![simetrisko diziano pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/simetrisko%20diziano%20pvz.avif)    
 
 -   Reklama su vizualu vienoje pusėje ir tekstu kitoje. Asimetriškas, bet subalansuotas dizainas.
+
+![asimetrisko dizaino pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/asimetrisko%20diziano%20pvz.avif)
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTc2MTIwOCwtMjQ3ODg3MDEsLTk5Mj
-c3MTAxNSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMwLC03NzUzNTQw
-NTQsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
+eyJoaXN0b3J5IjpbMzgyMzAyNjY0LC0yNDc4ODcwMSwtOTkyNz
+cxMDE1LC0xMTc5NDY0MDE5LC04NDExNTk3MzAsLTc3NTM1NDA1
+NCw1MzUxMjU0MTQsLTExMzExMDc3ODZdfQ==
 -->
