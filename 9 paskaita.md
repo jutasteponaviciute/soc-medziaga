@@ -572,7 +572,7 @@ Procesas pažingsniui:
 13.  Pasirenkame šriftą: Extenda 30 Deca    
 14.  Parenkame teksto dydį: 200    
 15.  Parenkame teksto spalvą: #ffc0c0    
-16.  Paspaudžiame ant šios ikonos, jog visos raidės būtų didžiosios. 
+16.  Paspaudžiame ant šios ikonos, jog visos raidės būtų didžiosios. ![12-16 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/12-16%20zingsnis.avif)
 17.  Prisidedam dar vieną teksto laukelį ir tekstą pakeičiam į „Apsilankyk”.    
 18.  Pasirenkame šriftą: Montserrat    
 19.  Parenkame teksto dydį: 37    
@@ -584,9 +584,9 @@ Procesas pažingsniui:
 25.  Pasirenkame šriftą: Montserrat    
 26.  Parenkame teksto dydį: 21    
 27.  Parenkame teksto spalvą: #ffffff    
-28.  Įsitikiname, kad abiejų žodžių lygiavimas būtų centrinis.
-29. Einame į Elements ir pasirenkame Frame.
-30. Susirandame Rounded Square Frame ir paspaudžiame.
+28.  Įsitikiname, kad abiejų žodžių lygiavimas būtų centrinis. ![28 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/28%20zingsnis.avif)
+29. Einame į Elements ir pasirenkame Frame.![29 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/29%20zingsnis.avif)
+30. Susirandame Rounded Square Frame ir paspaudžiame. ![30 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/30%20zingsnis.avif)
 31.  Pasižymim rėmelį.    
 32.  Spaudžiam Position.    
 33.  Pasirenkam Arrange.    
@@ -626,7 +626,7 @@ Kaip dizaino elementai (spalvos, šriftai, struktūra) prisideda prie žinutės 
 Ar vizualas atitinka prekės ženklo stilių?   
 -   Įkelkite įrašo nuorodą arba ekrano nuotrauką ir aprašymą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDc5OTM3NCwtMTUxMTU4NTgxMywyOD
+eyJoaXN0b3J5IjpbLTE0OTk3OTcyMCwtMTUxMTU4NTgxMywyOD
 czNjgzODQsLTQxODQyOTY3LDEzODY1MDkyNzEsMjU1NTAyMDk4
 LDE2ODAyOTI4NzAsLTg3MTkzOTUyLDEyNjcyNjk0NDEsMTYxMT
 ExODQzMyw3ODM0OTE1ODksMTM2Nzk1MTcxNiwtMTQyOTI1ODI3
