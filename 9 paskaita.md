@@ -600,12 +600,33 @@ Procesas pažingsniui:
 22.  Pasirenkame, kad tekstas būtų Bold.   
 
 23. Įsitikiname, kad abiejų žodžių lygiavimas būtų centrinis.
+24. Prisidedam dar vieną teksto laukelį ir tekstą pakeičiam į „Tai įspūdingas miestas, kuriame susitinka Europa ir Azija, o turtinga istorija, kultūra ir architektūra žavi kiekvieną keliautoją.”
+    
+25.  Pasirenkame šriftą: Montserrat
+    
+26.  Parenkame teksto dydį: 21
+    
+27.  Parenkame teksto spalvą: #ffffff
+    
+28.  Įsitikiname, kad abiejų žodžių lygiavimas būtų centrinis.
+
+29. Einame į Elements ir pasirenkame Frame.
+
+30. Susirandame Rounded Square Frame ir paspaudžiame.
+
+31.  Pasižymim rėmelį.
+    
+32.  Spaudžiam Position.
+    
+33.  Pasirenkam Arrange
+    
+34.  Suvedam Width: 320px Height: 426px
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2NjU0NzYsLTQxODQyOTY3LDEzODY1MD
-kyNzEsMjU1NTAyMDk4LDE2ODAyOTI4NzAsLTg3MTkzOTUyLDEy
-NjcyNjk0NDEsMTYxMTExODQzMyw3ODM0OTE1ODksMTM2Nzk1MT
-cxNiwtMTQyOTI1ODI3NywxNzA5NTA0MTIwLDEzODQxODA3NzMs
-LTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMzQxNDY2NCwtMTIwMz
-MyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5Mzk2LDEyODE0MzM1
-MjJdfQ==
+eyJoaXN0b3J5IjpbMjg3MzY4Mzg0LC00MTg0Mjk2NywxMzg2NT
+A5MjcxLDI1NTUwMjA5OCwxNjgwMjkyODcwLC04NzE5Mzk1Miwx
+MjY3MjY5NDQxLDE2MTExMTg0MzMsNzgzNDkxNTg5LDEzNjc5NT
+E3MTYsLTE0MjkyNTgyNzcsMTcwOTUwNDEyMCwxMzg0MTgwNzcz
+LC05OTgzMjcwNywtMTMzODc4OTIwNSw4MTM0MTQ2NjQsLTEyMD
+MzMjg0NDUsLTE3NTAxNDk5NDAsMTc1MTE1OTM5NiwxMjgxNDMz
+NTIyXX0=
 -->
