@@ -587,17 +587,21 @@ Procesas pažingsniui:
 4.  Tada spauskite Instagram Post (4:5), kad atsidarytų dizaino kūrimo langas.    
 5.  Pažymėkite dizaino foną – spustelėkite baltą dizaino plotą, kad jis būtų aktyvus.    
 6.  Viršutiniame meniu spauskite spalvų piktogramą (spalvų ratuką). 
+
 ![5-6 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/6%205%20zingsnis.avif)
+
 7.  Įveskite spalvos kodą: #000000
+
   ![7 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/7%20zingsnis.avif)  
+
 8.   Tarp elementų susiraskite Stambulo nuotraukų. 
  ![8 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/8%20zingsnis.avif)    
-9.   Paspauskite ant patinkančios nuotraukos. Kai ji atsiras maketavimo vietoje, spauskite dešinįjį pelės klavišą ir pasirinkite Replace background. 
+10.   Paspauskite ant patinkančios nuotraukos. Kai ji atsiras maketavimo vietoje, spauskite dešinįjį pelės klavišą ir pasirinkite Replace background. 
  
 ![9 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/9%20zingsnis.avif)
-10.  Kad nuotrauka patamsėtų ir geriau matytųsi kiti elementai, reikia iki 30 sumažinti Transparency. 
+11.  Kad nuotrauka patamsėtų ir geriau matytųsi kiti elementai, reikia iki 30 sumažinti Transparency. 
  ![10 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/10%20zingsnis.avif)    
-11.  Prie teksto spaudžiame Add a heading. 
+12.  Prie teksto spaudžiame Add a heading. 
  ![11 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/11%20zingsnis.avif)
 13.  Keičiame tekstą į „Stambule”.    
 14.  Pasirenkame šriftą: Extenda 30 Deca    
@@ -657,11 +661,11 @@ Kaip dizaino elementai (spalvos, šriftai, struktūra) prisideda prie žinutės 
 Ar vizualas atitinka prekės ženklo stilių?   
 -   Įkelkite įrašo nuorodą arba ekrano nuotrauką ir aprašymą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyMDc5NywxMTY0MzM1Njg3LC0xMzA3Nj
-Q4NjUxLC0xNTExNTg1ODEzLDI4NzM2ODM4NCwtNDE4NDI5Njcs
-MTM4NjUwOTI3MSwyNTU1MDIwOTgsMTY4MDI5Mjg3MCwtODcxOT
-M5NTIsMTI2NzI2OTQ0MSwxNjExMTE4NDMzLDc4MzQ5MTU4OSwx
-MzY3OTUxNzE2LC0xNDI5MjU4Mjc3LDE3MDk1MDQxMjAsMTM4ND
-E4MDc3MywtOTk4MzI3MDcsLTEzMzg3ODkyMDUsODEzNDE0NjY0
-XX0=
+eyJoaXN0b3J5IjpbLTIwNDczODEyNTMsOTUyMDc5NywxMTY0Mz
+M1Njg3LC0xMzA3NjQ4NjUxLC0xNTExNTg1ODEzLDI4NzM2ODM4
+NCwtNDE4NDI5NjcsMTM4NjUwOTI3MSwyNTU1MDIwOTgsMTY4MD
+I5Mjg3MCwtODcxOTM5NTIsMTI2NzI2OTQ0MSwxNjExMTE4NDMz
+LDc4MzQ5MTU4OSwxMzY3OTUxNzE2LC0xNDI5MjU4Mjc3LDE3MD
+k1MDQxMjAsMTM4NDE4MDc3MywtOTk4MzI3MDcsLTEzMzg3ODky
+MDVdfQ==
 -->
