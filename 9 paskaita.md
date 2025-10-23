@@ -636,17 +636,27 @@ Procesas pažingsniui:
  ![29 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/29%20zingsnis.avif)
 
 33. Susirandame Rounded Square Frame ir paspaudžiame. 
-34. ![30 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/30%20zingsnis.avif)
-35.  Pasižymim rėmelį.    
-36.  Spaudžiam Position.    
-37.  Pasirenkam Arrange.    
-38.  Suvedam Width: 320px Height: 426px. ![32-34 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/32-34.avif)
-39. Susikuriam dar du tokius rėmelius, kurių išmatavimai yar Width: 254px Height: 338px.
-40. Ir dar du kurių išmatavimai yar Width: 202px Height: 268px. ![36 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/36%20zingsnis.avif)
-41. Pasižymim visus rėmelius ir uždedam jiems baltus apvedimus. ![37 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/37%20zingsnis.avif)
-42. Tarp elementų susirandam nuotraukas, kurios atspindi temą ir sudedam skirtingas nuotraukas į visus rėmelius.
+
+![30 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/30%20zingsnis.avif)
+
+34.  Pasižymim rėmelį.    
+35.  Spaudžiam Position.    
+36.  Pasirenkam Arrange.    
+37.  Suvedam Width: 320px Height: 426px.
+ ![32-34 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/32-34.avif)
+
+38. Susikuriam dar du tokius rėmelius, kurių išmatavimai yar Width: 254px Height: 338px.
+39. Ir dar du kurių išmatavimai yar Width: 202px Height: 268px.
+ ![36 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/36%20zingsnis.avif)
+
+40. Pasižymim visus rėmelius ir uždedam jiems baltus apvedimus.
+ ![37 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/37%20zingsnis.avif)
+
+41. Tarp elementų susirandam nuotraukas, kurios atspindi temą ir sudedam skirtingas nuotraukas į visus rėmelius.
+
 ![1 uzduoties rezultatas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/1%20uzduotis.%20rezultatas.avif)
-43. Atsiskaitymui įkelkite PNG formatu išeksportuotą dizainą.
+
+42. Atsiskaitymui įkelkite PNG formatu išeksportuotą dizainą.
 
 ### 2 užduotis. Savarankiškas dizaino kūrimas
 
@@ -676,7 +686,7 @@ Kaip dizaino elementai (spalvos, šriftai, struktūra) prisideda prie žinutės 
 Ar vizualas atitinka prekės ženklo stilių?   
 -   Įkelkite įrašo nuorodą arba ekrano nuotrauką ir aprašymą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTYwMzczMiw5NTIwNzk3LDExNjQzMz
+eyJoaXN0b3J5IjpbMTE1Njg0MDM5OSw5NTIwNzk3LDExNjQzMz
 U2ODcsLTEzMDc2NDg2NTEsLTE1MTE1ODU4MTMsMjg3MzY4Mzg0
 LC00MTg0Mjk2NywxMzg2NTA5MjcxLDI1NTUwMjA5OCwxNjgwMj
 kyODcwLC04NzE5Mzk1MiwxMjY3MjY5NDQxLDE2MTExMTg0MzMs
