@@ -496,17 +496,17 @@ Prie elementų galima rasti:
 -   Videos (Vaizdo įrašai)
 ![Videos (Vaizdo įrašai)](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Videos.avif)    
 -   Audio (Garsai / Muzika)
-![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Audio.avif)   
+![Audio (Garsai / Muzika)](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Audio.avif)   
 -   Forms (Formos) 
-![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Forms.avif)   
+![Forms (Formos) ](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Forms.avif)   
 -   Mockups (Maketai / vizualizacijos)
-    ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Mockups.avif)
+    ![Mockups (Maketai / vizualizacijos)](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Mockups.avif)
 -   Charts (Diagramos) 
-   ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Charts.avif)
+   ![Charts (Diagramos) ](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Charts.avif)
 -   Sheets (Lentelės (skaičiuoklės tipo)) 
-  ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Sheets.avif) 
+  ![Sheets (Lentelės (skaičiuoklės tipo)) ](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Sheets.avif) 
 -   Tables (Lentelės (duomenų išdėstymui))
-![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Tables.avif)
+![Tables (Lentelės (duomenų išdėstymui))](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Tables.avif)
 
 ### Teksto įrankiai
 
@@ -539,11 +539,11 @@ Skirtingi pasidalinimo būdai:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTY4MzQ1NCwxNjgwMjkyODcwLC04Nz
-E5Mzk1MiwxMjY3MjY5NDQxLDE2MTExMTg0MzMsNzgzNDkxNTg5
-LDEzNjc5NTE3MTYsLTE0MjkyNTgyNzcsMTcwOTUwNDEyMCwxMz
-g0MTgwNzczLC05OTgzMjcwNywtMTMzODc4OTIwNSw4MTM0MTQ2
-NjQsLTEyMDMzMjg0NDUsLTE3NTAxNDk5NDAsMTc1MTE1OTM5Ni
-wxMjgxNDMzNTIyLDIwNDE3Mjk3NjAsOTM5OTU0MjI5LC0xOTM1
-MTkyMTU3XX0=
+eyJoaXN0b3J5IjpbLTEyMTQ5ODQyMzksMTY4MDI5Mjg3MCwtOD
+cxOTM5NTIsMTI2NzI2OTQ0MSwxNjExMTE4NDMzLDc4MzQ5MTU4
+OSwxMzY3OTUxNzE2LC0xNDI5MjU4Mjc3LDE3MDk1MDQxMjAsMT
+M4NDE4MDc3MywtOTk4MzI3MDcsLTEzMzg3ODkyMDUsODEzNDE0
+NjY0LC0xMjAzMzI4NDQ1LC0xNzUwMTQ5OTQwLDE3NTExNTkzOT
+YsMTI4MTQzMzUyMiwyMDQxNzI5NzYwLDkzOTk1NDIyOSwtMTkz
+NTE5MjE1N119
 -->
