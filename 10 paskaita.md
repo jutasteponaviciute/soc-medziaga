@@ -27,8 +27,9 @@ Geras dizainas:
 -   padeda žmogui ne tik pamatyti, bet ir įsitraukti;    
 -   neišblaško dėmesio nuo pagrindinės minties.
 
-
+![Gero diziano pavyzdys Adobe](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/gero%20dizaino%20pvz%201.avif)
+![Gero diziano pavyzdys Canva](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/gero%20dizaino%20pvz%202.avif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgzMzgzNTQzLDUzNTEyNTQxNCwtMTEzMT
-EwNzc4Nl19
+eyJoaXN0b3J5IjpbLTEyMTY1NTcxMjQsNTM1MTI1NDE0LC0xMT
+MxMTA3Nzg2XX0=
 -->
