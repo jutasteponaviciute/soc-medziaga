@@ -509,6 +509,8 @@ Prie elementų galima rasti:
 ![Tables (Lentelės (duomenų išdėstymui))](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Tables.avif)
 
 ### Teksto įrankiai
+
+
 ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/tekstas1.avif)
 Teksto pritaikymas:
 Pritaikykite šriftus, pakeiskite dydį, spalvą, tarpus, paryškinkite, paverskite kursyvu, vienu mygtuko paspaudimu, pakeiskite visas raides į didžiąsias.
@@ -540,7 +542,7 @@ Skirtingi pasidalinimo būdai:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzcyMDc4LDE2ODAyOTI4NzAsLTg3MT
+eyJoaXN0b3J5IjpbMjU1NTAyMDk4LDE2ODAyOTI4NzAsLTg3MT
 kzOTUyLDEyNjcyNjk0NDEsMTYxMTExODQzMyw3ODM0OTE1ODks
 MTM2Nzk1MTcxNiwtMTQyOTI1ODI3NywxNzA5NTA0MTIwLDEzOD
 QxODA3NzMsLTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMzQxNDY2
