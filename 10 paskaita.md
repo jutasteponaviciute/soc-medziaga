@@ -60,8 +60,21 @@ Pavyzdžiui:
 
 Geras dizainas turi padėti išlaikyti pusiausvyrą tarp estetikos ir aiškumo. Jis nukreipia dėmesį į esmę, sustiprina žinutę ir padeda vartotojui ją suprasti greitai.
 
+### Kaip dizainas padeda išlaikyti prekės ženklo vientisumą?
+
+Vientisas dizainas yra tarsi vizualinė tapatybė, kuri atpažįstama net be logotipo. Kai prekės ženklas nuosekliai naudoja tas pačias spalvas, šriftus, kompoziciją ir toną, auditorija pradeda jį atpažinti automatiškai.
+
+Pavyzdžiui, „Telia“ iškart siejasi su violetine spalva ir švariu, minimalistiniu stiliumi.
+„Lidl“ atpažįstamas iš ryškių geltonos, mėlynos ir raudonos spalvų kontrasto.
+Tokie vizualiniai sprendimai leidžia kurti ryšį su vartotoju, nes kiekvieną kartą matydamas turinį, jis žino, kas kalba.
+
+
+
+Vientisumas dizainuose taip pat kuria profesionalumo įspūdį. Kai skirtingos kampanijos ar įrašai atrodo darniai, tai rodo, kad prekės ženklas rūpinasi detalėmis, planuoja ir laikosi savo vertybių.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTIxNDE2MywtODQxMTU5NzMwLC03Nz
-UzNTQwNTQsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
+eyJoaXN0b3J5IjpbNTc2NTYwNTgwLC04NDExNTk3MzAsLTc3NT
+M1NDA1NCw1MzUxMjU0MTQsLTExMzExMDc3ODZdfQ==
 -->
