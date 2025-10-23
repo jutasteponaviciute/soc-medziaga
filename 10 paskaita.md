@@ -36,8 +36,11 @@ Blogas dizainas:
 -   neaišku, koks jo tikslas;    
 -   neperduoda žinutės arba ją užgožia.
 
+![blogo diziano pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/blogo%20dizaino%20pvz%201.avif)
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/blogo%20dizaino%20pvz%202.avif)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTA1OTExLDUzNTEyNTQxNCwtMTEzMT
-EwNzc4Nl19
+eyJoaXN0b3J5IjpbLTc3NTM1NDA1NCw1MzUxMjU0MTQsLTExMz
+ExMDc3ODZdfQ==
 -->
