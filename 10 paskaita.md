@@ -246,25 +246,18 @@ Ar jis:
 -   Energingas ir drąsus? Tiks ryškūs, kontrastingi deriniai (pvz., oranžinė + juoda, mėlyna + geltona).    
 -   Ramus ir profesionalus? Tiks šaltos ar neutralios spalvos (pvz., tamsiai mėlyna, pilka, balta).    
 -   Kūrybiškas, jaunatviškas, žaismingas? Galima rinktis pastelinius tonus ar netikėtus derinius (pvz., mėtų žalia + violetinė).    
--   Natūralus ar tvarus? Dominuoja žemės tonai – žalsva, ruda, smėlio, švelniai pilka.    
+-   Natūralus ar tvarus? Dominuoja žemės tonai – žalsva, ruda, smėlio, švelniai pilka.  
 
-  
-  
-
-Spalvų derinimo principas 60%, 30%, 10%
-
+### Spalvų derinimo principas 60%, 30%, 10%
   
 
 Yra tokia ganėtinai paprasta taisyklė, kuri padeda sukurti FUNKCIONALIĄ spalvų paletę.
 
 Reikia rinktis 3 spalvas, kurios išsidėsto tokiu procentu:
-
--   60% – pagrindinė spalva. Ji gali būti naudojama kaip fono spalva jūsų maketuose.
-    
--   30% – antrinė spalva. Ši spalva gali būti naudojama tekstams ar grafiniams elementams.
-    
--   10% – akcentinė spalva. Ši spalva skirta pridėti akcentus, pavyzdžiui, raginimus veikti (CTA) ar svarbias žinutes.
-    
+-   **60%** – pagrindinė spalva. Ji gali būti naudojama kaip fono spalva jūsų maketuose.    
+-   **30%** – antrinė spalva. Ši spalva gali būti naudojama tekstams ar grafiniams elementams.    
+-   **10%** – akcentinė spalva. Ši spalva skirta pridėti akcentus, pavyzdžiui, raginimus veikti (CTA) ar svarbias žinutes.
+  
 
 Sukūrus spalvų paletę, būtina patikrinti jos kontrastą ir apibrėžti, kokias kombinacijas galima naudoti.
 
@@ -272,7 +265,7 @@ Sukūrus spalvų paletę, būtina patikrinti jos kontrastą ir apibrėžti, koki
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTE4ODAxOCwxMDE4NTA3NCwtMjQ3OD
+eyJoaXN0b3J5IjpbLTY1OTU4MDg5OSwxMDE4NTA3NCwtMjQ3OD
 g3MDEsLTk5Mjc3MTAxNSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMw
 LC03NzUzNTQwNTQsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
 -->
