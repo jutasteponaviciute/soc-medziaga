@@ -230,14 +230,49 @@ Kad dizainas būtų ne tik gražus, bet ir prieinamas visiems, rekomenduojama pa
 
 WCAG (angl. Web Content Accessibility Guidelines) – tai prieinamumo gairės, nustatančios, kaip skaitmeninis turinys (pvz., svetainės, vizualai ar programos) turi būti sukurtas, kad jį galėtų patogiai matyti ir naudoti visi žmonės, įskaitant turinčius regėjimo sutrikimų.
 
-
 Tai užtikrina, kad tekstas būtų skaitomas net turint regėjimo sutrikimų ar žiūrint skirtinguose ekranuose.
+
+### Kaip pasirinkti spalvų paletę pagal prekės ženklo toną? 
+
+Spalvų paletė – tai vienas stipriausių vizualinės tapatybės įrankių. Ji padeda sukurti tam tikrą nuotaiką, emociją ir asociacijas, kurias auditorija sieja su prekės ženklu.  
+
+Tinkamai parinktos spalvos padeda vartotojui greičiau atpažinti, kas kalba, koks tai stilius ir kokias vertybes jis atspindi.  
+
+Suprask prekės ženklo toną ir vertybes.  
+
+Prieš renkantis spalvas, būtina suprasti, ką nori perduoti prekės ženklas.  
+
+Ar jis:
+-   Energingas ir drąsus? Tiks ryškūs, kontrastingi deriniai (pvz., oranžinė + juoda, mėlyna + geltona).    
+-   Ramus ir profesionalus? Tiks šaltos ar neutralios spalvos (pvz., tamsiai mėlyna, pilka, balta).    
+-   Kūrybiškas, jaunatviškas, žaismingas? Galima rinktis pastelinius tonus ar netikėtus derinius (pvz., mėtų žalia + violetinė).    
+-   Natūralus ar tvarus? Dominuoja žemės tonai – žalsva, ruda, smėlio, švelniai pilka.    
+
+  
+  
+
+Spalvų derinimo principas 60%, 30%, 10%
+
+  
+
+Yra tokia ganėtinai paprasta taisyklė, kuri padeda sukurti FUNKCIONALIĄ spalvų paletę.
+
+Reikia rinktis 3 spalvas, kurios išsidėsto tokiu procentu:
+
+-   60% – pagrindinė spalva. Ji gali būti naudojama kaip fono spalva jūsų maketuose.
+    
+-   30% – antrinė spalva. Ši spalva gali būti naudojama tekstams ar grafiniams elementams.
+    
+-   10% – akcentinė spalva. Ši spalva skirta pridėti akcentus, pavyzdžiui, raginimus veikti (CTA) ar svarbias žinutes.
+    
+
+Sukūrus spalvų paletę, būtina patikrinti jos kontrastą ir apibrėžti, kokias kombinacijas galima naudoti.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODUwNzQsLTI0Nzg4NzAxLC05OTI3Nz
-EwMTUsLTExNzk0NjQwMTksLTg0MTE1OTczMCwtNzc1MzU0MDU0
-LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl19
+eyJoaXN0b3J5IjpbLTU1OTE4ODAxOCwxMDE4NTA3NCwtMjQ3OD
+g3MDEsLTk5Mjc3MTAxNSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMw
+LC03NzUzNTQwNTQsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
 -->
