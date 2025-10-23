@@ -216,12 +216,28 @@ Kodėl kontrastas svarbus?
 
 Jeigu kontrasto trūksta, dizainas atrodo „išplaukęs“, viskas susilieja, akys pavargsta, o svarbiausia informacija pasimeta.
 
+![gero ir blogo kontrasto pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/kontrasto%20pvz.avif)
+
+### Kontrasto tikrinimas.
+
+Kad dizainas būtų ne tik gražus, bet ir prieinamas visiems, rekomenduojama pasitikrinti spalvų santykį
+
+- **Canva Accessibility Tools** – leidžia matyti, ar pasirinktas tekstas pakankamai išsiskiria nuo fono.
+
+![Canva kontrasto tikrinimas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/kontrasto%20tikrinimas%20Canva%20programoj.avif)
+
+contrast-checker.com – parodo tikslią spalvų kontrasto reikšmę (atitikimą WCAG standartams).
+
+WCAG (angl. Web Content Accessibility Guidelines) – tai prieinamumo gairės, nustatančios, kaip skaitmeninis turinys (pvz., svetainės, vizualai ar programos) turi būti sukurtas, kad jį galėtų patogiai matyti ir naudoti visi žmonės, įskaitant turinčius regėjimo sutrikimų.
+
+
+Tai užtikrina, kad tekstas būtų skaitomas net turint regėjimo sutrikimų ar žiūrint skirtinguose ekranuose.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc0NTMwODYsLTI0Nzg4NzAxLC05OT
-I3NzEwMTUsLTExNzk0NjQwMTksLTg0MTE1OTczMCwtNzc1MzU0
-MDU0LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl19
+eyJoaXN0b3J5IjpbMTc0Nzg3OTUyNSwtMjQ3ODg3MDEsLTk5Mj
+c3MTAxNSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMwLC03NzUzNTQw
+NTQsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
 -->
