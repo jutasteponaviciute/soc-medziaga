@@ -584,19 +584,28 @@ Procesas pažingsniui:
     
 14.  Parenkame teksto dydį: 200
     
-4.  Parenkame teksto spalvą: #ffc0c0
+15.  Parenkame teksto spalvą: #ffc0c0
     
-5.  Paspaudžiame ant šios ikonos, jog visos raidės būtų didžiosios.
+16.  Paspaudžiame ant šios ikonos, jog visos raidės būtų didžiosios.
 
+17.  Prisidedam dar vieną teksto laukelį ir tekstą pakeičiam į „Apsilankyk”.
+    
+18.  Pasirenkame šriftą: Montserrat
+    
+19.  Parenkame teksto dydį: 37
+    
+20.  Parenkame teksto spalvą: #ffffff
+    
+21.  Pasirenkame parinktį, kuri visas raides padaro didžiosiomis.     
+22.  Pasirenkame, kad tekstas būtų Bold.   
 
- 
-
+23. Įsitikiname, kad abiejų žodžių lygiavimas būtų centrinis.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDkwMjI3NywtNDE4NDI5NjcsMTM4Nj
-UwOTI3MSwyNTU1MDIwOTgsMTY4MDI5Mjg3MCwtODcxOTM5NTIs
-MTI2NzI2OTQ0MSwxNjExMTE4NDMzLDc4MzQ5MTU4OSwxMzY3OT
-UxNzE2LC0xNDI5MjU4Mjc3LDE3MDk1MDQxMjAsMTM4NDE4MDc3
-MywtOTk4MzI3MDcsLTEzMzg3ODkyMDUsODEzNDE0NjY0LC0xMj
-AzMzI4NDQ1LC0xNzUwMTQ5OTQwLDE3NTExNTkzOTYsMTI4MTQz
-MzUyMl19
+eyJoaXN0b3J5IjpbNDQ2NjU0NzYsLTQxODQyOTY3LDEzODY1MD
+kyNzEsMjU1NTAyMDk4LDE2ODAyOTI4NzAsLTg3MTkzOTUyLDEy
+NjcyNjk0NDEsMTYxMTExODQzMyw3ODM0OTE1ODksMTM2Nzk1MT
+cxNiwtMTQyOTI1ODI3NywxNzA5NTA0MTIwLDEzODQxODA3NzMs
+LTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMzQxNDY2NCwtMTIwMz
+MyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5Mzk2LDEyODE0MzM1
+MjJdfQ==
 -->
