@@ -595,43 +595,58 @@ Procesas pažingsniui:
   ![7 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/7%20zingsnis.avif)  
 
 8.   Tarp elementų susiraskite Stambulo nuotraukų. 
+
  ![8 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/8%20zingsnis.avif)    
+
 10.   Paspauskite ant patinkančios nuotraukos. Kai ji atsiras maketavimo vietoje, spauskite dešinįjį pelės klavišą ir pasirinkite Replace background. 
  
 ![9 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/9%20zingsnis.avif)
+
 11.  Kad nuotrauka patamsėtų ir geriau matytųsi kiti elementai, reikia iki 30 sumažinti Transparency. 
  ![10 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/10%20zingsnis.avif)    
+
 12.  Prie teksto spaudžiame Add a heading. 
  ![11 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/11%20zingsnis.avif)
+
 13.  Keičiame tekstą į „Stambule”.    
 14.  Pasirenkame šriftą: Extenda 30 Deca    
 15.  Parenkame teksto dydį: 200    
 16.  Parenkame teksto spalvą: #ffc0c0    
-17.  Paspaudžiame ant šios ikonos, jog visos raidės būtų didžiosios. ![12-16 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/12-16%20zingsnis.avif)
-18.  Prisidedam dar vieną teksto laukelį ir tekstą pakeičiam į „Apsilankyk”.    
-19.  Pasirenkame šriftą: Montserrat    
-20.  Parenkame teksto dydį: 37    
-21.  Parenkame teksto spalvą: #ffffff    
-22.  Pasirenkame parinktį, kuri visas raides padaro didžiosiomis.     
-23.  Pasirenkame, kad tekstas būtų Bold.   
-24. Įsitikiname, kad abiejų žodžių lygiavimas būtų centrinis.
-25. Prisidedam dar vieną teksto laukelį ir tekstą pakeičiam į „Tai įspūdingas miestas, kuriame susitinka Europa ir Azija, o turtinga istorija, kultūra ir architektūra žavi kiekvieną keliautoją.”    
-26.  Pasirenkame šriftą: Montserrat    
-27.  Parenkame teksto dydį: 21    
-28.  Parenkame teksto spalvą: #ffffff    
-29.  Įsitikiname, kad abiejų žodžių lygiavimas būtų centrinis. ![28 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/28%20zingsnis.avif)
-30. Einame į Elements ir pasirenkame Frame.![29 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/29%20zingsnis.avif)
-31. Susirandame Rounded Square Frame ir paspaudžiame. ![30 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/30%20zingsnis.avif)
-32.  Pasižymim rėmelį.    
-33.  Spaudžiam Position.    
-34.  Pasirenkam Arrange.    
-35.  Suvedam Width: 320px Height: 426px. ![32-34 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/32-34.avif)
-36. Susikuriam dar du tokius rėmelius, kurių išmatavimai yar Width: 254px Height: 338px.
-37. Ir dar du kurių išmatavimai yar Width: 202px Height: 268px. ![36 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/36%20zingsnis.avif)
-38. Pasižymim visus rėmelius ir uždedam jiems baltus apvedimus. ![37 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/37%20zingsnis.avif)
-39. Tarp elementų susirandam nuotraukas, kurios atspindi temą ir sudedam skirtingas nuotraukas į visus rėmelius.
+17.  Paspaudžiame ant šios ikonos, jog visos raidės būtų didžiosios. 
+
+![12-16 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/12-16%20zingsnis.avif)
+
+20.  Prisidedam dar vieną teksto laukelį ir tekstą pakeičiam į „Apsilankyk”.    
+21.  Pasirenkame šriftą: Montserrat    
+22.  Parenkame teksto dydį: 37    
+23.  Parenkame teksto spalvą: #ffffff    
+24.  Pasirenkame parinktį, kuri visas raides padaro didžiosiomis.     
+25.  Pasirenkame, kad tekstas būtų Bold.   
+26. Įsitikiname, kad abiejų žodžių lygiavimas būtų centrinis.
+27. Prisidedam dar vieną teksto laukelį ir tekstą pakeičiam į „Tai įspūdingas miestas, kuriame susitinka Europa ir Azija, o turtinga istorija, kultūra ir architektūra žavi kiekvieną keliautoją.”    
+28.  Pasirenkame šriftą: Montserrat    
+29.  Parenkame teksto dydį: 21    
+30.  Parenkame teksto spalvą: #ffffff    
+31.  Įsitikiname, kad abiejų žodžių lygiavimas būtų centrinis. 
+
+![28 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/28%20zingsnis.avif)
+
+32. Einame į Elements ir pasirenkame Frame.
+
+ ![29 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/29%20zingsnis.avif)
+
+33. Susirandame Rounded Square Frame ir paspaudžiame. 
+34. ![30 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/30%20zingsnis.avif)
+35.  Pasižymim rėmelį.    
+36.  Spaudžiam Position.    
+37.  Pasirenkam Arrange.    
+38.  Suvedam Width: 320px Height: 426px. ![32-34 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/32-34.avif)
+39. Susikuriam dar du tokius rėmelius, kurių išmatavimai yar Width: 254px Height: 338px.
+40. Ir dar du kurių išmatavimai yar Width: 202px Height: 268px. ![36 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/36%20zingsnis.avif)
+41. Pasižymim visus rėmelius ir uždedam jiems baltus apvedimus. ![37 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/37%20zingsnis.avif)
+42. Tarp elementų susirandam nuotraukas, kurios atspindi temą ir sudedam skirtingas nuotraukas į visus rėmelius.
 ![1 uzduoties rezultatas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/1%20uzduotis.%20rezultatas.avif)
-40. Atsiskaitymui įkelkite PNG formatu išeksportuotą dizainą.
+43. Atsiskaitymui įkelkite PNG formatu išeksportuotą dizainą.
 
 ### 2 užduotis. Savarankiškas dizaino kūrimas
 
@@ -661,11 +676,11 @@ Kaip dizaino elementai (spalvos, šriftai, struktūra) prisideda prie žinutės 
 Ar vizualas atitinka prekės ženklo stilių?   
 -   Įkelkite įrašo nuorodą arba ekrano nuotrauką ir aprašymą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDczODEyNTMsOTUyMDc5NywxMTY0Mz
-M1Njg3LC0xMzA3NjQ4NjUxLC0xNTExNTg1ODEzLDI4NzM2ODM4
-NCwtNDE4NDI5NjcsMTM4NjUwOTI3MSwyNTU1MDIwOTgsMTY4MD
-I5Mjg3MCwtODcxOTM5NTIsMTI2NzI2OTQ0MSwxNjExMTE4NDMz
-LDc4MzQ5MTU4OSwxMzY3OTUxNzE2LC0xNDI5MjU4Mjc3LDE3MD
-k1MDQxMjAsMTM4NDE4MDc3MywtOTk4MzI3MDcsLTEzMzg3ODky
-MDVdfQ==
+eyJoaXN0b3J5IjpbMTM3NTYwMzczMiw5NTIwNzk3LDExNjQzMz
+U2ODcsLTEzMDc2NDg2NTEsLTE1MTE1ODU4MTMsMjg3MzY4Mzg0
+LC00MTg0Mjk2NywxMzg2NTA5MjcxLDI1NTUwMjA5OCwxNjgwMj
+kyODcwLC04NzE5Mzk1MiwxMjY3MjY5NDQxLDE2MTExMTg0MzMs
+NzgzNDkxNTg5LDEzNjc5NTE3MTYsLTE0MjkyNTgyNzcsMTcwOT
+UwNDEyMCwxMzg0MTgwNzczLC05OTgzMjcwNywtMTMzODc4OTIw
+NV19
 -->
