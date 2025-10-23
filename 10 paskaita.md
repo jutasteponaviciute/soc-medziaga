@@ -104,8 +104,7 @@ iš kairės į dešinę viršuje → įstrižai į apačią → vėl iš kairės
 **F principas.** Akys seka F raidės formą:
 žiūrovas pirmiausia peržvelgia viršutinę eilutę, tada antrą, galiausiai akys slenka žemyn kairiąja puse.  
 
-Šis principas dažniausiai naudojamas internetinių svetainių ir naujienlaiškių diziane, svarbiausi elementai dedami kairėje.
- 
+Šis principas dažniausiai naudojamas internetinių svetainių ir naujienlaiškių diziane, svarbiausi elementai dedami kairėje. 
 
 Pavyzdžiai:
 -   Reklama, kur antraštė yra viršuje, vaizdas viduryje, o mygtukas apačioje dešinėje yra Z principo taikymas.    
@@ -113,7 +112,10 @@ Pavyzdžiai:
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzk0NjQwMTksLTg0MTE1OTczMCwtNz
-c1MzU0MDU0LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl19
+eyJoaXN0b3J5IjpbLTE5OTY0MzkzOTcsLTExNzk0NjQwMTksLT
+g0MTE1OTczMCwtNzc1MzU0MDU0LDUzNTEyNTQxNCwtMTEzMTEw
+Nzc4Nl19
 -->
