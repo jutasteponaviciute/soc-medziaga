@@ -68,13 +68,15 @@ Pavyzdžiui, „Telia“ iškart siejasi su violetine spalva ir švariu, minimal
 „Lidl“ atpažįstamas iš ryškių geltonos, mėlynos ir raudonos spalvų kontrasto.
 Tokie vizualiniai sprendimai leidžia kurti ryšį su vartotoju, nes kiekvieną kartą matydamas turinį, jis žino, kas kalba.
 
-
+![vientisos vizualines komunikacijos pavyzdys 1](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/vientisumo%20pvz%201.avif)
+![vientisos vizualines komunikacijos pavyzdys 2](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/vintisumo%20pvz%202.avif)
 
 Vientisumas dizainuose taip pat kuria profesionalumo įspūdį. Kai skirtingos kampanijos ar įrašai atrodo darniai, tai rodo, kad prekės ženklas rūpinasi detalėmis, planuoja ir laikosi savo vertybių.
+## Kompozicijos pagrindai
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2NTYwNTgwLC04NDExNTk3MzAsLTc3NT
-M1NDA1NCw1MzUxMjU0MTQsLTExMzExMDc3ODZdfQ==
+eyJoaXN0b3J5IjpbMTYwMzcyMDAyOSwtODQxMTU5NzMwLC03Nz
+UzNTQwNTQsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
 -->
