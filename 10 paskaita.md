@@ -147,11 +147,38 @@ Pavyzdžiai:
 
 ![balanso ir tuscios erdves pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/balanso%20ir%20tuscios%20erdves%20pvz.avif)
 
+### Ašies, proporcijų ir simetrijos principai.  
+
+Ašis – tai nematoma linija, pagal kurią išdėstomi elementai, kad dizainas atrodytų tvarkingai. Dauguma dizainų turi vertikalią arba horizontalią ašį, tai padeda išlaikyti struktūrą.  
+
+Proporcijos – ryšys tarp elementų dydžių. Kai vienas elementas per didelis arba per mažas, jis išbalansuoja visą vaizdą.
+  
+
+Simetrija – sukuria ramybės ir tvarkos įspūdį.
+
+  
+
+Asimetrija – suteikia judesio, energijos ir šiuolaikiškumo.
+
+  
+
+Abu principai geri, svarbiausia yra pasirinkti pagal tikslą.
+
+  
+
+Pavyzdžiai:
+
+  
+
+-   Minimalistinis vizualas su centruotu tekstu – simetriškas dizainas.
+    
+
+-   Reklama su vizualu vienoje pusėje ir tekstu kitoje. Asimetriškas, bet subalansuotas dizainas.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Nzg4NzAxLC05OTI3NzEwMTUsLTExNz
-k0NjQwMTksLTg0MTE1OTczMCwtNzc1MzU0MDU0LDUzNTEyNTQx
-NCwtMTEzMTEwNzc4Nl19
+eyJoaXN0b3J5IjpbMTg3OTc2MTIwOCwtMjQ3ODg3MDEsLTk5Mj
+c3MTAxNSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMwLC03NzUzNTQw
+NTQsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
 -->
