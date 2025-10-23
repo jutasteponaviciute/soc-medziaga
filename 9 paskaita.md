@@ -603,9 +603,11 @@ Procesas pažingsniui:
 ![9 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/9%20zingsnis.avif)
 
 11.  Kad nuotrauka patamsėtų ir geriau matytųsi kiti elementai, reikia iki 30 sumažinti Transparency. 
+
  ![10 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/10%20zingsnis.avif)    
 
 12.  Prie teksto spaudžiame Add a heading. 
+
  ![11 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/11%20zingsnis.avif)
 
 13.  Keičiame tekstą į „Stambule”.    
@@ -643,16 +645,19 @@ Procesas pažingsniui:
 35.  Spaudžiam Position.    
 36.  Pasirenkam Arrange.    
 37.  Suvedam Width: 320px Height: 426px.
+
  ![32-34 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/32-34.avif)
 
-38. Susikuriam dar du tokius rėmelius, kurių išmatavimai yar Width: 254px Height: 338px.
-39. Ir dar du kurių išmatavimai yar Width: 202px Height: 268px.
+39. Susikuriam dar du tokius rėmelius, kurių išmatavimai yar Width: 254px Height: 338px.
+40. Ir dar du kurių išmatavimai yar Width: 202px Height: 268px.
+
  ![36 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/36%20zingsnis.avif)
 
-40. Pasižymim visus rėmelius ir uždedam jiems baltus apvedimus.
+41. Pasižymim visus rėmelius ir uždedam jiems baltus apvedimus.
+
  ![37 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/37%20zingsnis.avif)
 
-41. Tarp elementų susirandam nuotraukas, kurios atspindi temą ir sudedam skirtingas nuotraukas į visus rėmelius.
+42. Tarp elementų susirandam nuotraukas, kurios atspindi temą ir sudedam skirtingas nuotraukas į visus rėmelius.
 
 ![1 uzduoties rezultatas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/1%20uzduotis.%20rezultatas.avif)
 
@@ -686,11 +691,11 @@ Kaip dizaino elementai (spalvos, šriftai, struktūra) prisideda prie žinutės 
 Ar vizualas atitinka prekės ženklo stilių?   
 -   Įkelkite įrašo nuorodą arba ekrano nuotrauką ir aprašymą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1Njg0MDM5OSw5NTIwNzk3LDExNjQzMz
-U2ODcsLTEzMDc2NDg2NTEsLTE1MTE1ODU4MTMsMjg3MzY4Mzg0
-LC00MTg0Mjk2NywxMzg2NTA5MjcxLDI1NTUwMjA5OCwxNjgwMj
-kyODcwLC04NzE5Mzk1MiwxMjY3MjY5NDQxLDE2MTExMTg0MzMs
-NzgzNDkxNTg5LDEzNjc5NTE3MTYsLTE0MjkyNTgyNzcsMTcwOT
-UwNDEyMCwxMzg0MTgwNzczLC05OTgzMjcwNywtMTMzODc4OTIw
-NV19
+eyJoaXN0b3J5IjpbLTIwMDYwODEwMzgsMTE1Njg0MDM5OSw5NT
+IwNzk3LDExNjQzMzU2ODcsLTEzMDc2NDg2NTEsLTE1MTE1ODU4
+MTMsMjg3MzY4Mzg0LC00MTg0Mjk2NywxMzg2NTA5MjcxLDI1NT
+UwMjA5OCwxNjgwMjkyODcwLC04NzE5Mzk1MiwxMjY3MjY5NDQx
+LDE2MTExMTg0MzMsNzgzNDkxNTg5LDEzNjc5NTE3MTYsLTE0Mj
+kyNTgyNzcsMTcwOTUwNDEyMCwxMzg0MTgwNzczLC05OTgzMjcw
+N119
 -->
