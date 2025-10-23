@@ -119,27 +119,22 @@ Pirmiausia žmogus pamato didžiausią, kontrastingiausią arba ryškiausią ele
 Todėl labai svarbu aiškiai nustatyti, kas vizuale turi būti „pirmas balsas“.  
 
 Hierarchiją galima kurti per:
--   dydį (svarbiausi elementai – didesni);
-    
--   spalvą (ryškesni elementai išsiskiria);
-    
--   kontrastą (tamsus fonas – šviesus tekstas arba atvirkščiai);
-    
--   tarpus (jei paliekame erdvės aplink svarbią žinutę – ji tampa labiau matoma);
-    
--   išdėstymą (aukščiau ar centre – dažnai svarbiausia vieta).
-    
+-   dydį (svarbiausi elementai – didesni);    
+-   spalvą (ryškesni elementai išsiskiria);    
+-   kontrastą (tamsus fonas – šviesus tekstas arba atvirkščiai);    
+-   tarpus (jei paliekame erdvės aplink svarbią žinutę – ji tampa labiau matoma);    
+-   išdėstymą (aukščiau ar centre – dažnai svarbiausia vieta). 
 
-  
+Pavyzdys:
+Antraštė didžiausiu šriftu, po ja mažesnis paaiškinimas, o CTA (veiksmo mygtukas) yra aiškiai išskirtas spalva.
 
-Pavyzdžiai:
+![vizualines hierarchijos pavyzdys reklamoje](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/sriftu%20hierarchijos%20pvz.avif)
 
--   Antraštė didžiausiu šriftu, po ja mažesnis paaiškinimas, o CTA (veiksmo mygtukas) yra aiškiai išskirtas spalva.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQ1NzQ4MjQsLTExNzk0NjQwMTksLT
-g0MTE1OTczMCwtNzc1MzU0MDU0LDUzNTEyNTQxNCwtMTEzMTEw
-Nzc4Nl19
+eyJoaXN0b3J5IjpbLTk5Mjc3MTAxNSwtMTE3OTQ2NDAxOSwtOD
+QxMTU5NzMwLC03NzUzNTQwNTQsNTM1MTI1NDE0LC0xMTMxMTA3
+Nzg2XX0=
 -->
