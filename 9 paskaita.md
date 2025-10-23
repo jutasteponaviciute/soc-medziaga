@@ -481,10 +481,14 @@ Kairiu pelės klavišu pasižymiu merginos nuotrauką, tada paspaudžiu dešinį
 Prie elementų galima rasti:
 -   Shapes (Figūros)  
 ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/formos.avif)  
--   Graphics (Grafikos elementai)    
--   3D (3D elementai)    
--   Stickers (Lipdukai)    
--   Photos (Nuotraukos)    
+-   Graphics (Grafikos elementai)   
+ ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Graphics.avif)
+-   3D (3D elementai)
+    ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/3D.avif)
+-   Stickers (Lipdukai)
+    ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Stickers.avif)
+-   Photos (Nuotraukos)
+    ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Photos.avif)
 -   Frames (Rėmeliai)    
 -   Grids (Tinkleliai)    
 -   Videos (Vaizdo įrašai)    
@@ -526,11 +530,11 @@ Skirtingi pasidalinimo būdai:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDY4NzE2NzAsMTI2NzI2OTQ0MSwxNj
-ExMTE4NDMzLDc4MzQ5MTU4OSwxMzY3OTUxNzE2LC0xNDI5MjU4
-Mjc3LDE3MDk1MDQxMjAsMTM4NDE4MDc3MywtOTk4MzI3MDcsLT
-EzMzg3ODkyMDUsODEzNDE0NjY0LC0xMjAzMzI4NDQ1LC0xNzUw
-MTQ5OTQwLDE3NTExNTkzOTYsMTI4MTQzMzUyMiwyMDQxNzI5Nz
-YwLDkzOTk1NDIyOSwtMTkzNTE5MjE1NywzMTE2MjMyNDYsLTQx
-MzQ2NjUwXX0=
+eyJoaXN0b3J5IjpbMTc5MzUyNTQzOSwxMjY3MjY5NDQxLDE2MT
+ExMTg0MzMsNzgzNDkxNTg5LDEzNjc5NTE3MTYsLTE0MjkyNTgy
+NzcsMTcwOTUwNDEyMCwxMzg0MTgwNzczLC05OTgzMjcwNywtMT
+MzODc4OTIwNSw4MTM0MTQ2NjQsLTEyMDMzMjg0NDUsLTE3NTAx
+NDk5NDAsMTc1MTE1OTM5NiwxMjgxNDMzNTIyLDIwNDE3Mjk3Nj
+AsOTM5OTU0MjI5LC0xOTM1MTkyMTU3LDMxMTYyMzI0NiwtNDEz
+NDY2NTBdfQ==
 -->
