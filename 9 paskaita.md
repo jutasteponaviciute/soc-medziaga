@@ -480,21 +480,21 @@ Kairiu pelės klavišu pasižymiu merginos nuotrauką, tada paspaudžiu dešinį
 
 Prie elementų galima rasti:
 -   Shapes (Figūros)  
-![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/formos.avif)  
+![Shapes (Figūros)](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/formos.avif)  
 -   Graphics (Grafikos elementai)   
- ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Graphics.avif)
+ ![Graphics (Grafikos elementai)](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Graphics.avif)
 -   3D (3D elementai)
-    ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/3D.avif)
+    ![3D (3D elementai)](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/3D.avif)
 -   Stickers (Lipdukai)
-    ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Stickers.avif)
+    ![Stickers (Lipdukai)](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Stickers.avif)
 -   Photos (Nuotraukos)
-    ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Photos.avif)
+    ![Photos (Nuotraukos)](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Photos.avif)
 -   Frames (Rėmeliai) 
-   ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Frames.avif)
+   ![Frames (Rėmeliai) ](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Frames.avif)
 -   Grids (Tinkleliai)   
-![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Grids.avif) 
+![Grids (Tinkleliai)  ](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Grids.avif) 
 -   Videos (Vaizdo įrašai)
-![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Videos.avif)    
+![Videos (Vaizdo įrašai)](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Videos.avif)    
 -   Audio (Garsai / Muzika)
 ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Audio.avif)   
 -   Forms (Formos) 
@@ -539,11 +539,11 @@ Skirtingi pasidalinimo būdai:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDI5Mjg3MCwtODcxOTM5NTIsMTI2Nz
-I2OTQ0MSwxNjExMTE4NDMzLDc4MzQ5MTU4OSwxMzY3OTUxNzE2
-LC0xNDI5MjU4Mjc3LDE3MDk1MDQxMjAsMTM4NDE4MDc3MywtOT
-k4MzI3MDcsLTEzMzg3ODkyMDUsODEzNDE0NjY0LC0xMjAzMzI4
-NDQ1LC0xNzUwMTQ5OTQwLDE3NTExNTkzOTYsMTI4MTQzMzUyMi
-wyMDQxNzI5NzYwLDkzOTk1NDIyOSwtMTkzNTE5MjE1NywzMTE2
-MjMyNDZdfQ==
+eyJoaXN0b3J5IjpbLTk5OTY4MzQ1NCwxNjgwMjkyODcwLC04Nz
+E5Mzk1MiwxMjY3MjY5NDQxLDE2MTExMTg0MzMsNzgzNDkxNTg5
+LDEzNjc5NTE3MTYsLTE0MjkyNTgyNzcsMTcwOTUwNDEyMCwxMz
+g0MTgwNzczLC05OTgzMjcwNywtMTMzODc4OTIwNSw4MTM0MTQ2
+NjQsLTEyMDMzMjg0NDUsLTE3NTAxNDk5NDAsMTc1MTE1OTM5Ni
+wxMjgxNDMzNTIyLDIwNDE3Mjk3NjAsOTM5OTU0MjI5LC0xOTM1
+MTkyMTU3XX0=
 -->
