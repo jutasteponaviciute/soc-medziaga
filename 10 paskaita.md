@@ -194,10 +194,34 @@ Spalvų reikšmė gali būti sudėtinga ir įvairialypė, o skirtingi atspalviai
 
 Renkantis spalvas savo prekės ženklui, svarbu ne tik atsižvelgti į tai, kad jums yra gražu, bet ir į tai, kaip spalvos atspindi jūsų vertybes bei siunčia žinutę auditorijai. Kiekviena spalva gali turėti įtakos vartotojų emocijoms ir sprendimams, todėl kruopščiai apgalvokite, kokią nuotaiką norite sukurti.
 
+### Šiltos, šaltos ir neutralios spalvos  
+
+Spalvas galima skirstyti į tris grupes:
+-   Šiltos (raudona, oranžinė, geltona) – suteikia energijos, artumo, gyvumo.    
+-   Šaltos (mėlyna, žalia, violetinė) – ramina, suteikia profesionalumo ir distancijos įspūdį.    
+-   Neutralios (pilka, juoda, balta, smėlinė) – balansuoja ir padeda išryškinti kitas spalvas. 
+
+### Kontrastas ir jo svarba matomumui
+
+Kontrastas – vienas svarbiausių dizaino principų, užtikrinantis, kad turinys būtų aiškiai įskaitomas, lengvai suprantamas ir vizualiai patrauklus.  
+
+Kontrastas gali būti ne tik spalvų, bet ir šrifto dydžio, formos, storio, tekstūros ar net erdvės.
+
+Tačiau šioje temoje kalbėsime apie spalvų kontrastą.  
+
+Kodėl kontrastas svarbus?
+-   Užtikrina, kad tekstas būtų aiškiai įskaitomas ekrane.    
+-   Padeda išryškinti pagrindinius elementus (pvz., pavadinimus, mygtukus, raginimus veikti).    
+-   Skatina akies judėjimą – žiūrovas lengviau seka dizaino struktūrą. 
+
+Jeigu kontrasto trūksta, dizainas atrodo „išplaukęs“, viskas susilieja, akys pavargsta, o svarbiausia informacija pasimeta.
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDI3NjcwMTcsLTI0Nzg4NzAxLC05OT
+eyJoaXN0b3J5IjpbLTE5Mzc0NTMwODYsLTI0Nzg4NzAxLC05OT
 I3NzEwMTUsLTExNzk0NjQwMTksLTg0MTE1OTczMCwtNzc1MzU0
 MDU0LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl19
 -->
