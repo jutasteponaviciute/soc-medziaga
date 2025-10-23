@@ -469,17 +469,18 @@ Taip pat galima sugeneruoti kodą arba vaizdo įrašą.
 Canva suteikia prieigą prie daugybės nuotraukų, iliustracijų ir grafinių elementų, tiek mokamų, tiek nemokamų.
 
 Tips and Tricks: įsikėlus nuotrauką į diziano drobę, paspaudus dešinį pelės klavišą ant nuotraukos ir pasirinkus Replace background, nuotrauka iš karto tampa šablono fonu, todėl jos dydžio keitimas nėra būtinas.
-![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/fono%20pakeitimas.avif)
+![nuotraukos pritaikymas fomui](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/fono%20pakeitimas.avif)
 Paspaudus dešinį pelės klavišą ant nuotraukos ir pasirinkus Apply colours to page, nuotraukos spalvas, galima pritaikyti šablonui (kiekvieną kartą spaudžiant, keičiasi spalvos).
-![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/diziano%20spalvu%20keitimas%20is%20nuotrauku.avif)
+![spalvu pritaikymas puslapiui](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/diziano%20spalvu%20keitimas%20is%20nuotrauku.avif)
 Pavyzdžiui, pasirenku šabloną iš Design skilties.
-![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/sablonai00.avif)
+![sablonu pasirinimas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/sablonai00.avif)
 Kairiu pelės klavišu pasižymiu merginos nuotrauką, tada paspaudžiu dešinį pelės klavišą ir pasirenku Apply colors to page (kiekvieną kartą spaudžiant, keičiasi spalvos, tol kol yra skirtingų kombinacijų).
 
-![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/diziano%20spalvu%20pakeitimas%20pagal%20nuotrauka%20%281%29.avif)
+![diziano spalvu pakeitimas pagal nuotrauka](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/diziano%20spalvu%20pakeitimas%20pagal%20nuotrauka%20%281%29.avif)
 
 Prie elementų galima rasti:
--   Shapes (Figūros)    
+-   Shapes (Figūros)  
+  
 -   Graphics (Grafikos elementai)    
 -   3D (3D elementai)    
 -   Stickers (Lipdukai)    
@@ -525,11 +526,11 @@ Skirtingi pasidalinimo būdai:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjMyNTc3MzksMTYxMTExODQzMyw3OD
-M0OTE1ODksMTM2Nzk1MTcxNiwtMTQyOTI1ODI3NywxNzA5NTA0
-MTIwLDEzODQxODA3NzMsLTk5ODMyNzA3LC0xMzM4Nzg5MjA1LD
-gxMzQxNDY2NCwtMTIwMzMyODQ0NSwtMTc1MDE0OTk0MCwxNzUx
-MTU5Mzk2LDEyODE0MzM1MjIsMjA0MTcyOTc2MCw5Mzk5NTQyMj
-ksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1MCwyMTE1
-NTUyNjU5XX0=
+eyJoaXN0b3J5IjpbMTI2NzI2OTQ0MSwxNjExMTE4NDMzLDc4Mz
+Q5MTU4OSwxMzY3OTUxNzE2LC0xNDI5MjU4Mjc3LDE3MDk1MDQx
+MjAsMTM4NDE4MDc3MywtOTk4MzI3MDcsLTEzMzg3ODkyMDUsOD
+EzNDE0NjY0LC0xMjAzMzI4NDQ1LC0xNzUwMTQ5OTQwLDE3NTEx
+NTkzOTYsMTI4MTQzMzUyMiwyMDQxNzI5NzYwLDkzOTk1NDIyOS
+wtMTkzNTE5MjE1NywzMTE2MjMyNDYsLTQxMzQ2NjUwLDIxMTU1
+NTI2NTldfQ==
 -->
