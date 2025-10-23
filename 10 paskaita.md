@@ -170,25 +170,20 @@ Pavyzdžiai:
 
 ## Spalvos: reikšmė, psichologija, kontrastas
 
-Spalvų reikšmės ir emocinis poveikis.
+### Spalvų reikšmės ir emocinis poveikis.  
 
-  
-
-Spalvos kuria nuotaiką ir padeda perteikti prekės ženklo toną. Jos daro stiprų emocinį poveikį, todėl tinkamas pasirinkimas gali padėti sukurti norimą įspūdį.
-
-  
+Spalvos kuria nuotaiką ir padeda perteikti prekės ženklo toną. Jos daro stiprų emocinį poveikį, todėl tinkamas pasirinkimas gali padėti sukurti norimą įspūdį.  
 
 Kiekviena spalva turi savo asociacijas:
 
-Bet taip pat verta atsiminti, kad spalvų reikšmės gali skirtis priklausomai nuo kultūros ir konteksto.
+![Tradicines spalvu reiksmes](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/spalvu%20reiksme%201.avif)
 
-  
+Bet taip pat verta atsiminti, kad spalvų reikšmės gali skirtis priklausomai nuo kultūros ir konteksto.  
 
-Spalvų reikšmė gali būti sudėtinga ir įvairialypė, o skirtingi atspalviai suteikia skirtingas emocijas ir nuotaikas. Žalia spalva, pavyzdžiui, dažnai asocijuojasi su gamta ir šviežumu, tačiau jos atspalviai gali turėti skirtingus niuansus:
+Spalvų reikšmė gali būti sudėtinga ir įvairialypė, o skirtingi atspalviai suteikia skirtingas emocijas ir nuotaikas.
 
-  
-
-Neoninė žalia simbolizuoja energiją ir modernumą, puikiai tinkanti inovatyviems projektams ir jaunatviškai auditorijai.
+Žalia spalva, pavyzdžiui, dažnai asocijuojasi su gamta ir šviežumu, tačiau jos atspalviai gali turėti skirtingus niuansus: 
+- **Neoninė žalia** simbolizuoja energiją ir modernumą, puikiai tinkanti inovatyviems projektams ir jaunatviškai auditorijai.
 
 Šalavijo žalia perteikia ramybę ir harmoniją, dažnai naudojama sveikatingumo ar ekologiškų prekės ženklų.
 
@@ -209,7 +204,7 @@ Renkantis spalvas savo prekės ženklui, svarbu ne tik atsižvelgti į tai, kad 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3ODM4MDAzLC0yNDc4ODcwMSwtOTkyNz
-cxMDE1LC0xMTc5NDY0MDE5LC04NDExNTk3MzAsLTc3NTM1NDA1
-NCw1MzUxMjU0MTQsLTExMzExMDc3ODZdfQ==
+eyJoaXN0b3J5IjpbMTA3OTc5NzcxMywtMjQ3ODg3MDEsLTk5Mj
+c3MTAxNSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMwLC03NzUzNTQw
+NTQsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
 -->
