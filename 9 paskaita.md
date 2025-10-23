@@ -591,10 +591,14 @@ Procesas pažingsniui:
 7.  Įveskite spalvos kodą: #000000
   ![7 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/7%20zingsnis.avif)  
 8.   Tarp elementų susiraskite Stambulo nuotraukų. 
-9. ![8 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/8%20zingsnis.avif)    
-10.   Paspauskite ant patinkančios nuotraukos. Kai ji atsiras maketavimo vietoje, spauskite dešinįjį pelės klavišą ir pasirinkite Replace background. ![9 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/9%20zingsnis.avif)
-11.  Kad nuotrauka patamsėtų ir geriau matytųsi kiti elementai, reikia iki 30 sumažinti Transparency. ![10 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/10%20zingsnis.avif)    
-12.  Prie teksto spaudžiame Add a heading. ![11 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/11%20zingsnis.avif)
+ ![8 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/8%20zingsnis.avif)    
+9.   Paspauskite ant patinkančios nuotraukos. Kai ji atsiras maketavimo vietoje, spauskite dešinįjį pelės klavišą ir pasirinkite Replace background. 
+ 
+![9 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/9%20zingsnis.avif)
+10.  Kad nuotrauka patamsėtų ir geriau matytųsi kiti elementai, reikia iki 30 sumažinti Transparency. 
+ ![10 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/10%20zingsnis.avif)    
+11.  Prie teksto spaudžiame Add a heading. 
+ ![11 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/11%20zingsnis.avif)
 13.  Keičiame tekstą į „Stambule”.    
 14.  Pasirenkame šriftą: Extenda 30 Deca    
 15.  Parenkame teksto dydį: 200    
@@ -653,11 +657,11 @@ Kaip dizaino elementai (spalvos, šriftai, struktūra) prisideda prie žinutės 
 Ar vizualas atitinka prekės ženklo stilių?   
 -   Įkelkite įrašo nuorodą arba ekrano nuotrauką ir aprašymą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwNzc5NDM2LDExNjQzMzU2ODcsLTEzMD
-c2NDg2NTEsLTE1MTE1ODU4MTMsMjg3MzY4Mzg0LC00MTg0Mjk2
-NywxMzg2NTA5MjcxLDI1NTUwMjA5OCwxNjgwMjkyODcwLC04Nz
-E5Mzk1MiwxMjY3MjY5NDQxLDE2MTExMTg0MzMsNzgzNDkxNTg5
-LDEzNjc5NTE3MTYsLTE0MjkyNTgyNzcsMTcwOTUwNDEyMCwxMz
-g0MTgwNzczLC05OTgzMjcwNywtMTMzODc4OTIwNSw4MTM0MTQ2
-NjRdfQ==
+eyJoaXN0b3J5IjpbOTUyMDc5NywxMTY0MzM1Njg3LC0xMzA3Nj
+Q4NjUxLC0xNTExNTg1ODEzLDI4NzM2ODM4NCwtNDE4NDI5Njcs
+MTM4NjUwOTI3MSwyNTU1MDIwOTgsMTY4MDI5Mjg3MCwtODcxOT
+M5NTIsMTI2NzI2OTQ0MSwxNjExMTE4NDMzLDc4MzQ5MTU4OSwx
+MzY3OTUxNzE2LC0xNDI5MjU4Mjc3LDE3MDk1MDQxMjAsMTM4ND
+E4MDc3MywtOTk4MzI3MDcsLTEzMzg3ODkyMDUsODEzNDE0NjY0
+XX0=
 -->
