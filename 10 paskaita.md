@@ -43,8 +43,22 @@ Pavyzdžiui, abiejuose, žemiau pateiktuose, dizainuose trūksta aiškios strukt
 ![prasto diziano pavyzdys 1](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/blogo%20dizaino%20pvz%201.avif)
 ![prasto diziano pavyzdy 2](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/blogo%20dizaino%20pvz%202.avif)
 
+### Kaip dizaino sprendimai padeda komunikuoti aiškiau?  
+
+Dizainas turi būti ne tik gražus, bet ir funkcionalus. Jo tikslas – padėti perteikti mintį, o ne ją paslėpti.  
+
+Jei dizainas atrodo įspūdingai, bet nepadeda suprasti, ką norima pasakyti, jis neatlieka savo pagrindinės funkcijos.  
+
+Pavyzdžiui:
+-   Jeigu reklamos fonas toks ryškus, kad užgožia tekstą, žinutė tampa sunkiai įskaitoma.   
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/prasto%20skaitomumo%20pvz.avif)
+
+-   Jei pasirinktas šriftas atrodo įdomiai, bet jį sunku perskaityti, turinys praranda aiškumą.    
+
+Geras dizainas turi padėti išlaikyti pusiausvyrą tarp estetikos ir aiškumo. Jis nukreipia dėmesį į esmę, sustiprina žinutę ir padeda vartotojui ją suprasti greitai.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjc0OTM2OTUsLTg0MTE1OTczMCwtNz
-c1MzU0MDU0LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl19
+eyJoaXN0b3J5IjpbMjkwMTI2OTI5LC04NDExNTk3MzAsLTc3NT
+M1NDA1NCw1MzUxMjU0MTQsLTExMzExMDc3ODZdfQ==
 -->
