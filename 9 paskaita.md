@@ -542,13 +542,16 @@ Skirtingi pasidalinimo būdai:
 -   leidžiama redaguoti.
 ![dalinimasisi su kitais](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/dalinimasis.avif)
 
-## Praktinės užduotys
+# Praktinės užduotys
+
+### 1 užduotis. Pateikto dizaino maketo atkartojimas
+
 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTM3OTI5MjAsLTQxODQyOTY3LDEzOD
+eyJoaXN0b3J5IjpbLTE3MjYxMTYxMzAsLTQxODQyOTY3LDEzOD
 Y1MDkyNzEsMjU1NTAyMDk4LDE2ODAyOTI4NzAsLTg3MTkzOTUy
 LDEyNjcyNjk0NDEsMTYxMTExODQzMyw3ODM0OTE1ODksMTM2Nz
 k1MTcxNiwtMTQyOTI1ODI3NywxNzA5NTA0MTIwLDEzODQxODA3
