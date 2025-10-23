@@ -595,7 +595,7 @@ Procesas pažingsniui:
 37. Pasižymim visus rėmelius ir uždedam jiems baltus apvedimus.
 38. Tarp elementų susirandam nuotraukas, kurios atspindi temą ir sudedam skirtingas nuotraukas į visus rėmelius.
 
-### 2 užduotis. **Savarankiškas dizaino kūrimas**
+### 2 užduotis. Savarankiškas dizaino kūrimas
 
 Tikslas: lavinti gebėjimą naviguoti Canva programoje ir savarankiškai kurti vizualus, pasitelkiant įvairius Canva įrankius. 
 
@@ -608,9 +608,26 @@ Sąlygos:
 - 
 Pastaba: Vertinamas gebėjimas savarankiškai pritaikyti Canva įrankius ir logiškai komponuoti elementus, o ne pats dizaino grožis ar estetiniai sprendimai.
 
-### 3 užduotis. **Savarankiškas dizaino kūrimas**
+### 3 užduotis.  Vizualinio turinio analizė
+
+Tikslas: išmokti sąmoningai pastebėti, kas skirtinguose vizualuose patraukia ir išlaiko dėmesį.
+
+Užduotis:
+-   Užeikite į pasirinktą socialinį tinklą, skrolinkite naujienų sraute, kol kažkoks vizualas patrauks ir išlaikys jūsų dėmesį.    
+-   Padarykite ekrano nuotrauką su tuo vizualu.    
+-   Atsakykite raštu:   
+--Kas patraukė jūsų žvilksnį?
+    
+-   Kokią emociją sukėlė vizualas?
+    
+-   Kaip dizaino elementai (spalvos, šriftai, struktūra) prisideda prie žinutės aiškumo?
+    
+-   Ar vizualas atitinka prekės ženklo stilių?
+    
+
+-   Įkelkite įrašo nuorodą arba ekrano nuotrauką ir aprašymą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTM0NTQ2MTQsMjg3MzY4Mzg0LC00MT
+eyJoaXN0b3J5IjpbLTE0OTExMzI2MDIsMjg3MzY4Mzg0LC00MT
 g0Mjk2NywxMzg2NTA5MjcxLDI1NTUwMjA5OCwxNjgwMjkyODcw
 LC04NzE5Mzk1MiwxMjY3MjY5NDQxLDE2MTExMTg0MzMsNzgzND
 kxNTg5LDEzNjc5NTE3MTYsLTE0MjkyNTgyNzcsMTcwOTUwNDEy
