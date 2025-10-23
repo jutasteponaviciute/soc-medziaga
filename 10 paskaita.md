@@ -263,14 +263,14 @@ Reikia rinktis 3 spalvas, kurios išsidėsto tokiu procentu:
 
 Sukūrus spalvų paletę, būtina patikrinti jos kontrastą ir apibrėžti, kokias kombinacijas galima naudoti.
 
-![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/kontrasto%20tikrinimas.avif)
+![prasto ir gero kontasto is spalvu paletes pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/kontrasto%20tikrinimas.avif)
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzI4NDQ0NCwxMDE4NTA3NCwtMjQ3OD
-g3MDEsLTk5Mjc3MTAxNSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMw
-LC03NzUzNTQwNTQsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
+eyJoaXN0b3J5IjpbLTE4NDgxNTE1NjAsMTAxODUwNzQsLTI0Nz
+g4NzAxLC05OTI3NzEwMTUsLTExNzk0NjQwMTksLTg0MTE1OTcz
+MCwtNzc1MzU0MDU0LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl19
 -->
