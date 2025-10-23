@@ -3,6 +3,18 @@
 # 2. PASKAITA. Dizaino pagrindai: kompozicija, spalvos, šriftai, formos ir grafiniai elementai.
 
 Tikslas: suprasti pagrindinius dizaino principus, kurie padeda kurti aiškius, vizualiai patrauklius ir profesionaliai atrodančius maketus.
+
+## Kas yra „geras dizainas”?
+
+Kai kalbame apie dizainą, daugelis pirmiausia galvoja apie „grožį“, tačiau gražus dizainas ne visada yra geras dizainas. 
+
+Gero dizaino esmė yra ne tik estetika, o tai, kaip vizualas veikia žmogaus suvokimą ir elgesį. 
+
+Geras dizainas padeda pamatyti, suprasti ir veikti.
+
+Jis perteikia žinutę taip, kad žmogus akimirksniu suprastų, apie ką kalba, kodėl tai svarbu ir ką daryti toliau.
+### Kas iš tiesų yra „geras dizainas“?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
+eyJoaXN0b3J5IjpbMTMyOTU2OTg3OSw1MzUxMjU0MTQsLTExMz
+ExMDc3ODZdfQ==
 -->
