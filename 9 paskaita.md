@@ -466,16 +466,23 @@ Jei radote gerą šabloną ar nuotrauką, galite greitai surasti panašius eleme
 ![vaizdu generavimas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/vaizdo%20generavimas.avif)
 
 Taip pat galima sugeneruoti kodą arba vaizdo įrašą.
+
 ![generavimo pasirinkimai](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/generavimo%20pasirinkimai.avif)
 
 Canva suteikia prieigą prie daugybės nuotraukų, iliustracijų ir grafinių elementų, tiek mokamų, tiek nemokamų.
 
 Tips and Tricks: įsikėlus nuotrauką į diziano drobę, paspaudus dešinį pelės klavišą ant nuotraukos ir pasirinkus Replace background, nuotrauka iš karto tampa šablono fonu, todėl jos dydžio keitimas nėra būtinas.
+
 ![nuotraukos pritaikymas fomui](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/fono%20pakeitimas.avif)
+
 Paspaudus dešinį pelės klavišą ant nuotraukos ir pasirinkus Apply colours to page, nuotraukos spalvas, galima pritaikyti šablonui (kiekvieną kartą spaudžiant, keičiasi spalvos).
+
 ![spalvu pritaikymas puslapiui](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/diziano%20spalvu%20keitimas%20is%20nuotrauku.avif)
+
 Pavyzdžiui, pasirenku šabloną iš Design skilties.
+
 ![sablonu pasirinimas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/sablonai00.avif)
+
 Kairiu pelės klavišu pasižymiu merginos nuotrauką, tada paspaudžiu dešinį pelės klavišą ir pasirenku Apply colors to page (kiekvieną kartą spaudžiant, keičiasi spalvos, tol kol yra skirtingų kombinacijų).
 
 ![diziano spalvu pakeitimas pagal nuotrauka](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/diziano%20spalvu%20pakeitimas%20pagal%20nuotrauka%20%281%29.avif)
@@ -628,11 +635,11 @@ Kaip dizaino elementai (spalvos, šriftai, struktūra) prisideda prie žinutės 
 Ar vizualas atitinka prekės ženklo stilių?   
 -   Įkelkite įrašo nuorodą arba ekrano nuotrauką ir aprašymą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDMzNTY4NywtMTMwNzY0ODY1MSwtMT
-UxMTU4NTgxMywyODczNjgzODQsLTQxODQyOTY3LDEzODY1MDky
-NzEsMjU1NTAyMDk4LDE2ODAyOTI4NzAsLTg3MTkzOTUyLDEyNj
-cyNjk0NDEsMTYxMTExODQzMyw3ODM0OTE1ODksMTM2Nzk1MTcx
-NiwtMTQyOTI1ODI3NywxNzA5NTA0MTIwLDEzODQxODA3NzMsLT
-k5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMzQxNDY2NCwtMTIwMzMy
-ODQ0NV19
+eyJoaXN0b3J5IjpbMTQ0Nzg5MTczLDExNjQzMzU2ODcsLTEzMD
+c2NDg2NTEsLTE1MTE1ODU4MTMsMjg3MzY4Mzg0LC00MTg0Mjk2
+NywxMzg2NTA5MjcxLDI1NTUwMjA5OCwxNjgwMjkyODcwLC04Nz
+E5Mzk1MiwxMjY3MjY5NDQxLDE2MTExMTg0MzMsNzgzNDkxNTg5
+LDEzNjc5NTE3MTYsLTE0MjkyNTgyNzcsMTcwOTUwNDEyMCwxMz
+g0MTgwNzczLC05OTgzMjcwNywtMTMzODc4OTIwNSw4MTM0MTQ2
+NjRdfQ==
 -->
