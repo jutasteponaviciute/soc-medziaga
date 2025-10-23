@@ -27,6 +27,8 @@ Geras dizainas:
 -   padeda žmogui ne tik pamatyti, bet ir įsitraukti;    
 -   neišblaško dėmesio nuo pagrindinės minties.
 
+Pavtzdžiui, šie dizainai, pateikti žemiau, geri, nes aiškiai perduoda pagrindinę žinutę ir turi tvarkingą vizualinę struktūrą. Juose viskas tikslinga: spalvos, tipografija ir elementai dera tarpusavyje, palaiko prekės ženklo stilių ir neperkrauna žiūrovo.
+
 ![Gero diziano pavyzdys Adobe](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/gero%20dizaino%20pvz%201.avif)
 ![Gero diziano pavyzdys Canva](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/gero%20dizaino%20pvz%202.avif)
 
@@ -38,11 +40,11 @@ Blogas dizainas:
 
 Pavyzdžiui, abiejuose, žemiau pateiktuose, dizainuose trūksta aiškios struktūros ir vizualinės hierarchijos, todėl žiūrovas nežino, kur sutelkti dėmesį. Naudojama per daug spalvų, skirtingų elementų ir šriftų, dėl to bendra žinutė pasimeta. Dizainai atrodo perkrauti, neapibrėžta, kas yra svarbiausia, todėl neaišku, koks jų tikslas ir ką turėtų įsiminti žiūrovas.
 
-![blogo diziano pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/blogo%20dizaino%20pvz%201.avif)
-![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/blogo%20dizaino%20pvz%202.avif)
+![prasto diziano pavyzdys 1](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/blogo%20dizaino%20pvz%201.avif)
+![prasto diziano pavyzdy 2](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/blogo%20dizaino%20pvz%202.avif)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTE1OTczMCwtNzc1MzU0MDU0LDUzNT
-EyNTQxNCwtMTEzMTEwNzc4Nl19
+eyJoaXN0b3J5IjpbLTEwMjc0OTM2OTUsLTg0MTE1OTczMCwtNz
+c1MzU0MDU0LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl19
 -->
