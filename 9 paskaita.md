@@ -476,7 +476,7 @@ Pavyzdžiui, pasirenku šabloną iš Design skilties.
 ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/sablonai00.avif)
 Kairiu pelės klavišu pasižymiu merginos nuotrauką, tada paspaudžiu dešinį pelės klavišą ir pasirenku Apply colors to page (kiekvieną kartą spaudžiant, keičiasi spalvos, tol kol yra skirtingų kombinacijų).
 
-
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/diziano%20spalvu%20pakeitimas%20pagal%20nuotrauka%20%281%29.avif)
 
 Prie elementų galima rasti:
 -   Shapes (Figūros)    
@@ -525,11 +525,11 @@ Skirtingi pasidalinimo būdai:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMTExODQzMyw3ODM0OTE1ODksMTM2Nz
-k1MTcxNiwtMTQyOTI1ODI3NywxNzA5NTA0MTIwLDEzODQxODA3
-NzMsLTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMzQxNDY2NCwtMT
-IwMzMyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5Mzk2LDEyODE0
-MzM1MjIsMjA0MTcyOTc2MCw5Mzk5NTQyMjksLTE5MzUxOTIxNT
-csMzExNjIzMjQ2LC00MTM0NjY1MCwyMTE1NTUyNjU5LC0xMzQx
-ODcxMDEyXX0=
+eyJoaXN0b3J5IjpbLTIxMjMyNTc3MzksMTYxMTExODQzMyw3OD
+M0OTE1ODksMTM2Nzk1MTcxNiwtMTQyOTI1ODI3NywxNzA5NTA0
+MTIwLDEzODQxODA3NzMsLTk5ODMyNzA3LC0xMzM4Nzg5MjA1LD
+gxMzQxNDY2NCwtMTIwMzMyODQ0NSwtMTc1MDE0OTk0MCwxNzUx
+MTU5Mzk2LDEyODE0MzM1MjIsMjA0MTcyOTc2MCw5Mzk5NTQyMj
+ksLTE5MzUxOTIxNTcsMzExNjIzMjQ2LC00MTM0NjY1MCwyMTE1
+NTUyNjU5XX0=
 -->
