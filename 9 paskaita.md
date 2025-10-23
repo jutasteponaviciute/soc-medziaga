@@ -566,13 +566,13 @@ Procesas pažingsniui:
 7.  Įveskite spalvos kodą: #000000    
 8.   Tarp elementų susiraskite Stambulo nuotraukų.    
 9.   Paspauskite ant patinkančios nuotraukos. Kai ji atsiras maketavimo vietoje, spauskite dešinįjį pelės klavišą ir pasirinkite Replace background. 
-10.  Kad nuotrauka patamsėtų ir geriau matytųsi kiti elementai, reikia iki 30 sumažinti Transparency.    
-11.  Prie teksto spaudžiame Add a heading.
+10.  Kad nuotrauka patamsėtų ir geriau matytųsi kiti elementai, reikia iki 30 sumažinti Transparency. ![10 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/10%20zingsnis.avif)    
+11.  Prie teksto spaudžiame Add a heading. ![11 zingsnis](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/11%20zingsnis.avif)
 12.  Keičiame tekstą į „Stambule”.    
 13.  Pasirenkame šriftą: Extenda 30 Deca    
 14.  Parenkame teksto dydį: 200    
 15.  Parenkame teksto spalvą: #ffc0c0    
-16.  Paspaudžiame ant šios ikonos, jog visos raidės būtų didžiosios.
+16.  Paspaudžiame ant šios ikonos, jog visos raidės būtų didžiosios. 
 17.  Prisidedam dar vieną teksto laukelį ir tekstą pakeičiam į „Apsilankyk”.    
 18.  Pasirenkame šriftą: Montserrat    
 19.  Parenkame teksto dydį: 37    
@@ -595,7 +595,7 @@ Procesas pažingsniui:
 36. Ir dar du kurių išmatavimai yar Width: 202px Height: 268px.
 37. Pasižymim visus rėmelius ir uždedam jiems baltus apvedimus.
 38. Tarp elementų susirandam nuotraukas, kurios atspindi temą ir sudedam skirtingas nuotraukas į visus rėmelius.
-![1 uz](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/1%20uzduotis.%20rezultatas.avif)
+![1 uzduoties rezultatas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/1%20uzduotis.%20rezultatas.avif)
 39. Atsiskaitymui įkelkite PNG formatu išeksportuotą dizainą.
 
 ### 2 užduotis. Savarankiškas dizaino kūrimas
@@ -626,11 +626,11 @@ Kaip dizaino elementai (spalvos, šriftai, struktūra) prisideda prie žinutės 
 Ar vizualas atitinka prekės ženklo stilių?   
 -   Įkelkite įrašo nuorodą arba ekrano nuotrauką ir aprašymą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTc3NzcyMTIsLTE1MTE1ODU4MTMsMj
-g3MzY4Mzg0LC00MTg0Mjk2NywxMzg2NTA5MjcxLDI1NTUwMjA5
-OCwxNjgwMjkyODcwLC04NzE5Mzk1MiwxMjY3MjY5NDQxLDE2MT
-ExMTg0MzMsNzgzNDkxNTg5LDEzNjc5NTE3MTYsLTE0MjkyNTgy
-NzcsMTcwOTUwNDEyMCwxMzg0MTgwNzczLC05OTgzMjcwNywtMT
-MzODc4OTIwNSw4MTM0MTQ2NjQsLTEyMDMzMjg0NDUsLTE3NTAx
-NDk5NDBdfQ==
+eyJoaXN0b3J5IjpbLTcwNDc5OTM3NCwtMTUxMTU4NTgxMywyOD
+czNjgzODQsLTQxODQyOTY3LDEzODY1MDkyNzEsMjU1NTAyMDk4
+LDE2ODAyOTI4NzAsLTg3MTkzOTUyLDEyNjcyNjk0NDEsMTYxMT
+ExODQzMyw3ODM0OTE1ODksMTM2Nzk1MTcxNiwtMTQyOTI1ODI3
+NywxNzA5NTA0MTIwLDEzODQxODA3NzMsLTk5ODMyNzA3LC0xMz
+M4Nzg5MjA1LDgxMzQxNDY2NCwtMTIwMzMyODQ0NSwtMTc1MDE0
+OTk0MF19
 -->
