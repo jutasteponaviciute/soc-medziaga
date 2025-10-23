@@ -509,12 +509,13 @@ Prie elementų galima rasti:
 ![Tables (Lentelės (duomenų išdėstymui))](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Tables.avif)
 
 ### Teksto įrankiai
-
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/tekstas1.avif)
 Teksto pritaikymas:
 Pritaikykite šriftus, pakeiskite dydį, spalvą, tarpus, paryškinkite, paverskite kursyvu, vienu mygtuko paspaudimu, pakeiskite visas raides į didžiąsias.
 
 Šrifto parinktys:
 Canva suteikia platų šriftų pasirinkimą ir galimybę įkelti savo šriftus (Canva Pro vartotojams).
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/tekstas2.avif)
 
 ### Išsaugojimo ir eksportavimo galimybės
 
@@ -539,11 +540,11 @@ Skirtingi pasidalinimo būdai:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTQ5ODQyMzksMTY4MDI5Mjg3MCwtOD
-cxOTM5NTIsMTI2NzI2OTQ0MSwxNjExMTE4NDMzLDc4MzQ5MTU4
-OSwxMzY3OTUxNzE2LC0xNDI5MjU4Mjc3LDE3MDk1MDQxMjAsMT
-M4NDE4MDc3MywtOTk4MzI3MDcsLTEzMzg3ODkyMDUsODEzNDE0
-NjY0LC0xMjAzMzI4NDQ1LC0xNzUwMTQ5OTQwLDE3NTExNTkzOT
-YsMTI4MTQzMzUyMiwyMDQxNzI5NzYwLDkzOTk1NDIyOSwtMTkz
-NTE5MjE1N119
+eyJoaXN0b3J5IjpbMTYyNzcyMDc4LDE2ODAyOTI4NzAsLTg3MT
+kzOTUyLDEyNjcyNjk0NDEsMTYxMTExODQzMyw3ODM0OTE1ODks
+MTM2Nzk1MTcxNiwtMTQyOTI1ODI3NywxNzA5NTA0MTIwLDEzOD
+QxODA3NzMsLTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMzQxNDY2
+NCwtMTIwMzMyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5Mzk2LD
+EyODE0MzM1MjIsMjA0MTcyOTc2MCw5Mzk5NTQyMjksLTE5MzUx
+OTIxNTddfQ==
 -->
