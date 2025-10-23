@@ -29,7 +29,15 @@ Geras dizainas:
 
 ![Gero diziano pavyzdys Adobe](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/gero%20dizaino%20pvz%201.avif)
 ![Gero diziano pavyzdys Canva](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/gero%20dizaino%20pvz%202.avif)
+
+Blogas dizainas:
+-   sukelia painiavą, nežinai, kur žiūrėti;    
+-   turi per daug skirtingų elementų ar spalvų;    
+-   neaišku, koks jo tikslas;    
+-   neperduoda žinutės arba ją užgožia.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTY1NTcxMjQsNTM1MTI1NDE0LC0xMT
-MxMTA3Nzg2XX0=
+eyJoaXN0b3J5IjpbLTY4NTA1OTExLDUzNTEyNTQxNCwtMTEzMT
+EwNzc4Nl19
 -->
