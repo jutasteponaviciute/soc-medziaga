@@ -498,11 +498,15 @@ Prie elementų galima rasti:
 -   Audio (Garsai / Muzika)
 ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Audio.avif)   
 -   Forms (Formos) 
-   
--   Mockups (Maketai / vizualizacijos)    
--   Charts (Diagramos)    
--   Sheets (Lentelės (skaičiuoklės tipo))    
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Forms.avif)   
+-   Mockups (Maketai / vizualizacijos)
+    ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Mockups.avif)
+-   Charts (Diagramos) 
+   ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Charts.avif)
+-   Sheets (Lentelės (skaičiuoklės tipo)) 
+  ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Sheets.avif) 
 -   Tables (Lentelės (duomenų išdėstymui))
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Tables.avif)
 
 ### Teksto įrankiai
 
@@ -535,11 +539,11 @@ Skirtingi pasidalinimo būdai:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyOTI0MTc0LC04NzE5Mzk1MiwxMjY3Mj
-Y5NDQxLDE2MTExMTg0MzMsNzgzNDkxNTg5LDEzNjc5NTE3MTYs
-LTE0MjkyNTgyNzcsMTcwOTUwNDEyMCwxMzg0MTgwNzczLC05OT
-gzMjcwNywtMTMzODc4OTIwNSw4MTM0MTQ2NjQsLTEyMDMzMjg0
-NDUsLTE3NTAxNDk5NDAsMTc1MTE1OTM5NiwxMjgxNDMzNTIyLD
-IwNDE3Mjk3NjAsOTM5OTU0MjI5LC0xOTM1MTkyMTU3LDMxMTYy
-MzI0Nl19
+eyJoaXN0b3J5IjpbMTY4MDI5Mjg3MCwtODcxOTM5NTIsMTI2Nz
+I2OTQ0MSwxNjExMTE4NDMzLDc4MzQ5MTU4OSwxMzY3OTUxNzE2
+LC0xNDI5MjU4Mjc3LDE3MDk1MDQxMjAsMTM4NDE4MDc3MywtOT
+k4MzI3MDcsLTEzMzg3ODkyMDUsODEzNDE0NjY0LC0xMjAzMzI4
+NDQ1LC0xNzUwMTQ5OTQwLDE3NTExNTkzOTYsMTI4MTQzMzUyMi
+wyMDQxNzI5NzYwLDkzOTk1NDIyOSwtMTkzNTE5MjE1NywzMTE2
+MjMyNDZdfQ==
 -->
