@@ -226,7 +226,7 @@ Kad dizainas būtų ne tik gražus, bet ir prieinamas visiems, rekomenduojama pa
 
 ![Canva kontrasto tikrinimas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/kontrasto%20tikrinimas%20Canva%20programoj.avif)
 
-contrast-checker.com – parodo tikslią spalvų kontrasto reikšmę (atitikimą WCAG standartams).
+- **contrast-checker.com** – parodo tikslią spalvų kontrasto reikšmę (atitikimą WCAG standartams).
 
 WCAG (angl. Web Content Accessibility Guidelines) – tai prieinamumo gairės, nustatančios, kaip skaitmeninis turinys (pvz., svetainės, vizualai ar programos) turi būti sukurtas, kad jį galėtų patogiai matyti ir naudoti visi žmonės, įskaitant turinčius regėjimo sutrikimų.
 
@@ -237,7 +237,7 @@ Tai užtikrina, kad tekstas būtų skaitomas net turint regėjimo sutrikimų ar 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Nzg3OTUyNSwtMjQ3ODg3MDEsLTk5Mj
-c3MTAxNSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMwLC03NzUzNTQw
-NTQsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
+eyJoaXN0b3J5IjpbMTAxODUwNzQsLTI0Nzg4NzAxLC05OTI3Nz
+EwMTUsLTExNzk0NjQwMTksLTg0MTE1OTczMCwtNzc1MzU0MDU0
+LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl19
 -->
