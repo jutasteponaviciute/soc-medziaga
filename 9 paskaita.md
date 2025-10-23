@@ -489,24 +489,32 @@ Kairiu pelės klavišu pasižymiu merginos nuotrauką, tada paspaudžiu dešinį
 
 Prie elementų galima rasti:
 -   Shapes (Figūros)  
-![Shapes (Figūros)](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/formos.avif)  
+- ![Shapes (Figūros)](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/formos.avif)  
 -   Graphics (Grafikos elementai)   
  ![Graphics (Grafikos elementai)](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Graphics.avif)
 -   3D (3D elementai)
+
     ![3D (3D elementai)](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/3D.avif)
 -   Stickers (Lipdukai)
+
     ![Stickers (Lipdukai)](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Stickers.avif)
 -   Photos (Nuotraukos)
+
     ![Photos (Nuotraukos)](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Photos.avif)
 -   Frames (Rėmeliai) 
+
    ![Frames (Rėmeliai) ](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Frames.avif)
 -   Grids (Tinkleliai)   
+
 ![Grids (Tinkleliai)  ](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Grids.avif) 
 -   Videos (Vaizdo įrašai)
+
 ![Videos (Vaizdo įrašai)](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Videos.avif)    
 -   Audio (Garsai / Muzika)
+
 ![Audio (Garsai / Muzika)](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Audio.avif)   
 -   Forms (Formos) 
+
 ![Forms (Formos) ](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Forms.avif)   
 -   Mockups (Maketai / vizualizacijos)
     ![Mockups (Maketai / vizualizacijos)](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/Mockups.avif)
@@ -635,11 +643,11 @@ Kaip dizaino elementai (spalvos, šriftai, struktūra) prisideda prie žinutės 
 Ar vizualas atitinka prekės ženklo stilių?   
 -   Įkelkite įrašo nuorodą arba ekrano nuotrauką ir aprašymą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Nzg5MTczLDExNjQzMzU2ODcsLTEzMD
-c2NDg2NTEsLTE1MTE1ODU4MTMsMjg3MzY4Mzg0LC00MTg0Mjk2
-NywxMzg2NTA5MjcxLDI1NTUwMjA5OCwxNjgwMjkyODcwLC04Nz
-E5Mzk1MiwxMjY3MjY5NDQxLDE2MTExMTg0MzMsNzgzNDkxNTg5
-LDEzNjc5NTE3MTYsLTE0MjkyNTgyNzcsMTcwOTUwNDEyMCwxMz
-g0MTgwNzczLC05OTgzMjcwNywtMTMzODc4OTIwNSw4MTM0MTQ2
-NjRdfQ==
+eyJoaXN0b3J5IjpbMTk5NTg4Mzc0OCwxMTY0MzM1Njg3LC0xMz
+A3NjQ4NjUxLC0xNTExNTg1ODEzLDI4NzM2ODM4NCwtNDE4NDI5
+NjcsMTM4NjUwOTI3MSwyNTU1MDIwOTgsMTY4MDI5Mjg3MCwtOD
+cxOTM5NTIsMTI2NzI2OTQ0MSwxNjExMTE4NDMzLDc4MzQ5MTU4
+OSwxMzY3OTUxNzE2LC0xNDI5MjU4Mjc3LDE3MDk1MDQxMjAsMT
+M4NDE4MDc3MywtOTk4MzI3MDcsLTEzMzg3ODkyMDUsODEzNDE0
+NjY0XX0=
 -->
