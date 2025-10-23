@@ -1,7 +1,5 @@
 # 1. PASKAITA. Vizualinio turinio svarba socialiniuose tinkluose ir įvadas į Canva programą
 
-Trukmė: 4 val. (2 val. teorija + 2 val. praktika)
-
 Tikslas: suprasti, kodėl vizualinė komunikacija yra svarbi norint aiškai komunikuoti socialiniuose tinkluose ir orientuotis Canva programoje bei gebėti savarankiškai atlikti paprastus veiksmus šioje programoje.
 
 ## Kaip su vizualine komunikacija laimėti mūšį dėl dėmesio?
@@ -425,11 +423,15 @@ Pasirinkite norimą spalvą iš pasiūlytų arba įveskite savo spalvos HEX kod�
 3.  Arba kairėje meniu pasirinkite Background (Jei automatiškai neatsiranda, jį galima rasti tarp Apps).
 Čia galima rinktis iš įvairių fono paveikslėlių: abstrakčių, tekstūrinių ar teminių.
 Spustelėjus bet kurį iš jų, jis automatiškai pakeis dabartinį fono vaizdą.
+
 ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/fono%20parinkimas.avif)
 ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/spalvos%20parinkimas.avif)
+
 Įkėlus nuotrauką, Canva parodo nuotraukos spalvų paletę.
+
 ![spalvu palete is nuotraukos](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/nuotraukoje%20esancios%20spalvos.avif)
 Spaudžiame Elements ir čia pradedame paiešką.
+
 ![elementu paieskos langas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/paieska.avif)
 ### Paieška 
 
@@ -626,11 +628,11 @@ Kaip dizaino elementai (spalvos, šriftai, struktūra) prisideda prie žinutės 
 Ar vizualas atitinka prekės ženklo stilių?   
 -   Įkelkite įrašo nuorodą arba ekrano nuotrauką ir aprašymą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDc2NDg2NTEsLTE1MTE1ODU4MTMsMj
-g3MzY4Mzg0LC00MTg0Mjk2NywxMzg2NTA5MjcxLDI1NTUwMjA5
-OCwxNjgwMjkyODcwLC04NzE5Mzk1MiwxMjY3MjY5NDQxLDE2MT
-ExMTg0MzMsNzgzNDkxNTg5LDEzNjc5NTE3MTYsLTE0MjkyNTgy
-NzcsMTcwOTUwNDEyMCwxMzg0MTgwNzczLC05OTgzMjcwNywtMT
-MzODc4OTIwNSw4MTM0MTQ2NjQsLTEyMDMzMjg0NDUsLTE3NTAx
-NDk5NDBdfQ==
+eyJoaXN0b3J5IjpbMTE2NDMzNTY4NywtMTMwNzY0ODY1MSwtMT
+UxMTU4NTgxMywyODczNjgzODQsLTQxODQyOTY3LDEzODY1MDky
+NzEsMjU1NTAyMDk4LDE2ODAyOTI4NzAsLTg3MTkzOTUyLDEyNj
+cyNjk0NDEsMTYxMTExODQzMyw3ODM0OTE1ODksMTM2Nzk1MTcx
+NiwtMTQyOTI1ODI3NywxNzA5NTA0MTIwLDEzODQxODA3NzMsLT
+k5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMzQxNDY2NCwtMTIwMzMy
+ODQ0NV19
 -->
