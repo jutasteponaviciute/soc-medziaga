@@ -534,23 +534,25 @@ Formatai:
 - **PPTX** (Microsoft PowerPont dokumentas)
 ![eksportavimo galimybes](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/eksportavimas.avif)
 
-### Savo vizualiniu turiniu galite dalintis su draugas ar kolegomis
+### Savo vizualiniu turiniu galite dalintis su kitais
 
 Skirtingi pasidalinimo būdai:    
 -   leidžiama tik peržiūrėti;    
 -   leidžiama tik komentuoti;    
 -   leidžiama redaguoti.
+![dalinimasisi su kitais](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/09_paskaita/dalinimasis.avif)
 
+## Praktin
 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU2MDEwODUsLTQxODQyOTY3LDEzOD
-Y1MDkyNzEsMjU1NTAyMDk4LDE2ODAyOTI4NzAsLTg3MTkzOTUy
-LDEyNjcyNjk0NDEsMTYxMTExODQzMyw3ODM0OTE1ODksMTM2Nz
-k1MTcxNiwtMTQyOTI1ODI3NywxNzA5NTA0MTIwLDEzODQxODA3
-NzMsLTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMzQxNDY2NCwtMT
-IwMzMyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5Mzk2LDEyODE0
-MzM1MjJdfQ==
+eyJoaXN0b3J5IjpbNTU4NzM1ODUsLTQxODQyOTY3LDEzODY1MD
+kyNzEsMjU1NTAyMDk4LDE2ODAyOTI4NzAsLTg3MTkzOTUyLDEy
+NjcyNjk0NDEsMTYxMTExODQzMyw3ODM0OTE1ODksMTM2Nzk1MT
+cxNiwtMTQyOTI1ODI3NywxNzA5NTA0MTIwLDEzODQxODA3NzMs
+LTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMzQxNDY2NCwtMTIwMz
+MyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5Mzk2LDEyODE0MzM1
+MjJdfQ==
 -->
