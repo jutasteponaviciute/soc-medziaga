@@ -554,16 +554,36 @@ Tikslas: praktikoje, savarankiškai išbandyti pagrindines funkcijas.
 - Šriftai: Extenda 30 Deca ir Montserrat.
 - Nuotraukas tarp elementų reikia susirasti savarankiškai, jos gali skirtis nuo pateiktų pavyzdyje.
 
+Procesas pažingsniui: 
+
+1.  Kairėje pusėje esančiame meniu pasirinkite Create – tai pagrindinis mygtukas, leidžiantis pradėti naujo dizaino kūrimą.
+    
+2.  Atsidariusiame lange pasirinkite Social media kategoriją.
+    
+3.  Iš sąrašo pasirinkite platformą, kuriai kursite vizualą,šiuo atveju, Instagram.
+    
+4.  Tada spauskite Instagram Post (4:5), kad atsidarytų dizaino kūrimo langas.
+    
+5.  Pažymėkite dizaino foną – spustelėkite baltą dizaino plotą, kad jis būtų aktyvus.
+    
+6.  Viršutiniame meniu spauskite spalvų piktogramą (spalvų ratuką).
+
+7.  Įveskite spalvos kodą: #000000
+    
+8.   Tarp elementų susiraskite Stambulo nuotraukų.
+    
+9.   Paspauskite ant patinkančios nuotraukos. Kai ji atsiras maketavimo vietoje, spauskite dešinįjį pelės klavišą ir pasirinkite Replace background.
+
 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDAxOTUwMDksLTQxODQyOTY3LDEzOD
-Y1MDkyNzEsMjU1NTAyMDk4LDE2ODAyOTI4NzAsLTg3MTkzOTUy
-LDEyNjcyNjk0NDEsMTYxMTExODQzMyw3ODM0OTE1ODksMTM2Nz
-k1MTcxNiwtMTQyOTI1ODI3NywxNzA5NTA0MTIwLDEzODQxODA3
-NzMsLTk5ODMyNzA3LC0xMzM4Nzg5MjA1LDgxMzQxNDY2NCwtMT
-IwMzMyODQ0NSwtMTc1MDE0OTk0MCwxNzUxMTU5Mzk2LDEyODE0
-MzM1MjJdfQ==
+eyJoaXN0b3J5IjpbLTM0MDgwMTgzNCwtNDE4NDI5NjcsMTM4Nj
+UwOTI3MSwyNTU1MDIwOTgsMTY4MDI5Mjg3MCwtODcxOTM5NTIs
+MTI2NzI2OTQ0MSwxNjExMTE4NDMzLDc4MzQ5MTU4OSwxMzY3OT
+UxNzE2LC0xNDI5MjU4Mjc3LDE3MDk1MDQxMjAsMTM4NDE4MDc3
+MywtOTk4MzI3MDcsLTEzMzg3ODkyMDUsODEzNDE0NjY0LC0xMj
+AzMzI4NDQ1LC0xNzUwMTQ5OTQwLDE3NTExNTkzOTYsMTI4MTQz
+MzUyMl19
 -->
