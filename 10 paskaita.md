@@ -145,13 +145,13 @@ Pavyzdžiai:
 -   Tekstas užima vieną pusę, o vizualas užima kitą, tarp jų palikta oro.  
 -   Logotipas ar mygtukas nėra priglaustas prie krašto, aplink palikta erdvės, kad jis „kvėpuotų“.
 
-
+![balanso ir tuscios erdves pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/balanso%20ir%20tuscios%20erdves%20pvz.avif)
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDIxMzIwMTksLTk5Mjc3MTAxNSwtMT
-E3OTQ2NDAxOSwtODQxMTU5NzMwLC03NzUzNTQwNTQsNTM1MTI1
-NDE0LC0xMTMxMTA3Nzg2XX0=
+eyJoaXN0b3J5IjpbLTI0Nzg4NzAxLC05OTI3NzEwMTUsLTExNz
+k0NjQwMTksLTg0MTE1OTczMCwtNzc1MzU0MDU0LDUzNTEyNTQx
+NCwtMTEzMTEwNzc4Nl19
 -->
