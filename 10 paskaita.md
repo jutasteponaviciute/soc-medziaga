@@ -418,13 +418,17 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 - Kontrastas: piktogramų spalva turi praeiti AA kontrasto testą fone (ypač, jei jos informatyvios).
 - Rinkitės universalias reikšmes (klaustukas pagalbai, žemėlapis lokacijai ir t. t.).
 
-### Iliustracijos, lipdukai, 3D
+### Dekoratyviniai elementai (grafiniai elementai, iliustracijos, ornamentai)
+
+- Gali suteikti dizainui charakterio ir vizualinio įdomumo, tačiau juos svarbu naudoti saikingai.
+- Jeigu tokių detalių per daug, dizainas tampa chaotiškas ir blaško dėmesį nuo esmės.
+Geriausia, kai iliustracijos ir kiti papildomi elementai organiškai dera su likusia vizualo dalimi ir sustiprina pagrindinę žinutę, o ne atrodo įterpti be aiškaus tikslo.
 
 ### Šešėliai, gylis, tekstūros
 
 ### Dažniausios klaidos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTI4NTM1NywtMjEzMjAxMzgwMywtMz
+eyJoaXN0b3J5IjpbLTY4MTAxMzIxMywtMjEzMjAxMzgwMywtMz
 E3NzA4MDk0LC0xNjgzOTgzODYwLDEwMTg1MDc0LC0yNDc4ODcw
 MSwtOTkyNzcxMDE1LC0xMTc5NDY0MDE5LC04NDExNTk3MzAsLT
 c3NTM1NDA1NCw1MzUxMjU0MTQsLTExMzExMDc3ODZdfQ==
