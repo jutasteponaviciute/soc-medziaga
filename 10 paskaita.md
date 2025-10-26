@@ -433,25 +433,16 @@ Pasirinktas šriftas atrodo gražiai anglų kalboje, tačiau lietuviškame tekst
 * „Tidy up“ funkcija padeda automatiškai išdėstyti kelis teksto laukelius tolygiai.
 
 **6. Eilučių ir raidžių tarpai (Line spacing, Letter spacing)**
-
 - Line spacing padeda padidinti arba sumažinti atstumą tarp eilučių. Pagrindiniam tekstui rekomenduojama 1.2–1.4.
+- Letter spacing reguliuoja tarpus tarp raidžių. Padidinus – tekstas atrodo elegantiškiau, - sumažinus – kompaktiškiau.
+Rekomenduoju, kuo mažiau keisti orginalius nustatymus.
 
-Letter spacing reguliuoja tarpus tarp raidžių.
-– Padidinus – tekstas atrodo elegantiškiau, sumažinus – kompaktiškiau.
-
-Išbandyk skirtingus tarpus, kad pasiektum balansą tarp aiškumo ir estetikos.
-
-7. Efektai (Text effects)
-
-Shadow (šešėlis) – suteikia gylio, bet naudok subtiliai.
-
-Lift – švelniai pakelia tekstą nuo fono.
-
-Outline (kontūras) – tinka kontrastui ar dekoratyviniams elementams.
-
-Curve (lenktas tekstas) – dažniausiai naudojamas logotipuose ar dekoracijose.
-
-Splice, Echo, Glitch – kūrybiniai efektai, naudok saikingai, kad neiškraipytum žinutės.
+**7. Efektai (Text effects)**
+- Shadow (šešėlis) – suteikia gylio, bet naudok subtiliai.
+- Lift – švelniai pakelia tekstą nuo fono.
+- Outline (kontūras) – tinka kontrastui ar dekoratyviniams elementams.
+- Curve (lenktas tekstas) – dažniausiai naudojamas logotipuose ar dekoracijose.
+- Splice, Echo, Glitch – kūrybiniai efektai, naudok saikingai, kad neiškraipytum žinutės.
 
 ## Formos ir grafiniai elementai
 
@@ -560,11 +551,11 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDUyMzkzMDQsMTk2NDU2MDk5NywyMD
-c0NTU2NDYsLTE0MjY1MjY5MjMsLTY1MzY1MDc5MywxMjUxODYy
-NzI4LC04MzUzNDUxNTgsLTEyNDQxNTc4NDksLTc3NTE5MzczNi
-wxODY4NzkyNTc5LC0xODkxNDk5OTM3LDIwMDA1NDQxMjYsMzY3
-MTk2MTY2LC0yMTMyMDEzODAzLC0zMTc3MDgwOTQsLTE2ODM5OD
-M4NjAsMTAxODUwNzQsLTI0Nzg4NzAxLC05OTI3NzEwMTUsLTEx
-Nzk0NjQwMTldfQ==
+eyJoaXN0b3J5IjpbMTQwMzk1ODUzMSwxOTY0NTYwOTk3LDIwNz
+Q1NTY0NiwtMTQyNjUyNjkyMywtNjUzNjUwNzkzLDEyNTE4NjI3
+MjgsLTgzNTM0NTE1OCwtMTI0NDE1Nzg0OSwtNzc1MTkzNzM2LD
+E4Njg3OTI1NzksLTE4OTE0OTk5MzcsMjAwMDU0NDEyNiwzNjcx
+OTYxNjYsLTIxMzIwMTM4MDMsLTMxNzcwODA5NCwtMTY4Mzk4Mz
+g2MCwxMDE4NTA3NCwtMjQ3ODg3MDEsLTk5Mjc3MTAxNSwtMTE3
+OTQ2NDAxOV19
 -->
