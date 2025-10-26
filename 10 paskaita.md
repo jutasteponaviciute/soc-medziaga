@@ -419,10 +419,10 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 
 ### Šešėliai, gylis, tekstūros
 
-###
+### Dažniausios klaidos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDcxNzA1OCwtMzE3NzA4MDk0LC0xNj
-gzOTgzODYwLDEwMTg1MDc0LC0yNDc4ODcwMSwtOTkyNzcxMDE1
-LC0xMTc5NDY0MDE5LC04NDExNTk3MzAsLTc3NTM1NDA1NCw1Mz
-UxMjU0MTQsLTExMzExMDc3ODZdfQ==
+eyJoaXN0b3J5IjpbLTIxMzIwMTM4MDMsLTMxNzcwODA5NCwtMT
+Y4Mzk4Mzg2MCwxMDE4NTA3NCwtMjQ3ODg3MDEsLTk5Mjc3MTAx
+NSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMwLC03NzUzNTQwNTQsNT
+M1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
 -->
