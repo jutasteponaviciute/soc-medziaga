@@ -381,7 +381,11 @@ CTA mygtuko tekstas: 14–16 pt
 
 ### Šrifto testavimas
 
+Kuriant dizainus lietuvių kalba, labai svarbu įsitikinti, kad pasirinktas šriftas palaiko visas lietuviškas raides ir skyrybos ženklus.
+
 ![netinkamo srifto pasirinkimo pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/sriftas%20be%20LT%20raidziu.avif)
+
+Kai kurie šriftai, ypač dekoratyviniai ar nemokami iš trečiųjų šaltinių, neturi pilno simbolių rinkinio. Tokiu atveju raidės, tokios kaip ą, č, ę, ė, į, š, ų, ū, ž, gali būti rodomos neteisingai: be nosinių, su pakeistu simboliu, k ar visai dingti.
 
 ### Tipografijos klaidos, kurių verta vengti
 
@@ -498,11 +502,11 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTg2MjcyOCwtODM1MzQ1MTU4LC0xMj
-Q0MTU3ODQ5LC03NzUxOTM3MzYsMTg2ODc5MjU3OSwtMTg5MTQ5
-OTkzNywyMDAwNTQ0MTI2LDM2NzE5NjE2NiwtMjEzMjAxMzgwMy
-wtMzE3NzA4MDk0LC0xNjgzOTgzODYwLDEwMTg1MDc0LC0yNDc4
-ODcwMSwtOTkyNzcxMDE1LC0xMTc5NDY0MDE5LC04NDExNTk3Mz
-AsLTc3NTM1NDA1NCw1MzUxMjU0MTQsLTExMzExMDc3ODZdfQ==
-
+eyJoaXN0b3J5IjpbNzc0MzQ1OTMwLDEyNTE4NjI3MjgsLTgzNT
+M0NTE1OCwtMTI0NDE1Nzg0OSwtNzc1MTkzNzM2LDE4Njg3OTI1
+NzksLTE4OTE0OTk5MzcsMjAwMDU0NDEyNiwzNjcxOTYxNjYsLT
+IxMzIwMTM4MDMsLTMxNzcwODA5NCwtMTY4Mzk4Mzg2MCwxMDE4
+NTA3NCwtMjQ3ODg3MDEsLTk5Mjc3MTAxNSwtMTE3OTQ2NDAxOS
+wtODQxMTU5NzMwLC03NzUzNTQwNTQsNTM1MTI1NDE0LC0xMTMx
+MTA3Nzg2XX0=
 -->
