@@ -551,8 +551,7 @@ Vertinimas: gebėjimas pastebėti hierarchiją, kontrastą, balansą ir dizaino 
 
 ## **2-3 užduoties darbas vyksta šiame dokumente:** 
 
-
---
+https://www.canva.com/design/DAGYsMDA0Z0/yt80V58eWnkvvOfEYfUcVA/view?utm_content=DAGYsMDA0Z0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
 
 ### 2 užduotis. Spalvų paletės kūrimas ir testavimas
 
@@ -586,11 +585,11 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzMzODQzOTEsLTgwNDkyNDY2NywxMT
-QzOTYzODgsLTYwNjMxNjQwNCwyMTI3MDEyMzEwLDE5NjQ1NjA5
-OTcsMjA3NDU1NjQ2LC0xNDI2NTI2OTIzLC02NTM2NTA3OTMsMT
-I1MTg2MjcyOCwtODM1MzQ1MTU4LC0xMjQ0MTU3ODQ5LC03NzUx
-OTM3MzYsMTg2ODc5MjU3OSwtMTg5MTQ5OTkzNywyMDAwNTQ0MT
-I2LDM2NzE5NjE2NiwtMjEzMjAxMzgwMywtMzE3NzA4MDk0LC0x
-NjgzOTgzODYwXX0=
+eyJoaXN0b3J5IjpbNTY2MTE1OTMwLC04MDQ5MjQ2NjcsMTE0Mz
+k2Mzg4LC02MDYzMTY0MDQsMjEyNzAxMjMxMCwxOTY0NTYwOTk3
+LDIwNzQ1NTY0NiwtMTQyNjUyNjkyMywtNjUzNjUwNzkzLDEyNT
+E4NjI3MjgsLTgzNTM0NTE1OCwtMTI0NDE1Nzg0OSwtNzc1MTkz
+NzM2LDE4Njg3OTI1NzksLTE4OTE0OTk5MzcsMjAwMDU0NDEyNi
+wzNjcxOTYxNjYsLTIxMzIwMTM4MDMsLTMxNzcwODA5NCwtMTY4
+Mzk4Mzg2MF19
 -->
