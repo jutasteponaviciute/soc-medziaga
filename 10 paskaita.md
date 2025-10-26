@@ -485,30 +485,16 @@ Tikslas: išmokti parinkti šriftų derinius ir patikrinti jų tinkamumą turini
 
 Užduotis:
 - Pasirinkite 2–3 šriftus, kurie, jūsų nuomone, dera tarpusavyje (pvz., antraštėms, pagrindiniam tekstui ir akcentams).
-
-Canvoje sukurkite šriftų pavyzdžių lentelę, kurioje pavaizduosite:
-
-Antraštę – naudodami 1-ąjį šriftą;
-
-Pagrindinį tekstą – naudodami 2-ąjį šriftą;
-
-Akcentą arba CTA – jei norite, naudokite 3-ąjį šriftą.
-
-- Patikrinkite, ar visi pasirinkti šriftai palaiko lietuviškas raides ir skyrybos ženklus
-
+- Patikrinkite, ar visi pasirinkti šriftai palaiko lietuviškas raides ir skyrybos ženklus.
 - Pridėkite trumpą aprašymą (2–3 sakinius):
 Kodėl pasirinkote šiuos šriftus?
 Kodėl jie dera tarpusavyje?
 Ar palaiko lietuviškas raides?
 -Atsiskaitymui įkelkite išeksportuotą dokumentą (PDF formatu) su šriftų deriniu, testavimu ir paaiškinimu.
 
-Vertinamas logiškas ir estetiškas šriftų derinimas;
-
-aiškiai parodytas testavimas su lietuviškomis raidėmis;
-
-apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
+Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODYzMzY0NSwtMTI0NDE1Nzg0OSwtNz
+eyJoaXN0b3J5IjpbMTQ4MDg4MzcxMCwtMTI0NDE1Nzg0OSwtNz
 c1MTkzNzM2LDE4Njg3OTI1NzksLTE4OTE0OTk5MzcsMjAwMDU0
 NDEyNiwzNjcxOTYxNjYsLTIxMzIwMTM4MDMsLTMxNzcwODA5NC
 wtMTY4Mzk4Mzg2MCwxMDE4NTA3NCwtMjQ3ODg3MDEsLTk5Mjc3
