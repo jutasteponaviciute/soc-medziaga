@@ -387,11 +387,16 @@ Kuriant dizainus lietuvių kalba, labai svarbu įsitikinti, kad pasirinktas šri
 
 Kai kurie šriftai, ypač dekoratyviniai ar nemokami iš trečiųjų šaltinių, neturi pilno simbolių rinkinio. Tokiu atveju raidės, tokios kaip ą, č, ę, ė, į, š, ų, ū, ž, gali būti rodomos neteisingai: be nosinių, su pakeistu simboliu, kitu šriftu ar visai dingti.
 
+Tai ne tik atrodo neprofesionaliai, bet ir kenkia skaitymui bei prekės ženklo įvaizdžiui.
+
 **Kaip patikrinti, ar šriftas tinkamas?**
 
+- Pasirinktu šriftu surašykite visą lietuvišką abėcėlę ir pagrindinius skyrybos ženklus.
+- Pažiūrėkite, ar visos raidės rodomos taisyklingai.
+- Jei bent viena raidė netinkama, rinkitės kitą šriftą.
 
-
-Tai ne tik atrodo neprofesionaliai, bet ir kenkia skaitymui bei prekės ženklo įvaizdžiui.
+**Dažna klaida:**
+Pasirinktas šriftas atrodo gražiai anglų kalboje, tačiau lietuviškame tekste tampa neįskaitomas, nes trūksta dalies raidžių arba skyrybos ženklų.
 
 ### Tipografijos klaidos, kurių verta vengti
 
@@ -508,11 +513,11 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzY1MDc5MywxMjUxODYyNzI4LC04Mz
-UzNDUxNTgsLTEyNDQxNTc4NDksLTc3NTE5MzczNiwxODY4Nzky
-NTc5LC0xODkxNDk5OTM3LDIwMDA1NDQxMjYsMzY3MTk2MTY2LC
-0yMTMyMDEzODAzLC0zMTc3MDgwOTQsLTE2ODM5ODM4NjAsMTAx
-ODUwNzQsLTI0Nzg4NzAxLC05OTI3NzEwMTUsLTExNzk0NjQwMT
-ksLTg0MTE1OTczMCwtNzc1MzU0MDU0LDUzNTEyNTQxNCwtMTEz
-MTEwNzc4Nl19
+eyJoaXN0b3J5IjpbNTI4MjUzOTk4LC02NTM2NTA3OTMsMTI1MT
+g2MjcyOCwtODM1MzQ1MTU4LC0xMjQ0MTU3ODQ5LC03NzUxOTM3
+MzYsMTg2ODc5MjU3OSwtMTg5MTQ5OTkzNywyMDAwNTQ0MTI2LD
+M2NzE5NjE2NiwtMjEzMjAxMzgwMywtMzE3NzA4MDk0LC0xNjgz
+OTgzODYwLDEwMTg1MDc0LC0yNDc4ODcwMSwtOTkyNzcxMDE1LC
+0xMTc5NDY0MDE5LC04NDExNTk3MzAsLTc3NTM1NDA1NCw1MzUx
+MjU0MTRdfQ==
 -->
