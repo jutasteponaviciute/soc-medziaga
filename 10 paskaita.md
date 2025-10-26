@@ -446,11 +446,12 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 
 # Praktinės užduotys
 
-### 1 užduotis. 
+### 1 užduotis. Dizaino analizė
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODc5MjU3OSwtMTg5MTQ5OTkzNywyMD
-AwNTQ0MTI2LDM2NzE5NjE2NiwtMjEzMjAxMzgwMywtMzE3NzA4
-MDk0LC0xNjgzOTgzODYwLDEwMTg1MDc0LC0yNDc4ODcwMSwtOT
-kyNzcxMDE1LC0xMTc5NDY0MDE5LC04NDExNTk3MzAsLTc3NTM1
-NDA1NCw1MzUxMjU0MTQsLTExMzExMDc3ODZdfQ==
+eyJoaXN0b3J5IjpbNDc2MTQ3MDEzLDE4Njg3OTI1NzksLTE4OT
+E0OTk5MzcsMjAwMDU0NDEyNiwzNjcxOTYxNjYsLTIxMzIwMTM4
+MDMsLTMxNzcwODA5NCwtMTY4Mzk4Mzg2MCwxMDE4NTA3NCwtMj
+Q3ODg3MDEsLTk5Mjc3MTAxNSwtMTE3OTQ2NDAxOSwtODQxMTU5
+NzMwLC03NzUzNTQwNTQsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX
+0=
 -->
