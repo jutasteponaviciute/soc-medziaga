@@ -400,10 +400,19 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 
 **Praktinis principas**: forma turėtų tarnauti turiniui, o ne konkuruoti su juo. **Jei forma užgožia tekstą ar nuotrauką ji yra netinkamo dydžio, kontrasto arba vietos.**
 
-### Formų psichologija ir kada jas rinktis
+### Linijos, skyrikliai, rėmeliai
+
+- Plonos linijos – subtilūs skyrikliai tarp blokų, meniu ar sąrašų.
+- Storesnės linijos / rėmai – ryškesnis akcentas, citatų blokams.
+- Punktyrus naudokite rečiau: greitai atrodo „triukšmingai“.
+- Kampų apvalumas: jei prekės ženklas naudoja 12 px radius – laikykitės jo nuosekliai visur.
+
+Canva patarimai:
+- Align / Tidy up – greitas elementų sulygiavimas ir tolygus tarpas.
+- Stroke (Outline) – ribokite storį, kad rėmeliai neperimtų dėmesio nuo teksto.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4Njc2MjQ4LC0zMTc3MDgwOTQsLTE2OD
-M5ODM4NjAsMTAxODUwNzQsLTI0Nzg4NzAxLC05OTI3NzEwMTUs
-LTExNzk0NjQwMTksLTg0MTE1OTczMCwtNzc1MzU0MDU0LDUzNT
-EyNTQxNCwtMTEzMTEwNzc4Nl19
+eyJoaXN0b3J5IjpbMTI5NDc4NTg1MiwtMzE3NzA4MDk0LC0xNj
+gzOTgzODYwLDEwMTg1MDc0LC0yNDc4ODcwMSwtOTkyNzcxMDE1
+LC0xMTc5NDY0MDE5LC04NDExNTk3MzAsLTc3NTM1NDA1NCw1Mz
+UxMjU0MTQsLTExMzExMDc3ODZdfQ==
 -->
