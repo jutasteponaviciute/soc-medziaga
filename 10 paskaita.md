@@ -400,6 +400,18 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 
 **Praktinis principas**: forma turėtų tarnauti turiniui, o ne konkuruoti su juo. **Jei forma užgožia tekstą ar nuotrauką ji yra netinkamo dydžio, kontrasto arba vietos.**
 
+### Formos kaip konteineriai tekstui ir vizualui
+
+Foninė kapsulė po antrašte – paprastas būdas išlaikyti kontrastą ant nuotraukos.
+Teksto ženkliukai (tag’ai, badge’ai) – „Nauja“, „-30%“, „Tik šiandien“.
+Nuotraukos „maskė“ forma – sukurkite vieningą stilių: visoms karuselės nuotraukoms ta pati forma (pvz., stačiakampis su 16 px radiusu).
+
+**Canva patarimai:**
+
+- „Elements → Frames“ – nuotraukas įmeskite tiesiai į formą.
+
+„Elements → Shapes“ – spalvą keiskite Brand Kit palete, skaidrumą (Transparency) naudokite 80–90 %, jei reikia „oro“
+
 ### Linijos, skyrikliai, rėmeliai
 
 - Plonos linijos – subtilūs skyrikliai tarp blokų, meniu ar sąrašų.
@@ -411,8 +423,6 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 - Align / Tidy up – greitas elementų sulygiavimas ir tolygus tarpas.
 - Stroke (Outline) – ribokite storį, kad rėmeliai neperimtų dėmesio nuo teksto.
 
-### Formos kaip konteineriai tekstui ir vizualui
-
 ### Ikonos
 
 ### Iliustracijos, lipdukai, 3D
@@ -421,8 +431,8 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 
 ### Dažniausios klaidos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzIwMTM4MDMsLTMxNzcwODA5NCwtMT
-Y4Mzk4Mzg2MCwxMDE4NTA3NCwtMjQ3ODg3MDEsLTk5Mjc3MTAx
-NSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMwLC03NzUzNTQwNTQsNT
-M1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
+eyJoaXN0b3J5IjpbLTE5MzkxMTQ3NTcsLTIxMzIwMTM4MDMsLT
+MxNzcwODA5NCwtMTY4Mzk4Mzg2MCwxMDE4NTA3NCwtMjQ3ODg3
+MDEsLTk5Mjc3MTAxNSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMwLC
+03NzUzNTQwNTQsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
 -->
