@@ -460,8 +460,10 @@ Kaip panaudotos spalvos ir šriftai?
 Kodėl vienas dizainas veikia geriau už kitą?
 
 Vertinimas: gebėjimas pastebėti hierarchiją, kontrastą, balansą ir dizaino tikslingumą.
+
+### 2 užduotis. Sukurkite spalvų paletę
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDU3NDczMywxODY4NzkyNTc5LC0xOD
+eyJoaXN0b3J5IjpbMTkwNDY0MTgxMCwxODY4NzkyNTc5LC0xOD
 kxNDk5OTM3LDIwMDA1NDQxMjYsMzY3MTk2MTY2LC0yMTMyMDEz
 ODAzLC0zMTc3MDgwOTQsLTE2ODM5ODM4NjAsMTAxODUwNzQsLT
 I0Nzg4NzAxLC05OTI3NzEwMTUsLTExNzk0NjQwMTksLTg0MTE1
