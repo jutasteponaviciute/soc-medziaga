@@ -484,7 +484,7 @@ Vertinamas spalvų derinimo logika, aiškus 60%, 30%, 10% principo taikymas, pak
 Tikslas: išmokti parinkti šriftų derinius ir patikrinti jų tinkamumą turiniui lietuvių kalba.
 
 Užduotis:
-- Pasirinkite 2–3 šriftus, kurie, jūsų nuomone, dera tarpusavyje (pvz., antraštėms, pagrindiniam tekstui ir akcentam).
+- Pasirinkite 2–3 šriftus, kurie, jūsų nuomone, dera tarpusavyje (pvz., antraštėms, pagrindiniam tekstui ir akcentams).
 
 Canvoje sukurkite šriftų pavyzdžių lentelę, kurioje pavaizduosite:
 
@@ -494,19 +494,15 @@ Pagrindinį tekstą – naudodami 2-ąjį šriftą;
 
 Akcentą arba CTA – jei norite, naudokite 3-ąjį šriftą.
 
-Patikrinkite, ar visi pasirinkti šriftai palaiko lietuviškas raides ir skyrybos ženklus:
-
-naudokite sakinį: „Įžvalgių kūrėjų žodžiai išmoko švęsti gyvenimą.“
-
-patikrinkite, ar teisingai rodomos raidės ą, č, ę, ė, į, š, ų, ū, ž ir skyrybos ženklai.
+Patikrinkite, ar visi pasirinkti šriftai palaiko lietuviškas raides ir skyrybos ženklus
 
 Pridėkite trumpą aprašymą (2–3 sakinius):
 
-kodėl pasirinkote šiuos šriftus;
+- Kodėl pasirinkote šiuos šriftus?
 
-ar jie dera tarpusavyje;
+Kodėl jie dera tarpusavyje?
 
-ar palaiko lietuviškas raides.
+Ar palaiko lietuviškas raides?
 
 Atsiskaitymui pateikite:
 
@@ -522,10 +518,10 @@ aiškiai parodytas testavimas su lietuviškomis raidėmis;
 
 apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzM0OTQ4OCwtMTI0NDE1Nzg0OSwtNz
-c1MTkzNzM2LDE4Njg3OTI1NzksLTE4OTE0OTk5MzcsMjAwMDU0
-NDEyNiwzNjcxOTYxNjYsLTIxMzIwMTM4MDMsLTMxNzcwODA5NC
-wtMTY4Mzk4Mzg2MCwxMDE4NTA3NCwtMjQ3ODg3MDEsLTk5Mjc3
-MTAxNSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMwLC03NzUzNTQwNT
-QsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
+eyJoaXN0b3J5IjpbLTE2MzIwMDUzMTUsLTEyNDQxNTc4NDksLT
+c3NTE5MzczNiwxODY4NzkyNTc5LC0xODkxNDk5OTM3LDIwMDA1
+NDQxMjYsMzY3MTk2MTY2LC0yMTMyMDEzODAzLC0zMTc3MDgwOT
+QsLTE2ODM5ODM4NjAsMTAxODUwNzQsLTI0Nzg4NzAxLC05OTI3
+NzEwMTUsLTExNzk0NjQwMTksLTg0MTE1OTczMCwtNzc1MzU0MD
+U0LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl19
 -->
