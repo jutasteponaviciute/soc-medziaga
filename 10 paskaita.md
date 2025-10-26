@@ -74,7 +74,7 @@ Tokie vizualiniai sprendimai leidžia kurti ryšį su vartotoju, nes kiekvieną 
 Vientisumas dizainuose taip pat kuria profesionalumo įspūdį. Kai skirtingos kampanijos ar įrašai atrodo darniai, tai rodo, kad prekės ženklas rūpinasi detalėmis, planuoja ir laikosi savo vertybių.
 
 ### Canva patarimas:
-- Naudokite **Guides / Rulers**.
+- Naudokite **Guides, Rulers, Margins**.
 
 
 ## Kompozicijos pagrindai
@@ -443,9 +443,9 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 - Per daug lipdukų / 3D, atrodo triukšmingai.
 - Elementai prigludę prie kraštų, palikite erdvės.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDU0NDEyNiwzNjcxOTYxNjYsLTIxMz
-IwMTM4MDMsLTMxNzcwODA5NCwtMTY4Mzk4Mzg2MCwxMDE4NTA3
-NCwtMjQ3ODg3MDEsLTk5Mjc3MTAxNSwtMTE3OTQ2NDAxOSwtOD
-QxMTU5NzMwLC03NzUzNTQwNTQsNTM1MTI1NDE0LC0xMTMxMTA3
-Nzg2XX0=
+eyJoaXN0b3J5IjpbMzE2NDE3OTY4LDIwMDA1NDQxMjYsMzY3MT
+k2MTY2LC0yMTMyMDEzODAzLC0zMTc3MDgwOTQsLTE2ODM5ODM4
+NjAsMTAxODUwNzQsLTI0Nzg4NzAxLC05OTI3NzEwMTUsLTExNz
+k0NjQwMTksLTg0MTE1OTczMCwtNzc1MzU0MDU0LDUzNTEyNTQx
+NCwtMTEzMTEwNzc4Nl19
 -->
