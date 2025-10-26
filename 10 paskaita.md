@@ -381,9 +381,18 @@ CTA mygtuko tekstas: 14–16 pt
 - Tekstas „prilipęs“ prie kraštų, palikite erdvės kvėpuoti.
 - Dekoratyviniai šriftai naudojami ilgam tekstui.
 - Skirtingi stiliai kiekviename įraše, prarandamas prekės ženklo vientisumas.
+
+## Formos ir grafiniai elementai
+
+Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėliai yra „statybiniai blokai“, kurie:
+- padeda kurti hierarchiją (pabrėžti svarbiausius akcentus);
+struktūruoja turinį ir veda žvilgsnį;
+kuria nuotaiką ir toną (solidu, žaisminga, modernu, natūralu ir pan.);
+stiprina prekės ženklo vientisumą (vienodas stilius, kampų apvalumai, linijų storis, spalvos);
+gerina skaitomumą (foninės formos po tekstu, skyrikliai, kontrastas).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzcwODA5NCwtMTY4Mzk4Mzg2MCwxMD
-E4NTA3NCwtMjQ3ODg3MDEsLTk5Mjc3MTAxNSwtMTE3OTQ2NDAx
-OSwtODQxMTU5NzMwLC03NzUzNTQwNTQsNTM1MTI1NDE0LC0xMT
-MxMTA3Nzg2XX0=
+eyJoaXN0b3J5IjpbLTEzOTk0OTU5OTIsLTMxNzcwODA5NCwtMT
+Y4Mzk4Mzg2MCwxMDE4NTA3NCwtMjQ3ODg3MDEsLTk5Mjc3MTAx
+NSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMwLC03NzUzNTQwNTQsNT
+M1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
 -->
