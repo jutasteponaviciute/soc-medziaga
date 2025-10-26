@@ -392,6 +392,7 @@ Tai ne tik atrodo neprofesionaliai, bet ir kenkia skaitymui bei prekės ženklo 
 **Kaip patikrinti, ar šriftas tinkamas?**
 
 - Pasirinktu šriftu surašykite visą lietuvišką abėcėlę ir pagrindinius skyrybos ženklus.
+Aa Bb Cc Čč Dd Ee Ęę Ėė Ff Gg Hh Ii Yy Jj Kk Ll Mm Nn Oo Pp Rr Ss Šš Tt Uu Ųų Ūū Vv Zz Žž 1234567890 . , „“ : ; ? ! – / ( ) = … { } [ ] @
 - Pažiūrėkite, ar visos raidės rodomos taisyklingai.
 - Jei bent viena raidė netinkama, rinkitės kitą šriftą.
 
@@ -513,11 +514,11 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4MjUzOTk4LC02NTM2NTA3OTMsMTI1MT
-g2MjcyOCwtODM1MzQ1MTU4LC0xMjQ0MTU3ODQ5LC03NzUxOTM3
-MzYsMTg2ODc5MjU3OSwtMTg5MTQ5OTkzNywyMDAwNTQ0MTI2LD
-M2NzE5NjE2NiwtMjEzMjAxMzgwMywtMzE3NzA4MDk0LC0xNjgz
-OTgzODYwLDEwMTg1MDc0LC0yNDc4ODcwMSwtOTkyNzcxMDE1LC
-0xMTc5NDY0MDE5LC04NDExNTk3MzAsLTc3NTM1NDA1NCw1MzUx
-MjU0MTRdfQ==
+eyJoaXN0b3J5IjpbLTE0MjY1MjY5MjMsLTY1MzY1MDc5MywxMj
+UxODYyNzI4LC04MzUzNDUxNTgsLTEyNDQxNTc4NDksLTc3NTE5
+MzczNiwxODY4NzkyNTc5LC0xODkxNDk5OTM3LDIwMDA1NDQxMj
+YsMzY3MTk2MTY2LC0yMTMyMDEzODAzLC0zMTc3MDgwOTQsLTE2
+ODM5ODM4NjAsMTAxODUwNzQsLTI0Nzg4NzAxLC05OTI3NzEwMT
+UsLTExNzk0NjQwMTksLTg0MTE1OTczMCwtNzc1MzU0MDU0LDUz
+NTEyNTQxNF19
 -->
