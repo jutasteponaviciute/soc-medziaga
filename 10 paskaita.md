@@ -424,21 +424,17 @@ Pasirinktas šriftas atrodo gražiai anglų kalboje, tačiau lietuviškame tekst
 
 **4. Spalvos ir kontrastas**
 - Nustatyk teksto spalvą naudodamasis Color Picker arba įvesdamas tikslią HEX reikšmę.
-Naudok prekės ženklo spalvas iš Brand Kit (jei turi Pro versiją).
-Tikrink kontrastą – tekstas turi aiškiai išsiskirti iš fono.
+- Naudok prekės ženklo spalvas iš Brand Kit (jei turi Pro versiją).
+- Tikrink kontrastą, nes tekstas turi aiškiai išsiskirti iš fono.
 
-5. Lygiavimas ir išdėstymas
+**5. Lygiavimas ir išdėstymas**
+- Galimi lygiavimo variantai: kairėje, centre, dešinėje arba per visą plotį.
+* Naudok Position → Align funkciją, kad tekstas būtų tiksliai sulygiuotas su kitais elementais.
+* „Tidy up“ funkcija padeda automatiškai išdėstyti kelis teksto laukelius tolygiai.
 
-Galimi lygiavimo variantai: kairėje, centre, dešinėje arba per visą plotį.
+**6. Eilučių ir raidžių tarpai (Line spacing, Letter spacing)**
 
-Naudok Position → Align funkciją, kad tekstas būtų tiksliai sulygiuotas su kitais elementais.
-
-„Tidy up“ funkcija padeda automatiškai išdėstyti kelis teksto laukelius tolygiai.
-
-6. Eilučių ir raidžių tarpai (Line spacing, Letter spacing)
-
-Line spacing padeda padidinti arba sumažinti atstumą tarp eilučių.
-– Pagrindiniam tekstui rekomenduojama 1.2–1.4.
+- Line spacing padeda padidinti arba sumažinti atstumą tarp eilučių. Pagrindiniam tekstui rekomenduojama 1.2–1.4.
 
 Letter spacing reguliuoja tarpus tarp raidžių.
 – Padidinus – tekstas atrodo elegantiškiau, sumažinus – kompaktiškiau.
@@ -564,7 +560,7 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzEwMTU2NzgsMTk2NDU2MDk5NywyMD
+eyJoaXN0b3J5IjpbLTE3NDUyMzkzMDQsMTk2NDU2MDk5NywyMD
 c0NTU2NDYsLTE0MjY1MjY5MjMsLTY1MzY1MDc5MywxMjUxODYy
 NzI4LC04MzUzNDUxNTgsLTEyNDQxNTc4NDksLTc3NTE5MzczNi
 wxODY4NzkyNTc5LC0xODkxNDk5OTM3LDIwMDA1NDQxMjYsMzY3
