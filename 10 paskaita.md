@@ -413,10 +413,10 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 
 ### Ikonos
 
-Norėdami išlaikyti prekės ženklo vientisumą, rinkitės vienodo stiliaus ikonas.
-Dydis ir tarpai: ikoną derinkite prie šrifto dydžio, palikite vienodus tarpus tarp ikonų ir teksto.
-Kontrastas: piktogramų spalva turi praeiti AA kontrasto testą fone (ypač, jei jos informatyvios).
-Rinkitės universalias reikšmes (klaustukas pagalbai, žemėlapio „pin“ – lokacijai ir t. t.).
+- Norėdami išlaikyti prekės ženklo vientisumą, rinkitės vienodo stiliaus ikonas.
+- Dydis ir tarpai: ikoną derinkite prie šrifto dydžio, palikite vienodus tarpus tarp ikonų ir teksto.
+- Kontrastas: piktogramų spalva turi praeiti AA kontrasto testą fone (ypač, jei jos informatyvios).
+- Rinkitės universalias reikšmes (klaustukas pagalbai, žemėlapis lokacijai ir t. t.).
 
 ### Iliustracijos, lipdukai, 3D
 
@@ -424,7 +424,7 @@ Rinkitės universalias reikšmes (klaustukas pagalbai, žemėlapio „pin“ –
 
 ### Dažniausios klaidos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTE2MDU3MSwtMjEzMjAxMzgwMywtMz
+eyJoaXN0b3J5IjpbMjExOTI4NTM1NywtMjEzMjAxMzgwMywtMz
 E3NzA4MDk0LC0xNjgzOTgzODYwLDEwMTg1MDc0LC0yNDc4ODcw
 MSwtOTkyNzcxMDE1LC0xMTc5NDY0MDE5LC04NDExNTk3MzAsLT
 c3NTM1NDA1NCw1MzUxMjU0MTQsLTExMzExMDc3ODZdfQ==
