@@ -385,14 +385,16 @@ CTA mygtuko tekstas: 14–16 pt
 ## Formos ir grafiniai elementai
 
 Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėliai yra „statybiniai blokai“, kurie:
-- padeda kurti hierarchiją (pabrėžti svarbiausius akcentus);
-struktūruoja turinį ir veda žvilgsnį;
-kuria nuotaiką ir toną (solidu, žaisminga, modernu, natūralu ir pan.);
-stiprina prekės ženklo vientisumą (vienodas stilius, kampų apvalumai, linijų storis, spalvos);
-gerina skaitomumą (foninės formos po tekstu, skyrikliai, kontrastas).
+- padeda kurti hierarchiją (pabrėžti svarbiausius akcentus, pavyzdžiui, CTA);
+- struktūruoja turinį ir veda žvilgsnį;
+- kuria nuotaiką ir toną (solidu, žaisminga, modernu, natūralu ir pan.);
+- stiprina prekės ženklo vientisumą (vienodas stilius, kampų apvalumai, linijų storis, spalvos);
+- gerina skaitomumą (foninės formos po tekstu, skyrikliai, kontrastas).
+
+### Tipografijos klaidos, kurių verta vengti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTk0OTU5OTIsLTMxNzcwODA5NCwtMT
-Y4Mzk4Mzg2MCwxMDE4NTA3NCwtMjQ3ODg3MDEsLTk5Mjc3MTAx
-NSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMwLC03NzUzNTQwNTQsNT
-M1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
+eyJoaXN0b3J5IjpbLTcwMDk4NTg3NywtMzE3NzA4MDk0LC0xNj
+gzOTgzODYwLDEwMTg1MDc0LC0yNDc4ODcwMSwtOTkyNzcxMDE1
+LC0xMTc5NDY0MDE5LC04NDExNTk3MzAsLTc3NTM1NDA1NCw1Mz
+UxMjU0MTQsLTExMzExMDc3ODZdfQ==
 -->
