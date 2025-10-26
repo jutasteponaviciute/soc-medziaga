@@ -409,7 +409,7 @@ Pasirinktas šriftas atrodo gražiai anglų kalboje, tačiau lietuviškame tekst
 - Dekoratyviniai šriftai naudojami ilgam tekstui.
 - Skirtingi stiliai kiekviename įraše, prarandamas prekės ženklo vientisumas.
 
-### Teksto nustatymai ir funkci Canva programoje
+### Teksto nustatymai ir funkcijos Canva programoje
 
 **1.  Teksto laukelių tipai**
 - Canva siūlo tris pagrindinius teksto laukelių tipus: Heading (antraštė), Subheading (poantraštė) ir Body text (pagrindinis tekstas).
@@ -553,11 +553,11 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDI4NjI1MjMsMTk2NDU2MDk5NywyMD
-c0NTU2NDYsLTE0MjY1MjY5MjMsLTY1MzY1MDc5MywxMjUxODYy
-NzI4LC04MzUzNDUxNTgsLTEyNDQxNTc4NDksLTc3NTE5MzczNi
-wxODY4NzkyNTc5LC0xODkxNDk5OTM3LDIwMDA1NDQxMjYsMzY3
-MTk2MTY2LC0yMTMyMDEzODAzLC0zMTc3MDgwOTQsLTE2ODM5OD
-M4NjAsMTAxODUwNzQsLTI0Nzg4NzAxLC05OTI3NzEwMTUsLTEx
-Nzk0NjQwMTldfQ==
+eyJoaXN0b3J5IjpbLTYyOTQ4NTE1NSwxOTY0NTYwOTk3LDIwNz
+Q1NTY0NiwtMTQyNjUyNjkyMywtNjUzNjUwNzkzLDEyNTE4NjI3
+MjgsLTgzNTM0NTE1OCwtMTI0NDE1Nzg0OSwtNzc1MTkzNzM2LD
+E4Njg3OTI1NzksLTE4OTE0OTk5MzcsMjAwMDU0NDEyNiwzNjcx
+OTYxNjYsLTIxMzIwMTM4MDMsLTMxNzcwODA5NCwtMTY4Mzk4Mz
+g2MCwxMDE4NTA3NCwtMjQ3ODg3MDEsLTk5Mjc3MTAxNSwtMTE3
+OTQ2NDAxOV19
 -->
