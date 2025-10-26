@@ -409,6 +409,7 @@ Pasirinktas šriftas atrodo gražiai anglų kalboje, tačiau lietuviškame tekst
 
 ### Teksto nustatymai Canva programoje
 
+
 ## Formos ir grafiniai elementai
 
 Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėliai yra „statybiniai blokai“, kurie:
@@ -516,11 +517,11 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDU1NjQ2LC0xNDI2NTI2OTIzLC02NT
-M2NTA3OTMsMTI1MTg2MjcyOCwtODM1MzQ1MTU4LC0xMjQ0MTU3
-ODQ5LC03NzUxOTM3MzYsMTg2ODc5MjU3OSwtMTg5MTQ5OTkzNy
-wyMDAwNTQ0MTI2LDM2NzE5NjE2NiwtMjEzMjAxMzgwMywtMzE3
-NzA4MDk0LC0xNjgzOTgzODYwLDEwMTg1MDc0LC0yNDc4ODcwMS
-wtOTkyNzcxMDE1LC0xMTc5NDY0MDE5LC04NDExNTk3MzAsLTc3
-NTM1NDA1NF19
+eyJoaXN0b3J5IjpbLTkyMDUxMzQ4OCwyMDc0NTU2NDYsLTE0Mj
+Y1MjY5MjMsLTY1MzY1MDc5MywxMjUxODYyNzI4LC04MzUzNDUx
+NTgsLTEyNDQxNTc4NDksLTc3NTE5MzczNiwxODY4NzkyNTc5LC
+0xODkxNDk5OTM3LDIwMDA1NDQxMjYsMzY3MTk2MTY2LC0yMTMy
+MDEzODAzLC0zMTc3MDgwOTQsLTE2ODM5ODM4NjAsMTAxODUwNz
+QsLTI0Nzg4NzAxLC05OTI3NzEwMTUsLTExNzk0NjQwMTksLTg0
+MTE1OTczMF19
 -->
