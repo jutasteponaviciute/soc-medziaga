@@ -299,14 +299,10 @@ Skaidrumas leidžia švelninti spalvas arba kurti sluoksnių efektus.
 - Spauskite ant jo ir pakeiskite abu spalvinius taškus.
 - Gradientai padeda suteikti gylio arba sukurti švelnų perėjimą tarp spalvų.
 
-5. Spalvų rekomendacijos ir automatinės paletės
-
-Kai įkeli nuotrauką ar logotipą, Canva automatiškai pasiūlo Image Colors – išgautas iš paveikslo paletes.
-
-Tai padeda greitai susikurti dizainą, kurio spalvos dera tarpusavyje.
-
-Patarimas:
-Paspaudus ant nuotraukos → spalvų laukelyje atsiras „Photo Colors“ – galite iškart pritaikyti vieną iš jų tekstui ar formoms.
+**5. Spalvų rekomendacijos ir automatinės paletės**
+- Kai įkeli nuotrauką ar logotipą, Canva automatiškai pasiūlo Image Colors – išgautas iš paveikslo paletes.
+- Tai padeda greitai susikurti dizainą, kurio spalvos dera tarpusavyje.
+- Patarimas: paspaudus ant nuotraukos → spalvų laukelyje atsiras „Photo Colors“, galite iškart pritaikyti vieną iš jų tekstui ar grafinaim elementams.
 
 ## Tipografija
 
@@ -589,7 +585,7 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MjEyMjIxNiwxOTY0NTYwOTk3LDIwNz
+eyJoaXN0b3J5IjpbMTk4MDUzMjYxMCwxOTY0NTYwOTk3LDIwNz
 Q1NTY0NiwtMTQyNjUyNjkyMywtNjUzNjUwNzkzLDEyNTE4NjI3
 MjgsLTgzNTM0NTE1OCwtMTI0NDE1Nzg0OSwtNzc1MTkzNzM2LD
 E4Njg3OTI1NzksLTE4OTE0OTk5MzcsMjAwMDU0NDEyNiwzNjcx
