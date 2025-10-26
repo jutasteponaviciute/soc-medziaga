@@ -471,23 +471,18 @@ Užduotis:
 60 % – pagrindinė spalva (fono ar bazinė);
 30 % – antrinė spalva (tekstas, formos, papildomi akcentai);
 10 % – akcentinė spalva (CTA, svarbiausia informacija).
-
-Sukurkite vieną paprastą dizainą (pvz., Instagram įrašą 1080×1350 px), kuriame pritaikysite savo paletę.
-
 - Patikrinkite, ar kontrastas tarp teksto ir fono yra pakankamas (naudokite Canva „Accessibility / Contrast checker“ arba kitą įrankį).
-
-- Pridėkite trumpą aprašymą (2–3 sakinius):
-kodėl pasirinkote tokias spalvas;
-ar kontrastas užtikrina aiškumą ir įskaitomumą.
-
-Atsiskaitymui įkelkite išeksportuotą vizualą (PNG formatu) ir trumpą spalvų paletės aprašymą.
+- Padarykite trumpą aprašymą (2–3 sakinius):
+Kodėl pasirinkote tokias spalvas?
+Ar kontrastas užtikrina aiškumą ir įskaitomumą?
+- Atsiskaitymui įkelkite išeksportuotą dokumentą (PDF formatu) su spalvų palete, testavi trumpą spalvų paletės aprašymą.
 
 Vertinamas spalvų derinimo logika, aiškus 60%, 30%, 10% principo taikymas, pakankamas kontrastas ir skaitomumas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTE5MzczNiwxODY4NzkyNTc5LC0xOD
-kxNDk5OTM3LDIwMDA1NDQxMjYsMzY3MTk2MTY2LC0yMTMyMDEz
-ODAzLC0zMTc3MDgwOTQsLTE2ODM5ODM4NjAsMTAxODUwNzQsLT
-I0Nzg4NzAxLC05OTI3NzEwMTUsLTExNzk0NjQwMTksLTg0MTE1
-OTczMCwtNzc1MzU0MDU0LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl
-19
+eyJoaXN0b3J5IjpbNDM3NDkxNTM3LC03NzUxOTM3MzYsMTg2OD
+c5MjU3OSwtMTg5MTQ5OTkzNywyMDAwNTQ0MTI2LDM2NzE5NjE2
+NiwtMjEzMjAxMzgwMywtMzE3NzA4MDk0LC0xNjgzOTgzODYwLD
+EwMTg1MDc0LC0yNDc4ODcwMSwtOTkyNzcxMDE1LC0xMTc5NDY0
+MDE5LC04NDExNTk3MzAsLTc3NTM1NDA1NCw1MzUxMjU0MTQsLT
+ExMzExMDc3ODZdfQ==
 -->
