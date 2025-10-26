@@ -479,12 +479,53 @@ Ar kontrastas užtikrina aiškumą ir įskaitomumą?
 
 Vertinamas spalvų derinimo logika, aiškus 60%, 30%, 10% principo taikymas, pakankamas kontrastas ir skaitomumas.
 
-### 3 užduotis.
+### 3 užduotis. Šriftų derinio kūrimas ir testavimas
+
+Tikslas: išmokti parinkti šriftų derinius ir patikrinti jų tinkamumą turiniui lietuvių kalba.
+
+Užduotis:
+- Pasirinkite 2–3 šriftus, kurie, jūsų nuomone, dera tarpusavyje (pvz., antraštėms, pagrindiniam tekstui ir akcentam).
+
+Canvoje sukurkite šriftų pavyzdžių lentelę, kurioje pavaizduosite:
+
+Antraštę – naudodami 1-ąjį šriftą;
+
+Pagrindinį tekstą – naudodami 2-ąjį šriftą;
+
+Akcentą arba CTA – jei norite, naudokite 3-ąjį šriftą.
+
+Patikrinkite, ar visi pasirinkti šriftai palaiko lietuviškas raides ir skyrybos ženklus:
+
+naudokite sakinį: „Įžvalgių kūrėjų žodžiai išmoko švęsti gyvenimą.“
+
+patikrinkite, ar teisingai rodomos raidės ą, č, ę, ė, į, š, ų, ū, ž ir skyrybos ženklai.
+
+Pridėkite trumpą aprašymą (2–3 sakinius):
+
+kodėl pasirinkote šiuos šriftus;
+
+ar jie dera tarpusavyje;
+
+ar palaiko lietuviškas raides.
+
+Atsiskaitymui pateikite:
+
+išeksportuotą Canva pavyzdį (PNG formatu);
+
+aprašymą apie šriftų derinį ir testavimo rezultatus.
+
+Vertinimas:
+
+logiškas ir estetiškas šriftų derinimas;
+
+aiškiai parodytas testavimas su lietuviškomis raidėmis;
+
+apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjE5NjA2LC0xMjQ0MTU3ODQ5LC03Nz
-UxOTM3MzYsMTg2ODc5MjU3OSwtMTg5MTQ5OTkzNywyMDAwNTQ0
-MTI2LDM2NzE5NjE2NiwtMjEzMjAxMzgwMywtMzE3NzA4MDk0LC
-0xNjgzOTgzODYwLDEwMTg1MDc0LC0yNDc4ODcwMSwtOTkyNzcx
-MDE1LC0xMTc5NDY0MDE5LC04NDExNTk3MzAsLTc3NTM1NDA1NC
-w1MzUxMjU0MTQsLTExMzExMDc3ODZdfQ==
+eyJoaXN0b3J5IjpbMTI4NzM0OTQ4OCwtMTI0NDE1Nzg0OSwtNz
+c1MTkzNzM2LDE4Njg3OTI1NzksLTE4OTE0OTk5MzcsMjAwMDU0
+NDEyNiwzNjcxOTYxNjYsLTIxMzIwMTM4MDMsLTMxNzcwODA5NC
+wtMTY4Mzk4Mzg2MCwxMDE4NTA3NCwtMjQ3ODg3MDEsLTk5Mjc3
+MTAxNSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMwLC03NzUzNTQwNT
+QsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
 -->
