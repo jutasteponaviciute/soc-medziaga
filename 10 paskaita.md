@@ -461,12 +461,11 @@ Kodėl vienas dizainas veikia geriau už kitą?
 
 Vertinimas: gebėjimas pastebėti hierarchiją, kontrastą, balansą ir dizaino tikslingumą.
 
-### 2 užduotis. Sukurkite spalvų paletę
+### 2 užduotis. Sukurkite spalvų paletę pagal 60 %, 30 %, 10 % ir ją ištestuokite.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDY0MTgxMCwxODY4NzkyNTc5LC0xOD
-kxNDk5OTM3LDIwMDA1NDQxMjYsMzY3MTk2MTY2LC0yMTMyMDEz
-ODAzLC0zMTc3MDgwOTQsLTE2ODM5ODM4NjAsMTAxODUwNzQsLT
-I0Nzg4NzAxLC05OTI3NzEwMTUsLTExNzk0NjQwMTksLTg0MTE1
-OTczMCwtNzc1MzU0MDU0LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl
-19
+eyJoaXN0b3J5IjpbNTEyNDIwMSwxODY4NzkyNTc5LC0xODkxND
+k5OTM3LDIwMDA1NDQxMjYsMzY3MTk2MTY2LC0yMTMyMDEzODAz
+LC0zMTc3MDgwOTQsLTE2ODM5ODM4NjAsMTAxODUwNzQsLTI0Nz
+g4NzAxLC05OTI3NzEwMTUsLTExNzk0NjQwMTksLTg0MTE1OTcz
+MCwtNzc1MzU0MDU0LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl19
 -->
