@@ -412,8 +412,16 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 - Stroke (Outline) – ribokite storį, kad rėmeliai neperimtų dėmesio nuo teksto.
 
 ### Formos kaip konteineriai tekstui ir vizualui
+
+### Ikonos
+
+### Iliustracijos, lipdukai, 3D
+
+### Šešėliai, gylis, tekstūros
+
+###
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODY5NDI1NiwtMzE3NzA4MDk0LC0xNj
+eyJoaXN0b3J5IjpbLTc1NDcxNzA1OCwtMzE3NzA4MDk0LC0xNj
 gzOTgzODYwLDEwMTg1MDc0LC0yNDc4ODcwMSwtOTkyNzcxMDE1
 LC0xMTc5NDY0MDE5LC04NDExNTk3MzAsLTc3NTM1NDA1NCw1Mz
 UxMjU0MTQsLTExMzExMDc3ODZdfQ==
