@@ -471,7 +471,7 @@ Užduotis:
 60 % – pagrindinė spalva (fono ar bazinė);
 30 % – antrinė spalva (tekstas, formos, papildomi akcentai);
 10 % – akcentinė spalva (CTA, svarbiausia informacija).
-- Patikrinkite, ar kontrastas tarp teksto ir fono yra pakankamas (naudokite Canva „Accessibility / Contrast checker“ arba kitą įrankį).
+- Patikrinkite, ar kontrastas tarp teksto ir fono yra pakankamas (naudokite Canva Canva Accessibility / Contrast checker arba kitą įrankį).
 - Padarykite trumpą aprašymą (2–3 sakinius):
 Kodėl pasirinkote tokias spalvas?
 Ar kontrastas užtikrina aiškumą ir įskaitomumą?
@@ -494,10 +494,10 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDg4MzcxMCwtMTI0NDE1Nzg0OSwtNz
-c1MTkzNzM2LDE4Njg3OTI1NzksLTE4OTE0OTk5MzcsMjAwMDU0
-NDEyNiwzNjcxOTYxNjYsLTIxMzIwMTM4MDMsLTMxNzcwODA5NC
-wtMTY4Mzk4Mzg2MCwxMDE4NTA3NCwtMjQ3ODg3MDEsLTk5Mjc3
-MTAxNSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMwLC03NzUzNTQwNT
-QsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
+eyJoaXN0b3J5IjpbNTY3Nzg3MjI1LC0xMjQ0MTU3ODQ5LC03Nz
+UxOTM3MzYsMTg2ODc5MjU3OSwtMTg5MTQ5OTkzNywyMDAwNTQ0
+MTI2LDM2NzE5NjE2NiwtMjEzMjAxMzgwMywtMzE3NzA4MDk0LC
+0xNjgzOTgzODYwLDEwMTg1MDc0LC0yNDc4ODcwMSwtOTkyNzcx
+MDE1LC0xMTc5NDY0MDE5LC04NDExNTk3MzAsLTc3NTM1NDA1NC
+w1MzUxMjU0MTQsLTExMzExMDc3ODZdfQ==
 -->
