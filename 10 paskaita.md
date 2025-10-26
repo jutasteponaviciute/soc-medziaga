@@ -2,7 +2,7 @@
 
 # 2. PASKAITA. Dizaino pagrindai: kompozicija, spalvos, šriftai, formos ir grafiniai elementai.
 
-Tikslas: suprasti pagrindinius dizaino principus, kurie padeda kurti aiškius, vizualiai patrauklius ir profesionaliai atrodančius maketus.
+Tikslas: suprasti pagrindinius dizaino principus ir jų taikymo svarbą kuriant profesionalų turinį. Gebėti parinkti ir derinti spalvas, šriftus, formas ir kitus elementus, kad dizainas būtų aiškus, estetiškas ir vientisas.
 
 ## Kas yra „geras dizainas”?
 
@@ -265,12 +265,124 @@ Sukūrus spalvų paletę, būtina patikrinti jos kontrastą ir apibrėžti, koki
 
 ![prasto ir gero kontasto is spalvu paletes pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/kontrasto%20tikrinimas.avif)
 
+## Tipografija
 
+### Kas yra tipografija?
 
+Tipografija – tai meno ir dizaino sritis, apimanti teksto stilių, dydį, išdėstymą ir tarpus.
+Ji padeda ne tik perduoti informaciją, bet ir sukurti emociją bei toną, atspindintį prekės ženklo asmenybę.
 
+Socialiniuose tinkluose tipografija yra ypač svarbi, nes vartotojas sprendžia per kelias sekundes ar sustoti ties įrašu, ar slinkti toliau. Tad šriftai turi būti aiškūs, įskaitomi ir vizualiai patrauklūs, kad sustiprintų žinutę ir padėtų ją lengvai suprasti.
 
+Net jei vizualas minimalus, šriftas gali suteikti profesionalumo, modernumo ar žaismingumo įspūdį.
+
+### Kodėl šriftai tokie svarbūs socialiniuose tinkluose?
+
+- Jie **sustiprina žinutę**, pavyzdžiui, reklamos įraše padeda išryškinti pasiūlymą ar emocinį akcentą, jį parašant kitokiu arba paryškintu šriftu.
+- Jie **kuria atpažįstamumą.** Nuosekliai naudojamas šriftas tampa prekės ženklo dalimi. Kai kurie prekės ženklai net susikuria savo šriftus, pavyzdžiui, Google, Spotify, Apple, Coca-Cola, Netflix ir kiti yra sukūrę savo tipografiją.
+- Jie **formuoja įvaizdį.** Tas pats tekstas skirtingu šriftu gali atrodyti visiškai kitaip. 
+
+![teksto ivaizdis su skirtingu sriftu](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/teksto%20ivaizdis%20su%20skirtingu%20sriftu.avif)
+
+- Jie **veikia emocijas**. Solidus šriftas sukuria patikimumo jausmą, rankraštinis – asmeniškumo, o minimalistinis – modernumo.
+
+### Pagrindiniai šriftų tipai ir jų reikšmės
+
+1. **Serifiniai šriftai** (serif fonts)
+*Pvz.: Playfair Display, Times New Roman, Garamond*
+- Raidžių galuose turi mažas „uodegėles“.
+- Sukuria patikimumo, tradicijos, solidumo įspūdį.
+- Dažniausiai naudojami klasikiniams, prabangos ar akademiniams projektams.
+- Tinka, kai norima perteikti profesionalumą ar autoritetą.
+*Pvz.: prekės ženklai Vogue, Tiffany & Co.*
+
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/serif%20fonts.avif)
+
+2. **Beserifiai šriftai** (sans-serif fonts)
+*Pvz.: Montserrat, Poppins, Lato.*
+- Be „uodegėlių“, linijos tiesios ir švarios.
+- Sukuria modernumo, aiškumo, prieinamumo įspūdį.
+- Labai tinka technologijų, startuolių, jaunatviškiems ar sporto prekės ženklams.
+*Pvz.: Nike, Google, Airbnb.*
+
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/sans-serif%20fonts.avif)
+
+3. **Rankraštiniai šriftai** (handwritten fonts)
+*Pvz.: Pacifico, Dancing Script, Blosta Script*
+- Primena žmogaus rašyseną.
+- Suteikia švelnumo, kūrybiškumo ar asmeniškumo.
+- Tinka moteriškiems ar kūrybiniams projektams.
+- Naudoti tik akcentams, pvz., citatoms ar parašui.
+
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/handwritten%20fonts.avif)
+
+4. **Dekoratyviniai, išraiškingi** (display ) šriftai
+*Pvz.: Lobster, Foda Display, Kompot Display Outline*
+- Unikalūs, stiprūs, dažnai naudojami antraštėms ar logotipams.
+- Padeda sukurti emociją ar išskirtinumą, bet netinka ilgam tekstui.
+- Dažniausiainaudojami antraštėse.
+
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/display.avif)
+
+### Kaip derinti šriftus?
+
+Derinant skirtingus šriftus, svarbu išlaikyti kontrastą, bet ne konkurenciją. Per daug skirtingų šriftų sukuria vizualinį triukšmą.
+
+**Pagrindinės taisyklės:**
+- Naudok 2–3 šriftus visoje komunikacijoje.
+*Pvz.: vienas antraštėms, vienas pagrindiniam tekstui, vienas – akcentams.*
+- Laikykis nuoseklumo. Tie patys deriniai turėtų būti naudojami visuose įrašuose.
+- Derink serif + sans-serif tai yra klasikinis ir saugus derinys.
+*Pvz.: Playfair Display + Montserrat.*
+- Venk dviejų labai panašių šriftų kombinacijų – geriau priešingai kontrastuojantys (storas / plonas).
+
+### Tipografijos hierarchija
+
+Hierarchija padeda akiai „skaityti“ dizainą teisinga seka, nuo svarbiausios iki mažiausiai svarbios informacijos.
+
+1. **Antraštė** (Headline)
+- Didžiausia, dažnai paryškinta.
+- Skirta patraukti dėmesį ir iškart perduoti pagrindinę žinutę.
+- Trumpa, aiški, emocinga.
+- 
+2. **Poantraštė** (Subheadline)
+- Papildo antraštę, suteikia daugiau informacijos.
+- Mažesnė, bet aiški ir įskaitoma.
+
+3. **Pagrindinis tekstas** (Body text)
+- Pateikia svarbiausią informaciją – glaustai ir paprastai.
+- Venk ilgų pastraipų – trumpi sakiniai, aiški struktūra.
+
+4. **CTA** (Call to Action)
+- Skatina veikti: „Registruokis dabar“, „Sužinok daugiau“, „Spausk čia“.
+- Vizualiai išskiriamas, kontrastinga spalva, mygtuku arba rėmeliu.
+
+![teksto hierarchijos pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/teksto%20hierarchija01.avif)
+
+### Šriftų skaitomumas ir aiškumas socialiniuose tinkluose
+
+Kad tekstas būtų skaitomas tiek telefone, tiek kompiuteryje:
+1. Kontrastas su fonu
+- Tamsus tekstas ant šviesaus arba šviesus ant tamsaus.
+- Venkite šviesaus teksto ant šviesaus fono ir tamsaus teksto ant tamsaus fono.
+2. Teksto dydžiai (rekomendacijos):
+Antraštė: 45–60 pt
+Poraštė: 22–30 pt
+Pagrindinis tekstas: 12–18 pt
+CTA mygtuko tekstas: 14–16 pt
+3. Eilučių tarpai: 1.2–1.4 priklausomai nuo šrifto.
+4. Raidžių tarpai: +1–2 pt antraštėms, standartinis – kūno tekstui.
+5. Venk visų didžiųjų raidžių ilgam tekstui.
+
+### Tipografijos klaidos, kurių verta vengti
+
+- Per daug skirtingų šriftų viename dizaine.
+- Per mažas kontrastas tarp teksto ir fono.
+- Tekstas „prilipęs“ prie kraštų, palikite erdvės kvėpuoti.
+- Dekoratyviniai šriftai naudojami ilgam tekstui.
+- Skirtingi stiliai kiekviename įraše, prarandamas prekės ženklo vientisumas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDgxNTE1NjAsMTAxODUwNzQsLTI0Nz
-g4NzAxLC05OTI3NzEwMTUsLTExNzk0NjQwMTksLTg0MTE1OTcz
-MCwtNzc1MzU0MDU0LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl19
+eyJoaXN0b3J5IjpbNDYxNzIwMzExLDEwMTg1MDc0LC0yNDc4OD
+cwMSwtOTkyNzcxMDE1LC0xMTc5NDY0MDE5LC04NDExNTk3MzAs
+LTc3NTM1NDA1NCw1MzUxMjU0MTQsLTExMzExMDc3ODZdfQ==
 -->
