@@ -359,6 +359,21 @@ Hierarchija padeda akiai „skaityti“ dizainą teisinga seka, nuo svarbiausios
 
 ![teksto hierarchijos pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/teksto%20hierarchija01.avif)
 
+### Šriftų skaitomumas ir aiškumas socialiniuose tinkluose
+
+Kad tekstas būtų skaitomas tiek telefone, tiek kompiuteryje:
+1. Kontrastas su fonu
+- Tamsus tekstas ant šviesaus arba šviesus ant tamsaus.
+- Venkite šviesaus teksto ant šviesaus fono ir tamsaus teksto ant tamsaus fono.
+2. Teksto dydžiai (rekomendacijos):
+Antraštė: 45–60 pt
+Poraštė: 22–30 pt
+Pagrindinis tekstas: 12–18 pt
+CTA mygtuko tekstas: 14–16 pt
+3. Eilučių tarpai: 1.2–1.4 priklausomai nuo šrifto.
+4. Raidžių tarpai: +1–2 pt antraštėms, standartinis – kūno tekstui.
+5. Venk visų didžiųjų raidžių ilgam tekstui.
+
 ### Tipografijos klaidos, kurių verta vengti
 
 - Per daug skirtingų šriftų viename dizaine.
@@ -367,7 +382,7 @@ Hierarchija padeda akiai „skaityti“ dizainą teisinga seka, nuo svarbiausios
 - Dekoratyviniai šriftai naudojami ilgam tekstui.
 - Skirtingi stiliai kiekviename įraše, prarandamas prekės ženklo vientisumas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTYxMzI3MywxMDE4NTA3NCwtMjQ3OD
-g3MDEsLTk5Mjc3MTAxNSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMw
-LC03NzUzNTQwNTQsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
+eyJoaXN0b3J5IjpbLTE2ODM5ODM4NjAsMTAxODUwNzQsLTI0Nz
+g4NzAxLC05OTI3NzEwMTUsLTExNzk0NjQwMTksLTg0MTE1OTcz
+MCwtNzc1MzU0MDU0LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl19
 -->
