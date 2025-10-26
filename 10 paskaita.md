@@ -494,34 +494,24 @@ Pagrindinį tekstą – naudodami 2-ąjį šriftą;
 
 Akcentą arba CTA – jei norite, naudokite 3-ąjį šriftą.
 
-Patikrinkite, ar visi pasirinkti šriftai palaiko lietuviškas raides ir skyrybos ženklus
+- Patikrinkite, ar visi pasirinkti šriftai palaiko lietuviškas raides ir skyrybos ženklus
 
-Pridėkite trumpą aprašymą (2–3 sakinius):
-
-- Kodėl pasirinkote šiuos šriftus?
-
+- Pridėkite trumpą aprašymą (2–3 sakinius):
+Kodėl pasirinkote šiuos šriftus?
 Kodėl jie dera tarpusavyje?
-
 Ar palaiko lietuviškas raides?
+-Atsiskaitymui įkelkite išeksportuotą dokumentą (PDF formatu) su šriftų deriniu, testavimu ir paaiškinimu.
 
-Atsiskaitymui pateikite:
-
-išeksportuotą Canva pavyzdį (PNG formatu);
-
-aprašymą apie šriftų derinį ir testavimo rezultatus.
-
-Vertinimas:
-
-logiškas ir estetiškas šriftų derinimas;
+Vertinamas logiškas ir estetiškas šriftų derinimas;
 
 aiškiai parodytas testavimas su lietuviškomis raidėmis;
 
 apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzIwMDUzMTUsLTEyNDQxNTc4NDksLT
-c3NTE5MzczNiwxODY4NzkyNTc5LC0xODkxNDk5OTM3LDIwMDA1
-NDQxMjYsMzY3MTk2MTY2LC0yMTMyMDEzODAzLC0zMTc3MDgwOT
-QsLTE2ODM5ODM4NjAsMTAxODUwNzQsLTI0Nzg4NzAxLC05OTI3
-NzEwMTUsLTExNzk0NjQwMTksLTg0MTE1OTczMCwtNzc1MzU0MD
-U0LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl19
+eyJoaXN0b3J5IjpbLTk0ODYzMzY0NSwtMTI0NDE1Nzg0OSwtNz
+c1MTkzNzM2LDE4Njg3OTI1NzksLTE4OTE0OTk5MzcsMjAwMDU0
+NDEyNiwzNjcxOTYxNjYsLTIxMzIwMTM4MDMsLTMxNzcwODA5NC
+wtMTY4Mzk4Mzg2MCwxMDE4NTA3NCwtMjQ3ODg3MDEsLTk5Mjc3
+MTAxNSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMwLC03NzUzNTQwNT
+QsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
 -->
