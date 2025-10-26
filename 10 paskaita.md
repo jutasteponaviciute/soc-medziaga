@@ -478,11 +478,13 @@ Ar kontrastas užtikrina aiškumą ir įskaitomumą?
 - Atsiskaitymui įkelkite išeksportuotą dokumentą (PDF formatu) su spalvų palete, testavimu ir trumpu aprašymu.
 
 Vertinamas spalvų derinimo logika, aiškus 60%, 30%, 10% principo taikymas, pakankamas kontrastas ir skaitomumas.
+
+### 3 užduotis.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQxNTc4NDksLTc3NTE5MzczNiwxOD
-Y4NzkyNTc5LC0xODkxNDk5OTM3LDIwMDA1NDQxMjYsMzY3MTk2
-MTY2LC0yMTMyMDEzODAzLC0zMTc3MDgwOTQsLTE2ODM5ODM4Nj
-AsMTAxODUwNzQsLTI0Nzg4NzAxLC05OTI3NzEwMTUsLTExNzk0
-NjQwMTksLTg0MTE1OTczMCwtNzc1MzU0MDU0LDUzNTEyNTQxNC
-wtMTEzMTEwNzc4Nl19
+eyJoaXN0b3J5IjpbMTAzMjE5NjA2LC0xMjQ0MTU3ODQ5LC03Nz
+UxOTM3MzYsMTg2ODc5MjU3OSwtMTg5MTQ5OTkzNywyMDAwNTQ0
+MTI2LDM2NzE5NjE2NiwtMjEzMjAxMzgwMywtMzE3NzA4MDk0LC
+0xNjgzOTgzODYwLDEwMTg1MDc0LC0yNDc4ODcwMSwtOTkyNzcx
+MDE1LC0xMTc5NDY0MDE5LC04NDExNTk3MzAsLTc3NTM1NDA1NC
+w1MzUxMjU0MTQsLTExMzExMDc3ODZdfQ==
 -->
