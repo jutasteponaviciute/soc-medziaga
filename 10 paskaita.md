@@ -409,18 +409,14 @@ Pasirinktas šriftas atrodo gražiai anglų kalboje, tačiau lietuviškame tekst
 
 ### Teksto nustatymai Canva programoje
 
-1. Teksto laukelių tipai
-Canva siūlo tris pagrindinius teksto laukelių tipus: Heading (antraštė), Subheading (poantraštė) ir Body text (pagrindinis tekstas).
+**1.  Teksto laukelių tipai**
+- Canva siūlo tris pagrindinius teksto laukelių tipus: Heading (antraštė), Subheading (poantraštė) ir Body text (pagrindinis tekstas).
+- Jie padeda išlaikyti šriftų hierarchiją ir struktūrą.
+- Galima keisti jų dydį, šriftą, spalvą, išdėstymą ar tarpus.
 
-Jie padeda išlaikyti šriftų hierarchiją ir struktūrą.
-
-Galima keisti jų dydį, šriftą, spalvą, išdėstymą ar tarpus.
-
-2. Šrifto keitimas ir stiliai
-
-Pasirink šriftą iš sąrašo arba įkelk savo (tik Canva Pro versijoje).
-
-Galima keisti šrifto stilių: paryškintas (Bold), kursyvas (Italic), pabrauktas (Underline).
+**2. Šrifto keitimas ir stiliai**
+- Pasirink šriftą iš sąrašo arba įkelk savo (tik Canva Pro versijoje).
+- Galima keisti šrifto stilių: paryškintas (Bold), kursyvas (Italic), pabrauktas (Underline).
 
 Naudok Font combinations (teksto laukelyje siūlomus derinius), kad greitai rastum derančius šriftus antraštei ir kūno tekstui.
 
@@ -575,11 +571,11 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDU2MDk5NywyMDc0NTU2NDYsLTE0Mj
-Y1MjY5MjMsLTY1MzY1MDc5MywxMjUxODYyNzI4LC04MzUzNDUx
-NTgsLTEyNDQxNTc4NDksLTc3NTE5MzczNiwxODY4NzkyNTc5LC
-0xODkxNDk5OTM3LDIwMDA1NDQxMjYsMzY3MTk2MTY2LC0yMTMy
-MDEzODAzLC0zMTc3MDgwOTQsLTE2ODM5ODM4NjAsMTAxODUwNz
-QsLTI0Nzg4NzAxLC05OTI3NzEwMTUsLTExNzk0NjQwMTksLTg0
-MTE1OTczMF19
+eyJoaXN0b3J5IjpbLTE5MTMxOTcwMjIsMTk2NDU2MDk5NywyMD
+c0NTU2NDYsLTE0MjY1MjY5MjMsLTY1MzY1MDc5MywxMjUxODYy
+NzI4LC04MzUzNDUxNTgsLTEyNDQxNTc4NDksLTc3NTE5MzczNi
+wxODY4NzkyNTc5LC0xODkxNDk5OTM3LDIwMDA1NDQxMjYsMzY3
+MTk2MTY2LC0yMTMyMDEzODAzLC0zMTc3MDgwOTQsLTE2ODM5OD
+M4NjAsMTAxODUwNzQsLTI0Nzg4NzAxLC05OTI3NzEwMTUsLTEx
+Nzk0NjQwMTldfQ==
 -->
