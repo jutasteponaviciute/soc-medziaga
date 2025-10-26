@@ -381,6 +381,7 @@ CTA mygtuko tekstas: 14–16 pt
 
 ### Šrifto testavimas
 
+![netinkamo srifto pasirinkimo pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/sriftas%20be%20LT%20raidziu.avif)
 
 ### Tipografijos klaidos, kurių verta vengti
 
@@ -497,7 +498,7 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MjA0NzE5MSwtODM1MzQ1MTU4LC0xMj
+eyJoaXN0b3J5IjpbMTI1MTg2MjcyOCwtODM1MzQ1MTU4LC0xMj
 Q0MTU3ODQ5LC03NzUxOTM3MzYsMTg2ODc5MjU3OSwtMTg5MTQ5
 OTkzNywyMDAwNTQ0MTI2LDM2NzE5NjE2NiwtMjEzMjAxMzgwMy
 wtMzE3NzA4MDk0LC0xNjgzOTgzODYwLDEwMTg1MDc0LC0yNDc4
