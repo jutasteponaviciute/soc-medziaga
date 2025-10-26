@@ -436,11 +436,10 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 - Per daug stilių viename vizuale (skirtingos piktogramos, skirtingi kampai, skirtingi iliustracijų stiliai).
 - Atsitiktinės dekoracijos be funkcijos (formos „šiaip sau“).
 - Per mažas kontrastas tarp formos ir teksto.
-- Per daug lipdukų / 3D – atrodo triukšmingai.
-
-Elementai prigludę prie kraštų – palikite „kvėpavimo“ zoną.
+- Per daug lipdukų / 3D, atrodo triukšmingai.
+- Elementai prigludę prie kraštų, palikite erdvės.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2ODkyODkyLC0yMTMyMDEzODAzLC0zMT
+eyJoaXN0b3J5IjpbMzY3MTk2MTY2LC0yMTMyMDEzODAzLC0zMT
 c3MDgwOTQsLTE2ODM5ODM4NjAsMTAxODUwNzQsLTI0Nzg4NzAx
 LC05OTI3NzEwMTUsLTExNzk0NjQwMTksLTg0MTE1OTczMCwtNz
 c1MzU0MDU0LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl19
