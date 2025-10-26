@@ -513,6 +513,8 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 - Kontrastas: piktogramų spalva turi praeiti AA kontrasto testą fone (ypač, jei jos informatyvios).
 - Rinkitės universalias reikšmes (klaustukas pagalbai, žemėlapis lokacijai ir t. t.).
 
+![Ikonų paieškos pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/ikonu%20pvz.avif)
+
 ### Dekoratyviniai elementai (grafiniai elementai, iliustracijos, ornamentai)
 
 - Gali suteikti dizainui charakterio ir vizualinio įdomumo, tačiau juos svarbu naudoti saikingai.
@@ -584,11 +586,11 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNzAxMjMxMCwxOTY0NTYwOTk3LDIwNz
-Q1NTY0NiwtMTQyNjUyNjkyMywtNjUzNjUwNzkzLDEyNTE4NjI3
-MjgsLTgzNTM0NTE1OCwtMTI0NDE1Nzg0OSwtNzc1MTkzNzM2LD
-E4Njg3OTI1NzksLTE4OTE0OTk5MzcsMjAwMDU0NDEyNiwzNjcx
-OTYxNjYsLTIxMzIwMTM4MDMsLTMxNzcwODA5NCwtMTY4Mzk4Mz
-g2MCwxMDE4NTA3NCwtMjQ3ODg3MDEsLTk5Mjc3MTAxNSwtMTE3
-OTQ2NDAxOV19
+eyJoaXN0b3J5IjpbLTYwNjMxNjQwNCwyMTI3MDEyMzEwLDE5Nj
+Q1NjA5OTcsMjA3NDU1NjQ2LC0xNDI2NTI2OTIzLC02NTM2NTA3
+OTMsMTI1MTg2MjcyOCwtODM1MzQ1MTU4LC0xMjQ0MTU3ODQ5LC
+03NzUxOTM3MzYsMTg2ODc5MjU3OSwtMTg5MTQ5OTkzNywyMDAw
+NTQ0MTI2LDM2NzE5NjE2NiwtMjEzMjAxMzgwMywtMzE3NzA4MD
+k0LC0xNjgzOTgzODYwLDEwMTg1MDc0LC0yNDc4ODcwMSwtOTky
+NzcxMDE1XX0=
 -->
