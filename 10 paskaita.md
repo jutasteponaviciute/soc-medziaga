@@ -416,9 +416,7 @@ Pasirinktas šriftas atrodo gražiai anglų kalboje, tačiau lietuviškame tekst
 
 **2. Šrifto keitimas ir stiliai**
 - Pasirink šriftą iš sąrašo arba įkelk savo (tik Canva Pro versijoje).
-- Galima keisti šrifto stilių: paryškintas (Bold), kursyvas (Italic), pabrauktas (Underline).
-
-Naudok Font combinations (teksto laukelyje siūlomus derinius), kad greitai rastum derančius šriftus antraštei ir kūno tekstui.
+- Galima keisti šrifto stilių: paryškintas (Bold), kursyvas (Italic), pabrauktas (Underline), perbrauktas (Strikethrough).
 
 3. Teksto dydis ir proporcijos
 
@@ -571,11 +569,11 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTMxOTcwMjIsMTk2NDU2MDk5NywyMD
-c0NTU2NDYsLTE0MjY1MjY5MjMsLTY1MzY1MDc5MywxMjUxODYy
-NzI4LC04MzUzNDUxNTgsLTEyNDQxNTc4NDksLTc3NTE5MzczNi
-wxODY4NzkyNTc5LC0xODkxNDk5OTM3LDIwMDA1NDQxMjYsMzY3
-MTk2MTY2LC0yMTMyMDEzODAzLC0zMTc3MDgwOTQsLTE2ODM5OD
-M4NjAsMTAxODUwNzQsLTI0Nzg4NzAxLC05OTI3NzEwMTUsLTEx
-Nzk0NjQwMTldfQ==
+eyJoaXN0b3J5IjpbNDc1MzE1MTQ1LDE5NjQ1NjA5OTcsMjA3ND
+U1NjQ2LC0xNDI2NTI2OTIzLC02NTM2NTA3OTMsMTI1MTg2Mjcy
+OCwtODM1MzQ1MTU4LC0xMjQ0MTU3ODQ5LC03NzUxOTM3MzYsMT
+g2ODc5MjU3OSwtMTg5MTQ5OTkzNywyMDAwNTQ0MTI2LDM2NzE5
+NjE2NiwtMjEzMjAxMzgwMywtMzE3NzA4MDk0LC0xNjgzOTgzOD
+YwLDEwMTg1MDc0LC0yNDc4ODcwMSwtOTkyNzcxMDE1LC0xMTc5
+NDY0MDE5XX0=
 -->
