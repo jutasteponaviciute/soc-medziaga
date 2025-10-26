@@ -420,14 +420,11 @@ Pasirinktas šriftas atrodo gražiai anglų kalboje, tačiau lietuviškame tekst
 
 **3. Teksto dydis ir proporcijos**
 - Šrifto dydžio keitimas.
-- Patogus būdas išlaikyti proporcijas: naudoti tą pačią antraštės ir pagrindinio teksto santykio sistemą visuose dizainuose (pvz., 48 pt ir 18 pt).
+- Patogus būdas išlaikyti proporcijas: naudoti tą pačią antraštės ir pagrindinio teksto santykio sistemą visuose dizainuose (pvz., 48 pt ir 18 pt, ).
 
-4. Spalvos ir kontrastas
-
-Nustatyk teksto spalvą naudodamasis Color Picker arba įvesdamas tikslią HEX reikšmę.
-
+**4. Spalvos ir kontrastas**
+- Nustatyk teksto spalvą naudodamasis Color Picker arba įvesdamas tikslią HEX reikšmę.
 Naudok prekės ženklo spalvas iš Brand Kit (jei turi Pro versiją).
-
 Tikrink kontrastą – tekstas turi aiškiai išsiskirti iš fono.
 
 5. Lygiavimas ir išdėstymas
@@ -567,11 +564,11 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTU1MjkwOSwxOTY0NTYwOTk3LDIwNz
-Q1NTY0NiwtMTQyNjUyNjkyMywtNjUzNjUwNzkzLDEyNTE4NjI3
-MjgsLTgzNTM0NTE1OCwtMTI0NDE1Nzg0OSwtNzc1MTkzNzM2LD
-E4Njg3OTI1NzksLTE4OTE0OTk5MzcsMjAwMDU0NDEyNiwzNjcx
-OTYxNjYsLTIxMzIwMTM4MDMsLTMxNzcwODA5NCwtMTY4Mzk4Mz
-g2MCwxMDE4NTA3NCwtMjQ3ODg3MDEsLTk5Mjc3MTAxNSwtMTE3
-OTQ2NDAxOV19
+eyJoaXN0b3J5IjpbLTEyMzEwMTU2NzgsMTk2NDU2MDk5NywyMD
+c0NTU2NDYsLTE0MjY1MjY5MjMsLTY1MzY1MDc5MywxMjUxODYy
+NzI4LC04MzUzNDUxNTgsLTEyNDQxNTc4NDksLTc3NTE5MzczNi
+wxODY4NzkyNTc5LC0xODkxNDk5OTM3LDIwMDA1NDQxMjYsMzY3
+MTk2MTY2LC0yMTMyMDEzODAzLC0zMTc3MDgwOTQsLTE2ODM5OD
+M4NjAsMTAxODUwNzQsLTI0Nzg4NzAxLC05OTI3NzEwMTUsLTEx
+Nzk0NjQwMTldfQ==
 -->
