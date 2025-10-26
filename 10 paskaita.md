@@ -464,12 +464,40 @@ Vertinimas: gebėjimas pastebėti hierarchiją, kontrastą, balansą ir dizaino 
 
 ### 2 užduotis. Spalvų paletės kūrimas ir testavimas
 
+Tikslas: išmokti kurti subalansuotą spalvų paletę ir įvertinti jos pritaikomumą praktikoje.
 
+Užduotis:
+- „Canvoje“ sukurkite spalvų paletę iš trijų spalvų, laikydamiesi 60 % / 30 % / 10 % principo:
+60 % – pagrindinė spalva (fono ar bazinė);
+30 % – antrinė spalva (tekstas, formos, papildomi akcentai);
+10 % – akcentinė spalva (CTA, svarbiausia informacija).
+
+Sukurkite vieną paprastą dizainą (pvz., Instagram įrašą 1080×1350 px), kuriame pritaikysite savo paletę.
+
+- Patikrinkite, ar kontrastas tarp teksto ir fono yra pakankamas (naudokite Canva „Accessibility / Contrast checker“ arba kitą įrankį).
+
+- Pridėkite trumpą aprašymą (2–3 sakinius):
+kodėl pasirinkote tokias spalvas;
+ar kontrastas užtikrina aiškumą ir įskaitomumą.
+
+Atsiskaitymui pateikite:
+
+išeksportuotą vizualą (PNG formatu);
+
+trumpą spalvų paletės aprašymą (su procentais).
+
+Vertinimas:
+
+spalvų derinimo logika;
+
+aiškus 60/30/10 principo taikymas;
+
+pakankamas kontrastas ir įskaitomumas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTQzNzU2NiwxODY4NzkyNTc5LC0xOD
-kxNDk5OTM3LDIwMDA1NDQxMjYsMzY3MTk2MTY2LC0yMTMyMDEz
-ODAzLC0zMTc3MDgwOTQsLTE2ODM5ODM4NjAsMTAxODUwNzQsLT
-I0Nzg4NzAxLC05OTI3NzEwMTUsLTExNzk0NjQwMTksLTg0MTE1
-OTczMCwtNzc1MzU0MDU0LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl
-19
+eyJoaXN0b3J5IjpbNjk4MDU1MjA5LDE4Njg3OTI1NzksLTE4OT
+E0OTk5MzcsMjAwMDU0NDEyNiwzNjcxOTYxNjYsLTIxMzIwMTM4
+MDMsLTMxNzcwODA5NCwtMTY4Mzk4Mzg2MCwxMDE4NTA3NCwtMj
+Q3ODg3MDEsLTk5Mjc3MTAxNSwtMTE3OTQ2NDAxOSwtODQxMTU5
+NzMwLC03NzUzNTQwNTQsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX
+0=
 -->
