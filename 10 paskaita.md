@@ -294,28 +294,12 @@ Skaidrumas leidžia švelninti spalvas arba kurti sluoksnių efektus.
 - Naudojimas: fone esančiai spalvai ar formai po tekstu, kad tekstas būtų aiškiau matomas.
 
 **4. Gradientų kūrimas**
+- Canva leidžia naudoti Gradient Elements (paieškoje įveskite gradient).
+- Pasirinkite norimą gradientinį foną ar formą.
+- Spauskite ant jo ir pakeiskite abu spalvinius taškus.
+- Gradientai padeda suteikti gylio arba sukurti švelnų perėjimą tarp spalvų.
 
-Canva leidžia naudoti Gradient Elements (paieškoje įveskite gradient).
-
-Pasirinkite norimą gradientinį foną ar formą.
-
-Spauskite ant jo ir pakeiskite abu spalvinius taškus (Color 1 ir Color 2).
-
-Galite valdyti kryptį ir spalvų intensyvumą.
-
-Gradientai padeda suteikti gylio arba sukurti švelnų perėjimą tarp spalvų.
-
-5. Spalvų kontrasto testavimas Canva viduje
-
-Canva automatiškai įspėja, jei pasirinktas teksto ir fono kontrastas yra per silpnas.
-
-Jei šalia spalvos pamatote mažą įspėjimo ikoną, tai reiškia, kad kontrastas nepakankamas.
-
-Pasirinkite tamsesnį ar šviesesnį toną, kol įspėjimas dingsta.
-
-(Ši funkcija padeda laikytis prieinamumo (WCAG) gairių ir užtikrina, kad tekstas būtų įskaitomas visiems.)
-
-6. Spalvų rekomendacijos ir automatinės paletės
+5. Spalvų rekomendacijos ir automatinės paletės
 
 Kai įkeli nuotrauką ar logotipą, Canva automatiškai pasiūlo Image Colors – išgautas iš paveikslo paletes.
 
@@ -605,7 +589,7 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODE1NTE4MiwxOTY0NTYwOTk3LDIwNz
+eyJoaXN0b3J5IjpbMTU0MjEyMjIxNiwxOTY0NTYwOTk3LDIwNz
 Q1NTY0NiwtMTQyNjUyNjkyMywtNjUzNjUwNzkzLDEyNTE4NjI3
 MjgsLTgzNTM0NTE1OCwtMTI0NDE1Nzg0OSwtNzc1MTkzNzM2LD
 E4Njg3OTI1NzksLTE4OTE0OTk5MzcsMjAwMDU0NDEyNiwzNjcx
