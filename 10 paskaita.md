@@ -467,7 +467,7 @@ Vertinimas: gebėjimas pastebėti hierarchiją, kontrastą, balansą ir dizaino 
 Tikslas: išmokti kurti subalansuotą spalvų paletę ir įvertinti jos pritaikomumą praktikoje.
 
 Užduotis:
-- „Canvoje“ sukurkite spalvų paletę iš trijų spalvų, laikydamiesi 60 % / 30 % / 10 % principo:
+- Canvoje sukurkite spalvų paletę iš trijų spalvų, laikydamiesi 60 %, 30 %, 10 % principo:
 60 % – pagrindinė spalva (fono ar bazinė);
 30 % – antrinė spalva (tekstas, formos, papildomi akcentai);
 10 % – akcentinė spalva (CTA, svarbiausia informacija).
@@ -482,12 +482,9 @@ ar kontrastas užtikrina aiškumą ir įskaitomumą.
 
 Atsiskaitymui įkelkite išeksportuotą vizualą (PNG formatu) ir trumpą spalvų paletės aprašymą.
 
-Vertinamas spalvų derinimo logika,
-aiškus 60/30/10 principo taikymas;
-
-pakankamas kontrastas ir įskaitomumas.
+Vertinamas spalvų derinimo logika, aiškus 60%, 30%, 10% principo taikymas, pakankamas kontrastas ir skaitomumas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MjkzNTM4MywxODY4NzkyNTc5LC0xOD
+eyJoaXN0b3J5IjpbLTc3NTE5MzczNiwxODY4NzkyNTc5LC0xOD
 kxNDk5OTM3LDIwMDA1NDQxMjYsMzY3MTk2MTY2LC0yMTMyMDEz
 ODAzLC0zMTc3MDgwOTQsLTE2ODM5ODM4NjAsMTAxODUwNzQsLT
 I0Nzg4NzAxLC05OTI3NzEwMTUsLTExNzk0NjQwMTksLTg0MTE1
