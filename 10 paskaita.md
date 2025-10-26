@@ -27,10 +27,10 @@ Geras dizainas:
 -   padeda žmogui ne tik pamatyti, bet ir įsitraukti;    
 -   neišblaško dėmesio nuo pagrindinės minties.
 
-Pavtzdžiui, šie dizainai, pateikti žemiau, geri, nes aiškiai perduoda pagrindinę žinutę ir turi tvarkingą vizualinę struktūrą. Juose viskas tikslinga: spalvos, tipografija ir elementai dera tarpusavyje, palaiko prekės ženklo stilių ir neperkrauna žiūrovo.
+Pavyzdžiui, šie dizainai, pateikti žemiau, geri, nes aiškiai perduoda pagrindinę žinutę ir turi tvarkingą vizualinę struktūrą. Juose viskas tikslinga: spalvos, tipografija ir elementai dera tarpusavyje, palaiko prekės ženklo stilių ir neperkrauna žiūrovo.
 
-![Gero diziano pavyzdys Adobe](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/gero%20dizaino%20pvz%201.avif)
-![Gero diziano pavyzdys Canva](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/gero%20dizaino%20pvz%202.avif)
+![Gero dizainopavyzdys Adobe](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/gero%20dizaino%20pvz%201.avif)
+![Gero dizaino pavyzdys Canva](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/gero%20dizaino%20pvz%202.avif)
 
 Blogas dizainas:
 -   sukelia painiavą, nežinai, kur žiūrėti;    
@@ -40,8 +40,8 @@ Blogas dizainas:
 
 Pavyzdžiui, abiejuose, žemiau pateiktuose, dizainuose trūksta aiškios struktūros ir vizualinės hierarchijos, todėl žiūrovas nežino, kur sutelkti dėmesį. Naudojama per daug spalvų, skirtingų elementų ir šriftų, dėl to bendra žinutė pasimeta. Dizainai atrodo perkrauti, neapibrėžta, kas yra svarbiausia, todėl neaišku, koks jų tikslas ir ką turėtų įsiminti žiūrovas.
 
-![prasto diziano pavyzdys 1](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/blogo%20dizaino%20pvz%201.avif)
-![prasto diziano pavyzdy 2](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/blogo%20dizaino%20pvz%202.avif)
+![prasto dizaino pavyzdys 1](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/blogo%20dizaino%20pvz%201.avif)
+![prasto dizaino pavyzdy 2](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/blogo%20dizaino%20pvz%202.avif)
 
 ### Kaip dizaino sprendimai padeda komunikuoti aiškiau?  
 
@@ -162,7 +162,7 @@ Abu principai geri, svarbiausia yra pasirinkti pagal tikslą.
 Pavyzdžiai:
 -   Minimalistinis vizualas su centruotu tekstu – simetriškas dizainas.
 
-![simetrisko diziano pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/simetrisko%20diziano%20pvz.avif)    
+![simetrisko dizaino pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/simetrisko%20diziano%20pvz.avif)    
 
 -   Reklama su vizualu vienoje pusėje ir tekstu kitoje. Asimetriškas, bet subalansuotas dizainas.
 
@@ -320,7 +320,7 @@ Net jei vizualas minimalus, šriftas gali suteikti profesionalumo, modernumo ar 
 *Pvz.: Lobster, Foda Display, Kompot Display Outline*
 - Unikalūs, stiprūs, dažnai naudojami antraštėms ar logotipams.
 - Padeda sukurti emociją ar išskirtinumą, bet netinka ilgam tekstui.
-- Dažniausiainaudojami antraštėse.
+- Dažniausiai naudojami antraštėse.
 
 ![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/display.avif)
 
@@ -382,7 +382,8 @@ CTA mygtuko tekstas: 14–16 pt
 - Dekoratyviniai šriftai naudojami ilgam tekstui.
 - Skirtingi stiliai kiekviename įraše, prarandamas prekės ženklo vientisumas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODM5ODM4NjAsMTAxODUwNzQsLTI0Nz
-g4NzAxLC05OTI3NzEwMTUsLTExNzk0NjQwMTksLTg0MTE1OTcz
-MCwtNzc1MzU0MDU0LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl19
+eyJoaXN0b3J5IjpbMjA2OTU3MzkyMywtMTY4Mzk4Mzg2MCwxMD
+E4NTA3NCwtMjQ3ODg3MDEsLTk5Mjc3MTAxNSwtMTE3OTQ2NDAx
+OSwtODQxMTU5NzMwLC03NzUzNTQwNTQsNTM1MTI1NDE0LC0xMT
+MxMTA3Nzg2XX0=
 -->
