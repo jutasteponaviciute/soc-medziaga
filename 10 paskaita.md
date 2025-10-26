@@ -379,7 +379,8 @@ CTA mygtuko tekstas: 14–16 pt
 4. Raidžių tarpai: +1–2 pt antraštėms, standartinis – kūno tekstui.
 5. Venk visų didžiųjų raidžių ilgam tekstui.
 
-### 
+### Šrifto testavimas
+
 
 ### Tipografijos klaidos, kurių verta vengti
 
@@ -496,10 +497,11 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTM0NTE1OCwtMTI0NDE1Nzg0OSwtNz
-c1MTkzNzM2LDE4Njg3OTI1NzksLTE4OTE0OTk5MzcsMjAwMDU0
-NDEyNiwzNjcxOTYxNjYsLTIxMzIwMTM4MDMsLTMxNzcwODA5NC
-wtMTY4Mzk4Mzg2MCwxMDE4NTA3NCwtMjQ3ODg3MDEsLTk5Mjc3
-MTAxNSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMwLC03NzUzNTQwNT
-QsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
+eyJoaXN0b3J5IjpbLTM5MjA0NzE5MSwtODM1MzQ1MTU4LC0xMj
+Q0MTU3ODQ5LC03NzUxOTM3MzYsMTg2ODc5MjU3OSwtMTg5MTQ5
+OTkzNywyMDAwNTQ0MTI2LDM2NzE5NjE2NiwtMjEzMjAxMzgwMy
+wtMzE3NzA4MDk0LC0xNjgzOTgzODYwLDEwMTg1MDc0LC0yNDc4
+ODcwMSwtOTkyNzcxMDE1LC0xMTc5NDY0MDE5LC04NDExNTk3Mz
+AsLTc3NTM1NDA1NCw1MzUxMjU0MTQsLTExMzExMDc3ODZdfQ==
+
 -->
