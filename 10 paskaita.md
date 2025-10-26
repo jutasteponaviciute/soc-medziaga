@@ -76,6 +76,7 @@ Vientisumas dizainuose taip pat kuria profesionalumo įspūdį. Kai skirtingos k
 ### Canva patarimas:
 - Naudokite **Guides, Rulers, Margins**.
 
+![Naudokite Guides, Rulers, Margins](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/Naudokite%20Guides,%20Rulers,%20Margins..avif)
 
 ## Kompozicijos pagrindai
 
@@ -443,9 +444,9 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 - Per daug lipdukų / 3D, atrodo triukšmingai.
 - Elementai prigludę prie kraštų, palikite erdvės.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2NDE3OTY4LDIwMDA1NDQxMjYsMzY3MT
-k2MTY2LC0yMTMyMDEzODAzLC0zMTc3MDgwOTQsLTE2ODM5ODM4
-NjAsMTAxODUwNzQsLTI0Nzg4NzAxLC05OTI3NzEwMTUsLTExNz
-k0NjQwMTksLTg0MTE1OTczMCwtNzc1MzU0MDU0LDUzNTEyNTQx
-NCwtMTEzMTEwNzc4Nl19
+eyJoaXN0b3J5IjpbLTE4OTE0OTk5MzcsMjAwMDU0NDEyNiwzNj
+cxOTYxNjYsLTIxMzIwMTM4MDMsLTMxNzcwODA5NCwtMTY4Mzk4
+Mzg2MCwxMDE4NTA3NCwtMjQ3ODg3MDEsLTk5Mjc3MTAxNSwtMT
+E3OTQ2NDAxOSwtODQxMTU5NzMwLC03NzUzNTQwNTQsNTM1MTI1
+NDE0LC0xMTMxMTA3Nzg2XX0=
 -->
