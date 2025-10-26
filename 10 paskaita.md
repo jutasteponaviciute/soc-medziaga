@@ -407,6 +407,8 @@ Pasirinktas šriftas atrodo gražiai anglų kalboje, tačiau lietuviškame tekst
 - Dekoratyviniai šriftai naudojami ilgam tekstui.
 - Skirtingi stiliai kiekviename įraše, prarandamas prekės ženklo vientisumas.
 
+### Teksto nustatymai Canva programoje
+
 ## Formos ir grafiniai elementai
 
 Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėliai yra „statybiniai blokai“, kurie:
@@ -514,11 +516,11 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjY1MjY5MjMsLTY1MzY1MDc5MywxMj
-UxODYyNzI4LC04MzUzNDUxNTgsLTEyNDQxNTc4NDksLTc3NTE5
-MzczNiwxODY4NzkyNTc5LC0xODkxNDk5OTM3LDIwMDA1NDQxMj
-YsMzY3MTk2MTY2LC0yMTMyMDEzODAzLC0zMTc3MDgwOTQsLTE2
-ODM5ODM4NjAsMTAxODUwNzQsLTI0Nzg4NzAxLC05OTI3NzEwMT
-UsLTExNzk0NjQwMTksLTg0MTE1OTczMCwtNzc1MzU0MDU0LDUz
-NTEyNTQxNF19
+eyJoaXN0b3J5IjpbMjA3NDU1NjQ2LC0xNDI2NTI2OTIzLC02NT
+M2NTA3OTMsMTI1MTg2MjcyOCwtODM1MzQ1MTU4LC0xMjQ0MTU3
+ODQ5LC03NzUxOTM3MzYsMTg2ODc5MjU3OSwtMTg5MTQ5OTkzNy
+wyMDAwNTQ0MTI2LDM2NzE5NjE2NiwtMjEzMjAxMzgwMywtMzE3
+NzA4MDk0LC0xNjgzOTgzODYwLDEwMTg1MDc0LC0yNDc4ODcwMS
+wtOTkyNzcxMDE1LC0xMTc5NDY0MDE5LC04NDExNTk3MzAsLTc3
+NTM1NDA1NF19
 -->
