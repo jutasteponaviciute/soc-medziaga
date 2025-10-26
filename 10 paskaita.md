@@ -503,7 +503,7 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 - Kampų apvalumas: jei prekės ženklas naudoja 12 px radius, laikykitės jo nuosekliai visur.
 
 **Canva patarimai:**
-- Align / Tidy up – greitas elementų sulygiavimas ir tolygus tarpas.
+- Align / Tidy up – greitas elementų sulygiavimas ir tolygūs tarpas.
 - Stroke (Outline) – ribokite storį, kad rėmeliai neperimtų dėmesio nuo teksto.
 
 ### Ikonos
@@ -584,7 +584,7 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzQzMzQ0MCwxOTY0NTYwOTk3LDIwNz
+eyJoaXN0b3J5IjpbMjEyNzAxMjMxMCwxOTY0NTYwOTk3LDIwNz
 Q1NTY0NiwtMTQyNjUyNjkyMywtNjUzNjUwNzkzLDEyNTE4NjI3
 MjgsLTgzNTM0NTE1OCwtMTI0NDE1Nzg0OSwtNzc1MTkzNzM2LD
 E4Njg3OTI1NzksLTE4OTE0OTk5MzcsMjAwMDU0NDEyNiwzNjcx
