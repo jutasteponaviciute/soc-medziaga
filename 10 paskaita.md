@@ -334,7 +334,7 @@ Derinant skirtingus šriftus, svarbu išlaikyti kontrastą, bet ne konkurenciją
 - Laikykis nuoseklumo. Tie patys deriniai turėtų būti naudojami visuose įrašuose.
 - Derink serif + sans-serif tai yra klasikinis ir saugus derinys.
 *Pvz.: Playfair Display + Montserrat.*
-- Venk dviejų labai panašių šriftų kombinacijų – geriau priešingai kontrastuojantys (storas / plonas).
+- Venk dviejų labai panašių šriftų kombinacijų, geriau priešingai kontrastuojantys (storas / plonas, serifinis / beserifinis).
 
 ### Tipografijos hierarchija
 
@@ -359,21 +359,6 @@ Hierarchija padeda akiai „skaityti“ dizainą teisinga seka, nuo svarbiausios
 
 ![teksto hierarchijos pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/teksto%20hierarchija01.avif)
 
-### Šriftų skaitomumas ir aiškumas socialiniuose tinkluose
-
-Kad tekstas būtų skaitomas tiek telefone, tiek kompiuteryje:
-1. Kontrastas su fonu
-- Tamsus tekstas ant šviesaus arba šviesus ant tamsaus.
-- Venkite šviesaus teksto ant šviesaus fono ir tamsaus teksto ant tamsaus fono.
-2. Teksto dydžiai (rekomendacijos):
-Antraštė: 45–60 pt
-Poraštė: 22–30 pt
-Pagrindinis tekstas: 12–18 pt
-CTA mygtuko tekstas: 14–16 pt
-3. Eilučių tarpai: 1.2–1.4 priklausomai nuo šrifto.
-4. Raidžių tarpai: +1–2 pt antraštėms, standartinis – kūno tekstui.
-5. Venk visų didžiųjų raidžių ilgam tekstui.
-
 ### Tipografijos klaidos, kurių verta vengti
 
 - Per daug skirtingų šriftų viename dizaine.
@@ -382,7 +367,7 @@ CTA mygtuko tekstas: 14–16 pt
 - Dekoratyviniai šriftai naudojami ilgam tekstui.
 - Skirtingi stiliai kiekviename įraše, prarandamas prekės ženklo vientisumas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxNzIwMzExLDEwMTg1MDc0LC0yNDc4OD
-cwMSwtOTkyNzcxMDE1LC0xMTc5NDY0MDE5LC04NDExNTk3MzAs
-LTc3NTM1NDA1NCw1MzUxMjU0MTQsLTExMzExMDc3ODZdfQ==
+eyJoaXN0b3J5IjpbMTYxOTYxMzI3MywxMDE4NTA3NCwtMjQ3OD
+g3MDEsLTk5Mjc3MTAxNSwtMTE3OTQ2NDAxOSwtODQxMTU5NzMw
+LC03NzUzNTQwNTQsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX0=
 -->
