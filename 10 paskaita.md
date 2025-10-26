@@ -367,7 +367,7 @@ Kad tekstas būtų skaitomas tiek telefone, tiek kompiuteryje:
 - Venkite šviesaus teksto ant šviesaus fono ir tamsaus teksto ant tamsaus fono.
 2. Teksto dydžiai (rekomendacijos):
 Antraštė: 45–60 pt
-Poraštė: 22–30 pt
+Poantraštė: 22–30 pt
 Pagrindinis tekstas: 12–18 pt
 CTA mygtuko tekstas: 14–16 pt
 3. Eilučių tarpai: 1.2–1.4 priklausomai nuo šrifto.
@@ -382,7 +382,7 @@ CTA mygtuko tekstas: 14–16 pt
 - Dekoratyviniai šriftai naudojami ilgam tekstui.
 - Skirtingi stiliai kiekviename įraše, prarandamas prekės ženklo vientisumas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTU3MzkyMywtMTY4Mzk4Mzg2MCwxMD
+eyJoaXN0b3J5IjpbLTMxNzcwODA5NCwtMTY4Mzk4Mzg2MCwxMD
 E4NTA3NCwtMjQ3ODg3MDEsLTk5Mjc3MTAxNSwtMTE3OTQ2NDAx
 OSwtODQxMTU5NzMwLC03NzUzNTQwNTQsNTM1MTI1NDE0LC0xMT
 MxMTA3Nzg2XX0=
