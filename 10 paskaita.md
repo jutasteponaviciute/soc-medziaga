@@ -409,6 +409,64 @@ Pasirinktas šriftas atrodo gražiai anglų kalboje, tačiau lietuviškame tekst
 
 ### Teksto nustatymai Canva programoje
 
+1. Teksto laukelių tipai
+Canva siūlo tris pagrindinius teksto laukelių tipus: Heading (antraštė), Subheading (poantraštė) ir Body text (pagrindinis tekstas).
+
+Jie padeda išlaikyti šriftų hierarchiją ir struktūrą.
+
+Galima keisti jų dydį, šriftą, spalvą, išdėstymą ar tarpus.
+
+2. Šrifto keitimas ir stiliai
+
+Pasirink šriftą iš sąrašo arba įkelk savo (tik Canva Pro versijoje).
+
+Galima keisti šrifto stilių: paryškintas (Bold), kursyvas (Italic), pabrauktas (Underline).
+
+Naudok Font combinations (teksto laukelyje siūlomus derinius), kad greitai rastum derančius šriftus antraštei ir kūno tekstui.
+
+3. Teksto dydis ir proporcijos
+
+Keisk šrifto dydį rankiniu būdu arba pasirink iš Canva siūlomų reikšmių.
+
+Patogus būdas išlaikyti proporcijas – naudoti tą pačią antraštės ir kūno teksto santykio sistemą visuose dizainuose (pvz., 48 pt ir 18 pt).
+
+4. Spalvos ir kontrastas
+
+Nustatyk teksto spalvą naudodamasis Color Picker arba įvesdamas tikslią HEX reikšmę.
+
+Naudok prekės ženklo spalvas iš Brand Kit (jei turi Pro versiją).
+
+Tikrink kontrastą – tekstas turi aiškiai išsiskirti iš fono.
+
+5. Lygiavimas ir išdėstymas
+
+Galimi lygiavimo variantai: kairėje, centre, dešinėje arba per visą plotį.
+
+Naudok Position → Align funkciją, kad tekstas būtų tiksliai sulygiuotas su kitais elementais.
+
+„Tidy up“ funkcija padeda automatiškai išdėstyti kelis teksto laukelius tolygiai.
+
+6. Eilučių ir raidžių tarpai (Line spacing, Letter spacing)
+
+Line spacing padeda padidinti arba sumažinti atstumą tarp eilučių.
+– Pagrindiniam tekstui rekomenduojama 1.2–1.4.
+
+Letter spacing reguliuoja tarpus tarp raidžių.
+– Padidinus – tekstas atrodo elegantiškiau, sumažinus – kompaktiškiau.
+
+Išbandyk skirtingus tarpus, kad pasiektum balansą tarp aiškumo ir estetikos.
+
+7. Efektai (Text effects)
+
+Shadow (šešėlis) – suteikia gylio, bet naudok subtiliai.
+
+Lift – švelniai pakelia tekstą nuo fono.
+
+Outline (kontūras) – tinka kontrastui ar dekoratyviniams elementams.
+
+Curve (lenktas tekstas) – dažniausiai naudojamas logotipuose ar dekoracijose.
+
+Splice, Echo, Glitch – kūrybiniai efektai, naudok saikingai, kad neiškraipytum žinutės.
 
 ## Formos ir grafiniai elementai
 
@@ -517,7 +575,7 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMDUxMzQ4OCwyMDc0NTU2NDYsLTE0Mj
+eyJoaXN0b3J5IjpbMTk2NDU2MDk5NywyMDc0NTU2NDYsLTE0Mj
 Y1MjY5MjMsLTY1MzY1MDc5MywxMjUxODYyNzI4LC04MzUzNDUx
 NTgsLTEyNDQxNTc4NDksLTc3NTE5MzczNiwxODY4NzkyNTc5LC
 0xODkxNDk5OTM3LDIwMDA1NDQxMjYsMzY3MTk2MTY2LC0yMTMy
