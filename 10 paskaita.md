@@ -270,6 +270,8 @@ Sukūrus spalvų paletę, būtina patikrinti jos kontrastą ir apibrėžti, koki
 
 ![prasto ir gero kontasto is spalvu paletes pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/kontrasto%20tikrinimas.avif)
 
+### Spalvų nustatymai Canva programoje
+
 ## Tipografija
 
 ### Kas yra tipografija?
@@ -551,11 +553,11 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzk1ODUzMSwxOTY0NTYwOTk3LDIwNz
-Q1NTY0NiwtMTQyNjUyNjkyMywtNjUzNjUwNzkzLDEyNTE4NjI3
-MjgsLTgzNTM0NTE1OCwtMTI0NDE1Nzg0OSwtNzc1MTkzNzM2LD
-E4Njg3OTI1NzksLTE4OTE0OTk5MzcsMjAwMDU0NDEyNiwzNjcx
-OTYxNjYsLTIxMzIwMTM4MDMsLTMxNzcwODA5NCwtMTY4Mzk4Mz
-g2MCwxMDE4NTA3NCwtMjQ3ODg3MDEsLTk5Mjc3MTAxNSwtMTE3
-OTQ2NDAxOV19
+eyJoaXN0b3J5IjpbLTE2NzY4MDU1MjcsMTk2NDU2MDk5NywyMD
+c0NTU2NDYsLTE0MjY1MjY5MjMsLTY1MzY1MDc5MywxMjUxODYy
+NzI4LC04MzUzNDUxNTgsLTEyNDQxNTc4NDksLTc3NTE5MzczNi
+wxODY4NzkyNTc5LC0xODkxNDk5OTM3LDIwMDA1NDQxMjYsMzY3
+MTk2MTY2LC0yMTMyMDEzODAzLC0zMTc3MDgwOTQsLTE2ODM5OD
+M4NjAsMTAxODUwNzQsLTI0Nzg4NzAxLC05OTI3NzEwMTUsLTEx
+Nzk0NjQwMTldfQ==
 -->
