@@ -398,9 +398,11 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 - **Trikampiai / strėlės** – kryptis, energija, dinamika. Tinka akiai vesti link CTA ar svarbios detalės (bet naudokite saikingai).
 - **Organinės, netaisyklingos formos** – kūrybiškumas, žaismingumas, „šiuolaikinis“ jaunatviškas tonas. Naudokite kaip foninius akcentus, tačiau patikrinkite kontrastą su tekstu.
 
-Praktinis principas: forma turėtų tarnauti turiniui, o ne konkuruoti su juo. Jei forma užgožia tekstą ar nuotrauką – ji netinkamo dydžio, kontrasto arba vietos.
+**Praktinis principas**: forma turėtų tarnauti turiniui, o ne konkuruoti su juo. **Jei forma užgožia tekstą ar nuotrauką ji yra netinkamo dydžio, kontrasto arba vietos.**
+
+### Formų psichologija ir kada jas rinktis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1ODYzMDcxLC0zMTc3MDgwOTQsLTE2OD
+eyJoaXN0b3J5IjpbMjg4Njc2MjQ4LC0zMTc3MDgwOTQsLTE2OD
 M5ODM4NjAsMTAxODUwNzQsLTI0Nzg4NzAxLC05OTI3NzEwMTUs
 LTExNzk0NjQwMTksLTg0MTE1OTczMCwtNzc1MzU0MDU0LDUzNT
 EyNTQxNCwtMTEzMTEwNzc4Nl19
