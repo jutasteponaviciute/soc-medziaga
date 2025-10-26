@@ -279,38 +279,16 @@ Norėdami pakeisti spalvą:
 - Pasirinkite spalvą iš siūlomų paletės variantų arba įveskite tikslią spalvą naudodami HEX kodą (pvz., #E7FF25).
 - Patarimas: jei dirbate su prekės ženklu, visada naudokite HEX kodus, taip išlaikysite spalvų nuoseklumą visuose maketuose.
 
-2. Brand Kit (prekės ženklo spalvų rinkinys)
-
-(Canva Pro funkcija)
-Ši funkcija leidžia sukurti ir išsaugoti spalvų paletę, kad jos būtų pasiekiamos kiekviename projekte.
-
-Eikite į Brand Hub → Brand Kit.
-
-Pridėkite iki kelių spalvų rinkinių (pvz., pagrindinės, antrinės, sezoninės paletės).
-
-Kai kursite dizainą, išsaugotos spalvos bus rodomos virš visų kitų spalvų – nereikės jų ieškoti.
-
-Pritaikymas:
-Brand Kit yra būtinas, jei norite išlaikyti vieningą vizualinį stilių visoje komunikacijoje.
-
-3. Color Picker (spalvos parinkimo įrankis)
-
+**2. Color Picker (spalvos parinkimo įrankis)**
 Canva leidžia išsirinkti spalvą tiesiai iš nuotraukos ar kito elemento.
+- Spauskite ant spalvų piktogramos.
+- Pasirinkite Color Picker (pipetės simbolį).
+- Užveskite žymeklį ant bet kurios ekrano vietos ir spustelėkite, spalva automatiškai bus pritaikyta pažymėtam objektui.
+- Tai ypač naudinga, kai norite, kad spalvos atitiktų jūsų nuotrauką, produktą ar logotipą.
 
-Spauskite ant spalvų piktogramos.
-
-Pasirinkite Color Picker (pipetės simbolį).
-
-Užveskite žymeklį ant bet kurios ekrano vietos – spalva automatiškai bus pritaikyta pažymėtam objektui.
-
-Tai ypač naudinga, kai norite, kad spalvos atitiktų jūsų nuotrauką, produktą ar logotipą.
-
-4. Transparency (skaidrumo nustatymas)
-
+**3. Transparency (skaidrumo nustatymas)**
 Skaidrumas leidžia švelninti spalvas arba kurti sluoksnių efektus.
-
 Pažymėkite elementą ar formą.
-
 Spauskite permatomumo piktogramą (langelis su langu kampe) viršutiniame meniu.
 
 Reguliuokite permatomumą slankikliu nuo 0 % (visiškai skaidrus) iki 100 % (nepermatomas).
@@ -321,7 +299,7 @@ Fone esančiai spalvai ar formai po tekstu, kad tekstas būtų aiškiau matomas.
 
 Sukuriant subtilų spalvų sluoksniavimą ar „soft overlay“ efektą.
 
-5. Gradientų kūrimas
+4. Gradientų kūrimas
 
 Canva leidžia naudoti Gradient Elements (paieškoje įveskite gradient).
 
@@ -333,7 +311,7 @@ Galite valdyti kryptį ir spalvų intensyvumą.
 
 Gradientai padeda suteikti gylio arba sukurti švelnų perėjimą tarp spalvų.
 
-6. Spalvų kontrasto testavimas Canva viduje
+5. Spalvų kontrasto testavimas Canva viduje
 
 Canva automatiškai įspėja, jei pasirinktas teksto ir fono kontrastas yra per silpnas.
 
@@ -343,7 +321,7 @@ Pasirinkite tamsesnį ar šviesesnį toną, kol įspėjimas dingsta.
 
 (Ši funkcija padeda laikytis prieinamumo (WCAG) gairių ir užtikrina, kad tekstas būtų įskaitomas visiems.)
 
-7. Spalvų rekomendacijos ir automatinės paletės
+6. Spalvų rekomendacijos ir automatinės paletės
 
 Kai įkeli nuotrauką ar logotipą, Canva automatiškai pasiūlo Image Colors – išgautas iš paveikslo paletes.
 
@@ -633,11 +611,11 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1NDQ4NTgsMTk2NDU2MDk5NywyMDc0NT
-U2NDYsLTE0MjY1MjY5MjMsLTY1MzY1MDc5MywxMjUxODYyNzI4
-LC04MzUzNDUxNTgsLTEyNDQxNTc4NDksLTc3NTE5MzczNiwxOD
-Y4NzkyNTc5LC0xODkxNDk5OTM3LDIwMDA1NDQxMjYsMzY3MTk2
-MTY2LC0yMTMyMDEzODAzLC0zMTc3MDgwOTQsLTE2ODM5ODM4Nj
-AsMTAxODUwNzQsLTI0Nzg4NzAxLC05OTI3NzEwMTUsLTExNzk0
-NjQwMTldfQ==
+eyJoaXN0b3J5IjpbNTE5NDU1NTQ4LDE5NjQ1NjA5OTcsMjA3ND
+U1NjQ2LC0xNDI2NTI2OTIzLC02NTM2NTA3OTMsMTI1MTg2Mjcy
+OCwtODM1MzQ1MTU4LC0xMjQ0MTU3ODQ5LC03NzUxOTM3MzYsMT
+g2ODc5MjU3OSwtMTg5MTQ5OTkzNywyMDAwNTQ0MTI2LDM2NzE5
+NjE2NiwtMjEzMjAxMzgwMywtMzE3NzA4MDk0LC0xNjgzOTgzOD
+YwLDEwMTg1MDc0LC0yNDc4ODcwMSwtOTkyNzcxMDE1LC0xMTc5
+NDY0MDE5XX0=
 -->
