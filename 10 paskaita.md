@@ -521,12 +521,12 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 - Jeigu tokių detalių per daug, dizainas tampa chaotiškas ir blaško dėmesį nuo esmės.
 - Geriausia, kai iliustracijos ir kiti papildomi elementai organiškai dera su likusia vizualo dalimi ir sustiprina pagrindinę žinutę, o ne atrodo įterpti be aiškaus tikslo.
 
-![Dekoratyviniu](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/Dekoratyviniu%20elementu%20panaudojimo%20pavyzdys.avif)
+![Dekoratyviniu elementu naudojimo pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/Dekoratyviniu%20elementu%20panaudojimo%20pavyzdys.avif)
 
 ### Šešėliai, gylis, tekstūros
 
 - Subtilūs šešėliai (Blur 8–16, Transparency 10–25 %) padeda „pakelti“ korteles ar mygtukus nuo fono.
-- Gradientai – puikūs kaip fonas arba „glassmorphism“ stiliui, tačiau saugokite kontrastą su tekstu.
+- Gradientai – tinka kaip fonas arba „glassmorphism“ stiliui, tačiau saugokite kontrastą su tekstu.
 
 ### Dažniausios klaidos
 
@@ -586,11 +586,11 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODU3NzU1NywtNjA2MzE2NDA0LDIxMj
-cwMTIzMTAsMTk2NDU2MDk5NywyMDc0NTU2NDYsLTE0MjY1MjY5
-MjMsLTY1MzY1MDc5MywxMjUxODYyNzI4LC04MzUzNDUxNTgsLT
-EyNDQxNTc4NDksLTc3NTE5MzczNiwxODY4NzkyNTc5LC0xODkx
-NDk5OTM3LDIwMDA1NDQxMjYsMzY3MTk2MTY2LC0yMTMyMDEzOD
-AzLC0zMTc3MDgwOTQsLTE2ODM5ODM4NjAsMTAxODUwNzQsLTI0
-Nzg4NzAxXX0=
+eyJoaXN0b3J5IjpbMTE0Mzk2Mzg4LC02MDYzMTY0MDQsMjEyNz
+AxMjMxMCwxOTY0NTYwOTk3LDIwNzQ1NTY0NiwtMTQyNjUyNjky
+MywtNjUzNjUwNzkzLDEyNTE4NjI3MjgsLTgzNTM0NTE1OCwtMT
+I0NDE1Nzg0OSwtNzc1MTkzNzM2LDE4Njg3OTI1NzksLTE4OTE0
+OTk5MzcsMjAwMDU0NDEyNiwzNjcxOTYxNjYsLTIxMzIwMTM4MD
+MsLTMxNzcwODA5NCwtMTY4Mzk4Mzg2MCwxMDE4NTA3NCwtMjQ3
+ODg3MDFdfQ==
 -->
