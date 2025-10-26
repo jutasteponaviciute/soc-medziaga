@@ -446,12 +446,25 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 
 # Praktinės užduotys
 
-### 1 užduotis. Dizaino analizė
+### 1 užduotis. Dizaino analizė.
+
+Tikslas: išmokti atpažinti aiškią struktūrą, hierarchiją ir prekės ženklo vientisumą.
+
+Užduotis:
+- Pasirinkite du vizualus iš socialinių tinklų (pvz., reklamos ar įrašų).
+- Vienas turi būti jūsų nuomone geras dizainas, kitas – ne toks sėkmingas.
+- Abu įkelkite į Canva arba dokumentą ir trumpai aprašykite:
+Kas pirmiausia patraukia dėmesį?
+Kaip išdėstyti elementai (ar aišku, kas svarbiausia)?
+Kaip panaudotos spalvos ir šriftai?
+Kodėl vienas dizainas veikia geriau už kitą?
+
+Vertinimas: gebėjimas pastebėti hierarchiją, kontrastą, balansą ir dizaino tikslingumą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2MTQ3MDEzLDE4Njg3OTI1NzksLTE4OT
-E0OTk5MzcsMjAwMDU0NDEyNiwzNjcxOTYxNjYsLTIxMzIwMTM4
-MDMsLTMxNzcwODA5NCwtMTY4Mzk4Mzg2MCwxMDE4NTA3NCwtMj
-Q3ODg3MDEsLTk5Mjc3MTAxNSwtMTE3OTQ2NDAxOSwtODQxMTU5
-NzMwLC03NzUzNTQwNTQsNTM1MTI1NDE0LC0xMTMxMTA3Nzg2XX
-0=
+eyJoaXN0b3J5IjpbMTI3NDU3NDczMywxODY4NzkyNTc5LC0xOD
+kxNDk5OTM3LDIwMDA1NDQxMjYsMzY3MTk2MTY2LC0yMTMyMDEz
+ODAzLC0zMTc3MDgwOTQsLTE2ODM5ODM4NjAsMTAxODUwNzQsLT
+I0Nzg4NzAxLC05OTI3NzEwMTUsLTExNzk0NjQwMTksLTg0MTE1
+OTczMCwtNzc1MzU0MDU0LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl
+19
 -->
