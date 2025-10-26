@@ -523,11 +523,6 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 
 ![Dekoratyviniu elementu naudojimo pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/Dekoratyviniu%20elementu%20panaudojimo%20pavyzdys.avif)
 
-### Šešėliai, gylis, tekstūros
-
-- Subtilūs šešėliai (Blur 8–16, Transparency 10–25 %) padeda „pakelti“ korteles ar mygtukus nuo fono.
-- Gradientai – tinka kaip fonas arba „glassmorphism“ stiliui, tačiau saugokite kontrastą su tekstu.
-
 ### Dažniausios klaidos
 
 - Per daug stilių viename vizuale (skirtingos piktogramos, skirtingi kampai, skirtingi iliustracijų stiliai).
@@ -586,11 +581,11 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0Mzk2Mzg4LC02MDYzMTY0MDQsMjEyNz
-AxMjMxMCwxOTY0NTYwOTk3LDIwNzQ1NTY0NiwtMTQyNjUyNjky
-MywtNjUzNjUwNzkzLDEyNTE4NjI3MjgsLTgzNTM0NTE1OCwtMT
-I0NDE1Nzg0OSwtNzc1MTkzNzM2LDE4Njg3OTI1NzksLTE4OTE0
-OTk5MzcsMjAwMDU0NDEyNiwzNjcxOTYxNjYsLTIxMzIwMTM4MD
-MsLTMxNzcwODA5NCwtMTY4Mzk4Mzg2MCwxMDE4NTA3NCwtMjQ3
-ODg3MDFdfQ==
+eyJoaXN0b3J5IjpbLTgwNDkyNDY2NywxMTQzOTYzODgsLTYwNj
+MxNjQwNCwyMTI3MDEyMzEwLDE5NjQ1NjA5OTcsMjA3NDU1NjQ2
+LC0xNDI2NTI2OTIzLC02NTM2NTA3OTMsMTI1MTg2MjcyOCwtOD
+M1MzQ1MTU4LC0xMjQ0MTU3ODQ5LC03NzUxOTM3MzYsMTg2ODc5
+MjU3OSwtMTg5MTQ5OTkzNywyMDAwNTQ0MTI2LDM2NzE5NjE2Ni
+wtMjEzMjAxMzgwMywtMzE3NzA4MDk0LC0xNjgzOTgzODYwLDEw
+MTg1MDc0XX0=
 -->
