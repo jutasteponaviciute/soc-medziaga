@@ -422,14 +422,26 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 
 - Gali suteikti dizainui charakterio ir vizualinio įdomumo, tačiau juos svarbu naudoti saikingai.
 - Jeigu tokių detalių per daug, dizainas tampa chaotiškas ir blaško dėmesį nuo esmės.
-Geriausia, kai iliustracijos ir kiti papildomi elementai organiškai dera su likusia vizualo dalimi ir sustiprina pagrindinę žinutę, o ne atrodo įterpti be aiškaus tikslo.
+- Geriausia, kai iliustracijos ir kiti papildomi elementai organiškai dera su likusia vizualo dalimi ir sustiprina pagrindinę žinutę, o ne atrodo įterpti be aiškaus tikslo.
 
 ### Šešėliai, gylis, tekstūros
 
+- Subtilūs šešėliai (Blur 8–16, Transparency 10–25 %) padeda „pakelti“ korteles ar mygtukus nuo fono.
+- Vidiniai šešėliai – retai, bet tinka įspūdžiui, kad elementas „įspaustas“.
+- Grūdėtumas (grain) ar tekstūros – suteikia charakterio, bet laikykite žemą intensyvumą, kad netrukdytų tekstui.
+- Gradientai – puikūs kaip fonas arba „glassmorphism“ stiliui, tačiau saugokite kontrastą su tekstu.
+
 ### Dažniausios klaidos
+
+- Per daug stilių viename vizuale (skirtingos piktogramos, skirtingi kampai, skirtingi iliustracijų stiliai).
+- Atsitiktinės dekoracijos be funkcijos (formos „šiaip sau“).
+- Per mažas kontrastas tarp formos ir teksto.
+- Per daug lipdukų / 3D – atrodo triukšmingai.
+
+Elementai prigludę prie kraštų – palikite „kvėpavimo“ zoną.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTAxMzIxMywtMjEzMjAxMzgwMywtMz
-E3NzA4MDk0LC0xNjgzOTgzODYwLDEwMTg1MDc0LC0yNDc4ODcw
-MSwtOTkyNzcxMDE1LC0xMTc5NDY0MDE5LC04NDExNTk3MzAsLT
-c3NTM1NDA1NCw1MzUxMjU0MTQsLTExMzExMDc3ODZdfQ==
+eyJoaXN0b3J5IjpbNTA2ODkyODkyLC0yMTMyMDEzODAzLC0zMT
+c3MDgwOTQsLTE2ODM5ODM4NjAsMTAxODUwNzQsLTI0Nzg4NzAx
+LC05OTI3NzEwMTUsLTExNzk0NjQwMTksLTg0MTE1OTczMCwtNz
+c1MzU0MDU0LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl19
 -->
