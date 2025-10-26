@@ -475,14 +475,14 @@ Užduotis:
 - Padarykite trumpą aprašymą (2–3 sakinius):
 Kodėl pasirinkote tokias spalvas?
 Ar kontrastas užtikrina aiškumą ir įskaitomumą?
-- Atsiskaitymui įkelkite išeksportuotą dokumentą (PDF formatu) su spalvų palete, testavi trumpą spalvų paletės aprašymą.
+- Atsiskaitymui įkelkite išeksportuotą dokumentą (PDF formatu) su spalvų palete, testavimu ir trumpu aprašymu.
 
 Vertinamas spalvų derinimo logika, aiškus 60%, 30%, 10% principo taikymas, pakankamas kontrastas ir skaitomumas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM3NDkxNTM3LC03NzUxOTM3MzYsMTg2OD
-c5MjU3OSwtMTg5MTQ5OTkzNywyMDAwNTQ0MTI2LDM2NzE5NjE2
-NiwtMjEzMjAxMzgwMywtMzE3NzA4MDk0LC0xNjgzOTgzODYwLD
-EwMTg1MDc0LC0yNDc4ODcwMSwtOTkyNzcxMDE1LC0xMTc5NDY0
-MDE5LC04NDExNTk3MzAsLTc3NTM1NDA1NCw1MzUxMjU0MTQsLT
-ExMzExMDc3ODZdfQ==
+eyJoaXN0b3J5IjpbLTEyNDQxNTc4NDksLTc3NTE5MzczNiwxOD
+Y4NzkyNTc5LC0xODkxNDk5OTM3LDIwMDA1NDQxMjYsMzY3MTk2
+MTY2LC0yMTMyMDEzODAzLC0zMTc3MDgwOTQsLTE2ODM5ODM4Nj
+AsMTAxODUwNzQsLTI0Nzg4NzAxLC05OTI3NzEwMTUsLTExNzk0
+NjQwMTksLTg0MTE1OTczMCwtNzc1MzU0MDU0LDUzNTEyNTQxNC
+wtMTEzMTEwNzc4Nl19
 -->
