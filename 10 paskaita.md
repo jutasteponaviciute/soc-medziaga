@@ -443,10 +443,14 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 - Per mažas kontrastas tarp formos ir teksto.
 - Per daug lipdukų / 3D, atrodo triukšmingai.
 - Elementai prigludę prie kraštų, palikite erdvės.
+
+# Praktinės užduotys
+
+### 1 užduotis. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTE0OTk5MzcsMjAwMDU0NDEyNiwzNj
-cxOTYxNjYsLTIxMzIwMTM4MDMsLTMxNzcwODA5NCwtMTY4Mzk4
-Mzg2MCwxMDE4NTA3NCwtMjQ3ODg3MDEsLTk5Mjc3MTAxNSwtMT
-E3OTQ2NDAxOSwtODQxMTU5NzMwLC03NzUzNTQwNTQsNTM1MTI1
-NDE0LC0xMTMxMTA3Nzg2XX0=
+eyJoaXN0b3J5IjpbMTg2ODc5MjU3OSwtMTg5MTQ5OTkzNywyMD
+AwNTQ0MTI2LDM2NzE5NjE2NiwtMjEzMjAxMzgwMywtMzE3NzA4
+MDk0LC0xNjgzOTgzODYwLDEwMTg1MDc0LC0yNDc4ODcwMSwtOT
+kyNzcxMDE1LC0xMTc5NDY0MDE5LC04NDExNTk3MzAsLTc3NTM1
+NDA1NCw1MzUxMjU0MTQsLTExMzExMDc3ODZdfQ==
 -->
