@@ -521,11 +521,11 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 - Jeigu tokių detalių per daug, dizainas tampa chaotiškas ir blaško dėmesį nuo esmės.
 - Geriausia, kai iliustracijos ir kiti papildomi elementai organiškai dera su likusia vizualo dalimi ir sustiprina pagrindinę žinutę, o ne atrodo įterpti be aiškaus tikslo.
 
+![Dekoratyviniu](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/Dekoratyviniu%20elementu%20panaudojimo%20pavyzdys.avif)
+
 ### Šešėliai, gylis, tekstūros
 
 - Subtilūs šešėliai (Blur 8–16, Transparency 10–25 %) padeda „pakelti“ korteles ar mygtukus nuo fono.
-- Vidiniai šešėliai – retai, bet tinka įspūdžiui, kad elementas „įspaustas“.
-- Grūdėtumas (grain) ar tekstūros – suteikia charakterio, bet laikykite žemą intensyvumą, kad netrukdytų tekstui.
 - Gradientai – puikūs kaip fonas arba „glassmorphism“ stiliui, tačiau saugokite kontrastą su tekstu.
 
 ### Dažniausios klaidos
@@ -586,11 +586,11 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjMxNjQwNCwyMTI3MDEyMzEwLDE5Nj
-Q1NjA5OTcsMjA3NDU1NjQ2LC0xNDI2NTI2OTIzLC02NTM2NTA3
-OTMsMTI1MTg2MjcyOCwtODM1MzQ1MTU4LC0xMjQ0MTU3ODQ5LC
-03NzUxOTM3MzYsMTg2ODc5MjU3OSwtMTg5MTQ5OTkzNywyMDAw
-NTQ0MTI2LDM2NzE5NjE2NiwtMjEzMjAxMzgwMywtMzE3NzA4MD
-k0LC0xNjgzOTgzODYwLDEwMTg1MDc0LC0yNDc4ODcwMSwtOTky
-NzcxMDE1XX0=
+eyJoaXN0b3J5IjpbMTk4ODU3NzU1NywtNjA2MzE2NDA0LDIxMj
+cwMTIzMTAsMTk2NDU2MDk5NywyMDc0NTU2NDYsLTE0MjY1MjY5
+MjMsLTY1MzY1MDc5MywxMjUxODYyNzI4LC04MzUzNDUxNTgsLT
+EyNDQxNTc4NDksLTc3NTE5MzczNiwxODY4NzkyNTc5LC0xODkx
+NDk5OTM3LDIwMDA1NDQxMjYsMzY3MTk2MTY2LC0yMTMyMDEzOD
+AzLC0zMTc3MDgwOTQsLTE2ODM5ODM4NjAsMTAxODUwNzQsLTI0
+Nzg4NzAxXX0=
 -->
