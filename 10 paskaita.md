@@ -458,16 +458,16 @@ Kas pirmiausia patraukia dėmesį?
 Kaip išdėstyti elementai (ar aišku, kas svarbiausia)?
 Kaip panaudotos spalvos ir šriftai?
 Kodėl vienas dizainas veikia geriau už kitą?
-- Nepamirškite įkelti 
+- Nepamirškite įkelti atsiskaitymui.
 
 Vertinimas: gebėjimas pastebėti hierarchiją, kontrastą, balansą ir dizaino tikslingumą.
 
-### 2 užduotis. Sukurkite spalvų paletę pagal 60 %, 30 %, 10 % ir ją ištestuokite.
+### 2 užduotis. Spalvų paletės kūrimas ir testavimas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTk2NTk0MDAsMTg2ODc5MjU3OSwtMT
-g5MTQ5OTkzNywyMDAwNTQ0MTI2LDM2NzE5NjE2NiwtMjEzMjAx
-MzgwMywtMzE3NzA4MDk0LC0xNjgzOTgzODYwLDEwMTg1MDc0LC
-0yNDc4ODcwMSwtOTkyNzcxMDE1LC0xMTc5NDY0MDE5LC04NDEx
-NTk3MzAsLTc3NTM1NDA1NCw1MzUxMjU0MTQsLTExMzExMDc3OD
-ZdfQ==
+eyJoaXN0b3J5IjpbLTMwMjY2MjQ5MCwxODY4NzkyNTc5LC0xOD
+kxNDk5OTM3LDIwMDA1NDQxMjYsMzY3MTk2MTY2LC0yMTMyMDEz
+ODAzLC0zMTc3MDgwOTQsLTE2ODM5ODM4NjAsMTAxODUwNzQsLT
+I0Nzg4NzAxLC05OTI3NzEwMTUsLTExNzk0NjQwMTksLTg0MTE1
+OTczMCwtNzc1MzU0MDU0LDUzNTEyNTQxNCwtMTEzMTEwNzc4Nl
+19
 -->
