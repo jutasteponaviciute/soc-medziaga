@@ -391,10 +391,21 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 - stiprina prekės ženklo vientisumą (vienodas stilius, kampų apvalumai, linijų storis, spalvos);
 - gerina skaitomumą (foninės formos po tekstu, skyrikliai, kontrastas).
 
-### Tipografijos klaidos, kurių verta vengti
+### Formų psichologija ir kada jas rinktis
+
+- **Apskritimai / elipsės** – draugiškumas, bendruomeniškumas, švelnumas.
+- Kvadratai / stačiakampiai – struktūra, stabilumas, profesionalumas. Naudokite kortelėms, kainų blokams, citatoms, turinio moduliniam išdėstymui.
+
+- Trikampiai / strėlės – kryptis, energija, dinamika.
+Tinka akiai vesti link CTA ar svarbios detalės (bet naudokite saikingai).
+
+Organinės, netaisyklingos formos – kūrybiškumas, žaismingumas, „šiuolaikinis“ jaunatviškas tonas.
+Naudokite kaip foninius akcentus, tačiau saugokite kontrastą su tekstu.
+
+Praktinis principas: forma turėtų tarnauti turiniui, o ne konkuruoti su juo. Jei forma užgožia tekstą ar nuotrauką – ji netinkamo dydžio, kontrasto arba vietos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMDk4NTg3NywtMzE3NzA4MDk0LC0xNj
-gzOTgzODYwLDEwMTg1MDc0LC0yNDc4ODcwMSwtOTkyNzcxMDE1
-LC0xMTc5NDY0MDE5LC04NDExNTk3MzAsLTc3NTM1NDA1NCw1Mz
-UxMjU0MTQsLTExMzExMDc3ODZdfQ==
+eyJoaXN0b3J5IjpbODEyNTEyMjQ3LC0zMTc3MDgwOTQsLTE2OD
+M5ODM4NjAsMTAxODUwNzQsLTI0Nzg4NzAxLC05OTI3NzEwMTUs
+LTExNzk0NjQwMTksLTg0MTE1OTczMCwtNzc1MzU0MDU0LDUzNT
+EyNTQxNCwtMTEzMTEwNzc4Nl19
 -->
