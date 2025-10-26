@@ -480,21 +480,14 @@ Sukurkite vieną paprastą dizainą (pvz., Instagram įrašą 1080×1350 px), ku
 kodėl pasirinkote tokias spalvas;
 ar kontrastas užtikrina aiškumą ir įskaitomumą.
 
-At
+Atsiskaitymui įkelkite išeksportuotą vizualą (PNG formatu) ir trumpą spalvų paletės aprašymą.
 
-išeksportuotą vizualą (PNG formatu);
-
-trumpą spalvų paletės aprašymą (su procentais).
-
-Vertinimas:
-
-spalvų derinimo logika;
-
+Vertinamas spalvų derinimo logika,
 aiškus 60/30/10 principo taikymas;
 
 pakankamas kontrastas ir įskaitomumas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjY3MjA4NSwxODY4NzkyNTc5LC0xOD
+eyJoaXN0b3J5IjpbMTY4MjkzNTM4MywxODY4NzkyNTc5LC0xOD
 kxNDk5OTM3LDIwMDA1NDQxMjYsMzY3MTk2MTY2LC0yMTMyMDEz
 ODAzLC0zMTc3MDgwOTQsLTE2ODM5ODM4NjAsMTAxODUwNzQsLT
 I0Nzg4NzAxLC05OTI3NzEwMTUsLTExNzk0NjQwMTksLTg0MTE1
