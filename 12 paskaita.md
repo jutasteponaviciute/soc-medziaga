@@ -102,9 +102,159 @@ Tai tarsi mini prezentacija ar istorija, kurią žmogus slenka į dešinę. Šis
 
 ### Karuselių rūšys
 
+**1. Edukacinė karuselė**
+Tikslas – paaiškinti, parodyti žingsnius arba pateikti vertingą informaciją paprastai.
 
+Tinka, kai norite:
+- dalintis patarimais, kaip kažką padaryti;
+- parodyti klaidas ar pamokas;
+- padėti auditorijai suprasti jūsų sritį.
+
+Struktūra:
+Pirmoji skaidrė – sustabdanti ir intriguojanti antraštė.
+Pvz.:
+„Vienas Canva įprotis, kuris gadina tavo vizualus“
+
+2–4 skaidrės – pagrindiniai punktai su aiškia mintimi kiekvienoje.
+
+Paskutinė skaidrė – apibendrinimas + CTA („Išsaugok, kad nepamirštum“, „Pritaikyk šiandien“).
+
+Vizualo patarimai:
+
+Naudok švarią struktūrą.
+
+Palaikyk aiškų kontrastą tarp teksto ir fono.
+
+Vienas dizaino principas – viena skaidrė.
+
+✨ 2. Įkvepianti (emocinė) karuselė
+
+Tikslas – sukurti emocinį ryšį su auditorija ir įkvėpti veikti.
+
+Tinka, kai norite:
+
+pasidalinti mintimis apie kūrybą, verslą, motyvaciją;
+
+sustiprinti prekės ženklo asmeniškumą;
+
+sukurti palaikančią atmosferą bendruomenėje.
+
+Struktūra:
+
+Pirmoji skaidrė – sakinys, kuris paliečia.
+Pvz.:
+
+„Tavo turinys vertas daugiau nei 10 laikų.“
+
+„Nereikia būti tobulu, kad būtum įdomus.“
+
+Vidurinės skaidrės – 2–3 emociniai punktai arba mintys su paprastais vaizdiniais.
+
+Paskutinė skaidrė – kvietimas reflektuoti arba pasidalinti („Kuri mintis labiausiai prilipo?“, „Išsaugok, jei priminė tave“).
+
+Vizualo patarimai:
+
+Daug baltos / tuščios erdvės.
+
+Minkštos spalvos iš Brand Kit.
+
+Dideli šriftai ir mažai teksto.
+
+💰 3. Pardaviminė karuselė
+
+Tikslas – pateikti pasiūlymą, parodyti vertę arba skatinti įsigyti.
+
+Tinka, kai norite:
+
+pristatyti naują produktą ar kursą;
+
+paaiškinti, ką žmogus gaus;
+
+pabrėžti vertę per aiškią struktūrą.
+
+Struktūra:
+
+Skaidrė 1 – dėmesį patraukianti antraštė.
+Pvz.:
+
+„Kai vizualai kalba už tave – pardavimai kalba patys.“
+
+„Šis įrankis sutaupys tau valandas (ir nervus).“
+
+Skaidrės 2–4 – trumpai pristatomi privalumai, savybės ar naudų punktai.
+
+Paskutinė skaidrė – aiškus CTA („Registruokis dabar“, „Pirk čia“, „Nuoroda profilyje“).
+
+Vizualo patarimai:
+
+Viena pagrindinė spalva + akcentas CTA mygtukui.
+
+Naudok produktų nuotraukas ar maketus.
+
+Tekstas trumpas, veikiantis, veiksmažodžiais.
+
+📖 4. Storytelling karuselė
+
+Tikslas – papasakoti istoriją arba parodyti procesą.
+
+Tinka, kai norite:
+
+parodyti užkulisius;
+
+pasidalinti savo ar kliento istorija;
+
+parodyti pokyčius („prieš ir po“).
+
+Struktūra:
+
+Skaidrė 1 – istorijos pradžia, kuri kelia smalsumą.
+Pvz.:
+
+„Kai pirmą kartą atsidariau Canvą – nežinojau net, nuo ko pradėt.“
+
+„Vienas projektas, kuris viską pakeitė.“
+
+Vidurinės skaidrės – trumpi sakiniai, emocijos, vaizdai.
+
+Paskutinė skaidrė – pamoka / išvada / CTA („Kokia tavo istorija?“).
+
+Vizualo patarimai:
+
+Galima naudoti perėjimus tarp skaidrių (pvz., nuotrauka tęsiasi per dvi skaidres).
+
+Mažiau teksto, daugiau vizualinio pasakojimo.
+
+Šiltos spalvos, natūralus tonas.
+
+🖼️ 5. Portfolio arba projekto karuselė
+
+Tikslas – parodyti savo darbus, procesą arba rezultatus.
+
+Tinka, kai norite:
+
+parodyti projektų pavyzdžius;
+
+pristatyti kliento sėkmės istoriją;
+
+parodyti, ką mokėte ar sukūrėte kursuose.
+
+Struktūra:
+
+Skaidrė 1 – projekto pavadinimas ar tema („Brand Kit pavyzdžiai iš mokymų“)
+
+Skaidrės 2–5 – darbų nuotraukos su trumpais paaiškinimais („Šriftų derinys“, „Spalvų paletė“, „Vizualinis tonas“)
+
+Paskutinė skaidrė – CTA („Norėtum panašaus dizaino?“, „Pasidalink savo rezultatu komentaruose“).
+
+Vizualo patarimai:
+
+Išlaikyk švarų foną, kad darbai išsiskirtų.
+
+Naudok vienodus rėmelius ar maketų stilių.
+
+Tegu dėmesys lieka ant turinio, ne ant dekoracijų.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3NTc4MDkwLC01MjM2MTE4MDQsMTg0Mz
-kwMzgzNCwxNDg0Njk2OTg2XX0=
+eyJoaXN0b3J5IjpbLTU0MzQ4NzYxNSw5NDc1NzgwOTAsLTUyMz
+YxMTgwNCwxODQzOTAzODM0LDE0ODQ2OTY5ODZdfQ==
 -->
