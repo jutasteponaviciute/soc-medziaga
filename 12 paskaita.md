@@ -130,31 +130,18 @@ Struktūra:
 Pvz.: „Tavo turinys vertas daugiau nei 10 širdelių.“, „Nereikia būti tobulu, kad būtum įdomus.“
 - 2 skaidrė: įvedanti skaidrė. Svarbu dėmesį skirti ne tik pirmai, bet ir antrai skaidrei, nes dažnai Instagram algoritmas įrašo rodymą naujienų sraute pradeda būtent nuo antros skaidrės.
 - Vidurinės skaidrės: 3–6 emociniai punktai arba mintys su paprastais vaizdiniais.
-- Paskutinė skaidrė – kvietimas reflektuoti arba pasidalinti („Kuri mintis labiausiai prilipo?“, „Išsaugok, jei priminė tave“).
+- Paskutinė skaidrė – kvietimas reflektuoti arba pasidalinti („Kuri mintis labiausiai patiko?“, „Pasidalink su draugu, kuriam reikia tai išgirsti“).
 
-Vizualo patarimai:
-
-Daug baltos / tuščios erdvės.
-
-Minkštos spalvos iš Brand Kit.
-
-Dideli šriftai ir mažai teksto.
-
-💰 3. Pardaviminė karuselė
-
+**3. Pardaviminė karuselė**
 Tikslas – pateikti pasiūlymą, parodyti vertę arba skatinti įsigyti.
 
 Tinka, kai norite:
-
-pristatyti naują produktą ar kursą;
-
-paaiškinti, ką žmogus gaus;
-
-pabrėžti vertę per aiškią struktūrą.
+- pristatyti naują produktą ar paslaugą;
+- paaiškinti, ką žmogus gaus;
+- pabrėžti vertę per aiškią struktūrą.
 
 Struktūra:
-
-Skaidrė 1 – dėmesį patraukianti antraštė.
+- Skaidrė 1 – dėmesį patraukianti antraštė.
 Pvz.:
 
 „Kai vizualai kalba už tave – pardavimai kalba patys.“
@@ -235,6 +222,6 @@ Naudok vienodus rėmelius ar maketų stilių.
 Tegu dėmesys lieka ant turinio, ne ant dekoracijų.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxMjY0NTA0LDk0NzU3ODA5MCwtNTIzNj
-ExODA0LDE4NDM5MDM4MzQsMTQ4NDY5Njk4Nl19
+eyJoaXN0b3J5IjpbLTczNjE3OTc2Myw5NDc1NzgwOTAsLTUyMz
+YxMTgwNCwxODQzOTAzODM0LDE0ODQ2OTY5ODZdfQ==
 -->
