@@ -26,12 +26,12 @@ Canva Brand Kit – tai įrankis, kuris leidžia visus vizualinius prekės ženk
 Jame galima:
 - įkelti logotipus;
 - sukurti spalvų paletes;
-pasirinkti arba įkelti šriftus antraštėms ir tekstui;
-įkelti nuotraukas, grafinius elementus, ikonografiją;
-apibrėžti „brand voice“ – tai, kaip vizualiai ir žodžiais kalba jūsų prekės ženklas.
+- pasirinkti arba įkelti šriftus antraštėms ir tekstui;
+- įkelti nuotraukas, grafinius elementus, ikonografiją;
+- apibrėžti „brand voice“.
 
 Viskas, ką čia susidėsite, vėliau atsiras automatiškai jūsų dizainuose. Taip galima užtikrinti, kad kiekvienas įrašas, karuselė ar istorija atrodys vienodai profesionaliai.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzYzMTUwOSwzNTUxNzIxMzIsNDg5ND
-U0NjUyLDE0OTg0NTQwMjcsMzEyOTQ5NTI3XX0=
+eyJoaXN0b3J5IjpbNDg1NzE5MDUwLDM1NTE3MjEzMiw0ODk0NT
+Q2NTIsMTQ5ODQ1NDAyNywzMTI5NDk1MjddfQ==
 -->
