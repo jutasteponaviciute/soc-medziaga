@@ -49,6 +49,18 @@ mygtuką, pavyzdžiui, „Noriu sužinoti daugiau!“;
 - Eksportuokite kaip PDF su aktyviomis nuorodomis.
 - Įkelkite į Google Drive ar Dropbox ir nustatykite prieigą „Anyone with the link can view“.
 
+## Kaip dalinti freebie socialiniuose tinkluose?
+
+Sukurkite įrašą ar Reels apie freebie. 
+
+Kvieskite auditoriją gauti jį:
+
+parašant žinutę su raktažodžiu (pvz., „noriu“);
+
+paspaudžiant nuorodą bio arba per ManyChat srautą.
+
+Pridėkite aiškų CTA (call to action) – ką žmogus turi padaryti, kad gautų freebie.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2MDgyNzQ0LC0yNDI3MzI4MzJdfQ==
+eyJoaXN0b3J5IjpbNDgwMTA5MzAwLC0yNDI3MzI4MzJdfQ==
 -->
