@@ -63,9 +63,19 @@ Ar tekstas įskaitomas skirtinguose dydžiuose?
 Ar šriftai deri tarpusavyje?
 - Jei turite savo šriftą, kurio nėra Canvoje, Canva leidžia jį įkelti paspaudus Upload font.
 
-### Šriftai
+### Brand Voice
+
+- Brand Voice Canva įrankyje skirtas apibrėžti prekės ženklo rašymo toną ir stilių. Čia galite nurodyti, kaip jūsų prekės ženklas turėtų skambėti tekstuose, tiek socialinių tinklų įrašuose, tiek reklamos antraštėse ar kitur.
+- Pavyzdžiui, galite aprašyti:
+ar tonas formal us ar laisvas,
+ar tekstai turi būti įkvepiantys, informatyvūs ar humoristiniai,
+kokius žodžius ar frazes vertėtų naudoti ar vengti.
+- Tai padeda Canva dirbtiniam intelektui kurti tekstus, kurie atitinka jūsų prekės ženklo stilių.
+
+Pastaba: šiuo metu ši funkcija geriausiai veikia anglų kalba – lietuvių kalbos Canva dar nepalaiko.
+Todėl aprašymą rekomenduojama rašyti angliškai, kad Canva galėtų tinkamai pritaikyti toną ir siūlyti atitinkamus tekstus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MjkxNzU2NywtNjA4NDc4MzMxLDEzOT
+eyJoaXN0b3J5IjpbMTU3NjY2OTQyNCwtNjA4NDc4MzMxLDEzOT
 cwMDY4NTMsNTY2Nzc1NTIzLC0xODIyMzU4NjMzLDM1NTE3MjEz
 Miw0ODk0NTQ2NTIsMTQ5ODQ1NDAyNywzMTI5NDk1MjddfQ==
 -->
