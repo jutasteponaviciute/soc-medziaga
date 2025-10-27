@@ -189,7 +189,6 @@ Spalvų reikšmė gali būti sudėtinga ir įvairialypė, o skirtingi atspalviai
 
 Žalia spalva, pavyzdžiui, dažnai asocijuojasi su gamta ir šviežumu, tačiau jos atspalviai gali turėti skirtingus niuansus: 
 - **Neoninė žalia** simbolizuoja energiją ir modernumą, puikiai tinkanti inovatyviems projektams ir jaunatviškai auditorijai.
-
 - **Šalavijo žalia** perteikia ramybę ir harmoniją, dažnai naudojama sveikatingumo ar ekologiškų prekės ženklų. 
 - **Tamsi miško žalia** asocijuojasi su stabilumu ir patikimumu, idealiai tinkanti prabangioms prekių ženklams, panašią žalią naudoja Rolex laikrodžiai.
 - **Laimo žalia** simbolizuoja gaivumą ir energiją, perteikdama pozityvumą ir šviežumą, puikiai tinka sveikatingumo srityje, kai tikslinė auditorija yra jaunimas.
@@ -585,11 +584,11 @@ Ar palaiko lietuviškas raides?
 
 Vertinamas logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2MTE1OTMwLC04MDQ5MjQ2NjcsMTE0Mz
-k2Mzg4LC02MDYzMTY0MDQsMjEyNzAxMjMxMCwxOTY0NTYwOTk3
-LDIwNzQ1NTY0NiwtMTQyNjUyNjkyMywtNjUzNjUwNzkzLDEyNT
-E4NjI3MjgsLTgzNTM0NTE1OCwtMTI0NDE1Nzg0OSwtNzc1MTkz
-NzM2LDE4Njg3OTI1NzksLTE4OTE0OTk5MzcsMjAwMDU0NDEyNi
-wzNjcxOTYxNjYsLTIxMzIwMTM4MDMsLTMxNzcwODA5NCwtMTY4
-Mzk4Mzg2MF19
+eyJoaXN0b3J5IjpbMTQwNjMwNzYyOCw1NjYxMTU5MzAsLTgwND
+kyNDY2NywxMTQzOTYzODgsLTYwNjMxNjQwNCwyMTI3MDEyMzEw
+LDE5NjQ1NjA5OTcsMjA3NDU1NjQ2LC0xNDI2NTI2OTIzLC02NT
+M2NTA3OTMsMTI1MTg2MjcyOCwtODM1MzQ1MTU4LC0xMjQ0MTU3
+ODQ5LC03NzUxOTM3MzYsMTg2ODc5MjU3OSwtMTg5MTQ5OTkzNy
+wyMDAwNTQ0MTI2LDM2NzE5NjE2NiwtMjEzMjAxMzgwMywtMzE3
+NzA4MDk0XX0=
 -->
