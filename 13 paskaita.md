@@ -51,6 +51,14 @@ mygtuką, pavyzdžiui, „Noriu sužinoti daugiau!“;
 - Eksportuokite kaip PDF su aktyviomis nuorodomis.
 - Įkelkite į Google Drive ar Dropbox ir nustatykite prieigą „Anyone with the link can view“.
 
+## Patarimai kuriant Freebie dizainą Canvoje
+
+- Naudokite aiškią struktūrą: viršelis → turinys → pagrindinė dalis → CTA.
+- Tekstai turi būti trumpi ir vertingi – ne išsami knyga, o sprendimas.
+- Išlaikykite vienodą vizualinį stilių pagal savo Brand Kit.
+- Įtraukite aktyvias nuorodas (Canva → Share → Download → PDF Standard → Include links).
+Įsitikinkite, kad failas pritaikytas mobiliesiems įrenginiams – dauguma žmonių jį atsidarys telefone.
+
 ## Kaip dalinti freebie socialiniuose tinkluose?
 
 - Sukurkite įrašą ar Reels apie freebie. Reels pavyzdys: https://www.instagram.com/p/DPYvQiDDI_w/ Karuselės pavyzdys: https://www.instagram.com/p/DIgBsXzNRCK/?img_index=1
@@ -66,7 +74,9 @@ Naudojant ManyChat, galite:
 - rinkti el. pašto adresus ar kontaktus;
 - nukreipti žmones į tinklalapį ar prenumeratą;
 - siųsti priminimus apie įvykius ar pasiūlymus.
+
+## Patarimai kuriant Freebie dizainą Canvoje
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjc1NDYwNzIsLTE5Njg1MjYwMDcsLT
+eyJoaXN0b3J5IjpbLTE5OTk4NTQ4NTEsLTE5Njg1MjYwMDcsLT
 I5MjMxODQyMCw0ODAxMDkzMDAsLTI0MjczMjgzMl19
 -->
