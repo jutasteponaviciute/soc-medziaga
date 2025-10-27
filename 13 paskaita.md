@@ -74,7 +74,9 @@ Naudojant ManyChat, galite:
 - rinkti el. pašto adresus ar kontaktus;
 - nukreipti žmones į tinklalapį ar prenumeratą;
 - siųsti priminimus apie įvykius ar pasiūlymus.
-- 
+
+
+![ManyChat IG automatizacija](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/13_paskaita/manychat%20IG%20automatizacija.avif)
 
 # Praktinės užduotys
 
@@ -84,7 +86,7 @@ Naudojant ManyChat, galite:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTY2MjYzMywtMTg4MzY5MjM4OCwtMT
-k2ODUyNjAwNywtMjkyMzE4NDIwLDQ4MDEwOTMwMCwtMjQyNzMy
-ODMyXX0=
+eyJoaXN0b3J5IjpbLTYzOTk1NDksLTE4ODM2OTIzODgsLTE5Nj
+g1MjYwMDcsLTI5MjMxODQyMCw0ODAxMDkzMDAsLTI0MjczMjgz
+Ml19
 -->
