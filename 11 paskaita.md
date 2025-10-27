@@ -41,6 +41,7 @@ Su Brand Kit pagalba, galima užtikrinti, kad kiekvienas turinio vienetas social
 - Savo logotipo ir jo alternatyvių versijų įkėlimas.
 - Canva leidžia įkelti PNG, JPG arba SVG failus.
 - **Rekomenduoju kelti SVG formatu,** nes tai vektorinis failas, kuris išlieka kokybiškas bet kokiame dydyje, jis nesusiliejęs ir nesipikseliuoja, kai logotipas didinamas ar mažinamas. Be to, SVG failas leidžia lengvai keisti spalvas Canvoje, išlaiko skaidrų foną ir kraunasi greičiau nei PNG ar JPG, todėl puikiai tinka tiek socialinių tinklų vizualams, tiek spausdintiems maketams.
+- 
 - Jei prekės ženklas dar neturi logotipo, galima sukurti laikiną žodinį variantą, naudojant pasirinktą šriftą arba jo neturėti visai.
 
 ### Spalvų paletė
@@ -124,10 +125,10 @@ Pastaba:
 
 Vertinami tvarkingai susisteminti elementai Brand Kit aplinkoje, aiškiai išlaikytas vizualinis nuoseklumas, gebėjimas logiškai parinkti spalvas, šriftus ir elementus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODI2MjI1NTMsMTY3NTE3MzA2Nyw4Mz
-IxMjg3MjgsMjY2NDU0Mjk3LDE0MzY4NDQ2NDEsMTEzNzg1MTA4
-OCwxNDI0OTEwNTE3LC0xMDI1MDU1NjMsMTA0MTkzMDc0MSw2Nj
-I3MTIwMTYsLTYwODQ3ODMzMSwxMzk3MDA2ODUzLDU2Njc3NTUy
-MywtMTgyMjM1ODYzMywzNTUxNzIxMzIsNDg5NDU0NjUyLDE0OT
-g0NTQwMjcsMzEyOTQ5NTI3XX0=
+eyJoaXN0b3J5IjpbLTE4NTY0NzIxNTgsLTE1ODI2MjI1NTMsMT
+Y3NTE3MzA2Nyw4MzIxMjg3MjgsMjY2NDU0Mjk3LDE0MzY4NDQ2
+NDEsMTEzNzg1MTA4OCwxNDI0OTEwNTE3LC0xMDI1MDU1NjMsMT
+A0MTkzMDc0MSw2NjI3MTIwMTYsLTYwODQ3ODMzMSwxMzk3MDA2
+ODUzLDU2Njc3NTUyMywtMTgyMjM1ODYzMywzNTUxNzIxMzIsND
+g5NDU0NjUyLDE0OTg0NTQwMjcsMzEyOTQ5NTI3XX0=
 -->
