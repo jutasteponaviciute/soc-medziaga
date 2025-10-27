@@ -72,11 +72,12 @@ Ką įtraukti:
 Trumpas, nuoširdus įvadas, kuris užmezga ryšį.
 
 Ką rašyti:
-Kuo šis gidas naudingas skaitytojui;
-Ką jis sužinos ar pasieks perskaitęs;
-Jei tinka, pridėk trumpą sakinį apie save ar prekės ženklą.
+- Kuo šis gidas naudingas skaitytojui;
+- Ką jis sužinos ar pasieks perskaitęs;
+- Jei tinka, pridėk trumpą sakinį apie save ar prekės ženklą.
 
-Pvz.: „Sveika! Džiaugiuosi, kad parsisiuntei šį gidą. Jame rasi 5 paprastus žingsnius, kurie padės tavo turiniui atrodyti profesionaliai net be dizaino žinių.“
+**3. Turinys** (jei dokumentas ilgesnis nei 4 psl.)
+Kai freebie turi daugiau nei kelis puslapius, pridėk trumpą turinį su aktyviomis nuorodomis (jei PDF interaktyvus).
 
 ## Patarimai kuriant Freebie dizainą Canvoje
 
@@ -136,8 +137,8 @@ aiškus CTA („komentuok žodį NORIU“).
 
 Vertinama, ar maketas/karuselė aiškiai perteikia pasiūlymą, išlaiko vizualinį nuoseklumą ir turi motyvuojantį kvietimą veikti (CTA).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU3MTk1NDksLTM1MjE3MzExMiw4OT
-MxNjgyMzIsLTEzMTMxODM2NSwtNDE0NzI2MTksLTE4ODM2OTIz
-ODgsLTE5Njg1MjYwMDcsLTI5MjMxODQyMCw0ODAxMDkzMDAsLT
-I0MjczMjgzMl19
+eyJoaXN0b3J5IjpbLTMyODU1Mjk0NywtMzUyMTczMTEyLDg5Mz
+E2ODIzMiwtMTMxMzE4MzY1LC00MTQ3MjYxOSwtMTg4MzY5MjM4
+OCwtMTk2ODUyNjAwNywtMjkyMzE4NDIwLDQ4MDEwOTMwMCwtMj
+QyNzMyODMyXX0=
 -->
