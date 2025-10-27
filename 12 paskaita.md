@@ -113,7 +113,7 @@ Tinka, kai norite:
 Struktūra:
 - 1 skaidrė: sustabdanti ir intriguojanti antraštė.
 Pvz.: „Kaip prastą dizainą Canvoje paversti į gerą?“
-- 2 skaidrė: įvedanti skaidrė (svarbu daugiau dėmesio atkreipti ne tik į 1 skaid)
+- 2 skaidrė: įvedanti skaidrė (svarbu daugiau dėmesio atkreipti ne tik į 1 skaidrę, bet ir į 2, nes dažnai Instagram algoritmas rodymą feed'e pradeda nuo antros skaidrės)
 - 3-5 skaidrės: pagrindiniai punktai su aiškia mintimi kiekvienoje.
 - Paskutinė skaidrė: apibendrinimas + CTA („Išsaugok, kad nepamirštum“, „Pritaikyk šiandien“).
 
@@ -253,6 +253,6 @@ Naudok vienodus rėmelius ar maketų stilių.
 Tegu dėmesys lieka ant turinio, ne ant dekoracijų.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTYxNTg1MCw5NDc1NzgwOTAsLTUyMz
-YxMTgwNCwxODQzOTAzODM0LDE0ODQ2OTY5ODZdfQ==
+eyJoaXN0b3J5IjpbLTE2Mzc3NTY2NTQsOTQ3NTc4MDkwLC01Mj
+M2MTE4MDQsMTg0MzkwMzgzNCwxNDg0Njk2OTg2XX0=
 -->
