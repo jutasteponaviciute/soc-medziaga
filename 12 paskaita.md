@@ -92,6 +92,8 @@ Instagram karuselė – tai įrašas, kuriame galima įkelti iki 20 skaidrių (n
 
 Tai tarsi mini prezentacija ar istorija, kurią žmogus slenka į dešinę. Šis formatas yra vienas veiksmingiausių būdų išlaikyti dėmesį ir pateikti daugiau vertės viename įraše.
 
+**Dydis: 1080×1350 px (4:5) Instagram įrašui.**
+
 ![Instagram carousel template](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/12_paskaita/Instagram%20carousel%20template.avif)
 
 ### Kodėl karuselės taip gerai veikia?
@@ -190,7 +192,14 @@ Change all fonts.
 Karuselės yra ne tik dizainas, bet ir turinio strategijos įrankis. Kurdami jas, mąstykite ne „ką noriu parodyti“, o „ką žmogus išsineš“.
 
 **Klausimas, kuris visada padeda:** „Jei žmogus pamatytų tik šitą karuselę, ar jis suprastų, ką noriu pasakyti?“
+
+
+### Prieš publikuojant visada patikrink:
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDQyMzQ4OSw5NDc1NzgwOTAsLTUyMz
-YxMTgwNCwxODQzOTAzODM0LDE0ODQ2OTY5ODZdfQ==
+eyJoaXN0b3J5IjpbNzQxMDM1OTE1LC01MDA0MjM0ODksOTQ3NT
+c4MDkwLC01MjM2MTE4MDQsMTg0MzkwMzgzNCwxNDg0Njk2OTg2
+XX0=
 -->
