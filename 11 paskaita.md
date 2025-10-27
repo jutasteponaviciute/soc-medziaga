@@ -85,10 +85,12 @@ foninius ornamentus ar tekstūras.
 
 ### Diagramos ir grafikai
 
-Šiuo metu Charts skiltis Brand Kit’e yra parengta būsimiems Canva atnaujinimams. Ji automatiškai naudoja jūsų spalvų paletę diagramoms, tačiau naujų stilių pridėti rankiniu būdu kol kas neleidžia. 
+Šiuo metu Charts skiltis Brand Kit’e yra parengta būsimiems Canva atnaujinimams. Ji automatiškai naudoja jūsų spalvų paletę diagramoms, tačiau naujų stilių pridėti rankiniu būdu kol kas neleidžia. (2025 m. spalio 27 d. informacija)
+
+### Patarimai, kuriant Brand Kit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODk5NjkxMCwxMDQxOTMwNzQxLDY2Mj
-cxMjAxNiwtNjA4NDc4MzMxLDEzOTcwMDY4NTMsNTY2Nzc1NTIz
-LC0xODIyMzU4NjMzLDM1NTE3MjEzMiw0ODk0NTQ2NTIsMTQ5OD
-Q1NDAyNywzMTI5NDk1MjddfQ==
+eyJoaXN0b3J5IjpbOTcwNDA3NDUsMTA0MTkzMDc0MSw2NjI3MT
+IwMTYsLTYwODQ3ODMzMSwxMzk3MDA2ODUzLDU2Njc3NTUyMywt
+MTgyMjM1ODYzMywzNTUxNzIxMzIsNDg5NDU0NjUyLDE0OTg0NT
+QwMjcsMzEyOTQ5NTI3XX0=
 -->
