@@ -87,14 +87,27 @@ foninius ornamentus ar tekstūras.
 
 Šiuo metu Charts skiltis Brand Kit’e yra parengta būsimiems Canva atnaujinimams. Ji automatiškai naudoja jūsų spalvų paletę diagramoms, tačiau naujų stilių pridėti rankiniu būdu kol kas neleidžia. (2025 m. spalio 27 d. informacija)
 
-### Patarimai, kuriant Brand Kit
+### Patarimai kuriant vizualinį identitetą
 
-- Venkite atsitiktinių elementų, viskas turi atspindėti jūsų stilių.
-- Patikrinkite kontrastą tarp spalvų, kad tekstai būtų įskaitomi.
-- Sukurkite mini stiliaus gidą Canvos dokumente, su pavyzdžiais, kaip atrodo jūsų spalvos, šriftai ir akcentai kartu.
+- Aiškiai apibrėžkite prekės ženklo esmę.
+Prieš pradėdami kurti spalvų paletę ar šriftų derinius, atsakykite sau: ką noriu, kad žmonės pajustų, kai pamato mano vizualus? Ar tai profesionalumas, kūrybiškumas, jaukumas ar kita? Ši emocija turi atsispindėti kiekviename dizaino sprendime.
+
+- Pasirinkite vieną kryptį ir jos laikykitės. Vizualinis identitetas veikia tada, kai jis nuoseklus. Nesiblaškykite tarp stilių. 
+- Spalvų paletė turi turėti struktūrą. Naudokite 3–5 spalvas pagal principą 60 % – pagrindinė, 30 % – papildoma, 10 % – akcentinė.
+Tokiu būdu dizainas atrodo vientisas ir subalansuotas.
+
+Šriftai kuria toną.
+Naudokite 2–3 šriftus, kurie dera tarpusavyje. Vienas pagrindinis (antraštėms), antras – tekstui, o trečias (nebūtinas) – akcentams ar specialiems projektams.
+
+Išlaikykite vientisumą visur.
+Tos pačios spalvos, šriftai ir stilius turi būti taikomi visose platformose – nuo socialinių tinklų įrašų iki naujienlaiškių ir pristatymų.
+
+Nepamirškite emocijos.
+Vizualinis identitetas – ne tik taisyklės. Jis turi „jaustis“. Ar jūsų dizainas įkvepia, ramina, skatina veikti ar sukelia smalsumą?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDkxMDUxNywtMTAyNTA1NTYzLDEwND
-E5MzA3NDEsNjYyNzEyMDE2LC02MDg0NzgzMzEsMTM5NzAwNjg1
-Myw1NjY3NzU1MjMsLTE4MjIzNTg2MzMsMzU1MTcyMTMyLDQ4OT
-Q1NDY1MiwxNDk4NDU0MDI3LDMxMjk0OTUyN119
+eyJoaXN0b3J5IjpbLTQxNTc0NzI5MywxNDI0OTEwNTE3LC0xMD
+I1MDU1NjMsMTA0MTkzMDc0MSw2NjI3MTIwMTYsLTYwODQ3ODMz
+MSwxMzk3MDA2ODUzLDU2Njc3NTUyMywtMTgyMjM1ODYzMywzNT
+UxNzIxMzIsNDg5NDU0NjUyLDE0OTg0NTQwMjcsMzEyOTQ5NTI3
+XX0=
 -->
