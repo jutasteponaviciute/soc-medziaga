@@ -58,6 +58,8 @@ mygtuką, pavyzdžiui, „Noriu sužinoti daugiau!“;
 - Eksportuokite kaip PDF su aktyviomis nuorodomis.
 - Įkelkite į Google Drive ar Dropbox ir nustatykite prieigą „Anyone with the link can view“.
 
+## PDF gido (freebie) struktūra
+
 ## Patarimai kuriant Freebie dizainą Canvoje
 
 - Naudokite aiškią struktūrą: viršelis → turinys → pagrindinė dalis → CTA.
@@ -116,8 +118,8 @@ aiškus CTA („komentuok žodį NORIU“).
 
 Vertinama, ar maketas/karuselė aiškiai perteikia pasiūlymą, išlaiko vizualinį nuoseklumą ir turi motyvuojantį kvietimą veikti (CTA).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5Mzg3ODMwLC0zNTIxNzMxMTIsODkzMT
-Y4MjMyLC0xMzEzMTgzNjUsLTQxNDcyNjE5LC0xODgzNjkyMzg4
-LC0xOTY4NTI2MDA3LC0yOTIzMTg0MjAsNDgwMTA5MzAwLC0yND
-I3MzI4MzJdfQ==
+eyJoaXN0b3J5IjpbLTExNTUzMjE0ODksLTM1MjE3MzExMiw4OT
+MxNjgyMzIsLTEzMTMxODM2NSwtNDE0NzI2MTksLTE4ODM2OTIz
+ODgsLTE5Njg1MjYwMDcsLTI5MjMxODQyMCw0ODAxMDkzMDAsLT
+I0MjczMjgzMl19
 -->
