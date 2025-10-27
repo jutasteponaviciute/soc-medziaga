@@ -101,17 +101,9 @@ Prieš pradėdami kurti spalvų paletę ar šriftų derinius, atsakykite sau: k�
 
 - Nepamirškite emocijos. Vizualinis identitetas – ne tik taisyklės. Jis turi kuri jausmą. Ar jūsų dizainas įkvepia, ramina, skatina veikti ar sukelia smalsumą?
 
-### Patarimai kuriant Canva Brand Kit
-
-- Įkelkite logotipą SVG formatu. Rekomenduojama naudoti SVG, nes jis išlieka ryškus bet kokiame dydyje, nepraranda kokybės ir leidžia keisti spalvas, jei reikia.
-
-- Naudokite tą patį vaizdų stilių. Jei įkeliat nuotraukas ar iliustracijas į Brand Kit, pasirinkite vientisą estetiką.
-
-- Patikrinkite viską dizaino pavyzdyje. Sukurkite 1–2 pavyzdinius vizualus (pvz., Instagram įrašą ir karuselę) naudodami tik Brand Kit elementus. Taip pamatysite, ar spalvos, šriftai ir nuotraukos dera tarpusavyje realiame kontekste.
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTMwMTQ0NywxNDI0OTEwNTE3LC0xMD
+eyJoaXN0b3J5IjpbMTEzNzg1MTA4OCwxNDI0OTEwNTE3LC0xMD
 I1MDU1NjMsMTA0MTkzMDc0MSw2NjI3MTIwMTYsLTYwODQ3ODMz
 MSwxMzk3MDA2ODUzLDU2Njc3NTUyMywtMTgyMjM1ODYzMywzNT
 UxNzIxMzIsNDg5NDU0NjUyLDE0OTg0NTQwMjcsMzEyOTQ5NTI3
