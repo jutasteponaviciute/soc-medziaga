@@ -21,7 +21,8 @@ Trumpai tariant, nuoseklumas kuria tapatybę. Jis padeda auditorijai jus pažint
 
 ## Kas yra Canva Brand Kit ir kam jis reikalingas?
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1MTcyMTMyLDQ4OTQ1NDY1MiwxNDk4ND
-U0MDI3LDMxMjk0OTUyN119
+eyJoaXN0b3J5IjpbLTI0MzM3OTExOCwzNTUxNzIxMzIsNDg5ND
+U0NjUyLDE0OTg0NTQwMjcsMzEyOTQ5NTI3XX0=
 -->
