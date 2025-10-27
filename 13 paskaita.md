@@ -51,17 +51,10 @@ mygtuką, pavyzdžiui, „Noriu sužinoti daugiau!“;
 
 ## Kaip dalinti freebie socialiniuose tinkluose?
 
-Sukurkite įrašą ar Reels apie freebie. Reels pavyzdys: https://www.instagram.com/p/DPYvQiDDI_w/ Karuselės pavyzdys: https://www.instagram.com/p/DIgBsXzNRCK/?img_index=1
+- Sukurkite įrašą ar Reels apie freebie. Reels pavyzdys: https://www.instagram.com/p/DPYvQiDDI_w/ Karuselės pavyzdys: https://www.instagram.com/p/DIgBsXzNRCK/?img_index=1
 
-Kvieskite auditoriją gauti jį:
-
-parašant žinutę su raktažodžiu (pvz., „noriu“);
-
-paspaudžiant nuorodą bio arba per ManyChat srautą.
-
-Pridėkite aiškų CTA (call to action) – ką žmogus turi padaryti, kad gautų freebie.
-
+- Pridėkite aiškų CTA (call to action) – ką žmogus turi padaryti, kad gautų freebie.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI4MDIwOTgsNDgwMTA5MzAwLC0yND
+eyJoaXN0b3J5IjpbLTE2MjYwNDI4MzgsNDgwMTA5MzAwLC0yND
 I3MzI4MzJdfQ==
 -->
