@@ -27,6 +27,14 @@ Tai viena efektyviausių strategijų, leidžiančių auditorijai susipažinti su
 - Dovanėlės renginių metu
 - Atributika (pvz., lipdukai, atvirukai)
 
+## Kas yra Freebie ir kam jis reikalingas?
+
+- Padeda auginti auditoriją socialiniuose tinkluose.
+- Padeda rinkti el. pašto adresus naujienlaiškiams.
+- Parodo jūsų kompetenciją ir vertę prieš pardavimą.
+- Leidžia segmentuoti auditoriją pagal interesus.
+- Skatina organinius pasidalinimus.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDgyNjI1NDEsLTI0MjczMjgzMl19
+eyJoaXN0b3J5IjpbLTQ5ODI4NjUwMywtMjQyNzMyODMyXX0=
 -->
