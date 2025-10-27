@@ -105,30 +105,15 @@ Prieš pradėdami kurti spalvų paletę ar šriftų derinius, atsakykite sau: k�
 
 - Įkelkite logotipą SVG formatu. Rekomenduojama naudoti SVG, nes jis išlieka ryškus bet kokiame dydyje, nepraranda kokybės ir leidžia keisti spalvas, jei reikia.
 
-Tvarkingai susidėliokite šriftus.
-Canva Brand Kit leidžia įkelti daugiau nei tris šriftus – rekomenduojama naudoti tik tiek, kiek realiai reikia (pvz., Title – pagrindinis, Heading – antrinis, Body – tekstui).
-Lietuvių kalba šiuo metu veikia ribotai – todėl pavadinimus geriausia rašyti anglų kalba, o tekstus kurti anglų kalbos šriftuose.
+- Naudokite tą patį vaizdų stilių. Jei įkeliat nuotraukas ar iliustracijas į Brand Kit, pasirinkite vientisą estetiką.
 
-Naudokite tą patį vaizdų stilių.
-Jei įkeliat nuotraukas ar iliustracijas į Brand Kit, pasirinkite vientisą estetiką – pvz., šviesias, natūralių tonų ar kontrastingas, su aiškiu apšvietimu.
+- Patikrinkite viską dizaino pavyzdyje. Sukurkite 1–2 pavyzdinius vizualus (pvz., Instagram įrašą ir karuselę) naudodami tik Brand Kit elementus. Taip pamatysite, ar spalvos, šriftai ir nuotraukos dera tarpusavyje realiame kontekste.
 
-Papildykite „Brand voice“ skiltį.
-Trumpai aprašykite, kokiu tonu bendrauja jūsų prekės ženklas. Pvz.:
 
-Friendly, optimistic, and clear
-
-Confident, minimal, and professional
-Tai padės Canva AI geriau pritaikyti toną, kai naudosite dirbtinio intelekto tekstų kūrimo įrankius.
-
-Patikrinkite viską dizaino pavyzdyje.
-Sukurkite 1–2 pavyzdinius vizualus (pvz., Instagram įrašą ir karuselę) naudodami tik Brand Kit elementus. Taip pamatysite, ar spalvos, šriftai ir nuotraukos dera tarpusavyje realiame kontekste.
-
-Atnaujinkite kas kelis mėnesius.
-Prekės ženklas vystosi – todėl verta kas 3–6 mėn. peržiūrėti Brand Kit ir pakoreguoti detales (pvz., papildyti akcentinę spalvą ar atnaujinti nuotraukų stilių).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTExNjY0NDEsMTQyNDkxMDUxNywtMT
-AyNTA1NTYzLDEwNDE5MzA3NDEsNjYyNzEyMDE2LC02MDg0Nzgz
-MzEsMTM5NzAwNjg1Myw1NjY3NzU1MjMsLTE4MjIzNTg2MzMsMz
-U1MTcyMTMyLDQ4OTQ1NDY1MiwxNDk4NDU0MDI3LDMxMjk0OTUy
-N119
+eyJoaXN0b3J5IjpbLTYzNTMwMTQ0NywxNDI0OTEwNTE3LC0xMD
+I1MDU1NjMsMTA0MTkzMDc0MSw2NjI3MTIwMTYsLTYwODQ3ODMz
+MSwxMzk3MDA2ODUzLDU2Njc3NTUyMywtMTgyMjM1ODYzMywzNT
+UxNzIxMzIsNDg5NDU0NjUyLDE0OTg0NTQwMjcsMzEyOTQ5NTI3
+XX0=
 -->
