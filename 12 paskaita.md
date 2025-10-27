@@ -215,9 +215,8 @@ Karuselių pavyzdžiai:
 
 Tikslas: i šmokti atpažinti, kas daro karuselę veiksmingą arba neveiksmingą – nuo struktūros ir dizaino iki turinio aiškumo bei emocinio poveikio.
 
-### **Užduotis**
-
-1.  Nueikite į **Instagram** ir pasirinkite **vieną karuselę** – ji gali būti **gera arba prasta**, svarbu, kad jums keltų reakciją (patinka arba erzina).
+Užduotis:
+- Nueikite į Instagramnir pasirinkite vieną karuselę – ji gali būti gera arba arba nelabai pavykusi, svarbu, kad jums keltų reakciją (patinka arba erzina).
     
 2.  **Padarykite ekrano nuotrauką** arba nukopijuokite įrašo **nuorodą**.
     
@@ -274,7 +273,7 @@ Tikslas: i šmokti atpažinti, kas daro karuselę veiksmingą arba neveiksmingą
 Vertinama, ar studentas geba pagrįstai įvertinti karuselės struktūrą, dizaino sprendimus ir komunikacijos aiškumą, remdamasis konkrečiais pavyzdžiais.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjM0MjUzNiwtMTQ1OTY3MjU1NywzOT
-I4NzkzOTUsMTE2MjExMzI4NSwtNTAwNDIzNDg5LDk0NzU3ODA5
-MCwtNTIzNjExODA0LDE4NDM5MDM4MzQsMTQ4NDY5Njk4Nl19
+eyJoaXN0b3J5IjpbNjM2MTEyODM4LC0xNDU5NjcyNTU3LDM5Mj
+g3OTM5NSwxMTYyMTEzMjg1LC01MDA0MjM0ODksOTQ3NTc4MDkw
+LC01MjM2MTE4MDQsMTg0MzkwMzgzNCwxNDg0Njk2OTg2XX0=
 -->
