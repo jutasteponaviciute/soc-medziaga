@@ -51,8 +51,18 @@ Su Brand Kit pagalba, galima užtikrinti, kad kiekvienas turinio vienetas social
 - Canva leidžia įvesti spalvas pagal HEX kodus (pvz., #6f645c) arba CMYK kodus (pvz., 0,10,17,56 )
 
 ### Šriftai
+
+- Canva Brand Kit leidžia išsaugoti kelis šriftus skirtingiems tikslams: antraštėms, pagrindiniam tekstui, paantraštėms, citatoms ar užrašams.
+- Rekomenduoju naudoti 2–3 skirtingus šriftus:
+vieną antraštėms,
+vieną pagrindiniam tekstui,
+ir, jei norisi, vieną akcentams (pvz., citatoms).
+- Prieš įtraukiant šriftą į Brand Kit, patikrinkite:
+Ar jis turi lietuviškas raides ir skyrybos ženklus?
+Ar tekstas įskaitomas skirtinguose dydžiuose?
+Ar šriftai deri tarpusavyje?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzAwNjg1Myw1NjY3NzU1MjMsLTE4Mj
-IzNTg2MzMsMzU1MTcyMTMyLDQ4OTQ1NDY1MiwxNDk4NDU0MDI3
-LDMxMjk0OTUyN119
+eyJoaXN0b3J5IjpbLTcwNDIxNzI3NSwxMzk3MDA2ODUzLDU2Nj
+c3NTUyMywtMTgyMjM1ODYzMywzNTUxNzIxMzIsNDg5NDU0NjUy
+LDE0OTg0NTQwMjcsMzEyOTQ5NTI3XX0=
 -->
