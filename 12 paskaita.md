@@ -203,8 +203,9 @@ Karuselės yra ne tik dizainas, bet ir turinio strategijos įrankis. Kurdami jas
 - Ar išmatavimai yra 1080×1350?
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MjExMzI4NSwtNTAwNDIzNDg5LDk0Nz
-U3ODA5MCwtNTIzNjExODA0LDE4NDM5MDM4MzQsMTQ4NDY5Njk4
-Nl19
+eyJoaXN0b3J5IjpbMjEzMjk1NTYzNSwxMTYyMTEzMjg1LC01MD
+A0MjM0ODksOTQ3NTc4MDkwLC01MjM2MTE4MDQsMTg0MzkwMzgz
+NCwxNDg0Njk2OTg2XX0=
 -->
