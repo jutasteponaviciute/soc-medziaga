@@ -82,7 +82,8 @@ Naudojant ManyChat, galite:
 - nukreipti žmones į tinklalapį ar prenumeratą;
 - siųsti priminimus apie įvykius ar pasiūlymus.
 
-
+Viena iš dažniausiai naudojamų automatizacijų yra **Auto-DM links from comments**.
+Šią automatizaciją dažnai galima pamatyti Instagram platformoje, kai kūrėjas mainais už naudingą resursą prašo pakomentuoti tam tikrą žodį. Palikus tą žodį komentare, netrukus gaunama privati žinutė su nuoroda į žadėtą resursą.
 
 ![ManyChat IG automatizacija](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/13_paskaita/manychat%20IG%20automatizacija.avif)
 
@@ -115,7 +116,8 @@ aiškus CTA („komentuok žodį NORIU“).
 
 Vertinama, ar maketas/karuselė aiškiai perteikia pasiūlymą, išlaiko vizualinį nuoseklumą ir turi motyvuojantį kvietimą veikti (CTA).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MjE3MzExMiw4OTMxNjgyMzIsLTEzMT
-MxODM2NSwtNDE0NzI2MTksLTE4ODM2OTIzODgsLTE5Njg1MjYw
-MDcsLTI5MjMxODQyMCw0ODAxMDkzMDAsLTI0MjczMjgzMl19
+eyJoaXN0b3J5IjpbNjU5Mzg3ODMwLC0zNTIxNzMxMTIsODkzMT
+Y4MjMyLC0xMzEzMTgzNjUsLTQxNDcyNjE5LC0xODgzNjkyMzg4
+LC0xOTY4NTI2MDA3LC0yOTIzMTg0MjAsNDgwMTA5MzAwLC0yND
+I3MzI4MzJdfQ==
 -->
