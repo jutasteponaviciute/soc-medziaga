@@ -95,6 +95,8 @@ Tai tarsi mini prezentacija ar istorija, kurią žmogus slenka į dešinę. Šis
 ![Instagram carousel template](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/12_paskaita/Instagram%20carousel%20template.avif)
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MzkwMzgzNCwxNDg0Njk2OTg2XX0=
+eyJoaXN0b3J5IjpbMjAzNjc2OTM2LDE4NDM5MDM4MzQsMTQ4ND
+Y5Njk4Nl19
 -->
