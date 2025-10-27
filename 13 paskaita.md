@@ -57,7 +57,14 @@ mygtuką, pavyzdžiui, „Noriu sužinoti daugiau!“;
 
 ## Automatizacija su ManyChat
 
+ManyChat – tai įrankis, leidžiantis automatizuoti bendravimą su sekėjais Instagram, TikTok, Messenger, WhatsApp, Telegram ar el. paštu.
+
+Naudojant ManyChat, galite:
+- dalinti freebie automatiškai po komentaro ar žinutės;
+- rinkti el. pašto adresus ar kontaktus;
+- nukreipti žmones į tinklalapį ar prenumeratą;
+- siųsti priminimus apie įvykius ar pasiūlymus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDgwMDMxMSw0ODAxMDkzMDAsLTI0Mj
+eyJoaXN0b3J5IjpbLTI5MjMxODQyMCw0ODAxMDkzMDAsLTI0Mj
 czMjgzMl19
 -->
