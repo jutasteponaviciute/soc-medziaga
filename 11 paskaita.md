@@ -128,12 +128,12 @@ Pastaba:
 Vertinami tvarkingai susisteminti elementai Brand Kit aplinkoje, aiškiai išlaikytas vizualinis nuoseklumas, gebėjimas logiškai parinkti spalvas, šriftus ir elementus.
 
 Naudinga nuoroda: https://www.youtube.com/watch?v=W9iG20uB7IY 
-Dar nėra apžvalgų su naujausiais Canva Brand Kit atnaujintais, bet ši 
+Dar nėra apžvalgų su naujausiais Canva Brand Kit atnaujintais, bet iš šios galima suprasti esmę.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTAyMjYwNSwtMTU4MjYyMjU1MywxNj
-c1MTczMDY3LDgzMjEyODcyOCwyNjY0NTQyOTcsMTQzNjg0NDY0
-MSwxMTM3ODUxMDg4LDE0MjQ5MTA1MTcsLTEwMjUwNTU2MywxMD
-QxOTMwNzQxLDY2MjcxMjAxNiwtNjA4NDc4MzMxLDEzOTcwMDY4
-NTMsNTY2Nzc1NTIzLC0xODIyMzU4NjMzLDM1NTE3MjEzMiw0OD
-k0NTQ2NTIsMTQ5ODQ1NDAyNywzMTI5NDk1MjddfQ==
+eyJoaXN0b3J5IjpbMjUyNzA2MzMzLC0xNTgyNjIyNTUzLDE2Nz
+UxNzMwNjcsODMyMTI4NzI4LDI2NjQ1NDI5NywxNDM2ODQ0NjQx
+LDExMzc4NTEwODgsMTQyNDkxMDUxNywtMTAyNTA1NTYzLDEwND
+E5MzA3NDEsNjYyNzEyMDE2LC02MDg0NzgzMzEsMTM5NzAwNjg1
+Myw1NjY3NzU1MjMsLTE4MjIzNTg2MzMsMzU1MTcyMTMyLDQ4OT
+Q1NDY1MiwxNDk4NDU0MDI3LDMxMjk0OTUyN119
 -->
