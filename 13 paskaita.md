@@ -42,7 +42,7 @@ Pavyzdys:
 
 ![Freebie kūrimo sekos pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/13_paskaita/Freebie%20k%C5%ABrimo%20sekos%20pavyzdys.avif)
 
-Jei nerenkate naujienlaiškių prenumeratorių, galima praleisti naujienlaišk
+!!! Jei nerenkate naujienlaiškių prenumeratorių, galima praleisti naujienlaiškio automatizacijos dalį.
 
 ## Kaip susikurti freebie su Canva?
 
@@ -82,6 +82,8 @@ Naudojant ManyChat, galite:
 - nukreipti žmones į tinklalapį ar prenumeratą;
 - siųsti priminimus apie įvykius ar pasiūlymus.
 
+
+
 ![ManyChat IG automatizacija](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/13_paskaita/manychat%20IG%20automatizacija.avif)
 
 # Praktinės užduotys
@@ -113,7 +115,7 @@ aiškus CTA („komentuok žodį NORIU“).
 
 Vertinama, ar maketas/karuselė aiškiai perteikia pasiūlymą, išlaiko vizualinį nuoseklumą ir turi motyvuojantį kvietimą veikti (CTA).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzMTY4MjMyLC0xMzEzMTgzNjUsLTQxND
-cyNjE5LC0xODgzNjkyMzg4LC0xOTY4NTI2MDA3LC0yOTIzMTg0
-MjAsNDgwMTA5MzAwLC0yNDI3MzI4MzJdfQ==
+eyJoaXN0b3J5IjpbLTM1MjE3MzExMiw4OTMxNjgyMzIsLTEzMT
+MxODM2NSwtNDE0NzI2MTksLTE4ODM2OTIzODgsLTE5Njg1MjYw
+MDcsLTI5MjMxODQyMCw0ODAxMDkzMDAsLTI0MjczMjgzMl19
 -->
