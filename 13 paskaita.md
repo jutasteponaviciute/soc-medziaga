@@ -74,6 +74,7 @@ Naudojant ManyChat, galite:
 - rinkti el. pašto adresus ar kontaktus;
 - nukreipti žmones į tinklalapį ar prenumeratą;
 - siųsti priminimus apie įvykius ar pasiūlymus.
+- 
 
 # Praktinės užduotys
 
@@ -83,6 +84,7 @@ Naudojant ManyChat, galite:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODM2OTIzODgsLTE5Njg1MjYwMDcsLT
-I5MjMxODQyMCw0ODAxMDkzMDAsLTI0MjczMjgzMl19
+eyJoaXN0b3J5IjpbLTc2NTY2MjYzMywtMTg4MzY5MjM4OCwtMT
+k2ODUyNjAwNywtMjkyMzE4NDIwLDQ4MDEwOTMwMCwtMjQyNzMy
+ODMyXX0=
 -->
