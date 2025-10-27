@@ -94,9 +94,14 @@ Tai tarsi mini prezentacija ar istorija, kurią žmogus slenka į dešinę. Šis
 
 ![Instagram carousel template](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/12_paskaita/Instagram%20carousel%20template.avif)
 
+### Kodėl karuselės taip gerai veikia?
+
+- Žmogus praleidžia daugiau laiko prie įrašo, todėl tai signalas algoritmui, kad turinys įdomus.
+- Informacija pateikiama aiškiai ir dozuotai. Viena mintis vienoje skaidrėje, tai padeda išlaikyti dėmesį.
+- Puikus būdas kurti pasakojimą (storytelling). Galima vesti žmogų per kelis etapus – nuo problemos iki sprendimo ar nuo idėjos iki veiksmo.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjc2OTM2LDE4NDM5MDM4MzQsMTQ4ND
-Y5Njk4Nl19
+eyJoaXN0b3J5IjpbLTUyMzYxMTgwNCwxODQzOTAzODM0LDE0OD
+Q2OTY5ODZdfQ==
 -->
