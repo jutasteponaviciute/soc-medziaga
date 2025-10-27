@@ -49,8 +49,10 @@ Su Brand Kit pagalba, galima užtikrinti, kad kiekvienas turinio vienetas social
 **30 % – antrinė spalva** (tekstams, papildymams);
 **10 % – akcentinė spalva** (raginimams veikti, mygtukams, svarbioms detalėms).
 - Canva leidžia įvesti spalvas pagal HEX kodus (pvz., #6f645c) arba CMYK kodus (pvz., 0,10,17,56 )
+
+### Šriftai
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2Nzc1NTIzLC0xODIyMzU4NjMzLDM1NT
-E3MjEzMiw0ODk0NTQ2NTIsMTQ5ODQ1NDAyNywzMTI5NDk1Mjdd
-fQ==
+eyJoaXN0b3J5IjpbMTM5NzAwNjg1Myw1NjY3NzU1MjMsLTE4Mj
+IzNTg2MzMsMzU1MTcyMTMyLDQ4OTQ1NDY1MiwxNDk4NDU0MDI3
+LDMxMjk0OTUyN119
 -->
