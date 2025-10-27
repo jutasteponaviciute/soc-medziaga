@@ -202,10 +202,21 @@ Karuselės yra ne tik dizainas, bet ir turinio strategijos įrankis. Kurdami jas
 - Ar tekstas įskaitomas telefone?
 - Ar išmatavimai yra 1080×1350?
 
+Karuselių pavyzdžiai:
+https://www.instagram.com/p/DNXq8BNMPZC/?igsh=MXQ4Z3R2ZHR6eTI1cQ%3D%3D
+
+https://www.instagram.com/p/DO8Q3LPCjPv/?igsh=MTBwZTh6MGRsZHo4dg%3D%3D
+
+https://www.instagram.com/p/DBLh-pYOucB/?igsh=MWZudGdpZTcyMWR6bg%3D%3D
+
+https://www.instagram.com/p/DIHKXqUIdLY/?igsh=MXhsazY5eTR6YW5oYg%3D%3D
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjk1NTYzNSwxMTYyMTEzMjg1LC01MD
+eyJoaXN0b3J5IjpbMjA1MDgyNjMzMSwxMTYyMTEzMjg1LC01MD
 A0MjM0ODksOTQ3NTc4MDkwLC01MjM2MTE4MDQsMTg0MzkwMzgz
 NCwxNDg0Njk2OTg2XX0=
 -->
