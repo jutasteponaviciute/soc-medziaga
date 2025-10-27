@@ -82,8 +82,10 @@ iliustracijas;
 piktogramas (ikonėles);
 foninius ornamentus ar tekstūras.
 - **Svarbu,** kad šie elementai būtų stilistiškai vientisi, vienodas spalvų tonas, linijų storis ir pan.
+
+### Diagramos ir grafikai
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDA4NzQwMCw2NjI3MTIwMTYsLTYwOD
+eyJoaXN0b3J5IjpbMTA0MTkzMDc0MSw2NjI3MTIwMTYsLTYwOD
 Q3ODMzMSwxMzk3MDA2ODUzLDU2Njc3NTUyMywtMTgyMjM1ODYz
 MywzNTUxNzIxMzIsNDg5NDU0NjUyLDE0OTg0NTQwMjcsMzEyOT
 Q5NTI3XX0=
