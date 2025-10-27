@@ -148,29 +148,19 @@ Pvz.: „Šis įrankis sutaupys tau valandas (ir nervus).“
 - Paskutinė skaidrė: aiškus CTA („Registruokis dabar“, „Pirk čia“, „Nuoroda profilyje“).
 
  **4. Storytelling karuselė**
-
 Tikslas – papasakoti istoriją arba parodyti procesą.
 
 Tinka, kai norite:
-
-parodyti užkulisius;
-
-pasidalinti savo ar kliento istorija;
-
-parodyti pokyčius („prieš ir po“).
+- parodyti užkulisius;
+- pasidalinti savo ar kliento istorija;
+- parodyti pokyčius („prieš ir po“).
 
 Struktūra:
-
-Skaidrė 1 – istorijos pradžia, kuri kelia smalsumą.
-Pvz.:
-
-„Kai pirmą kartą atsidariau Canvą – nežinojau net, nuo ko pradėt.“
-
-„Vienas projektas, kuris viską pakeitė.“
-
-Vidurinės skaidrės – trumpi sakiniai, emocijos, vaizdai.
-
-Paskutinė skaidrė – pamoka / išvada / CTA („Kokia tavo istorija?“).
+- 1 skaidrė: istorijos pradžia, kuri kelia smalsumą.
+Pvz.: „Vienas projektas, kuris viską pakeitė.“
+- 2 skaidrė: įvedanti skaidrė. Svarbu dėmesį skirti ne tik pirmai, bet ir antrai skaidrei, nes dažnai Instagram algoritmas įrašo rodymą naujienų sraute pradeda būtent nuo antros skaidrės.
+Vidurinės skaidrės: trumpi sakiniai, emocijos, vaizdai.
+Paskutinė skaidrė – pamoka / išvada / CTA („Kaip tu pasielgtum tokioj situacijoj?“).
 
 Vizualo patarimai:
 
@@ -209,6 +199,6 @@ Naudok vienodus rėmelius ar maketų stilių.
 Tegu dėmesys lieka ant turinio, ne ant dekoracijų.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODkzMDQyNiw5NDc1NzgwOTAsLTUyMz
-YxMTgwNCwxODQzOTAzODM0LDE0ODQ2OTY5ODZdfQ==
+eyJoaXN0b3J5IjpbLTEwNjc0NzAzMTQsOTQ3NTc4MDkwLC01Mj
+M2MTE4MDQsMTg0MzkwMzgzNCwxNDg0Njk2OTg2XX0=
 -->
