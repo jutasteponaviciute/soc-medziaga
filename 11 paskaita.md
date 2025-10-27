@@ -87,10 +87,9 @@ foninius ornamentus ar tekstūras.
 
 Šiuo metu Charts skiltis Brand Kit’e yra parengta būsimiems Canva atnaujinimams. Ji automatiškai naudoja jūsų spalvų paletę diagramoms, tačiau naujų stilių pridėti rankiniu būdu kol kas neleidžia. (2025 m. spalio 27 d. informacija)
 
-### Patarimai kuriant vizualinį identitetą
+### Patarimai kuriant Brand Kit ir vizualinius sprendimus
 
-- Aiškiai apibrėžkite prekės ženklo esmę.
-Prieš pradėdami kurti spalvų paletę ar šriftų derinius, atsakykite sau: ką noriu, kad žmonės pajustų, kai pamato mano vizualus? Ar tai profesionalumas, kūrybiškumas, jaukumas ar kita? Ši emocija turi atsispindėti kiekviename dizaino sprendime.
+- Aiškiai apibrėžkite prekės ženklo esmę. Prieš pradėdami kurti spalvų paletę ar šriftų derinius, atsakykite sau: ką noriu, kad žmonės pajustų, kai pamato mano vizualus? Ar tai profesionalumas, kūrybiškumas, jaukumas ar kita? Ši emocija turi atsispindėti kiekviename dizaino sprendime.
 
 - Pasirinkite vieną kryptį ir jos laikykitės. Vizualinis identitetas veikia tada, kai jis nuoseklus. Nesiblaškykite tarp stilių. 
 - Spalvų paletė turi turėti struktūrą. Naudokite 3–5 spalvas, kurios sudaro sistemą, veikia tarpusavyje. Tokiu būdu dizainas atrodo vientisas ir subalansuotas.
@@ -123,9 +122,10 @@ Pastaba:
 
 Vertinami tvarkingai susisteminti elementai Brand Kit aplinkoje, aiškiai išlaikytas vizualinis nuoseklumas, gebėjimas logiškai parinkti spalvas, šriftus ir elementus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyMTI4NzI4LDI2NjQ1NDI5NywxNDM2OD
-Q0NjQxLDExMzc4NTEwODgsMTQyNDkxMDUxNywtMTAyNTA1NTYz
-LDEwNDE5MzA3NDEsNjYyNzEyMDE2LC02MDg0NzgzMzEsMTM5Nz
-AwNjg1Myw1NjY3NzU1MjMsLTE4MjIzNTg2MzMsMzU1MTcyMTMy
-LDQ4OTQ1NDY1MiwxNDk4NDU0MDI3LDMxMjk0OTUyN119
+eyJoaXN0b3J5IjpbMTY3NTE3MzA2Nyw4MzIxMjg3MjgsMjY2ND
+U0Mjk3LDE0MzY4NDQ2NDEsMTEzNzg1MTA4OCwxNDI0OTEwNTE3
+LC0xMDI1MDU1NjMsMTA0MTkzMDc0MSw2NjI3MTIwMTYsLTYwOD
+Q3ODMzMSwxMzk3MDA2ODUzLDU2Njc3NTUyMywtMTgyMjM1ODYz
+MywzNTUxNzIxMzIsNDg5NDU0NjUyLDE0OTg0NTQwMjcsMzEyOT
+Q5NTI3XX0=
 -->
