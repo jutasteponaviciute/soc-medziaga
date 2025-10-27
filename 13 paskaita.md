@@ -93,11 +93,30 @@ Užduotis:
 
 Vertinamas dizaino aiškumas, struktūra, vizualinis nuoseklumas pagal Brand Kit ir teisingas failo pateikimas.
 
-### 2 užduotis. Sukurkite karuselę, arba maketą kuris kviestų parsisiųsti freebie.
+### 2 užduotis. Sukurkite karuselę, arba maketą kuris kviestų parsisiųsti freebie
 
+Tikslas: sukurti reklaminį vizualą ar Instagram karuselę, kviečiančią atsisiųsti jūsų sukurtą freebie.
 
+Užduotis:
+- Canvoje sukurkite 1 maketą arba 4–7 skaidrių karuselę, kurioje aiškiai pristatomas jūsų freebie.
+- Naudokite savo Brand Kit spalvas, šriftus ir kitus elementus.
+- Makete turi būti aiškiai matoma:
+ką žmogus gaus atsisiųsdamas (pvz., „nemokamas gidas“, „checklistas“, „planas“);
+
+trumpas aprašymas, kodėl verta;
+
+aiškus CTA („Atsisiųsk dabar“, „Parašyk žodį NORIU“, „Nuoroda bio“).
+
+Sukūrę dizainą, atsiskaitymui pateikite:
+
+karuselės ar maketo peržiūros nuorodą iš Canvos (view-only);
+
+vienos skaidrės ar viso maketo ekrano nuotrauką.
+
+Vertinimas:
+Vertinama, ar maketas/karuselė aiškiai perteikia pasiūlymą, išlaiko vizualinį nuoseklumą ir turi motyvuojantį kvietimą veikti (CTA).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTQwNzg0OSwtNDE0NzI2MTksLTE4OD
+eyJoaXN0b3J5IjpbLTIxOTI5Nzg1MSwtNDE0NzI2MTksLTE4OD
 M2OTIzODgsLTE5Njg1MjYwMDcsLTI5MjMxODQyMCw0ODAxMDkz
 MDAsLTI0MjczMjgzMl19
 -->
