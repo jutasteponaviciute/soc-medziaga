@@ -113,28 +113,16 @@ Tinka, kai norite:
 Struktūra:
 - 1 skaidrė: sustabdanti ir intriguojanti antraštė.
 Pvz.: „Kaip prastą dizainą Canvoje paversti į gerą?“
-- 2 skaidrė: įvedanti skaidrė (svarbu daugiau dėmesio atkreipti ne tik į 1 skaidrę, bet ir į 2, nes dažnai Instagram algoritmas rodymą feed'e pradeda nuo antros skaidrės)
+- 2 skaidrė: įvedanti skaidrė. Svarbu dėmesį skirti ne tik pirmai, bet ir antrai skaidrei, nes dažnai Instagram algoritmas įrašo rodymą naujienų sraute pradeda būtent nuo antros skaidrės.
 - 3-5 skaidrės: pagrindiniai punktai su aiškia mintimi kiekvienoje.
 - Paskutinė skaidrė: apibendrinimas + CTA („Išsaugok, kad nepamirštum“, „Pritaikyk šiandien“).
 
-Vizualo patarimai:
-
-Naudok švarią struktūrą.
-
-Palaikyk aiškų kontrastą tarp teksto ir fono.
-
-Vienas dizaino principas – viena skaidrė.
-
-✨ 2. Įkvepianti (emocinė) karuselė
-
+ **2. Įkvepianti (emocinė) karuselė** 
 Tikslas – sukurti emocinį ryšį su auditorija ir įkvėpti veikti.
 
 Tinka, kai norite:
-
-pasidalinti mintimis apie kūrybą, verslą, motyvaciją;
-
+- pasidalinti mintimis apie kūrybą, verslą, motyvaciją;
 sustiprinti prekės ženklo asmeniškumą;
-
 sukurti palaikančią atmosferą bendruomenėje.
 
 Struktūra:
@@ -253,6 +241,6 @@ Naudok vienodus rėmelius ar maketų stilių.
 Tegu dėmesys lieka ant turinio, ne ant dekoracijų.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzc3NTY2NTQsOTQ3NTc4MDkwLC01Mj
-M2MTE4MDQsMTg0MzkwMzgzNCwxNDg0Njk2OTg2XX0=
+eyJoaXN0b3J5IjpbLTMxOTMzMzQ1Nyw5NDc1NzgwOTAsLTUyMz
+YxMTgwNCwxODQzOTAzODM0LDE0ODQ2OTY5ODZdfQ==
 -->
