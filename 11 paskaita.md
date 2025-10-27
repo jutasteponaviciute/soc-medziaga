@@ -32,7 +32,7 @@ Jame galima:
 
 Su Brand Kit pagalba, galima užtikrinti, kad kiekvienas turinio vienetas socialiniuose tinkluose (ir ne tik) būtų to paties stiliaus.
 
-
+![atsinaujines brand kit langas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/11_paskaita/atsinaujines%20brand%20kit%20langas.avif)
 
 ## Brand Kit sudedamosios dalys
 
@@ -124,10 +124,10 @@ Pastaba:
 
 Vertinami tvarkingai susisteminti elementai Brand Kit aplinkoje, aiškiai išlaikytas vizualinis nuoseklumas, gebėjimas logiškai parinkti spalvas, šriftus ir elementus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjAwMDI3MywxNjc1MTczMDY3LDgzMj
-EyODcyOCwyNjY0NTQyOTcsMTQzNjg0NDY0MSwxMTM3ODUxMDg4
-LDE0MjQ5MTA1MTcsLTEwMjUwNTU2MywxMDQxOTMwNzQxLDY2Mj
-cxMjAxNiwtNjA4NDc4MzMxLDEzOTcwMDY4NTMsNTY2Nzc1NTIz
-LC0xODIyMzU4NjMzLDM1NTE3MjEzMiw0ODk0NTQ2NTIsMTQ5OD
-Q1NDAyNywzMTI5NDk1MjddfQ==
+eyJoaXN0b3J5IjpbLTE1ODI2MjI1NTMsMTY3NTE3MzA2Nyw4Mz
+IxMjg3MjgsMjY2NDU0Mjk3LDE0MzY4NDQ2NDEsMTEzNzg1MTA4
+OCwxNDI0OTEwNTE3LC0xMDI1MDU1NjMsMTA0MTkzMDc0MSw2Nj
+I3MTIwMTYsLTYwODQ3ODMzMSwxMzk3MDA2ODUzLDU2Njc3NTUy
+MywtMTgyMjM1ODYzMywzNTUxNzIxMzIsNDg5NDU0NjUyLDE0OT
+g0NTQwMjcsMzEyOTQ5NTI3XX0=
 -->
