@@ -48,6 +48,7 @@ Pavyzdys:
 - Pridėkite interaktyvius elementus, pavyzdžiui:
 nuorodas į socialinius tinklus ar svetainę;
 mygtuką, pavyzdžiui, „Noriu sužinoti daugiau!“;
+
 - Eksportuokite kaip PDF su aktyviomis nuorodomis.
 - Įkelkite į Google Drive ar Dropbox ir nustatykite prieigą „Anyone with the link can view“.
 
@@ -85,7 +86,7 @@ Naudojant ManyChat, galite:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDcyNjE5LC0xODgzNjkyMzg4LC0xOT
-Y4NTI2MDA3LC0yOTIzMTg0MjAsNDgwMTA5MzAwLC0yNDI3MzI4
-MzJdfQ==
+eyJoaXN0b3J5IjpbNDQ4ODUxMTM5LC00MTQ3MjYxOSwtMTg4Mz
+Y5MjM4OCwtMTk2ODUyNjAwNywtMjkyMzE4NDIwLDQ4MDEwOTMw
+MCwtMjQyNzMyODMyXX0=
 -->
