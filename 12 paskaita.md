@@ -100,8 +100,11 @@ Tai tarsi mini prezentacija ar istorija, kurią žmogus slenka į dešinę. Šis
 - Informacija pateikiama aiškiai ir dozuotai. Viena mintis vienoje skaidrėje, tai padeda išlaikyti dėmesį.
 - Puikus būdas kurti pasakojimą (storytelling). Galima vesti žmogų per kelis etapus – nuo problemos iki sprendimo ar nuo idėjos iki veiksmo.
 
+### Karuselių rūšys
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzYxMTgwNCwxODQzOTAzODM0LDE0OD
-Q2OTY5ODZdfQ==
+eyJoaXN0b3J5IjpbOTQ3NTc4MDkwLC01MjM2MTE4MDQsMTg0Mz
+kwMzgzNCwxNDg0Njk2OTg2XX0=
 -->
