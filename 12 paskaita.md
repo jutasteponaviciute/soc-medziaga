@@ -173,19 +173,33 @@ Tinka, kai norite:
 Struktūra:
 - 1 skaidrė: projekto pavadinimas ar tema („Brand Kit pavyzdžiai iš mokymų“)
 - 2 skaidrė: įvedanti skaidrė. Svarbu dėmesį skirti ne tik pirmai, bet ir antrai skaidrei, nes dažnai Instagram algoritmas įrašo rodymą naujienų sraute pradeda būtent nuo antros skaidrės.
-- Vidurinės skaidrės: darbų nuotraukos su trumpais paaiškinimais („Šriftų derinys“, „Spalvų paletė“, „Vizualinis tonas“)
+- Vidurinės skaidrės: darbų nuotraukos su trumpais paaiškinimais.
+- Paskutinė skaidrė: CTA („Norėtum panašaus dizaino? Parašyk man!“)
 
-- Paskutinė skaidrė – CTA („Norėtum panašaus dizaino?“, „Pasidalink savo rezultatu komentaruose“).
+### Bendri karuselės kūrimo principai
 
-Vizualo patarimai:
+Viena mintis – viena skaidrė.
+Neperkraukite informacijos. Kiekviena skaidrė turi turėti aiškų tikslą.
 
-Išlaikyk švarų foną, kad darbai išsiskirtų.
+Pirmoji skaidrė – svarbiausia.
+Ji turi sustabdyti skrolinimą. Naudokite kontrastą, klausimą, emociją arba intriguojantį sakinį.
 
-Naudok vienodus rėmelius ar maketų stilių.
+Paskutinė skaidrė – raginimas veikti (CTA).
+Net jei tai tik „Išsaugok šį įrašą“, ji turi būti aiški ir vizualiai išskirta.
 
-Tegu dėmesys lieka ant turinio, ne ant dekoracijų.
+Išlaikykite vientisumą.
+Naudokite savo Brand Kit šriftus, spalvas ir elementus.
+Canva tai palengvina su funkcijomis:
 
+Apply Brand Kit to design;
+
+Change all colors;
+
+Change all fonts.
+
+Ištestuokite skaitomumą.
+Peržiūrėkite karuselę telefone. Kas atrodo gerai kompiuteryje, telefone gali būti per maža arba per intensyvu.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTM0MzQzMDksOTQ3NTc4MDkwLC01Mj
-M2MTE4MDQsMTg0MzkwMzgzNCwxNDg0Njk2OTg2XX0=
+eyJoaXN0b3J5IjpbLTExOTM0OTg1Niw5NDc1NzgwOTAsLTUyMz
+YxMTgwNCwxODQzOTAzODM0LDE0ODQ2OTY5ODZdfQ==
 -->
