@@ -50,6 +50,7 @@ nuorodas į socialinius tinklus ar svetainę;
 mygtuką, pavyzdžiui, „Noriu sužinoti daugiau!“;
 
 ![nuorodos pridėjimas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/13_paskaita/nuorodos%20prid%C4%97jimas%20interaktyvumas.avif)
+
 - Eksportuokite kaip PDF su aktyviomis nuorodomis.
 - Įkelkite į Google Drive ar Dropbox ir nustatykite prieigą „Anyone with the link can view“.
 
@@ -105,9 +106,10 @@ ką žmogus gaus atsisiųsdamas (pvz., „nemokamas gidas“, „checklistas“,
 trumpas aprašymas, kodėl verta;
 aiškus CTA („komentuok žodį NORIU“).
 - Sukūrę dizainą, atsiskaitymui pateikite karuselės ar maketo peržiūros nuorodą iš Canvos su galimybe redaguoti.
+
 Vertinama, ar maketas/karuselė aiškiai perteikia pasiūlymą, išlaiko vizualinį nuoseklumą ir turi motyvuojantį kvietimą veikti (CTA).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjc4MDc0MywtNDE0NzI2MTksLTE4OD
+eyJoaXN0b3J5IjpbLTEzMTMxODM2NSwtNDE0NzI2MTksLTE4OD
 M2OTIzODgsLTE5Njg1MjYwMDcsLTI5MjMxODQyMCw0ODAxMDkz
 MDAsLTI0MjczMjgzMl19
 -->
