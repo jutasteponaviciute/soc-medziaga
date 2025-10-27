@@ -75,7 +75,6 @@ Naudojant ManyChat, galite:
 - nukreipti žmones į tinklalapį ar prenumeratą;
 - siųsti priminimus apie įvykius ar pasiūlymus.
 
-
 ![ManyChat IG automatizacija](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/13_paskaita/manychat%20IG%20automatizacija.avif)
 
 # Praktinės užduotys
@@ -86,7 +85,7 @@ Naudojant ManyChat, galite:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTk1NDksLTE4ODM2OTIzODgsLTE5Nj
-g1MjYwMDcsLTI5MjMxODQyMCw0ODAxMDkzMDAsLTI0MjczMjgz
-Ml19
+eyJoaXN0b3J5IjpbLTQxNDcyNjE5LC0xODgzNjkyMzg4LC0xOT
+Y4NTI2MDA3LC0yOTIzMTg0MjAsNDgwMTA5MzAwLC0yNDI3MzI4
+MzJdfQ==
 -->
