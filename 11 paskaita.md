@@ -84,9 +84,11 @@ foninius ornamentus ar tekstūras.
 - **Svarbu,** kad šie elementai būtų stilistiškai vientisi, vienodas spalvų tonas, linijų storis ir pan.
 
 ### Diagramos ir grafikai
+
+Šiuo metu Charts skiltis Brand Kit’e yra parengta būsimiems Canva atnaujinimams. Ji automatiškai naudoja jūsų spalvų paletę diagramoms, tačiau naujų stilių pridėti rankiniu būdu kol kas neleidžia. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTkzMDc0MSw2NjI3MTIwMTYsLTYwOD
-Q3ODMzMSwxMzk3MDA2ODUzLDU2Njc3NTUyMywtMTgyMjM1ODYz
-MywzNTUxNzIxMzIsNDg5NDU0NjUyLDE0OTg0NTQwMjcsMzEyOT
-Q5NTI3XX0=
+eyJoaXN0b3J5IjpbLTk3ODk5NjkxMCwxMDQxOTMwNzQxLDY2Mj
+cxMjAxNiwtNjA4NDc4MzMxLDEzOTcwMDY4NTMsNTY2Nzc1NTIz
+LC0xODIyMzU4NjMzLDM1NTE3MjEzMiw0ODk0NTQ2NTIsMTQ5OD
+Q1NDAyNywzMTI5NDk1MjddfQ==
 -->
