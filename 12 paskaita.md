@@ -111,11 +111,9 @@ Tinka, kai norite:
 - padėti auditorijai suprasti jūsų sritį.
 
 Struktūra:
-Pirmoji skaidrė – sustabdanti ir intriguojanti antraštė.
-Pvz.:
-„Vienas Canva įprotis, kuris gadina tavo vizualus“
-
-2–4 skaidrės – pagrindiniai punktai su aiškia mintimi kiekvienoje.
+- 1 skaidrė: sustabdanti ir intriguojanti antraštė.
+Pvz.: „Kaip prastą dizainą Canvoje paversti į gerą?“
+3-5 skaidrės – pagrindiniai punktai su aiškia mintimi kiekvienoje.
 
 Paskutinė skaidrė – apibendrinimas + CTA („Išsaugok, kad nepamirštum“, „Pritaikyk šiandien“).
 
@@ -255,6 +253,6 @@ Naudok vienodus rėmelius ar maketų stilių.
 Tegu dėmesys lieka ant turinio, ne ant dekoracijų.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MzQ4NzYxNSw5NDc1NzgwOTAsLTUyMz
-YxMTgwNCwxODQzOTAzODM0LDE0ODQ2OTY5ODZdfQ==
+eyJoaXN0b3J5IjpbLTE1ODk3ODkyMjEsOTQ3NTc4MDkwLC01Mj
+M2MTE4MDQsMTg0MzkwMzgzNCwxNDg0Njk2OTg2XX0=
 -->
