@@ -224,7 +224,8 @@ Kiek skaidrių?
 Koks karuselės tipas (edukacinė, įkvepianti, pardaviminė, storytelling ar kt.)?    
 Ar matyti pradžia, vidurys ir pabaiga?  
 **B**. Dizainas ir vizualai
-Kokios spalvos ir šriftai naudojami, ar jie dera tarpusavyje?    
+Kokios spalvos ir šriftai naudojami, ar jie dera tarpusavyje?
+Ar pakankamas kontrastas?    
 Ar išlaikytas vientisumas tarp skaidrių?    
 Ar tekstas lengvai įskaitomas?
 **C.** Dėmesio išlaikymas
@@ -238,11 +239,11 @@ Ką iš šio pavyzdžio pasiimtum (ar vengsi) kurdamas savo dizainą?
 
 Vertinama, ar studentas geba pagrįstai įvertinti karuselės struktūrą, dizaino sprendimus ir komunikacijos aiškumą, remdamasis konkrečiais pavyzdžiais.
 
-### 2 užduotis.
+### 2 užduotis. Karuselės kūrimas Canvoje
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzY4NTg3NCw2MzYxMTI4MzgsLTE0NT
-k2NzI1NTcsMzkyODc5Mzk1LDExNjIxMTMyODUsLTUwMDQyMzQ4
-OSw5NDc1NzgwOTAsLTUyMzYxMTgwNCwxODQzOTAzODM0LDE0OD
-Q2OTY5ODZdfQ==
+eyJoaXN0b3J5IjpbLTE4NzU5MjA3MTksMTY4NzY4NTg3NCw2Mz
+YxMTI4MzgsLTE0NTk2NzI1NTcsMzkyODc5Mzk1LDExNjIxMTMy
+ODUsLTUwMDQyMzQ4OSw5NDc1NzgwOTAsLTUyMzYxMTgwNCwxOD
+QzOTAzODM0LDE0ODQ2OTY5ODZdfQ==
 -->
