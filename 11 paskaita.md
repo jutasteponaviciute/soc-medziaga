@@ -28,10 +28,10 @@ Jame galima:
 - sukurti spalvų paletes;
 - pasirinkti arba įkelti šriftus antraštėms ir tekstui;
 - įkelti nuotraukas, grafinius elementus, ikonografiją;
-- apibrėžti „brand voice“.
+- apibrėžti prekės ženklo toną (brand voice).
 
-Viskas, ką čia susidėsite, vėliau atsiras automatiškai jūsų dizainuose. Taip galima užtikrinti, kad kiekvienas įrašas, karuselė ar istorija atrodys vienodai profesionaliai.
+Su Brand Kit pagalba, galima užtikrinti, kad kiekvienas turinio vienetas socialiniuose tinkluose (ir ne tik) būtų to paties stiliaus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1NzE5MDUwLDM1NTE3MjEzMiw0ODk0NT
-Q2NTIsMTQ5ODQ1NDAyNywzMTI5NDk1MjddfQ==
+eyJoaXN0b3J5IjpbLTE4MjIzNTg2MzMsMzU1MTcyMTMyLDQ4OT
+Q1NDY1MiwxNDk4NDU0MDI3LDMxMjk0OTUyN119
 -->
