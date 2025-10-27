@@ -255,8 +255,10 @@ pardaviminė (pasiūlymas ar produkto pristatymas).
 - Sukūrus dizainą, atsidarykite peržiūros režimu (View → Present) ir nukopijuokite viešą dizaino nuorodą (Share → Anyone with the link → Can Edit).
 - Įkelkite karuselės Canva nuorodą į atsiskaitymo formą. 
 
+Vertinama karuselės struktūra, dizaino vientisumas pagal Brand Kit, informacijos aiškumas ir tinkamas nuorodos pateikimas atsiskaitymui.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDMwNTg5MiwxNjg3Njg1ODc0LDYzNj
+eyJoaXN0b3J5IjpbLTQ1NTExNjY1NiwxNjg3Njg1ODc0LDYzNj
 ExMjgzOCwtMTQ1OTY3MjU1NywzOTI4NzkzOTUsMTE2MjExMzI4
 NSwtNTAwNDIzNDg5LDk0NzU3ODA5MCwtNTIzNjExODA0LDE4ND
 M5MDM4MzQsMTQ4NDY5Njk4Nl19
