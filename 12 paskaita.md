@@ -203,20 +203,22 @@ Karuselės yra ne tik dizainas, bet ir turinio strategijos įrankis. Kurdami jas
 - Ar išmatavimai yra 1080×1350?
 
 Karuselių pavyzdžiai:
-https://www.instagram.com/p/DNXq8BNMPZC/?igsh=MXQ4Z3R2ZHR6eTI1cQ%3D%3D
+1. https://www.instagram.com/p/DNXq8BNMPZC/?igsh=MXQ4Z3R2ZHR6eTI1cQ%3D%3D
+2. https://www.instagram.com/p/DO8Q3LPCjPv/?igsh=MTBwZTh6MGRsZHo4dg%3D%3D
+3. https://www.instagram.com/p/DBLh-pYOucB/?igsh=MWZudGdpZTcyMWR6bg%3D%3D
+4. https://www.instagram.com/p/DIHKXqUIdLY/?igsh=MXhsazY5eTR6YW5oYg%3D%3D
+5. https://www.instagram.com/p/DBLrtGJucQc/?img_index=1
 
-https://www.instagram.com/p/DO8Q3LPCjPv/?igsh=MTBwZTh6MGRsZHo4dg%3D%3D
+# Praktinės užduotys
 
-https://www.instagram.com/p/DBLh-pYOucB/?igsh=MWZudGdpZTcyMWR6bg%3D%3D
-
-https://www.instagram.com/p/DIHKXqUIdLY/?igsh=MXhsazY5eTR6YW5oYg%3D%3D
+### 1 užduotis. Sukurkite savo prekės ženklo Canva Brand Kit
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MDgyNjMzMSwxMTYyMTEzMjg1LC01MD
-A0MjM0ODksOTQ3NTc4MDkwLC01MjM2MTE4MDQsMTg0MzkwMzgz
-NCwxNDg0Njk2OTg2XX0=
+eyJoaXN0b3J5IjpbMzkyODc5Mzk1LDExNjIxMTMyODUsLTUwMD
+QyMzQ4OSw5NDc1NzgwOTAsLTUyMzYxMTgwNCwxODQzOTAzODM0
+LDE0ODQ2OTY5ODZdfQ==
 -->
