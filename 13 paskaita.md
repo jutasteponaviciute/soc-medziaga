@@ -12,9 +12,8 @@ Freebie – tai nemokamas pasiūlymas, kuriuo dalijamasi siekiant:
 
 Tai viena efektyviausių strategijų, leidžiančių auditorijai susipažinti su jūsų turiniu prieš pirkimą.
 
-Pavyzdžiai:
+Pavyzdys:
 - https://drive.google.com/file/d/1EpzF0E57qVR64K9G3YGDoiUcIiZVx9sz/view
-- 
 
 ## Kokie gali būti Freebie formatai?
 
@@ -45,17 +44,11 @@ Pavyzdžiai:
 - Sukurkite dizainą pagal savo Brand Kit: naudokite savo spalvas, šriftus ir logotipą.
 - Įtraukite vertingą informaciją, kuri sprendžia konkrečią jūsų auditorijos problemą.
 - Pridėkite interaktyvius elementus, pavyzdžiui:
-
 nuorodas į socialinius tinklus ar svetainę;
-
-mygtukus „Atsisiųsti daugiau“ ar „Sužinoti plačiau“;
-
-QR kodą, nukreipiantį į jūsų puslapį.
-
-Eksportuokite kaip PDF su aktyviomis nuorodomis.
-
-Įkelkite į Google Drive ar Dropbox ir nustatykite prieigą „Anyone with the link can view“.
+mygtuką, pavyzdžiui, „Noriu sužinoti daugiau!“;
+- Eksportuokite kaip PDF su aktyviomis nuorodomis.
+- Įkelkite į Google Drive ar Dropbox ir nustatykite prieigą „Anyone with the link can view“.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjczOTA0NTEsLTI0MjczMjgzMl19
+eyJoaXN0b3J5IjpbMzU2MDgyNzQ0LC0yNDI3MzI4MzJdfQ==
 -->
