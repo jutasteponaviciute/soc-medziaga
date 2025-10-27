@@ -114,7 +114,7 @@ Struktūra:
 - 1 skaidrė: sustabdanti ir intriguojanti antraštė.
 Pvz.: „Kaip prastą dizainą Canvoje paversti į gerą?“
 - 2 skaidrė: įvedanti skaidrė. Svarbu dėmesį skirti ne tik pirmai, bet ir antrai skaidrei, nes dažnai Instagram algoritmas įrašo rodymą naujienų sraute pradeda būtent nuo antros skaidrės.
-- 3-5 skaidrės: pagrindiniai punktai su aiškia mintimi kiekvienoje.
+- 3-4 skaidrės: pagrindiniai punktai su aiškia mintimi kiekvienoje.
 - Paskutinė skaidrė: apibendrinimas + CTA („Išsaugok, kad nepamirštum“, „Pritaikyk šiandien“).
 
  **2. Įkvepianti (emocinė) karuselė** 
@@ -122,21 +122,15 @@ Tikslas – sukurti emocinį ryšį su auditorija ir įkvėpti veikti.
 
 Tinka, kai norite:
 - pasidalinti mintimis apie kūrybą, verslą, motyvaciją;
-sustiprinti prekės ženklo asmeniškumą;
-sukurti palaikančią atmosferą bendruomenėje.
+- sustiprinti prekės ženklo asmeniškumą;
+- sukurti palaikančią atmosferą bendruomenėje.
 
 Struktūra:
-
-Pirmoji skaidrė – sakinys, kuris paliečia.
-Pvz.:
-
-„Tavo turinys vertas daugiau nei 10 laikų.“
-
-„Nereikia būti tobulu, kad būtum įdomus.“
-
-Vidurinės skaidrės – 2–3 emociniai punktai arba mintys su paprastais vaizdiniais.
-
-Paskutinė skaidrė – kvietimas reflektuoti arba pasidalinti („Kuri mintis labiausiai prilipo?“, „Išsaugok, jei priminė tave“).
+- Pirmoji skaidrė: sakinys, kuris paliečia.
+Pvz.: „Tavo turinys vertas daugiau nei 10 širdelių.“, „Nereikia būti tobulu, kad būtum įdomus.“
+- 2 skaidrė: įvedanti skaidrė. Svarbu dėmesį skirti ne tik pirmai, bet ir antrai skaidrei, nes dažnai Instagram algoritmas įrašo rodymą naujienų sraute pradeda būtent nuo antros skaidrės.
+- Vidurinės skaidrės: 3–6 emociniai punktai arba mintys su paprastais vaizdiniais.
+- Paskutinė skaidrė – kvietimas reflektuoti arba pasidalinti („Kuri mintis labiausiai prilipo?“, „Išsaugok, jei priminė tave“).
 
 Vizualo patarimai:
 
@@ -241,6 +235,6 @@ Naudok vienodus rėmelius ar maketų stilių.
 Tegu dėmesys lieka ant turinio, ne ant dekoracijų.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTMzMzQ1Nyw5NDc1NzgwOTAsLTUyMz
-YxMTgwNCwxODQzOTAzODM0LDE0ODQ2OTY5ODZdfQ==
+eyJoaXN0b3J5IjpbMjYxMjY0NTA0LDk0NzU3ODA5MCwtNTIzNj
+ExODA0LDE4NDM5MDM4MzQsMTQ4NDY5Njk4Nl19
 -->
