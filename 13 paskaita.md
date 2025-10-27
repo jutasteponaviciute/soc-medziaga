@@ -102,21 +102,12 @@ Užduotis:
 - Naudokite savo Brand Kit spalvas, šriftus ir kitus elementus.
 - Makete turi būti aiškiai matoma:
 ką žmogus gaus atsisiųsdamas (pvz., „nemokamas gidas“, „checklistas“, „planas“);
-
 trumpas aprašymas, kodėl verta;
-
-aiškus CTA („Atsisiųsk dabar“, „Parašyk žodį NORIU“, „Nuoroda bio“).
-
-Sukūrę dizainą, atsiskaitymui pateikite:
-
-karuselės ar maketo peržiūros nuorodą iš Canvos (view-only);
-
-vienos skaidrės ar viso maketo ekrano nuotrauką.
-
-Vertinimas:
+aiškus CTA („komentuok žodį NORIU“).
+- Sukūrę dizainą, atsiskaitymui pateikite karuselės ar maketo peržiūros nuorodą iš Canvos su galimybe redaguoti.
 Vertinama, ar maketas/karuselė aiškiai perteikia pasiūlymą, išlaiko vizualinį nuoseklumą ir turi motyvuojantį kvietimą veikti (CTA).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTI5Nzg1MSwtNDE0NzI2MTksLTE4OD
+eyJoaXN0b3J5IjpbMTAyMjc4MDc0MywtNDE0NzI2MTksLTE4OD
 M2OTIzODgsLTE5Njg1MjYwMDcsLTI5MjMxODQyMCw0ODAxMDkz
 MDAsLTI0MjczMjgzMl19
 -->
