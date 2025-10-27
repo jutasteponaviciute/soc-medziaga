@@ -5,14 +5,11 @@ Suprasti, kaip kurti vientisą vizualinį identitetą socialiniams tinklams, pas
 
 ## Kas yra vizualinis identitetas?
 
-Vizualinis identitetas – tai visuma elementų, kurie leidžia atpažinti prekės ženklą be logotipo. Tai apima spalvas, šriftus, formų stilių, nuotraukas, ikonografiją ir bendrą estetiką, kuri formuoja įspūdį apie jūsų veiklą.
+Vizualinis identitetas – tai visuma elementų, kurie leidžia atpažinti prekės ženklą be logotipo. Tai apima spalvas, šriftus, formų stilių, nuotraukas, ikonografiją ir bendrą estetiką, kuri formuoja įspūdį apie prekės ženklą.
 
-Kai matome vizualą, iš karto turime jausmą – „čia rimta įmonė“, „čia kūrybinis projektas“, „čia jaunatviškas prekinis ženklas“.
-Būtent šį įspūdį kuria vientisas vizualinis identitetas.
-
-### Maža tema
+## Kodėl svarbu turėti nuoseklų identitetą socialiniuose tinkluose?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzIxMDgxOCwxNDk4NDU0MDI3LDMxMj
+eyJoaXN0b3J5IjpbMjAxMDIwMTI1NiwxNDk4NDU0MDI3LDMxMj
 k0OTUyN119
 -->
