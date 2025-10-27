@@ -32,6 +32,8 @@ Jame galima:
 
 Su Brand Kit pagalba, galima užtikrinti, kad kiekvienas turinio vienetas socialiniuose tinkluose (ir ne tik) būtų to paties stiliaus.
 
+
+
 ## Brand Kit sudedamosios dalys
 
 ### Logotipas
@@ -122,10 +124,10 @@ Pastaba:
 
 Vertinami tvarkingai susisteminti elementai Brand Kit aplinkoje, aiškiai išlaikytas vizualinis nuoseklumas, gebėjimas logiškai parinkti spalvas, šriftus ir elementus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTE3MzA2Nyw4MzIxMjg3MjgsMjY2ND
-U0Mjk3LDE0MzY4NDQ2NDEsMTEzNzg1MTA4OCwxNDI0OTEwNTE3
-LC0xMDI1MDU1NjMsMTA0MTkzMDc0MSw2NjI3MTIwMTYsLTYwOD
-Q3ODMzMSwxMzk3MDA2ODUzLDU2Njc3NTUyMywtMTgyMjM1ODYz
-MywzNTUxNzIxMzIsNDg5NDU0NjUyLDE0OTg0NTQwMjcsMzEyOT
-Q5NTI3XX0=
+eyJoaXN0b3J5IjpbLTk3MjAwMDI3MywxNjc1MTczMDY3LDgzMj
+EyODcyOCwyNjY0NTQyOTcsMTQzNjg0NDY0MSwxMTM3ODUxMDg4
+LDE0MjQ5MTA1MTcsLTEwMjUwNTU2MywxMDQxOTMwNzQxLDY2Mj
+cxMjAxNiwtNjA4NDc4MzMxLDEzOTcwMDY4NTMsNTY2Nzc1NTIz
+LC0xODIyMzU4NjMzLDM1NTE3MjEzMiw0ODk0NTQ2NTIsMTQ5OD
+Q1NDAyNywzMTI5NDk1MjddfQ==
 -->
