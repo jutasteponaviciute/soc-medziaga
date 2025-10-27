@@ -218,7 +218,7 @@ Tikslas: i šmokti atpažinti, kas daro karuselę veiksmingą arba neveiksmingą
 Užduotis:
 - Nueikite į Instagramnir pasirinkite vieną karuselę – ji gali būti gera arba arba nelabai pavykusi, svarbu, kad jums keltų reakciją (patinka arba erzina).
     
-2.  **Padarykite ekrano nuotrauką** arba nukopijuokite įrašo **nuorodą**.
+Padarykite ekrano nuotrauką** arba nukopijuokite įrašo **nuorodą**.
     
 3.  Atsakykite į šiuos klausimus (trumpai, bet argumentuotai):
     
@@ -273,7 +273,8 @@ Užduotis:
 Vertinama, ar studentas geba pagrįstai įvertinti karuselės struktūrą, dizaino sprendimus ir komunikacijos aiškumą, remdamasis konkrečiais pavyzdžiais.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2MTEyODM4LC0xNDU5NjcyNTU3LDM5Mj
-g3OTM5NSwxMTYyMTEzMjg1LC01MDA0MjM0ODksOTQ3NTc4MDkw
-LC01MjM2MTE4MDQsMTg0MzkwMzgzNCwxNDg0Njk2OTg2XX0=
+eyJoaXN0b3J5IjpbLTE2NTMxOTEyMjIsNjM2MTEyODM4LC0xND
+U5NjcyNTU3LDM5Mjg3OTM5NSwxMTYyMTEzMjg1LC01MDA0MjM0
+ODksOTQ3NTc4MDkwLC01MjM2MTE4MDQsMTg0MzkwMzgzNCwxND
+g0Njk2OTg2XX0=
 -->
