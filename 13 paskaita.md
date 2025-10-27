@@ -56,8 +56,8 @@ mygtuką, pavyzdžiui, „Noriu sužinoti daugiau!“;
 - Naudokite aiškią struktūrą: viršelis → turinys → pagrindinė dalis → CTA.
 - Tekstai turi būti trumpi ir vertingi – ne išsami knyga, o sprendimas.
 - Išlaikykite vienodą vizualinį stilių pagal savo Brand Kit.
-- Įtraukite aktyvias nuorodas (Canva → Share → Download → PDF Standard → Include links).
-Įsitikinkite, kad failas pritaikytas mobiliesiems įrenginiams – dauguma žmonių jį atsidarys telefone.
+- Įtraukite aktyvias nuorodas.
+- Įsitikinkite, kad failas pritaikytas mobiliesiems įrenginiams, nes dauguma žmonių jį atsidarys telefone.
 
 ## Kaip dalinti freebie socialiniuose tinkluose?
 
@@ -75,8 +75,14 @@ Naudojant ManyChat, galite:
 - nukreipti žmones į tinklalapį ar prenumeratą;
 - siųsti priminimus apie įvykius ar pasiūlymus.
 
-## Patarimai kuriant Freebie dizainą Canvoje
+# Praktinės užduotys
+
+### 1 užduotis. Sukurkite PDF gidą (freebie)
+
+### 2 užduotis. Sukurkite karuselę, arba maketą kuris kviestų parsisiųsti freebie.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTk4NTQ4NTEsLTE5Njg1MjYwMDcsLT
+eyJoaXN0b3J5IjpbLTE4ODM2OTIzODgsLTE5Njg1MjYwMDcsLT
 I5MjMxODQyMCw0ODAxMDkzMDAsLTI0MjczMjgzMl19
 -->
