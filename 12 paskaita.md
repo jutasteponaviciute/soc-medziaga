@@ -162,33 +162,20 @@ Pvz.: „Vienas projektas, kuris viską pakeitė.“
 Vidurinės skaidrės: trumpi sakiniai, emocijos, vaizdai.
 Paskutinė skaidrė – pamoka / išvada / CTA („Kaip tu pasielgtum tokioj situacijoj?“).
 
-Vizualo patarimai:
-
-Galima naudoti perėjimus tarp skaidrių (pvz., nuotrauka tęsiasi per dvi skaidres).
-
-Mažiau teksto, daugiau vizualinio pasakojimo.
-
-Šiltos spalvos, natūralus tonas.
-
-🖼️ 5. Portfolio arba projekto karuselė
-
+ **5. Portfolio arba projekto karuselė**
 Tikslas – parodyti savo darbus, procesą arba rezultatus.
 
 Tinka, kai norite:
-
-parodyti projektų pavyzdžius;
-
-pristatyti kliento sėkmės istoriją;
-
-parodyti, ką mokėte ar sukūrėte kursuose.
+- parodyti projektų pavyzdžius;
+- pristatyti kliento sėkmės istoriją;
+- parodyti, ką mokėte ar sukūrėte.
 
 Struktūra:
+- 1 skaidrė: projekto pavadinimas ar tema („Brand Kit pavyzdžiai iš mokymų“)
+- 2 skaidrė: įvedanti skaidrė. Svarbu dėmesį skirti ne tik pirmai, bet ir antrai skaidrei, nes dažnai Instagram algoritmas įrašo rodymą naujienų sraute pradeda būtent nuo antros skaidrės.
+- Vidurinės skaidrės: darbų nuotraukos su trumpais paaiškinimais („Šriftų derinys“, „Spalvų paletė“, „Vizualinis tonas“)
 
-Skaidrė 1 – projekto pavadinimas ar tema („Brand Kit pavyzdžiai iš mokymų“)
-
-Skaidrės 2–5 – darbų nuotraukos su trumpais paaiškinimais („Šriftų derinys“, „Spalvų paletė“, „Vizualinis tonas“)
-
-Paskutinė skaidrė – CTA („Norėtum panašaus dizaino?“, „Pasidalink savo rezultatu komentaruose“).
+- Paskutinė skaidrė – CTA („Norėtum panašaus dizaino?“, „Pasidalink savo rezultatu komentaruose“).
 
 Vizualo patarimai:
 
@@ -199,6 +186,6 @@ Naudok vienodus rėmelius ar maketų stilių.
 Tegu dėmesys lieka ant turinio, ne ant dekoracijų.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjc0NzAzMTQsOTQ3NTc4MDkwLC01Mj
+eyJoaXN0b3J5IjpbLTEyMTM0MzQzMDksOTQ3NTc4MDkwLC01Mj
 M2MTE4MDQsMTg0MzkwMzgzNCwxNDg0Njk2OTg2XX0=
 -->
