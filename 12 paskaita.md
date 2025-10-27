@@ -213,12 +213,68 @@ Karuselių pavyzdžiai:
 
 ### 1 užduotis. Instagram karuselės analizė
 
+Tikslas: i šmokti atpažinti, kas daro karuselę veiksmingą arba neveiksmingą – nuo struktūros ir dizaino iki turinio aiškumo bei emocinio poveikio.
 
+### **Užduotis**
 
+1.  Nueikite į **Instagram** ir pasirinkite **vieną karuselę** – ji gali būti **gera arba prasta**, svarbu, kad jums keltų reakciją (patinka arba erzina).
+    
+2.  **Padarykite ekrano nuotrauką** arba nukopijuokite įrašo **nuorodą**.
+    
+3.  Atsakykite į šiuos klausimus (trumpai, bet argumentuotai):
+    
 
+**A. Struktūra ir turinys**
+
+-   Kiek skaidrių?
+    
+-   Koks karuselės tipas (edukacinė, įkvepianti, pardaviminė, storytelling ar kt.)?
+    
+-   Ar matyti pradžia, vidurys ir pabaiga?
+    
+
+**B. Dizainas ir vizualai**
+
+-   Kokios spalvos ir šriftai naudojami – ar jie dera tarpusavyje?
+    
+-   Ar išlaikytas vientisumas tarp skaidrių?
+    
+-   Ar tekstas lengvai įskaitomas?
+    
+
+**C. Dėmesio išlaikymas**
+
+-   Ar pirma skaidrė patraukia dėmesį? Kodėl?
+    
+-   Ar antra skaidrė skatina slinkti toliau?
+    
+-   Ar paskutinėje skaidrėje yra aiškus kvietimas veikti (CTA)?
+    
+
+**D. Įžvalga**
+
+-   Kas šioje karuselėje veikia / neveikia ir kodėl?
+    
+-   Ką iš šio pavyzdžio pasiimtum (ar vengsi) kurdamas savo dizainą?
+    
+
+----------
+
+### **Pateikimas**
+
+-   Atsakymus pateikite **Canvoje ar PDF formatu (1–2 puslapiai)**.
+    
+-   Įkelkite karuselės **ekrano nuotrauką arba nuorodą**.
+    
+
+----------
+
+### **Vertinimas**
+
+Vertinama, ar studentas geba pagrįstai įvertinti karuselės struktūrą, dizaino sprendimus ir komunikacijos aiškumą, remdamasis konkrečiais pavyzdžiais.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTk2NzI1NTcsMzkyODc5Mzk1LDExNj
-IxMTMyODUsLTUwMDQyMzQ4OSw5NDc1NzgwOTAsLTUyMzYxMTgw
-NCwxODQzOTAzODM0LDE0ODQ2OTY5ODZdfQ==
+eyJoaXN0b3J5IjpbMTYwNjM0MjUzNiwtMTQ1OTY3MjU1NywzOT
+I4NzkzOTUsMTE2MjExMzI4NSwtNTAwNDIzNDg5LDk0NzU3ODA5
+MCwtNTIzNjExODA0LDE4NDM5MDM4MzQsMTQ4NDY5Njk4Nl19
 -->
