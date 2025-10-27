@@ -44,23 +44,14 @@ Su Brand Kit pagalba, galima užtikrinti, kad kiekvienas turinio vienetas social
 ### Spalvų paletė
 
 - Spalvų paletė padeda užtikrinti vizualinį vientisumą visuose dizainuose.
-- Reko60–30–10 principas:
+- Rekomenduoju naudoti 60–30–10 principą:
+**60 % – pagrindinė spalva** (dažniausiai fone, pagrindiniuose elementuose);
+**30 % – antrinė spalva** (tekstams, papildymams);
+**10 % – akcentinė spalva** (raginimams veikti, mygtukams, svarbioms detalėms).
 
-60 % – pagrindinė spalva (dažniausiai fone, pagrindiniuose elementuose);
-
-30 % – antrinė spalva (tekstams, papildymams);
-
-10 % – akcentinė spalva (raginimams veikti, CTA, mygtukams, svarbioms detalėms).
-
-Canva leidžia:
-
-įvesti spalvas pagal HEX kodus (pvz., #E7FF25);
-
-arba išgauti spalvų paletę iš įkelto paveikslėlio („Extract colors from image“ funkcija).
-
-Naudinga nuoroda: https://www.youtube.com/watch?v=W9iG20uB7IY
+Canva leidžia įvesti spalvas pagal HEX kodus (pvz., #E7FF25) arba CMY
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTEwMTUzOCwtMTgyMjM1ODYzMywzNT
-UxNzIxMzIsNDg5NDU0NjUyLDE0OTg0NTQwMjcsMzEyOTQ5NTI3
-XX0=
+eyJoaXN0b3J5IjpbLTE5NDI5OTE2ODcsLTE4MjIzNTg2MzMsMz
+U1MTcyMTMyLDQ4OTQ1NDY1MiwxNDk4NDU0MDI3LDMxMjk0OTUy
+N119
 -->
