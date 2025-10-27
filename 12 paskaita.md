@@ -185,15 +185,12 @@ Struktūra:
 Change all fonts.
 - Ištestuokite skaitomumą. Peržiūrėkite karuselę telefone. Kas atrodo gerai kompiuteryje, telefone gali būti per maža arba per intensyvu.
 
-Papildomas patarimas iš praktikos
+### Papildomas patarimas iš praktikos
 
-Karuselės yra ne tik dizainas, bet ir turinio strategijos įrankis.
-Kurdami jas, mąstykite ne „ką noriu parodyti“, o „ką žmogus išsineš“.
+Karuselės yra ne tik dizainas, bet ir turinio strategijos įrankis. Kurdami jas, mąstykite ne „ką noriu parodyti“, o „ką žmogus išsineš“.
 
-Klausimas, kuris visada padeda:
-
-„Jei žmogus pamatytų tik šitą karuselę, ar jis suprastų, ką noriu pasakyti?“
+**Klausimas, kuris visada padeda:** „Jei žmogus pamatytų tik šitą karuselę, ar jis suprastų, ką noriu pasakyti?“
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU2NjE0NzgsOTQ3NTc4MDkwLC01Mj
-M2MTE4MDQsMTg0MzkwMzgzNCwxNDg0Njk2OTg2XX0=
+eyJoaXN0b3J5IjpbLTUwMDQyMzQ4OSw5NDc1NzgwOTAsLTUyMz
+YxMTgwNCwxODQzOTAzODM0LDE0ODQ2OTY5ODZdfQ==
 -->
