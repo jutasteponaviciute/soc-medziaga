@@ -211,14 +211,14 @@ Karuselių pavyzdžiai:
 
 # Praktinės užduotys
 
-### 1 užduotis. Sukurkite savo prekės ženklo Canva Brand Kit
+### 1 užduotis. Instagram karuselės analizė
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyODc5Mzk1LDExNjIxMTMyODUsLTUwMD
-QyMzQ4OSw5NDc1NzgwOTAsLTUyMzYxMTgwNCwxODQzOTAzODM0
-LDE0ODQ2OTY5ODZdfQ==
+eyJoaXN0b3J5IjpbLTE0NTk2NzI1NTcsMzkyODc5Mzk1LDExNj
+IxMTMyODUsLTUwMDQyMzQ4OSw5NDc1NzgwOTAsLTUyMzYxMTgw
+NCwxODQzOTAzODM0LDE0ODQ2OTY5ODZdfQ==
 -->
