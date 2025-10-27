@@ -2,7 +2,18 @@
 
 Tikslas: suprasti, kaip sukurti vertingą atsisiunčiamą turinį (freebie) Canva aplinkoje nuo maketavimo iki interaktyvių elementų, tokių kaip nuorodos, mygtukai ar redaguojami laukai. Gebėti parengti struktūruotą ir estetišką dokumentą bei integruoti jį į ManyChat automatizacijas, kad būtų galima auginti sekėjų ar prenumeratorių bazę.
 
+## Kas yra Freebie ir kam jis reikalingas?
+
+Freebie – tai nemokamas pasiūlymas, kuriuo dalijamasi siekiant:
+- pritraukti naujų sekėjų ar klientų,
+- surinkti el. pašto adresus,
+- parodyti savo ekspertines žinias,
+- sustiprinti pasitikėjimą prekės ženklu.
+
+Tai viena efektyviausių strategijų, leidžiančių auditorijai susipažinti su jūsų turiniu prieš pirkimą.
+
+## Kokie gali būti Freebie formatai?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1NTY4MTQyLC0yNDI3MzI4MzJdfQ==
+eyJoaXN0b3J5IjpbLTUxOTcyNjU1OCwtMjQyNzMyODMyXX0=
 -->
