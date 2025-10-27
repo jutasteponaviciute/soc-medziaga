@@ -37,7 +37,8 @@ Pavyzdys:
 - Parodo jūsų kompetenciją ir vertę prieš pardavimą.
 - Leidžia segmentuoti auditoriją pagal interesus.
 - Skatina organinius pasidalinimus.
-- 
+
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/13_paskaita/Freebie%20k%C5%ABrimo%20sekos%20pavyzdys.avif)
 
 ## Kaip susikurti freebie su Canva?
 
@@ -66,6 +67,6 @@ Naudojant ManyChat, galite:
 - nukreipti žmones į tinklalapį ar prenumeratą;
 - siųsti priminimus apie įvykius ar pasiūlymus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTUxODE2MSwtMjkyMzE4NDIwLDQ4MD
-EwOTMwMCwtMjQyNzMyODMyXX0=
+eyJoaXN0b3J5IjpbLTE5Njg1MjYwMDcsLTI5MjMxODQyMCw0OD
+AxMDkzMDAsLTI0MjczMjgzMl19
 -->
