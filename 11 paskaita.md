@@ -21,8 +21,17 @@ Trumpai tariant, nuoseklumas kuria tapatybę. Jis padeda auditorijai jus pažint
 
 ## Kas yra Canva Brand Kit ir kam jis reikalingas?
 
+Canva Brand Kit – tai įrankis, kuris leidžia visus vizualinius prekės ženklo elementus susisteminti vienoje vietoje. Tai tarsi jūsų skaitmeninė „dizaino spinta“, kurioje laikote viską, kas apibūdina jūsų prekės ženklo vizualinį stilių.
 
+Jame galima:
+- įkelti logotipus;
+sukurti spalvų paletes;
+pasirinkti šriftus antraštėms ir tekstui;
+įkelti nuotraukas, grafinius elementus, ikonografiją;
+apibrėžti „brand voice“ – tai, kaip vizualiai ir žodžiais kalba jūsų prekės ženklas.
+
+Viskas, ką čia susidėsite, vėliau atsiras automatiškai jūsų dizainuose. Taip galima užtikrinti, kad kiekvienas įrašas, karuselė ar istorija atrodys vienodai profesionaliai.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MzM3OTExOCwzNTUxNzIxMzIsNDg5ND
+eyJoaXN0b3J5IjpbMTM4OTYwOTQ0MCwzNTUxNzIxMzIsNDg5ND
 U0NjUyLDE0OTg0NTQwMjcsMzEyOTQ5NTI3XX0=
 -->
