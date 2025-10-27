@@ -61,8 +61,9 @@ ir, jei norisi, vieną akcentams (pvz., citatoms).
 Ar jis turi lietuviškas raides ir skyrybos ženklus?
 Ar tekstas įskaitomas skirtinguose dydžiuose?
 Ar šriftai deri tarpusavyje?
+- Jei turite savo šriftą, kurio nėra Canvoje, Canva leidžia jį įkelti paspaudus „Upload font“.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDIxNzI3NSwxMzk3MDA2ODUzLDU2Nj
+eyJoaXN0b3J5IjpbLTYwODQ3ODMzMSwxMzk3MDA2ODUzLDU2Nj
 c3NTUyMywtMTgyMjM1ODYzMywzNTUxNzIxMzIsNDg5NDU0NjUy
 LDE0OTg0NTQwMjcsMzEyOTQ5NTI3XX0=
 -->
