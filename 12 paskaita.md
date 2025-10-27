@@ -86,11 +86,15 @@ Vienas dažniausių dizaino iššūkių: viskas atrodo svarbu. Kad to išvengtum
 
 ## Instagram karuselių kūrimas
 
-###
+### Kas yra Instagram karuselė?
+
+Instagram karuselė – tai įrašas, kuriame galima įkelti iki 20 skaidrių (nuotraukų ar maketų ar vaizdo įrašų).
+
+Tai tarsi mini prezentacija ar istorija, kurią žmogus slenka į dešinę. Šis formatas yra vienas veiksmingiausių būdų išlaikyti dėmesį ir pateikti daugiau vertės viename įraše.
 
 ![Instagram carousel template](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/12_paskaita/Instagram%20carousel%20template.avif)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzMwNDgxNSwxNDg0Njk2OTg2XX0=
+eyJoaXN0b3J5IjpbMTg0MzkwMzgzNCwxNDg0Njk2OTg2XX0=
 -->
