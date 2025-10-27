@@ -75,8 +75,20 @@ Kokius žodžius ar frazes vertėtų naudoti ar kokių vengti?
 **Pastaba:** šiuo metu ši funkcija geriausiai veikia anglų kalba, lietuvių kalbos Canva dar nelabai palaiko. Todėl aprašymą rekomenduojama rašyti angliškai, kad Canva galėtų tinkamai pritaikyti toną ir siūlyti atitinkamus tekstus. Gaila, bet komunikacijai lietuvių kalba, ši dalis nėra itin naudinga.
 
 ### Nuotraukos, piktogramos ir grafika
+
+Įkelkite arba išsaugokite Canvoje vizualinius elementus, kurie bus naudojami nuolat:
+
+prekės ženklo nuotraukas,
+
+iliustracijas,
+
+piktogramas,
+
+foninius ornamentus ar tekstūras.
+
+Svarbu, kad šie elementai būtų stilistiškai vientisi – vienodas apšvietimas, spalvų tonas, linijų storis ir pan.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODAyMjUwLDY2MjcxMjAxNiwtNjA4ND
+eyJoaXN0b3J5IjpbMTA1MTgzMDMxLDY2MjcxMjAxNiwtNjA4ND
 c4MzMxLDEzOTcwMDY4NTMsNTY2Nzc1NTIzLC0xODIyMzU4NjMz
 LDM1NTE3MjEzMiw0ODk0NTQ2NTIsMTQ5ODQ1NDAyNywzMTI5ND
 k1MjddfQ==
