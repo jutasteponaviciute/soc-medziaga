@@ -14,6 +14,19 @@ Tai viena efektyviausių strategijų, leidžiančių auditorijai susipažinti su
 
 ## Kokie gali būti Freebie formatai?
 
+**Skaitmeniniai freebie:**
+- PDF gidai arba e-knygos
+- Kontroliniai sąrašai (checklistai)
+- Canva šablonai
+- Mini kursai ar testai
+- Skaičiuoklės (pvz., biudžeto ar planavimo)
+- Nuolaidų kodai
+
+**Fiziniai freebie:**
+- Reklaminiai produktai ar pavyzdžiai
+- Dovanėlės renginių metu
+- Atributika (pvz., lipdukai, atvirukai)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxOTcyNjU1OCwtMjQyNzMyODMyXX0=
+eyJoaXN0b3J5IjpbLTIxMDgyNjI1NDEsLTI0MjczMjgzMl19
 -->
