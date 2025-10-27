@@ -9,7 +9,17 @@ Vizualinis identitetas – tai visuma elementų, kurie leidžia atpažinti prek�
 
 ## Kodėl svarbu turėti nuoseklų identitetą socialiniuose tinkluose?
 
+Vizualinis nuoseklumas nėra tik estetika. Tai yra **komunikacijos strategijos dalis.**
+
+Jis:
+- **Padeda būti atpažįstamiems.** Žmonės pradeda jūsų turinį sieti su prekės ženklu dar prieš perskaitant tekstą.
+- **Kuria pasitikėjimą.** Vientisas dizainas atrodo profesionaliai, o chaotiškas – mėgėjiškai.
+- **Sutaupo laiką.** Turint aiškias gaires, nereikia kiekvieną kartą „išradinėti dviračio“;
+- **Užtikrina įspūdį.** Kai dizainas išlaiko toną ir stilių, auditorija pradeda jus matyti kaip stiprų, apgalvotą prekės ženklą.
+
+Trumpai tariant, nuoseklumas kuria tapatybę. Jis padeda auditorijai jus pažinti, prisiminti ir pasitikėti.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDIwMTI1NiwxNDk4NDU0MDI3LDMxMj
-k0OTUyN119
+eyJoaXN0b3J5IjpbNDg5NDU0NjUyLDE0OTg0NTQwMjcsMzEyOT
+Q5NTI3XX0=
 -->
