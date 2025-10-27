@@ -86,7 +86,11 @@ Vienas dažniausių dizaino iššūkių: viskas atrodo svarbu. Kad to išvengtum
 
 ## Instagram karuselių kūrimas
 
-![Instagram carousel template](githubhttps://raw.githubusercontent.com/IamJuniorMB/images/blobrefs/heads/main/social-long-material/12_paskaita/Instagram%20carousel%20template.avif)
+###
+
+![Instagram carousel template](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/12_paskaita/Instagram%20carousel%20template.avif)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTgyMTYzNiwxNDg0Njk2OTg2XX0=
+eyJoaXN0b3J5IjpbMTMwMzMwNDgxNSwxNDg0Njk2OTg2XX0=
 -->
