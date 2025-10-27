@@ -88,6 +88,14 @@ Struktūruokite aiškiai:
 - Viename puslapyje, viena pagrindinė mintis arba tema;
 - Svarbiausi dalykai turi būti vizualiai išskirti (spalva, forma ar šriftu).
 
+**5. Veiksmo kvietimas (CTA)**
+Baigęs skaityti žmogus turi žinoti, ką daryti toliau.
+
+Pvz.:
+- „Sek mane Instagram, kad gautum daugiau patarimų“
+- „Užsiregistruok į kursą čia“
+- „Įsigyk dovanų artimiesiems"
+
 ## Patarimai kuriant Freebie dizainą Canvoje
 
 - Naudokite aiškią struktūrą: viršelis → turinys → pagrindinė dalis → CTA.
@@ -146,8 +154,8 @@ aiškus CTA („komentuok žodį NORIU“).
 
 Vertinama, ar maketas/karuselė aiškiai perteikia pasiūlymą, išlaiko vizualinį nuoseklumą ir turi motyvuojantį kvietimą veikti (CTA).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDk3MzExOCwtMzUyMTczMTEyLDg5Mz
-E2ODIzMiwtMTMxMzE4MzY1LC00MTQ3MjYxOSwtMTg4MzY5MjM4
-OCwtMTk2ODUyNjAwNywtMjkyMzE4NDIwLDQ4MDEwOTMwMCwtMj
-QyNzMyODMyXX0=
+eyJoaXN0b3J5IjpbLTE4NjIzMzk3NTAsLTM1MjE3MzExMiw4OT
+MxNjgyMzIsLTEzMTMxODM2NSwtNDE0NzI2MTksLTE4ODM2OTIz
+ODgsLTE5Njg1MjYwMDcsLTI5MjMxODQyMCw0ODAxMDkzMDAsLT
+I0MjczMjgzMl19
 -->
