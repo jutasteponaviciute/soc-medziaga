@@ -48,10 +48,9 @@ Su Brand Kit pagalba, galima užtikrinti, kad kiekvienas turinio vienetas social
 **60 % – pagrindinė spalva** (dažniausiai fone, pagrindiniuose elementuose);
 **30 % – antrinė spalva** (tekstams, papildymams);
 **10 % – akcentinė spalva** (raginimams veikti, mygtukams, svarbioms detalėms).
-
-Canva leidžia įvesti spalvas pagal HEX kodus (pvz., #E7FF25) arba CMY
+- Canva leidžia įvesti spalvas pagal HEX kodus (pvz., #6f645c) arba CMYK kodus (pvz., 0,10,17,56 )
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDI5OTE2ODcsLTE4MjIzNTg2MzMsMz
-U1MTcyMTMyLDQ4OTQ1NDY1MiwxNDk4NDU0MDI3LDMxMjk0OTUy
-N119
+eyJoaXN0b3J5IjpbNTY2Nzc1NTIzLC0xODIyMzU4NjMzLDM1NT
+E3MjEzMiw0ODk0NTQ2NTIsMTQ5ODQ1NDAyNywzMTI5NDk1Mjdd
+fQ==
 -->
