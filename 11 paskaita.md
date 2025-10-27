@@ -126,11 +126,13 @@ Pastaba:
 - Ši užduotis skirta pasiruošti kitai paskaitai, kurioje praktikoje naudosime savo Brand Kit kuriant maketus ir perdarinėjant šablonus.
 
 Vertinami tvarkingai susisteminti elementai Brand Kit aplinkoje, aiškiai išlaikytas vizualinis nuoseklumas, gebėjimas logiškai parinkti spalvas, šriftus ir elementus.
+
+Naudinga nuoroda: https://www.youtube.com/watch?v=W9iG20uB7IY
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjgyMTg1MzIsLTE1ODI2MjI1NTMsMT
-Y3NTE3MzA2Nyw4MzIxMjg3MjgsMjY2NDU0Mjk3LDE0MzY4NDQ2
-NDEsMTEzNzg1MTA4OCwxNDI0OTEwNTE3LC0xMDI1MDU1NjMsMT
-A0MTkzMDc0MSw2NjI3MTIwMTYsLTYwODQ3ODMzMSwxMzk3MDA2
-ODUzLDU2Njc3NTUyMywtMTgyMjM1ODYzMywzNTUxNzIxMzIsND
-g5NDU0NjUyLDE0OTg0NTQwMjcsMzEyOTQ5NTI3XX0=
+eyJoaXN0b3J5IjpbLTMzMDc2OTM0NSwtMTU4MjYyMjU1MywxNj
+c1MTczMDY3LDgzMjEyODcyOCwyNjY0NTQyOTcsMTQzNjg0NDY0
+MSwxMTM3ODUxMDg4LDE0MjQ5MTA1MTcsLTEwMjUwNTU2MywxMD
+QxOTMwNzQxLDY2MjcxMjAxNiwtNjA4NDc4MzMxLDEzOTcwMDY4
+NTMsNTY2Nzc1NTIzLC0xODIyMzU4NjMzLDM1NTE3MjEzMiw0OD
+k0NTQ2NTIsMTQ5ODQ1NDAyNywzMTI5NDk1MjddfQ==
 -->
