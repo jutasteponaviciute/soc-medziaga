@@ -93,19 +93,16 @@ foninius ornamentus ar tekstūras.
 Prieš pradėdami kurti spalvų paletę ar šriftų derinius, atsakykite sau: ką noriu, kad žmonės pajustų, kai pamato mano vizualus? Ar tai profesionalumas, kūrybiškumas, jaukumas ar kita? Ši emocija turi atsispindėti kiekviename dizaino sprendime.
 
 - Pasirinkite vieną kryptį ir jos laikykitės. Vizualinis identitetas veikia tada, kai jis nuoseklus. Nesiblaškykite tarp stilių. 
-- Spalvų paletė turi turėti struktūrą. Naudokite 3–5 spalvas pagal principą 60 % – pagrindinė, 30 % – papildoma, 10 % – akcentinė.
-Tokiu būdu dizainas atrodo vientisas ir subalansuotas.
+- Spalvų paletė turi turėti struktūrą. Naudokite 3–5 spalvas, kurios sudaro sistemą, veikia tarpusavyje. Tokiu būdu dizainas atrodo vientisas ir subalansuotas.
 
-Šriftai kuria toną.
-Naudokite 2–3 šriftus, kurie dera tarpusavyje. Vienas pagrindinis (antraštėms), antras – tekstui, o trečias (nebūtinas) – akcentams ar specialiems projektams.
+-  Naudokite 2–3 šriftus, kurie dera tarpusavyje. Vienas pagrindinis (antraštėms), antras – tekstui, o trečias (nebūtinas) – akcentams ar specialiems projektams.
 
-Išlaikykite vientisumą visur.
-Tos pačios spalvos, šriftai ir stilius turi būti taikomi visose platformose – nuo socialinių tinklų įrašų iki naujienlaiškių ir pristatymų.
+- Išlaikykite vientisumą visur. Tos pačios spalvos, šriftai ir stilius turi būti taikomi visose platformose: nuo socialinių tinklų įrašų iki naujienlaiškių ar prezentacijų.
 
-Nepamirškite emocijos.
-Vizualinis identitetas – ne tik taisyklės. Jis turi „jaustis“. Ar jūsų dizainas įkvepia, ramina, skatina veikti ar sukelia smalsumą?
+- Nepamirškite emocijos.
+Vizualinis identitetas – ne tik taisyklės. Jis turi kuri jau. Ar jūsų dizainas įkvepia, ramina, skatina veikti ar sukelia smalsumą?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTc0NzI5MywxNDI0OTEwNTE3LC0xMD
+eyJoaXN0b3J5IjpbMTUzMTY3Nzc5NSwxNDI0OTEwNTE3LC0xMD
 I1MDU1NjMsMTA0MTkzMDc0MSw2NjI3MTIwMTYsLTYwODQ3ODMz
 MSwxMzk3MDA2ODUzLDU2Njc3NTUyMywtMTgyMjM1ODYzMywzNT
 UxNzIxMzIsNDg5NDU0NjUyLDE0OTg0NTQwMjcsMzEyOTQ5NTI3
