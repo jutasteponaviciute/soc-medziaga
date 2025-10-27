@@ -31,7 +31,19 @@ Jame galima:
 - apibrėžti prekės ženklo toną (brand voice).
 
 Su Brand Kit pagalba, galima užtikrinti, kad kiekvienas turinio vienetas socialiniuose tinkluose (ir ne tik) būtų to paties stiliaus.
+
+## Brand Kit sudedamosios dalys
+
+### Logotipas
+
+Savo logotipo ir jo alternatyvių versijų įkėlimas.
+Canva leidžia įkelti PNG, JPG arba SVG failus.
+Rekomenduoju kelti SVG formatu, nes
+Jei prekės ženklas dar neturi logotipo, galima sukurti laikiną žodinį variantą, naudojant pasirinktą šriftą.
+
+Naudinga nuoroda: https://www.youtube.com/watch?v=W9iG20uB7IY
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjIzNTg2MzMsMzU1MTcyMTMyLDQ4OT
-Q1NDY1MiwxNDk4NDU0MDI3LDMxMjk0OTUyN119
+eyJoaXN0b3J5IjpbMjAxMjI5MCwtMTgyMjM1ODYzMywzNTUxNz
+IxMzIsNDg5NDU0NjUyLDE0OTg0NTQwMjcsMzEyOTQ5NTI3XX0=
+
 -->
