@@ -38,7 +38,11 @@ Pavyzdys:
 - Leidžia segmentuoti auditoriją pagal interesus.
 - Skatina organinius pasidalinimus.
 
+## Freebie kūrimo, reklamavimo ir automatizavimo eiga
+
 ![Freebie kūrimo sekos pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/13_paskaita/Freebie%20k%C5%ABrimo%20sekos%20pavyzdys.avif)
+
+Jei nerenkate naujienlaiškių prenumeratorių, galima praleisti naujienlaišk
 
 ## Kaip susikurti freebie su Canva?
 
@@ -109,7 +113,7 @@ aiškus CTA („komentuok žodį NORIU“).
 
 Vertinama, ar maketas/karuselė aiškiai perteikia pasiūlymą, išlaiko vizualinį nuoseklumą ir turi motyvuojantį kvietimą veikti (CTA).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTMxODM2NSwtNDE0NzI2MTksLTE4OD
-M2OTIzODgsLTE5Njg1MjYwMDcsLTI5MjMxODQyMCw0ODAxMDkz
-MDAsLTI0MjczMjgzMl19
+eyJoaXN0b3J5IjpbODkzMTY4MjMyLC0xMzEzMTgzNjUsLTQxND
+cyNjE5LC0xODgzNjkyMzg4LC0xOTY4NTI2MDA3LC0yOTIzMTg0
+MjAsNDgwMTA5MzAwLC0yNDI3MzI4MzJdfQ==
 -->
