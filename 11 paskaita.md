@@ -115,17 +115,15 @@ Spalvų paletė – bent trys spalvos pagal 60–30–10 principą.
 Šriftai – pasirinkite 2–3 derančius šriftus (antraštėms, tekstui, akcentui).
 Brand Voice – trumpai anglų kalba aprašykite savo prekės ženklo toną.
 Nuotraukos ir grafiniai elementai – įkelkite nuotraukas, piktogramas ar iliustracijas, kurias planuojate naudoti komunikacijoje.
-- Ištestuokite spalvų paletę, jog būtų pakankamas kontrastas ir šriftus, kad jie palaikytų visas reikiamas raides ir skyrybos ženklus.
+- Ištestuokite spalvų paletę, jog būtų pakankamas kontrastas ir šriftus, kad jie palaikytų visas reikiamas raides ir skyrybos ženklus (tam galima naudoti praeitoje paskaitoje pateiktą šabloną).
 
 Pastaba:
 - Jei tam projektui kai kurios Brand Kit skiltys nėra aktualios, jų pildyti nebūtina.
 - Ši užduotis skirta pasiruošti kitai paskaitai, kurioje praktikoje naudosime savo Brand Kit kuriant maketus ir perdarinėjant šablonus.
 
 Vertinami tvarkingai susisteminti elementai Brand Kit aplinkoje, aiškiai išlaikytas vizualinis nuoseklumas, gebėjimas logiškai parinkti spalvas, šriftus ir elementus.
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzOTYzODY5LDI2NjQ1NDI5NywxNDM2OD
+eyJoaXN0b3J5IjpbODMyMTI4NzI4LDI2NjQ1NDI5NywxNDM2OD
 Q0NjQxLDExMzc4NTEwODgsMTQyNDkxMDUxNywtMTAyNTA1NTYz
 LDEwNDE5MzA3NDEsNjYyNzEyMDE2LC02MDg0NzgzMzEsMTM5Nz
 AwNjg1Myw1NjY3NzU1MjMsLTE4MjIzNTg2MzMsMzU1MTcyMTMy
