@@ -195,11 +195,21 @@ Karuselės yra ne tik dizainas, bet ir turinio strategijos įrankis. Kurdami jas
 
 
 ### Prieš publikuojant visada patikrink:
+- Ar pirma ir antra skaidrė sustabdo skrolinimą?
+- Ar viena mintis vienoje skaidrėje?
+- ierarchija aiški: antraštė → pagrindinis tekstas → CTA?
 
+- Ar tekstas įskaitomas telefone.
+
+Vientisi tarpai, tinklelis, tas pats CTA stilius.
+
+Failai sunumeruoti 01–10, dydis 1080×1350.
+
+Caption pradžia su „hook“, vienas aiškus CTA.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxMDM1OTE1LC01MDA0MjM0ODksOTQ3NT
-c4MDkwLC01MjM2MTE4MDQsMTg0MzkwMzgzNCwxNDg0Njk2OTg2
-XX0=
+eyJoaXN0b3J5IjpbLTE0OTg0NjQ5OTgsLTUwMDQyMzQ4OSw5ND
+c1NzgwOTAsLTUyMzYxMTgwNCwxODQzOTAzODM0LDE0ODQ2OTY5
+ODZdfQ==
 -->
