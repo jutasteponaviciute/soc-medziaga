@@ -114,7 +114,7 @@ Struktūra:
 - 1 skaidrė: sustabdanti ir intriguojanti antraštė.
 Pvz.: „Kaip prastą dizainą Canvoje paversti į gerą?“
 - 2 skaidrė: įvedanti skaidrė. Svarbu dėmesį skirti ne tik pirmai, bet ir antrai skaidrei, nes dažnai Instagram algoritmas įrašo rodymą naujienų sraute pradeda būtent nuo antros skaidrės.
-- 3-4 skaidrės: pagrindiniai punktai su aiškia mintimi kiekvienoje.
+- Vidurinės skaidrės: pagrindiniai punktai su aiškia mintimi kiekvienoje.
 - Paskutinė skaidrė: apibendrinimas + CTA („Išsaugok, kad nepamirštum“, „Pritaikyk šiandien“).
 
  **2. Įkvepianti (emocinė) karuselė** 
@@ -126,7 +126,7 @@ Tinka, kai norite:
 - sukurti palaikančią atmosferą bendruomenėje.
 
 Struktūra:
-- Pirmoji skaidrė: sakinys, kuris paliečia.
+- 1 skaidrė: sakinys, kuris paliečia.
 Pvz.: „Tavo turinys vertas daugiau nei 10 širdelių.“, „Nereikia būti tobulu, kad būtum įdomus.“
 - 2 skaidrė: įvedanti skaidrė. Svarbu dėmesį skirti ne tik pirmai, bet ir antrai skaidrei, nes dažnai Instagram algoritmas įrašo rodymą naujienų sraute pradeda būtent nuo antros skaidrės.
 - Vidurinės skaidrės: 3–6 emociniai punktai arba mintys su paprastais vaizdiniais.
@@ -141,26 +141,13 @@ Tinka, kai norite:
 - pabrėžti vertę per aiškią struktūrą.
 
 Struktūra:
-- Skaidrė 1 – dėmesį patraukianti antraštė.
-Pvz.:
+- 1 skaidrė: dėmesį patraukianti antraštė.
+Pvz.: „Šis įrankis sutaupys tau valandas (ir nervus).“
+- 2 skaidrė: įvedanti skaidrė. Svarbu dėmesį skirti ne tik pirmai, bet ir antrai skaidrei, nes dažnai Instagram algoritmas įrašo rodymą naujienų sraute pradeda būtent nuo antros skaidrės.
+- Vidurinės skaidrės: trumpai pristatomi privalumai, savybės ar naudų punktai.
+- Paskutinė skaidrė: aiškus CTA („Registruokis dabar“, „Pirk čia“, „Nuoroda profilyje“).
 
-„Kai vizualai kalba už tave – pardavimai kalba patys.“
-
-„Šis įrankis sutaupys tau valandas (ir nervus).“
-
-Skaidrės 2–4 – trumpai pristatomi privalumai, savybės ar naudų punktai.
-
-Paskutinė skaidrė – aiškus CTA („Registruokis dabar“, „Pirk čia“, „Nuoroda profilyje“).
-
-Vizualo patarimai:
-
-Viena pagrindinė spalva + akcentas CTA mygtukui.
-
-Naudok produktų nuotraukas ar maketus.
-
-Tekstas trumpas, veikiantis, veiksmažodžiais.
-
-📖 4. Storytelling karuselė
+ **4. Storytelling karuselė**
 
 Tikslas – papasakoti istoriją arba parodyti procesą.
 
@@ -222,6 +209,6 @@ Naudok vienodus rėmelius ar maketų stilių.
 Tegu dėmesys lieka ant turinio, ne ant dekoracijų.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjE3OTc2Myw5NDc1NzgwOTAsLTUyMz
+eyJoaXN0b3J5IjpbLTk4ODkzMDQyNiw5NDc1NzgwOTAsLTUyMz
 YxMTgwNCwxODQzOTAzODM0LDE0ODQ2OTY5ODZdfQ==
 -->
