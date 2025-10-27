@@ -110,26 +110,23 @@ Tikslas: Susisteminti pasirinkto projekto vizualinius elementus Canva Brand Kit 
 Užduotis:
 - Pasirinkite ar išgalvokite projektą / prekės ženklą, su kuriuo dirbsite, ir Canva aplinkoje susikurkite Brand Kit.
 - Jame turėtų būti:
-- Logotipas – įkelkite esamą arba laikiną teksto logotipą.
-- Spalvų paletė – bent trys spalvos pagal 60–30–10 principą.
-- Šriftai – pasirinkite 2–3 derančius šriftus (antraštėms, tekstui, akcentui).
-- Brand Voice – trumpai aprašykite savo prekės ženklo toną anglų kalba (pvz., friendly, creative, modern).
-Vaizdai ir grafiniai elementai – jei aktualu, įkelkite nuotraukas, piktogramas ar iliustracijas, kurias planuojate naudoti komunikacijoje.
+Logotipas – įkelkite esamą arba laikiną teksto logotipą.
+Spalvų paletė – bent trys spalvos pagal 60–30–10 principą.
+Šriftai – pasirinkite 2–3 derančius šriftus (antraštėms, tekstui, akcentui).
+Brand Voice – trumpai anglų kalba aprašykite savo prekės ženklo toną.
+Nuotraukos ir grafiniai elementai – įkelkite nuotraukas, piktogramas ar iliustracijas, kurias planuojate naudoti komunikacijoje.
 
 Pastaba:
-Jei tam projektui kai kurios „Brand Kit“ skiltys nėra aktualios (pvz., neturite logotipo ar brand voice aprašymo) – jų pildyti nebūtina.
-Ši užduotis skirta pasiruošti kitai paskaitai, kurioje praktikoje naudosime savo „Brand Kit“ kuriant maketus ir perdarinėjant šablonus.
+- Jei tam projektui kai kurios Brand Kit skiltys nėra aktualios, jų pildyti nebūtina.
+- Ši užduotis skirta pasiruošti kitai paskaitai, kurioje praktikoje naudosime savo Brand Kit kuriant maketus ir perdarinėjant šablonus.
 
-Vertinimo kriterijai:
-✅ Tvarkingai susisteminti elementai „Brand Kit“ aplinkoje
-✅ Aiškiai išlaikytas vizualinis nuoseklumas
-✅ Gebėjimas logiškai parinkti spalvas, šriftus ir elementus
+Vertinami tvarkingai susisteminti elementai Brand Kit aplinkoje, aiškiai išlaikytas vizualinis nuoseklumas, gebėjimas logiškai parinkti spalvas, šriftus ir elementus.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDM0MzEyODEsMjY2NDU0Mjk3LDE0Mz
-Y4NDQ2NDEsMTEzNzg1MTA4OCwxNDI0OTEwNTE3LC0xMDI1MDU1
-NjMsMTA0MTkzMDc0MSw2NjI3MTIwMTYsLTYwODQ3ODMzMSwxMz
-k3MDA2ODUzLDU2Njc3NTUyMywtMTgyMjM1ODYzMywzNTUxNzIx
-MzIsNDg5NDU0NjUyLDE0OTg0NTQwMjcsMzEyOTQ5NTI3XX0=
+eyJoaXN0b3J5IjpbMTYyNjg4Njk4MSwyNjY0NTQyOTcsMTQzNj
+g0NDY0MSwxMTM3ODUxMDg4LDE0MjQ5MTA1MTcsLTEwMjUwNTU2
+MywxMDQxOTMwNzQxLDY2MjcxMjAxNiwtNjA4NDc4MzMxLDEzOT
+cwMDY4NTMsNTY2Nzc1NTIzLC0xODIyMzU4NjMzLDM1NTE3MjEz
+Miw0ODk0NTQ2NTIsMTQ5ODQ1NDAyNywzMTI5NDk1MjddfQ==
 -->
