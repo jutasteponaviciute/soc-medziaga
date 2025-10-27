@@ -127,9 +127,10 @@ Pastaba:
 
 Vertinami tvarkingai susisteminti elementai Brand Kit aplinkoje, aiškiai išlaikytas vizualinis nuoseklumas, gebėjimas logiškai parinkti spalvas, šriftus ir elementus.
 
-Naudinga nuoroda: https://www.youtube.com/watch?v=W9iG20uB7IY
+Naudinga nuoroda: https://www.youtube.com/watch?v=W9iG20uB7IY 
+Dar nėra apžvalgų su naujausiais Canva Brand Kit atnaujintais 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDc2OTM0NSwtMTU4MjYyMjU1MywxNj
+eyJoaXN0b3J5IjpbMTE1NDI5NzQxMCwtMTU4MjYyMjU1MywxNj
 c1MTczMDY3LDgzMjEyODcyOCwyNjY0NTQyOTcsMTQzNjg0NDY0
 MSwxMTM3ODUxMDg4LDE0MjQ5MTA1MTcsLTEwMjUwNTU2MywxMD
 QxOTMwNzQxLDY2MjcxMjAxNiwtNjA4NDc4MzMxLDEzOTcwMDY4
