@@ -30,7 +30,7 @@ Pavyzdys:
 - Dovanėlės renginių metu
 - Atributika (pvz., lipdukai, atvirukai)
 
-## Kas yra Freebie ir kam jis reikalingas?
+## Kuo freebie naudingas verslui?
 
 - Padeda auginti auditoriją socialiniuose tinkluose.
 - Padeda rinkti el. pašto adresus naujienlaiškiams.
@@ -49,6 +49,7 @@ Pavyzdys:
 nuorodas į socialinius tinklus ar svetainę;
 mygtuką, pavyzdžiui, „Noriu sužinoti daugiau!“;
 
+![nuorodos pridėjimas](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/13_paskaita/nuorodos%20prid%C4%97jimas%20interaktyvumas.avif)
 - Eksportuokite kaip PDF su aktyviomis nuorodomis.
 - Įkelkite į Google Drive ar Dropbox ir nustatykite prieigą „Anyone with the link can view“.
 
@@ -86,7 +87,7 @@ Naudojant ManyChat, galite:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4ODUxMTM5LC00MTQ3MjYxOSwtMTg4Mz
-Y5MjM4OCwtMTk2ODUyNjAwNywtMjkyMzE4NDIwLDQ4MDEwOTMw
-MCwtMjQyNzMyODMyXX0=
+eyJoaXN0b3J5IjpbLTY5ODI4NDY5OSwtNDE0NzI2MTksLTE4OD
+M2OTIzODgsLTE5Njg1MjYwMDcsLTI5MjMxODQyMCw0ODAxMDkz
+MDAsLTI0MjczMjgzMl19
 -->
