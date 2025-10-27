@@ -178,10 +178,8 @@ Struktūra:
 
 ### Bendri karuselės kūrimo principai
 
-Viena mintis – viena skaidrė.
-Neperkraukite informacijos. Kiekviena skaidrė turi turėti aiškų tikslą.
-
-Pirmoji skaidrė – svarbiausia.
+- Viena mintis = viena skaidrė. Neperkraukite informacijos. Kiekviena skaidrė turi turėti aiškų tikslą.
+Pirmoji ir antroji skaidrė turi užkabinti.
 Ji turi sustabdyti skrolinimą. Naudokite kontrastą, klausimą, emociją arba intriguojantį sakinį.
 
 Paskutinė skaidrė – raginimas veikti (CTA).
@@ -200,6 +198,6 @@ Change all fonts.
 Ištestuokite skaitomumą.
 Peržiūrėkite karuselę telefone. Kas atrodo gerai kompiuteryje, telefone gali būti per maža arba per intensyvu.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTM0OTg1Niw5NDc1NzgwOTAsLTUyMz
-YxMTgwNCwxODQzOTAzODM0LDE0ODQ2OTY5ODZdfQ==
+eyJoaXN0b3J5IjpbLTEwNjExMzAyMjEsOTQ3NTc4MDkwLC01Mj
+M2MTE4MDQsMTg0MzkwMzgzNCwxNDg0Njk2OTg2XX0=
 -->
