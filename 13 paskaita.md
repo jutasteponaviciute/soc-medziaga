@@ -83,11 +83,34 @@ Naudojant ManyChat, galite:
 
 ### 1 užduotis. Sukurkite PDF gidą (freebie)
 
+Tikslas: sukurti vertingą nemokamą turinį (freebie), kuris atspindėtų jūsų prekės ženklo stilių ir teiktų realią naudą auditorijai.
+
+Užduotis:
+
+Pasirinkite temą, kuri būtų naudinga jūsų auditorijai (pvz., patarimai, kontrolinis sąrašas, mini gidas ar šablonas).
+
+Canvoje sukurkite 3–5 puslapių PDF naudodami savo Brand Kit (spalvas, šriftus, logotipą).
+
+Įtraukite interaktyvius elementus: nuorodą, QR kodą arba CTA mygtuką („Atsisiųsk daugiau“, „Sekite mane Instagram“ ir pan.).
+
+Eksportuokite kaip PDF su aktyviomis nuorodomis.
+
+Įkelkite į Google Drive su nustatymu “Anyone with the link can view”.
+
+Pateikite atsiskaitymui:
+
+nuorodą į Google Drive;
+
+ekrano nuotrauką (ar kelias), kur matosi jūsų sukurtas freebie dizainas.
+
+Vertinimas:
+Vertinamas dizaino aiškumas, struktūra, vizualinis nuoseklumas pagal Brand Kit ir teisingas failo pateikimas.
+
 ### 2 užduotis. Sukurkite karuselę, arba maketą kuris kviestų parsisiųsti freebie.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODI4NDY5OSwtNDE0NzI2MTksLTE4OD
-M2OTIzODgsLTE5Njg1MjYwMDcsLTI5MjMxODQyMCw0ODAxMDkz
-MDAsLTI0MjczMjgzMl19
+eyJoaXN0b3J5IjpbMTU1NzEwMTM0LC00MTQ3MjYxOSwtMTg4Mz
+Y5MjM4OCwtMTk2ODUyNjAwNywtMjkyMzE4NDIwLDQ4MDEwOTMw
+MCwtMjQyNzMyODMyXX0=
 -->
