@@ -58,8 +58,17 @@ mygtuką, pavyzdžiui, „Noriu sužinoti daugiau!“;
 - Eksportuokite kaip PDF su aktyviomis nuorodomis.
 - Įkelkite į Google Drive ar Dropbox ir nustatykite prieigą „Anyone with the link can view“.
 
-## PDF gido (freebie) struktūra
+## PDF Freebie struktūra
 
+**1. Viršelis (Cover page)**
+Pirmas įspūdis yra viskas — jis turi būti švarus, aiškus ir atspindėti tavo prekės ženklo stilių.
+
+Ką įtraukti:
+- Freebie pavadinimas (pvz. „Patarimai, kaip susitvarkyti Instagram BIO aprašymą“);
+Trumpas paantraštės sakinys, nurodantis naudą („Lengvas gidas mažiems verslams“);
+Tavo logotipas ar vardas / prekės ženklas;
+
+Vizualas (nuotrauka, iliustracija ar fonas pagal tavo Brand Kit).
 ## Patarimai kuriant Freebie dizainą Canvoje
 
 - Naudokite aiškią struktūrą: viršelis → turinys → pagrindinė dalis → CTA.
@@ -118,8 +127,8 @@ aiškus CTA („komentuok žodį NORIU“).
 
 Vertinama, ar maketas/karuselė aiškiai perteikia pasiūlymą, išlaiko vizualinį nuoseklumą ir turi motyvuojantį kvietimą veikti (CTA).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTUzMjE0ODksLTM1MjE3MzExMiw4OT
-MxNjgyMzIsLTEzMTMxODM2NSwtNDE0NzI2MTksLTE4ODM2OTIz
-ODgsLTE5Njg1MjYwMDcsLTI5MjMxODQyMCw0ODAxMDkzMDAsLT
-I0MjczMjgzMl19
+eyJoaXN0b3J5IjpbLTUxODE5NDIwLC0zNTIxNzMxMTIsODkzMT
+Y4MjMyLC0xMzEzMTgzNjUsLTQxNDcyNjE5LC0xODgzNjkyMzg4
+LC0xOTY4NTI2MDA3LC0yOTIzMTg0MjAsNDgwMTA5MzAwLC0yND
+I3MzI4MzJdfQ==
 -->
