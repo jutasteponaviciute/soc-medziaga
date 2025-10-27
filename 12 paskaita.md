@@ -220,47 +220,27 @@ Užduotis:
 - Padarykite ekrano nuotraukas arba nukopijuokite įrašo nuorodą.
 - Atsakykite į šiuos klausimus (trumpai, bet argumentuotai):    
 A. Struktūra ir turinys
--   Kiek skaidrių?    
--   Koks karuselės tipas (edukacinė, įkvepianti, pardaviminė, storytelling ar kt.)?    
--   Ar matyti pradžia, vidurys ir pabaiga?  
+ Kiek skaidrių?    
+Koks karuselės tipas (edukacinė, įkvepianti, pardaviminė, storytelling ar kt.)?    
+Ar matyti pradžia, vidurys ir pabaiga?  
 B. Dizainas ir vizualai
--   Kokios spalvos ir šriftai naudojami – ar jie dera tarpusavyje?    
--   Ar išlaikytas vientisumas tarp skaidrių?    
--   Ar tekstas lengvai įskaitomas?
-- C. Dėmesio išlaikymas
-
--   Ar pirma skaidrė patraukia dėmesį? Kodėl?
-    
--   Ar antra skaidrė skatina slinkti toliau?
-    
--   Ar paskutinėje skaidrėje yra aiškus kvietimas veikti (CTA)?
-    
-
-**D. Įžvalga**
-
--   Kas šioje karuselėje veikia / neveikia ir kodėl?
-    
--   Ką iš šio pavyzdžio pasiimtum (ar vengsi) kurdamas savo dizainą?
-    
-
-----------
-
-### **Pateikimas**
-
--   Atsakymus pateikite **Canvoje ar PDF formatu (1–2 puslapiai)**.
-    
--   Įkelkite karuselės **ekrano nuotrauką arba nuorodą**.
-    
-
-----------
-
-### **Vertinimas**
+Kokios spalvos ir šriftai naudojami – ar jie dera tarpusavyje?    
+Ar išlaikytas vientisumas tarp skaidrių?    
+Ar tekstas lengvai įskaitomas?
+C. Dėmesio išlaikymas
+Ar pirma skaidrė patraukia dėmesį? Kodėl?    
+Ar antra skaidrė skatina slinkti toliau?    
+Ar paskutinėje skaidrėje yra aiškus kvietimas veikti (CTA)?
+D. Įžvalga
+Kas šioje karuselėje veikia / neveikia ir kodėl?    
+Ką iš šio pavyzdžio pasiimtum (ar vengsi) kurdamas savo dizainą?
+- Atsakymus pateikite Canvoje ar PDF formatu.  
 
 Vertinama, ar studentas geba pagrįstai įvertinti karuselės struktūrą, dizaino sprendimus ir komunikacijos aiškumą, remdamasis konkrečiais pavyzdžiais.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjYyNTExNzMsNjM2MTEyODM4LC0xND
-U5NjcyNTU3LDM5Mjg3OTM5NSwxMTYyMTEzMjg1LC01MDA0MjM0
-ODksOTQ3NTc4MDkwLC01MjM2MTE4MDQsMTg0MzkwMzgzNCwxND
-g0Njk2OTg2XX0=
+eyJoaXN0b3J5IjpbMjQ1MTIxMDA1LDYzNjExMjgzOCwtMTQ1OT
+Y3MjU1NywzOTI4NzkzOTUsMTE2MjExMzI4NSwtNTAwNDIzNDg5
+LDk0NzU3ODA5MCwtNTIzNjExODA0LDE4NDM5MDM4MzQsMTQ4ND
+Y5Njk4Nl19
 -->
