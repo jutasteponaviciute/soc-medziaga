@@ -72,10 +72,9 @@ Ar tekstai turi būti įkvepiantys, informatyvūs ar humoristiniai?
 Kokius žodžius ar frazes vertėtų naudoti ar kokių vengti?
 - Tai padeda Canva dirbtiniam intelektui kurti tekstus, kurie atitinka jūsų prekės ženklo stilių.
 
-Pastaba: šiuo metu ši funkcija geriausiai veikia anglų kalba – lietuvių kalbos Canva dar nepalaiko.
-Todėl aprašymą rekomenduojama rašyti angliškai, kad Canva galėtų tinkamai pritaikyti toną ir siūlyti atitinkamus tekstus.
+**Pastaba:** šiuo metu ši funkcija geriausiai veikia anglų kalba, lietuvių kalbos Canva dar nelabai palaiko. Todėl aprašymą rekomenduojama rašyti angliškai, kad Canva galėtų tinkamai pritaikyti toną ir siūlyti atitinkamus tekstus. Gaila, bet komunikacijai lietuvių kalba, ši dalis nėra itin naudinga.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODI2MjUxOCwtNjA4NDc4MzMxLDEzOT
-cwMDY4NTMsNTY2Nzc1NTIzLC0xODIyMzU4NjMzLDM1NTE3MjEz
-Miw0ODk0NTQ2NTIsMTQ5ODQ1NDAyNywzMTI5NDk1MjddfQ==
+eyJoaXN0b3J5IjpbNjYyNzEyMDE2LC02MDg0NzgzMzEsMTM5Nz
+AwNjg1Myw1NjY3NzU1MjMsLTE4MjIzNTg2MzMsMzU1MTcyMTMy
+LDQ4OTQ1NDY1MiwxNDk4NDU0MDI3LDMxMjk0OTUyN119
 -->
