@@ -179,25 +179,21 @@ Struktūra:
 ### Bendri karuselės kūrimo principai
 
 - Viena mintis = viena skaidrė. Neperkraukite informacijos. Kiekviena skaidrė turi turėti aiškų tikslą.
-Pirmoji ir antroji skaidrė turi užkabinti.
-Ji turi sustabdyti skrolinimą. Naudokite kontrastą, klausimą, emociją arba intriguojantį sakinį.
-
-Paskutinė skaidrė – raginimas veikti (CTA).
-Net jei tai tik „Išsaugok šį įrašą“, ji turi būti aiški ir vizualiai išskirta.
-
-Išlaikykite vientisumą.
-Naudokite savo Brand Kit šriftus, spalvas ir elementus.
-Canva tai palengvina su funkcijomis:
-
-Apply Brand Kit to design;
-
-Change all colors;
-
+- Pirmoji ir antroji skaidrė turi užkabinti. Ji turi sustabdyti skrolinimą.
+- Paskutinė skaidrė: raginimas veikti (CTA). Net jei tai tik „Išsaugok šį įrašą“, ji turi būti aiški ir vizualiai išskirta.
+- Išlaikykite vientisumą. Naudokite savo Brand Kit šriftus, spalvas ir elementus.
 Change all fonts.
+- Ištestuokite skaitomumą. Peržiūrėkite karuselę telefone. Kas atrodo gerai kompiuteryje, telefone gali būti per maža arba per intensyvu.
 
-Ištestuokite skaitomumą.
-Peržiūrėkite karuselę telefone. Kas atrodo gerai kompiuteryje, telefone gali būti per maža arba per intensyvu.
+Papildomas patarimas iš praktikos
+
+Karuselės yra ne tik dizainas, bet ir turinio strategijos įrankis.
+Kurdami jas, mąstykite ne „ką noriu parodyti“, o „ką žmogus išsineš“.
+
+Klausimas, kuris visada padeda:
+
+„Jei žmogus pamatytų tik šitą karuselę, ar jis suprastų, ką noriu pasakyti?“
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjExMzAyMjEsOTQ3NTc4MDkwLC01Mj
+eyJoaXN0b3J5IjpbLTE1NTU2NjE0NzgsOTQ3NTc4MDkwLC01Mj
 M2MTE4MDQsMTg0MzkwMzgzNCwxNDg0Njk2OTg2XX0=
 -->
