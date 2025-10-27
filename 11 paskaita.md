@@ -115,6 +115,7 @@ Spalvų paletė – bent trys spalvos pagal 60–30–10 principą.
 Šriftai – pasirinkite 2–3 derančius šriftus (antraštėms, tekstui, akcentui).
 Brand Voice – trumpai anglų kalba aprašykite savo prekės ženklo toną.
 Nuotraukos ir grafiniai elementai – įkelkite nuotraukas, piktogramas ar iliustracijas, kurias planuojate naudoti komunikacijoje.
+- Ištestuokite spalvų paletę, jog būtų pakankamas kontrastas ir šriftus, kad jie palaikytų visas reikiamas raides ir skyrybos ženklus.
 
 Pastaba:
 - Jei tam projektui kai kurios Brand Kit skiltys nėra aktualios, jų pildyti nebūtina.
@@ -124,9 +125,9 @@ Vertinami tvarkingai susisteminti elementai Brand Kit aplinkoje, aiškiai išlai
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjg4Njk4MSwyNjY0NTQyOTcsMTQzNj
-g0NDY0MSwxMTM3ODUxMDg4LDE0MjQ5MTA1MTcsLTEwMjUwNTU2
-MywxMDQxOTMwNzQxLDY2MjcxMjAxNiwtNjA4NDc4MzMxLDEzOT
-cwMDY4NTMsNTY2Nzc1NTIzLC0xODIyMzU4NjMzLDM1NTE3MjEz
-Miw0ODk0NTQ2NTIsMTQ5ODQ1NDAyNywzMTI5NDk1MjddfQ==
+eyJoaXN0b3J5IjpbMzgzOTYzODY5LDI2NjQ1NDI5NywxNDM2OD
+Q0NjQxLDExMzc4NTEwODgsMTQyNDkxMDUxNywtMTAyNTA1NTYz
+LDEwNDE5MzA3NDEsNjYyNzEyMDE2LC02MDg0NzgzMzEsMTM5Nz
+AwNjg1Myw1NjY3NzU1MjMsLTE4MjIzNTg2MzMsMzU1MTcyMTMy
+LDQ4OTQ1NDY1MiwxNDk4NDU0MDI3LDMxMjk0OTUyN119
 -->
