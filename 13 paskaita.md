@@ -35,6 +35,8 @@ Tai viena efektyviausių strategijų, leidžiančių auditorijai susipažinti su
 - Leidžia segmentuoti auditoriją pagal interesus.
 - Skatina organinius pasidalinimus.
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODI4NjUwMywtMjQyNzMyODMyXX0=
+eyJoaXN0b3J5IjpbLTI2OTIwODM5NSwtMjQyNzMyODMyXX0=
 -->
