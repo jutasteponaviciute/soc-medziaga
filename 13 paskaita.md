@@ -79,6 +79,15 @@ Ką rašyti:
 **3. Turinys** (jei dokumentas ilgesnis nei 4 psl.)
 Kai freebie turi daugiau nei kelis puslapius, pridėk trumpą turinį su aktyviomis nuorodomis (jei PDF interaktyvus).
 
+**4. Pagrindinė dalis**
+Čia visa vertė.
+
+Struktūruokite aiškiai:
+- Skirstykite informaciją į aiškius skyrius ar žingsnius;
+- Naudok antraštes, numeruotus sąrašus, ikonas ir iliustracijas;
+- Viename puslapyje, viena pagrindinė mintis arba tema;
+- Svarbiausi dalykai turi būti vizualiai išskirti (spalva, forma ar šriftu).
+
 ## Patarimai kuriant Freebie dizainą Canvoje
 
 - Naudokite aiškią struktūrą: viršelis → turinys → pagrindinė dalis → CTA.
@@ -137,7 +146,7 @@ aiškus CTA („komentuok žodį NORIU“).
 
 Vertinama, ar maketas/karuselė aiškiai perteikia pasiūlymą, išlaiko vizualinį nuoseklumą ir turi motyvuojantį kvietimą veikti (CTA).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODU1Mjk0NywtMzUyMTczMTEyLDg5Mz
+eyJoaXN0b3J5IjpbLTM1MDk3MzExOCwtMzUyMTczMTEyLDg5Mz
 E2ODIzMiwtMTMxMzE4MzY1LC00MTQ3MjYxOSwtMTg4MzY5MjM4
 OCwtMTk2ODUyNjAwNywtMjkyMzE4NDIwLDQ4MDEwOTMwMCwtMj
 QyNzMyODMyXX0=
