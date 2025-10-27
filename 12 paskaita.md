@@ -241,8 +241,23 @@ Vertinama, ar studentas geba pagrįstai įvertinti karuselės struktūrą, dizai
 
 ### 2 užduotis. Karuselės kūrimas Canvoje
 
+Tikslas: pritaikyti anksčiau sukurtą Canva Brand Kit praktikoje, išmokti kurti vientisą ir strategiškai suplanuotą Instagram karuselę pagal savo prekės ženklo stilių.
+
+Užduotis:
+- Atsidarykite Canva ir naudodami savo Brand Kit elementus (spalvas, šriftus, logotipą ir stiliaus gaires) sukurkite Instagram karuselę (1080 × 1350 px).
+- Pasirinkite vieną iš šių karuselės tipų:
+edukacinė (dalijasi žiniomis ar patarimais);
+įkvepianti (motyvacinė, emocinė);
+storytelling (istorijos pasakojimas);
+pardaviminė (pasiūlymas ar produkto pristatymas).
+- Karuselė turėtų turėti 5–10 skaidrių, aiškią struktūrą ir raginimą veikti (CTA) paskutinėje skaidrėje.
+
+Dizainui naudokite tik savo Brand Kit spalvas, šriftus ir vizualinius elementus.
+
+Sukūrus dizainą, atsidarykite peržiūros režimu (View → Present) ir nukopijuokite viešą dizaino nuorodą (Share → Anyone with the link → View only).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzU5MjA3MTksMTY4NzY4NTg3NCw2Mz
+eyJoaXN0b3J5IjpbLTExNjY0MzgzNzksMTY4NzY4NTg3NCw2Mz
 YxMTI4MzgsLTE0NTk2NzI1NTcsMzkyODc5Mzk1LDExNjIxMTMy
 ODUsLTUwMDQyMzQ4OSw5NDc1NzgwOTAsLTUyMzYxMTgwNCwxOD
 QzOTAzODM0LDE0ODQ2OTY5ODZdfQ==
