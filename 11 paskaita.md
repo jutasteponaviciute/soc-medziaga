@@ -99,13 +99,17 @@ Prieš pradėdami kurti spalvų paletę ar šriftų derinius, atsakykite sau: k�
 
 - Išlaikykite vientisumą visur. Tos pačios spalvos, šriftai ir stilius turi būti taikomi visose platformose: nuo socialinių tinklų įrašų iki naujienlaiškių ar prezentacijų.
 
-- Nepamirškite emocijos. Vizualinis identitetas – ne tik taisyklės. Jis turi kuri jausmą. Ar jūsų dizainas įkvepia, ramina, skatina veikti ar sukelia smalsumą?
+- Nepamirškite emocijos. Vizualinis identitetas yra ne tik taisyklės, jis turi kuri jausmą. Ar jūsų dizainas įkvepia, ramina, skatina veikti ar sukelia smalsumą?
+
+# Praktinės užduotys
+
+### 1 užduotis. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzg1MTA4OCwxNDI0OTEwNTE3LC0xMD
-I1MDU1NjMsMTA0MTkzMDc0MSw2NjI3MTIwMTYsLTYwODQ3ODMz
-MSwxMzk3MDA2ODUzLDU2Njc3NTUyMywtMTgyMjM1ODYzMywzNT
-UxNzIxMzIsNDg5NDU0NjUyLDE0OTg0NTQwMjcsMzEyOTQ5NTI3
-XX0=
+eyJoaXN0b3J5IjpbMTQzNjg0NDY0MSwxMTM3ODUxMDg4LDE0Mj
+Q5MTA1MTcsLTEwMjUwNTU2MywxMDQxOTMwNzQxLDY2MjcxMjAx
+NiwtNjA4NDc4MzMxLDEzOTcwMDY4NTMsNTY2Nzc1NTIzLC0xOD
+IyMzU4NjMzLDM1NTE3MjEzMiw0ODk0NTQ2NTIsMTQ5ODQ1NDAy
+NywzMTI5NDk1MjddfQ==
 -->
