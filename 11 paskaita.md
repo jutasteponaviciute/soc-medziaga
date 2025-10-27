@@ -101,15 +101,15 @@ Prieš pradėdami kurti spalvų paletę ar šriftų derinius, atsakykite sau: k�
 
 - Nepamirškite emocijos. Vizualinis identitetas yra ne tik taisyklės, jis turi kuri jausmą. Ar jūsų dizainas įkvepia, ramina, skatina veikti ar sukelia smalsumą?
 
-# Praktinės užduotys
+# Praktinė užduotis
 
-### 1 užduotis. 
+### 1 užduotis. Sukurkite savo prekės ženklo Canva Brand Kit
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjg0NDY0MSwxMTM3ODUxMDg4LDE0Mj
-Q5MTA1MTcsLTEwMjUwNTU2MywxMDQxOTMwNzQxLDY2MjcxMjAx
-NiwtNjA4NDc4MzMxLDEzOTcwMDY4NTMsNTY2Nzc1NTIzLC0xOD
-IyMzU4NjMzLDM1NTE3MjEzMiw0ODk0NTQ2NTIsMTQ5ODQ1NDAy
-NywzMTI5NDk1MjddfQ==
+eyJoaXN0b3J5IjpbMjY2NDU0Mjk3LDE0MzY4NDQ2NDEsMTEzNz
+g1MTA4OCwxNDI0OTEwNTE3LC0xMDI1MDU1NjMsMTA0MTkzMDc0
+MSw2NjI3MTIwMTYsLTYwODQ3ODMzMSwxMzk3MDA2ODUzLDU2Nj
+c3NTUyMywtMTgyMjM1ODYzMywzNTUxNzIxMzIsNDg5NDU0NjUy
+LDE0OTg0NTQwMjcsMzEyOTQ5NTI3XX0=
 -->
