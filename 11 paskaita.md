@@ -91,10 +91,10 @@ foninius ornamentus ar tekstūras.
 
 - Venkite atsitiktinių elementų, viskas turi atspindėti jūsų stilių.
 - Patikrinkite kontrastą tarp spalvų, kad tekstai būtų įskaitomi.
-- Sukurkite mini stiliaus gidą Canvos puslapio apačioje – su pavyzdžiu, kaip atrodo jūsų spalvos, šriftai ir akcentai kartu.
+- Sukurkite mini stiliaus gidą Canvos dokumente, su pavyzdžiais, kaip atrodo jūsų spalvos, šriftai ir akcentai kartu.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjUwNTU2MywxMDQxOTMwNzQxLDY2Mj
-cxMjAxNiwtNjA4NDc4MzMxLDEzOTcwMDY4NTMsNTY2Nzc1NTIz
-LC0xODIyMzU4NjMzLDM1NTE3MjEzMiw0ODk0NTQ2NTIsMTQ5OD
-Q1NDAyNywzMTI5NDk1MjddfQ==
+eyJoaXN0b3J5IjpbMTQyNDkxMDUxNywtMTAyNTA1NTYzLDEwND
+E5MzA3NDEsNjYyNzEyMDE2LC02MDg0NzgzMzEsMTM5NzAwNjg1
+Myw1NjY3NzU1MjMsLTE4MjIzNTg2MzMsMzU1MTcyMTMyLDQ4OT
+Q1NDY1MiwxNDk4NDU0MDI3LDMxMjk0OTUyN119
 -->
