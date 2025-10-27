@@ -76,20 +76,15 @@ Kokius žodžius ar frazes vertėtų naudoti ar kokių vengti?
 
 ### Nuotraukos, piktogramos ir grafika
 
-Įkelkite arba išsaugokite Canvoje vizualinius elementus, kurie bus naudojami nuolat:
-
-prekės ženklo nuotraukas,
-
-iliustracijas,
-
-piktogramas,
-
+- Galite įkeltie arba išsaugoti Canvoje vizualinius elementus, kurie bus naudojami nuolat:
+prekės ženklo nuotraukas;
+iliustracijas;
+piktogramas (ikonėles);
 foninius ornamentus ar tekstūras.
-
-Svarbu, kad šie elementai būtų stilistiškai vientisi – vienodas apšvietimas, spalvų tonas, linijų storis ir pan.
+- **Svarbu,** kad šie elementai būtų stilistiškai vientisi, vienodas spalvų tonas, linijų storis ir pan.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTgzMDMxLDY2MjcxMjAxNiwtNjA4ND
-c4MzMxLDEzOTcwMDY4NTMsNTY2Nzc1NTIzLC0xODIyMzU4NjMz
-LDM1NTE3MjEzMiw0ODk0NTQ2NTIsMTQ5ODQ1NDAyNywzMTI5ND
-k1MjddfQ==
+eyJoaXN0b3J5IjpbLTM1NDA4NzQwMCw2NjI3MTIwMTYsLTYwOD
+Q3ODMzMSwxMzk3MDA2ODUzLDU2Njc3NTUyMywtMTgyMjM1ODYz
+MywzNTUxNzIxMzIsNDg5NDU0NjUyLDE0OTg0NTQwMjcsMzEyOT
+Q5NTI3XX0=
 -->
