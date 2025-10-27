@@ -148,7 +148,7 @@ Užduotis:
 
 Vertinamas dizaino aiškumas, struktūra, vizualinis nuoseklumas pagal Brand Kit ir teisingas failo pateikimas.
 
-### 2 užduotis. Sukurkite karuselę, arba maketą kuris kviestų parsisiųsti freebie
+### 2 užduotis. Sukurkite karuselę arba maketą kuris kviestų parsisiųsti freebie
 
 Tikslas: sukurti reklaminį vizualą ar Instagram karuselę, kviečiančią atsisiųsti jūsų sukurtą freebie.
 
@@ -163,8 +163,8 @@ aiškus CTA („komentuok žodį NORIU“).
 
 Vertinama, ar maketas/karuselė aiškiai perteikia pasiūlymą, išlaiko vizualinį nuoseklumą ir turi motyvuojantį kvietimą veikti (CTA).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzYyODE5MSwtMzUyMTczMTEyLDg5Mz
-E2ODIzMiwtMTMxMzE4MzY1LC00MTQ3MjYxOSwtMTg4MzY5MjM4
-OCwtMTk2ODUyNjAwNywtMjkyMzE4NDIwLDQ4MDEwOTMwMCwtMj
-QyNzMyODMyXX0=
+eyJoaXN0b3J5IjpbLTE2NzM3NDUzODMsMTkwMzYyODE5MSwtMz
+UyMTczMTEyLDg5MzE2ODIzMiwtMTMxMzE4MzY1LC00MTQ3MjYx
+OSwtMTg4MzY5MjM4OCwtMTk2ODUyNjAwNywtMjkyMzE4NDIwLD
+Q4MDEwOTMwMCwtMjQyNzMyODMyXX0=
 -->
