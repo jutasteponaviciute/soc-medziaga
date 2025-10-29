@@ -27,7 +27,7 @@ edukacinė (dalijasi žiniomis ar patarimais);
 įkvepianti (motyvacinė, emocinė);
 storytelling (istorijos pasakojimas);
 pardaviminė (pasiūlymas ar produkto pristatymas).
-- Karuselė turėtų turėti 4-skaidrių, aiškią struktūrą ir raginimą veikti (CTA) paskutinėje skaidrėje.
+- Karuselė turėtų turėti 4-5 skaidres, aiškią struktūrą ir raginimą veikti (CTA) paskutinėje skaidrėje.
 - Dizainui naudokite tik savo Brand Kit spalvas, šriftus.
 - Sukūrus dizainą, atsidarykite peržiūros režimu (View → Present) ir nukopijuokite viešą dizaino nuorodą (Share → Anyone with the link → Can Edit).
 - Įkelkite karuselės Canva nuorodą į atsiskaitymo formą. 
@@ -37,7 +37,7 @@ pardaviminė (pasiūlymas ar produkto pristatymas).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzAwMDU1NSwxMzQwMDY4NjcwLDEyOD
+eyJoaXN0b3J5IjpbMTI5MjIxNDIwMiwxMzQwMDY4NjcwLDEyOD
 I0MDQ5NDksNDE0NTg2MTIxLC0yMDg4NzQ2NjEyLDczMDk5ODEx
 Nl19
 -->
