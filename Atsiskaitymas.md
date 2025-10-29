@@ -16,7 +16,7 @@ Temą galite rinktis laisvai, pavyzdžiui, savo asmeninį projektą, būsimą ve
 
 Remdamiesi tuo projektu, atlikite šias užduotis:
 
-### 1 užduotis. 
+### 1 užduotis. Pateiktam šablonui pritaikyti savo sukurto Brand Kit elementus.
 
 ### 2 užduotis. Karuselės kūrimas Canvoje
 
@@ -40,8 +40,7 @@ pardaviminė (pasiūlymas ar produkto pristatymas).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTA5NTk0MzMsMTgzODcwNTM5NywtMj
-gwMTg2Mzk5LDEyOTIyMTQyMDIsMTM0MDA2ODY3MCwxMjgyNDA0
-OTQ5LDQxNDU4NjEyMSwtMjA4ODc0NjYxMiw3MzA5OTgxMTZdfQ
-==
+eyJoaXN0b3J5IjpbLTU0Njc3ODc5LDE4Mzg3MDUzOTcsLTI4MD
+E4NjM5OSwxMjkyMjE0MjAyLDEzNDAwNjg2NzAsMTI4MjQwNDk0
+OSw0MTQ1ODYxMjEsLTIwODg3NDY2MTIsNzMwOTk4MTE2XX0=
 -->
