@@ -10,8 +10,10 @@ Užduotis
 
 Sukurkite vieną pasirinktą nedidelį projektą (temą galite rinktis laisvai, pavyzdžiui, savo asmeninį projektą, būsimą verslo idėją ar išgalvotą prekės ženklą).
 
-Remdamiesi tuo projektu, atlikite šiuos žingsnius:
+Remdamiesi tuo projektu, atlikite šias užduotis:
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDkzMTc4OCwxMjgyNDA0OTQ5LDQxND
+eyJoaXN0b3J5IjpbMTM0MDA2ODY3MCwxMjgyNDA0OTQ5LDQxND
 U4NjEyMSwtMjA4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
 -->
