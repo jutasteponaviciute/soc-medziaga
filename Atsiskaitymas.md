@@ -8,9 +8,10 @@ Projektas turi atspindėti:
 
 Užduotis
 
-Sukurkite vieną pasirinktą mini projektą (temą galite rinktis laisvai — pavyzdžiui, savo asmeninį projektą, būsimą verslo idėją ar išgalvotą prekės ženklą).
+Sukurkite vieną pasirinktą nedidelį projektą (temą galite rinktis laisvai, pavyzdžiui, savo asmeninį projektą, būsimą verslo idėją ar išgalvotą prekės ženklą).
+
 Remdamiesi tuo projektu, atlikite šiuos žingsnius:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjQwNDk0OSw0MTQ1ODYxMjEsLTIwOD
-g3NDY2MTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTgxNDkzMTc4OCwxMjgyNDA0OTQ5LDQxND
+U4NjEyMSwtMjA4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
 -->
