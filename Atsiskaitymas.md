@@ -12,7 +12,7 @@ Projektas turi atspindėti:
 
 ---
 
-Sukurkite vieną pasirinktą nedidelį projektą (temą galite rinktis laisvai, pavyzdžiui, savo asmeninį projektą, būsimą verslo idėją ar išgalvotą prekės ženklą).
+Temą galite rinktis laisvai, pavyzdžiui, savo asmeninį projektą, būsimą verslo idėją ar išgalvotą prekės ženklą.
 
 Remdamiesi tuo projektu, atlikite šias užduotis:
 
@@ -32,12 +32,14 @@ pardaviminė (pasiūlymas ar produkto pristatymas).
 - Sukūrus dizainą, atsidarykite peržiūros režimu (View → Present) ir nukopijuokite viešą dizaino nuorodą (Share → Anyone with the link → Can Edit).
 - Įkelkite karuselės Canva nuorodą į atsiskaitymo formą. 
 
+### 2 užduotis. 
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MjIxNDIwMiwxMzQwMDY4NjcwLDEyOD
-I0MDQ5NDksNDE0NTg2MTIxLC0yMDg4NzQ2NjEyLDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbLTI4MDE4NjM5OSwxMjkyMjE0MjAyLDEzND
+AwNjg2NzAsMTI4MjQwNDk0OSw0MTQ1ODYxMjEsLTIwODg3NDY2
+MTIsNzMwOTk4MTE2XX0=
 -->
