@@ -20,6 +20,21 @@ Remdamiesi tuo projektu, atlikite šias užduotis:
 
 Tikslas: parodyti gebėjimą pritaikyti savo prekės ženklo stilių (spalvas, šriftus ir vizualinius elementus) esamam Canva dizainui, išlaikant tvarkingą struktūrą ir vizualinį nuoseklumą.
 
+Užduotis: 
+- Atsidarykite pateiktą Canva šabloną (rudens kolekcijos reklamos pavyzdį). https://www.canva.com/design/DAG3MQIhqbE/-tfLXlWlSn8BWaPF8EQMDw/view?utm_content=DAG3MQIhqbE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
+- Naudodami savo Brand Kit elementus, pakeiskite:
+spalvų paletę – naudokite savo prekės ženklo spalvas;
+šriftus – pritaikykite antraščių ir teksto šriftus iš savo Brand Kit;
+
+nuotraukas – įkelkite savo stiliaus ar temos atitinkančias;
+
+teksto turinį – pakeiskite tekstą į aktualų jūsų pasirinktai veiklai ar projektui (pvz., vietoje „Rudens kolekcijai 25 % nuolaida“ galite rašyti „Nemokamas gidas kūrėjams“, „Naujas kursas verslui“ ir pan.);
+
+jei turite – pridėkite logotipą arba prekės ženklo pavadinimą.
+
+Išlaikykite dizaino struktūrą (blokų, teksto ir vaizdų išdėstymą), tačiau adaptuokite viską pagal savo vizualinį identitetą.
+
+Sukurtą dizainą pateikite atsiskaitymui kaip Canva peržiūros nuorodą („Anyone with the link can view“).
 
 ### 2 užduotis. Karuselės kūrimas Canvoje
 
@@ -43,7 +58,7 @@ pardaviminė (pasiūlymas ar produkto pristatymas).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTc5OTM4MSwtNTQ2Nzc4NzksMTgzOD
+eyJoaXN0b3J5IjpbLTk2ODMyNzM4MywtNTQ2Nzc4NzksMTgzOD
 cwNTM5NywtMjgwMTg2Mzk5LDEyOTIyMTQyMDIsMTM0MDA2ODY3
 MCwxMjgyNDA0OTQ5LDQxNDU4NjEyMSwtMjA4ODc0NjYxMiw3Mz
 A5OTgxMTZdfQ==
