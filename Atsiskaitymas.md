@@ -4,7 +4,7 @@ Tikslas: praktiškai ir savarankiškai pritaikyti per paskaitas įgytas žinias,
 
 ___
 
-Projektas turi atspindėti:
+Projektas turi atspindėti (vertinimas):
 - gebėjimą dirbti su Canva įrankiais;
 - dizaino pagrindų supratimą (kompozicija, spalvos, šriftai, kontrastas, hierarchija);
 - gebėjimą taikyti savo sukurtą Brand Kit;
@@ -54,8 +54,8 @@ Užduotis:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5Mjk5NDg0MywtNTQ2Nzc4NzksMTgzOD
-cwNTM5NywtMjgwMTg2Mzk5LDEyOTIyMTQyMDIsMTM0MDA2ODY3
-MCwxMjgyNDA0OTQ5LDQxNDU4NjEyMSwtMjA4ODc0NjYxMiw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTgyNTM2MzQ5MiwtNzkyOTk0ODQzLC01ND
+Y3Nzg3OSwxODM4NzA1Mzk3LC0yODAxODYzOTksMTI5MjIxNDIw
+MiwxMzQwMDY4NjcwLDEyODI0MDQ5NDksNDE0NTg2MTIxLC0yMD
+g4NzQ2NjEyLDczMDk5ODExNl19
 -->
