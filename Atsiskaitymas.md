@@ -16,7 +16,9 @@ Temą galite rinktis laisvai, pavyzdžiui, savo asmeninį projektą, būsimą ve
 
 Remdamiesi tuo projektu, atlikite šias užduotis:
 
-### 1 užduotis. Karuselės kūrimas Canvoje
+### 1 užduotis. 
+
+### 2 užduotis. Karuselės kūrimas Canvoje
 
 Tikslas: pritaikyti anksčiau sukurtą Canva Brand Kit praktikoje, išmokti kurti vientisą ir strategiškai suplanuotą Instagram karuselę pagal savo pasirinkto prekės ženklo stilių.
 
@@ -32,14 +34,14 @@ pardaviminė (pasiūlymas ar produkto pristatymas).
 - Sukūrus dizainą, atsidarykite peržiūros režimu (View → Present) ir nukopijuokite viešą dizaino nuorodą (Share → Anyone with the link → Can Edit).
 - Įkelkite karuselės Canva nuorodą į atsiskaitymo formą. 
 
-### 2 užduotis. 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODcwNTM5NywtMjgwMTg2Mzk5LDEyOT
-IyMTQyMDIsMTM0MDA2ODY3MCwxMjgyNDA0OTQ5LDQxNDU4NjEy
-MSwtMjA4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIwMTA5NTk0MzMsMTgzODcwNTM5NywtMj
+gwMTg2Mzk5LDEyOTIyMTQyMDIsMTM0MDA2ODY3MCwxMjgyNDA0
+OTQ5LDQxNDU4NjEyMSwtMjA4ODc0NjYxMiw3MzA5OTgxMTZdfQ
+==
 -->
