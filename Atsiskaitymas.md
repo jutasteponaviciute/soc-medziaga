@@ -21,7 +21,7 @@ Remdamiesi tuo projektu, atlikite šias užduotis:
 Tikslas: parodyti gebėjimą pritaikyti savo prekės ženklo stilių (spalvas, šriftus ir vizualinius elementus) esamam Canva dizainui, išlaikant tvarkingą struktūrą ir vizualinį nuoseklumą.
 
 Užduotis: 
-1.  Atsidarykite pateiktą Canva šabloną (rudens kolekcijos reklamos pavyzdį). https://www.canva.com/design/DAG3MQIhqbE/-tfLXlWlSn8BWaPF8EQMDw/view?utm_content=DAG3MQIhqbE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
+1.  Atsidarykite pateiktą Canva šabloną (rudens kolekcijos reklamos pavyzdį). https://www.canva.com/design/DAG3MQIhqbE/zc73Dyo6W4C_Y9bl70XzbQ/view?utm_content=DAG3MQIhqbE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
 2.  Naudodami savo Brand Kit elementus, pakeiskite:
 - spalvų paletę – naudokite savo prekės ženklo spalvas;
 - šriftus – pritaikykite antraščių ir teksto šriftus iš savo Brand Kit;
@@ -31,6 +31,8 @@ Užduotis:
 3. Išlaikykite dizaino struktūrą (blokų, teksto ir vaizdų išdėstymą), tačiau adaptuokite viską pagal savo vizualinį identitetą.
 4. Sukurtą dizainą pateikite atsiskaitymui kaip Canva peržiūros nuorodą („Anyone with the link can view“).
 5. Įkelkite karuselės Canva nuorodą į atsiskaitymo formą.
+
+![Uzduoties atlikimo pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/atsiskaitymas%20%28Canva%29/1%20atsiskaitymo%20u%C5%BEduotis.avif)
 
 ### 2 užduotis. Karuselės kūrimas Canvoje
 
@@ -54,8 +56,8 @@ Užduotis:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTM2MzQ5MiwtNzkyOTk0ODQzLC01ND
-Y3Nzg3OSwxODM4NzA1Mzk3LC0yODAxODYzOTksMTI5MjIxNDIw
-MiwxMzQwMDY4NjcwLDEyODI0MDQ5NDksNDE0NTg2MTIxLC0yMD
-g4NzQ2NjEyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTg3NjQxMDgwMCwtODI1MzYzNDkyLC03OT
+I5OTQ4NDMsLTU0Njc3ODc5LDE4Mzg3MDUzOTcsLTI4MDE4NjM5
+OSwxMjkyMjE0MjAyLDEzNDAwNjg2NzAsMTI4MjQwNDk0OSw0MT
+Q1ODYxMjEsLTIwODg3NDY2MTIsNzMwOTk4MTE2XX0=
 -->
