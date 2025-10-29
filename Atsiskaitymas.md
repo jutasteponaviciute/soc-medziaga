@@ -30,6 +30,7 @@ Užduotis:
 - jei turite – pridėkite logotipą arba prekės ženklo pavadinimą.
 3. Išlaikykite dizaino struktūrą (blokų, teksto ir vaizdų išdėstymą), tačiau adaptuokite viską pagal savo vizualinį identitetą.
 4. Sukurtą dizainą pateikite atsiskaitymui kaip Canva peržiūros nuorodą („Anyone with the link can view“).
+5. Įkelkite karuselės Canva nuorodą į atsiskaitymo formą.
 
 ### 2 užduotis. Karuselės kūrimas Canvoje
 
@@ -44,8 +45,8 @@ Užduotis:
 - pardaviminė (pasiūlymas ar produkto pristatymas).
 3. Karuselė turėtų turėti 4-5 skaidres, aiškią struktūrą ir raginimą veikti (CTA) paskutinėje skaidrėje.
 4. Dizainui naudokite tik savo Brand Kit spalvas, šriftus.
-- Sukurtą dizainą pateikite atsiskaitymui kaip Canva peržiūros nuorodą („Anyone with the link can view“).
-- Įkelkite karuselės Canva nuorodą į atsiskaitymo formą. 
+5. Sukurtą dizainą pateikite atsiskaitymui kaip Canva peržiūros nuorodą („Anyone with the link can view“).
+6. Įkelkite karuselės Canva nuorodą į atsiskaitymo formą. 
 
 
 
@@ -53,7 +54,7 @@ Užduotis:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMTgzMDM2OCwtNTQ2Nzc4NzksMTgzOD
+eyJoaXN0b3J5IjpbLTc5Mjk5NDg0MywtNTQ2Nzc4NzksMTgzOD
 cwNTM5NywtMjgwMTg2Mzk5LDEyOTIyMTQyMDIsMTM0MDA2ODY3
 MCwxMjgyNDA0OTQ5LDQxNDU4NjEyMSwtMjA4ODc0NjYxMiw3Mz
 A5OTgxMTZdfQ==
