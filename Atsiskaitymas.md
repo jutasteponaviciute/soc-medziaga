@@ -29,23 +29,22 @@ Užduotis:
 - teksto turinį – pakeiskite tekstą į aktualų jūsų pasirinktai veiklai ar projektui (pvz., vietoje „Rudens kolekcijai 25 % nuolaida“ galite rašyti „Visiems džinsams 50 % nuolaida“, ir pan.);
 - jei turite – pridėkite logotipą arba prekės ženklo pavadinimą.
 3. Išlaikykite dizaino struktūrą (blokų, teksto ir vaizdų išdėstymą), tačiau adaptuokite viską pagal savo vizualinį identitetą.
-
-Sukurtą dizainą pateikite atsiskaitymui kaip Canva peržiūros nuorodą („Anyone with the link can view“).
+4. Sukurtą dizainą pateikite atsiskaitymui kaip Canva peržiūros nuorodą („Anyone with the link can view“).
 
 ### 2 užduotis. Karuselės kūrimas Canvoje
 
 Tikslas: pritaikyti anksčiau sukurtą Canva Brand Kit praktikoje, išmokti kurti vientisą ir strategiškai suplanuotą Instagram karuselę pagal savo pasirinkto prekės ženklo stilių.
 
 Užduotis:
-- Naudodami savo Brand Kit elementus (spalvas, šriftus, logotipą ir stiliaus gaires) sukurkite Instagram karuselę (1080 × 1350 px).
-- Pasirinkite vieną iš šių karuselės tipų:
-edukacinė (dalijasi žiniomis ar patarimais);
-įkvepianti (motyvacinė, emocinė);
-storytelling (istorijos pasakojimas);
-pardaviminė (pasiūlymas ar produkto pristatymas).
-- Karuselė turėtų turėti 4-5 skaidres, aiškią struktūrą ir raginimą veikti (CTA) paskutinėje skaidrėje.
-- Dizainui naudokite tik savo Brand Kit spalvas, šriftus.
-- Sukūrus dizainą, atsidarykite peržiūros režimu (View → Present) ir nukopijuokite viešą dizaino nuorodą (Share → Anyone with the link → Can Edit).
+1. Naudodami savo Brand Kit elementus (spalvas, šriftus, logotipą ir stiliaus gaires) sukurkite Instagram karuselę (1080 × 1350 px).
+2.  Pasirinkite vieną iš šių karuselės tipų:
+- edukacinė (dalijasi žiniomis ar patarimais);
+- įkvepianti (motyvacinė, emocinė);
+- storytelling (istorijos pasakojimas);
+- pardaviminė (pasiūlymas ar produkto pristatymas).
+3. Karuselė turėtų turėti 4-5 skaidres, aiškią struktūrą ir raginimą veikti (CTA) paskutinėje skaidrėje.
+4. Dizainui naudokite tik savo Brand Kit spalvas, šriftus.
+- Sukurtą dizainą pateikite atsiskaitymui kaip Canva peržiūros nuorodą („Anyone with the link can view“).
 - Įkelkite karuselės Canva nuorodą į atsiskaitymo formą. 
 
 
@@ -54,8 +53,8 @@ pardaviminė (pasiūlymas ar produkto pristatymas).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODkzNDE3MTEsLTU0Njc3ODc5LDE4Mz
-g3MDUzOTcsLTI4MDE4NjM5OSwxMjkyMjE0MjAyLDEzNDAwNjg2
-NzAsMTI4MjQwNDk0OSw0MTQ1ODYxMjEsLTIwODg3NDY2MTIsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTcyMTgzMDM2OCwtNTQ2Nzc4NzksMTgzOD
+cwNTM5NywtMjgwMTg2Mzk5LDEyOTIyMTQyMDIsMTM0MDA2ODY3
+MCwxMjgyNDA0OTQ5LDQxNDU4NjEyMSwtMjA4ODc0NjYxMiw3Mz
+A5OTgxMTZdfQ==
 -->
