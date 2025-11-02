@@ -66,9 +66,9 @@ Užduotis:
 
 Vertinama: kūrybiškas AI įrankių pritaikymas, dizaino nuoseklumas, aiški žinutė.
 
-### 2 užduotis.
+### 2 užduotis. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzI2ODg2OCw2NDAwNDE5NCwyMzE1OD
-ExNSwtMTQ5MDk0NjMsODkwMTk3OTUyLC0yMDg4NzQ2NjEyXX0=
-
+eyJoaXN0b3J5IjpbLTE3MDI5NzA0MCwxNzE3MjY4ODY4LDY0MD
+A0MTk0LDIzMTU4MTE1LC0xNDkwOTQ2Myw4OTAxOTc5NTIsLTIw
+ODg3NDY2MTJdfQ==
 -->
