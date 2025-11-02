@@ -34,6 +34,22 @@ Kiekvienas video turi turėti vieną mintį.
 
 **5. Išlaikykite vizualinį nuoseklumą.**
 Video turi atitikti prekės ženklą ( jo spalvas, šriftus, toną ir stilių). Tai kuria atpažįstamumą.
+
+## Canva vaizdo įrašų redagavimo aplinka
+
+Naujoji Canva vaizdo įrašų redagavimo aplinka tapo daug profesionalesnė — dabar tai pilnavertis montavimo įrankis su laiko juosta (timeline).
+
+Kas pasikeitė:
+
+Multi-track timeline – galite sluoksniuoti video, tekstą, muziką ir efektus.
+
+Tiesioginis klipų redagavimas – galite karpyti, skaidyti ir perkelti klipus iš pačios laiko juostos.
+
+Garso bangų vizualizacija – matosi garso intensyvumas, lengviau sinchronizuoti su vaizdu.
+
+Perėjimai ir efektai – daugiau valdymo animacijoms ir trukmėms.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NDk5MTIzNCwxMzA0NTcxODU5XX0=
+eyJoaXN0b3J5IjpbLTEzMzE5NTE3ODYsMTMwNDU3MTg1OV19
 -->
