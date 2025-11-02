@@ -66,22 +66,16 @@ Pagrindiniai elementai:
 
 **1 žingsnis. Sukurkite naują video dizainą**
 - Pasirinkite Video iš pagrindinio meniu arba eikite į „Create → Video“.
--Galite pradėti nuo tuščio failo arba naudoti video šabloną („Instagram Reel“, „TikTok video“ ir pan.).
+- Galite pradėti nuo tuščio failo arba naudoti video šabloną (Instagram Reel, TikTok video ir pan.).
 
-2 žingsnis. Įkelkite turinį
+**2 žingsnis. Įkelkite turinį**
+- Įkelkite savo vaizdo įrašus, nuotraukas, grafiką arba naudokite esančius Canva bibliotekoje.
+- Galite vilkti turinį tiesiai į laiko juostą arba į drobę.
 
-Įkelkite savo vaizdo įrašus, nuotraukas, grafiką arba naudokite Canva biblioteką.
-
-Galite vilkti turinį tiesiai į laiko juostą arba į drobę.
-
-3 žingsnis. Redaguokite klipus
-
-Apkarpykite (Trim): patraukite klipo kraštus, kad sutrumpintumėte.
-
-Skaidykite (Split): pažymėkite klipą ir spauskite S (Split) – dalinkite į kelias dalis.
-
+**3 žingsnis. Redaguokite klipus**
+- Apkarpykite (Trim): patraukite klipo kraštus, kad sutrumpintumėte.
+- Skaidykite (Split): pažymėkite klipą ir spauskite S (Split) – dalinkite į kelias dalis.
 Perkelkite: vilkite klipus kairėn arba dešinėn, keisdami jų eiliškumą.
-
 Sluoksniuokite: pridėkite tekstus ar logotipus virš vaizdo.
 
 4 žingsnis. Pridėkite perėjimus ir efektus
@@ -120,7 +114,7 @@ Taip pat galite tiesiogiai dalintis į Instagram, TikTok ar Facebook.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5MTc2MzYzLDczNDU4MzI2MywtMTgzOD
-A3NDQ4NCwtNjI5MjUxMTY4LDE0MjIyNTg4MTcsMTMwNDU3MTg1
-OV19
+eyJoaXN0b3J5IjpbLTc0MTE5MTc5Myw3MzQ1ODMyNjMsLTE4Mz
+gwNzQ0ODQsLTYyOTI1MTE2OCwxNDIyMjU4ODE3LDEzMDQ1NzE4
+NTldfQ==
 -->
