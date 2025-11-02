@@ -92,15 +92,15 @@ Tai gali būti bet koks jums įdomus ar jūsų veiklai naudingas kūrinys: nuo p
 
 Atsiskaitymas:
 Pateikite savo sukurto Canva Code projekto aktyvią nuorodą.
-**Pavyzdys: https://15paskaita.my.canva.site/**
+**Pavyzdys: https://steponaviciute.my.canva.site/15paskaita**
 
 Vertinamas kūrybiškas idėjos pritaikymas, Canva Code funkcionalumo panaudojimas.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1NDIyOTQzLDE1NjYzMjU1NzEsLTU5MD
-gxNzM2MiwtNTkwODE3MzYyLDc1NzM1ODM2NCw0NzcxOTI2Njks
-LTQwMTU1ODIxNiw5MzgxNzc3NjUsLTE3MDI5NzA0MCwxNzE3Mj
-Y4ODY4LDY0MDA0MTk0LDIzMTU4MTE1LC0xNDkwOTQ2Myw4OTAx
-OTc5NTIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTgzMzMwMzAyNiw1MjU0MjI5NDMsMTU2Nj
+MyNTU3MSwtNTkwODE3MzYyLC01OTA4MTczNjIsNzU3MzU4MzY0
+LDQ3NzE5MjY2OSwtNDAxNTU4MjE2LDkzODE3Nzc2NSwtMTcwMj
+k3MDQwLDE3MTcyNjg4NjgsNjQwMDQxOTQsMjMxNTgxMTUsLTE0
+OTA5NDYzLDg5MDE5Nzk1MiwtMjA4ODc0NjYxMl19
 -->
