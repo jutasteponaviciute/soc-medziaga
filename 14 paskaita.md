@@ -106,9 +106,38 @@ Pagrindiniai elementai:
 - Venkite perkrautų kadrų, nes dažnai mažiau yra daugiau.
 - Nepamirškite CTA pabaigoje, pvz., „Sek profilį, jei nori daugiau tokių patarimų!“.
 
+1 užduotis. Sukurkite 30 sekundžių trukmės Reels video „3 faktai apie mano veiklą“
 
+Tikslas: parodyti gebėjimą kurti vizualiai vientisą, aiškios struktūros video, pritaikant savo Canva Brand Kit ir dizaino principus.
+
+Užduotis:
+
+Sukurkite vertikalaus formato (1080×1920 px) video Canvoje.
+
+Tema: „3 faktai apie mano veiklą / produktą / sritį“.
+– Tai gali būti 3 įdomūs, naudingi ar netikėti faktai apie jūsų veiklą, paslaugą ar sritį, kurioje dirbate.
+
+Naudokite savo Brand Kit elementus – spalvas, šriftus, logotipą, stiliaus gaires.
+
+Kiekviename kadre pateikite po vieną faktą (3 faktai = 3 pagrindiniai kadrai + pradžia + CTA pabaigoje).
+
+Įtraukite:
+
+antraštes (pvz., „Faktas #1“),
+
+trumpus paaiškinimus (1 sakinys),
+
+animacijas, muziką ir perėjimus, kad video būtų dinamiškas.
+
+Pabaigoje įdėkite aiškų raginimą veikti (CTA) – pvz., „Sek naujienas“, „Užsuk į profilį“, „Sužinok daugiau“.
+
+Pateikite Canva peržiūros nuorodą („Anyone with the link can view“).
+
+Trukmė: apie 30 sekundžių.
+
+Vertinama: ar video aiškiai struktūruotas, ar naudojami Brand Kit elementai, ar išlaikyta dizaino harmonija, skaitymo lengvumas ir tinkamas ritmo pojūtis (muzikos, tekstų ir vaizdų sinchronizacija).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzOTc0OTM0OSwxNTA0NjI5MDE2LDczND
-U4MzI2MywtMTgzODA3NDQ4NCwtNjI5MjUxMTY4LDE0MjIyNTg4
-MTcsMTMwNDU3MTg1OV19
+eyJoaXN0b3J5IjpbLTk4NzYwNjAzMiwtNDM5NzQ5MzQ5LDE1MD
+Q2MjkwMTYsNzM0NTgzMjYzLC0xODM4MDc0NDg0LC02MjkyNTEx
+NjgsMTQyMjI1ODgxNywxMzA0NTcxODU5XX0=
 -->
