@@ -61,9 +61,9 @@ Pvz., „Rezervuok laiką nemokamai konsultacijąi“, „Parsisiųsk gidą“, 
 - Neperkraukite puslapio, viena mintis vienoje sekcijoje.
 - Palaikykite kontrastą tarp teksto ir fono.
 - CTA mygtukas turi išsiskirti spalva ir būti matomas.
-Išlaikykite vientisumą su socialinių tinklų dizainais – tie patys šriftai, spalvos, stilius.
+- Išlaikykite vientisumą su socialinių tinklų dizainais, tie patys šriftai, spalvos, stilius.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjkzMTA2MTksMjA5ODQ3MTIyMiw4Nj
-ExMDMxNDUsMTA2MjAwOTAyNCwtMTYxOTc1MDg5Niw1OTUwNDUw
-NTJdfQ==
+eyJoaXN0b3J5IjpbOTY2NjE2NjEsMjA5ODQ3MTIyMiw4NjExMD
+MxNDUsMTA2MjAwOTAyNCwtMTYxOTc1MDg5Niw1OTUwNDUwNTJd
+fQ==
 -->
