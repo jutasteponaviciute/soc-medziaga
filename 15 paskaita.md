@@ -62,11 +62,13 @@ Užduotis:
 - AI sugeneruotas vaizdas.
 - jūsų Brand Kit elementai,
 - CTA.
-4. Pateikite Canva peržiūros nuorodą („Anyone with the link can edit“).
+4. Pateikite Canva redagavimo nuorodą („Anyone with the link can edit“).
 
 Vertinama: kūrybiškas AI įrankių pritaikymas, dizaino nuoseklumas, aiški žinutė.
+
+### 2 užduotis.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTczNjk3NCw2NDAwNDE5NCwyMzE1OD
+eyJoaXN0b3J5IjpbMTcxNzI2ODg2OCw2NDAwNDE5NCwyMzE1OD
 ExNSwtMTQ5MDk0NjMsODkwMTk3OTUyLC0yMDg4NzQ2NjEyXX0=
 
 -->
