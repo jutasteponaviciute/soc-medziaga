@@ -11,7 +11,9 @@ Canva AI įrankiai priklauso Magic Studio šeimai – tai kūrybos asistentas, k
 ### 1. Magic Write – AI tekstų kūrėjas
 https://www.canva.com/magic-write/
 
+### 2. Magic Design – automatinis maketų kūrėjas
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTE3NjU1OCw4OTAxOTc5NTIsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMjI1NTg1Nzc3LDg5MDE5Nzk1MiwtMjA4OD
+c0NjYxMl19
 -->
