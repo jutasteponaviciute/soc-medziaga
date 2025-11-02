@@ -70,9 +70,9 @@ Vertinama: kūrybiškas AI įrankių pritaikymas, dizaino nuoseklumas, aiški ž
 
 ### 2 užduotis. Sukurkite savo interaktyvų projektą su Canva Code
 
-Tikslas: išbandyti Canva Code funkcionalumą praktiškai
+Tikslas: išbandyti Canva Code galimybes ir sukurti interaktyvų projektą
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4MTc3NzY1LC0xNzAyOTcwNDAsMTcxNz
-I2ODg2OCw2NDAwNDE5NCwyMzE1ODExNSwtMTQ5MDk0NjMsODkw
-MTk3OTUyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTQwMTU1ODIxNiw5MzgxNzc3NjUsLTE3MD
+I5NzA0MCwxNzE3MjY4ODY4LDY0MDA0MTk0LDIzMTU4MTE1LC0x
+NDkwOTQ2Myw4OTAxOTc5NTIsLTIwODg3NDY2MTJdfQ==
 -->
