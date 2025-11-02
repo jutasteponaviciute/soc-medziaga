@@ -36,7 +36,29 @@ Naudokite ikonėles, aiškias antraštes.
 Pvz., „Rezervuok laiką nemokamai konsultacijąi“, „Parsisiųsk gidą“, „Sek mane Instagram ir sužinok daugiau apie x“.
 
 6. Kontaktai / nuorodos. Pabaigoje visada turi būti būdas susisiekti ar sekti.
+
+###  Kaip kurti svetainę Canvoje?
+
+1. Pasirinkite šabloną. Rekomenduojama rinktis vieno puslapio (One page) struktūrą.
+
+2. Pritaikykite pagal savo Brand Kit: Spalvos, šriftai, logotipas, stiliaus elementai.
+
+3. Sutvarkykite turinį. Aiškios sekcijos, trumpi tekstai, kontrastingi mygtukai.
+
+4. Pridėkite interaktyvumo. CTA mygtukai („View more“, „Contact me“);
+
+nuorodos į socialinius tinklus ar dokumentus;
+
+animacijos arba švelnūs perėjimai tarp sekcijų.
+
+Peržiūrėkite „Mobile View“ režimu – patikrinkite, ar viskas atrodo gerai telefone.
+
+Publikuokite:
+
+Spauskite Publish Website → Free domain by Canva.
+
+Galite naudoti unikalų Canva domeną (pvz., jutasteponaviciute.my.canva.site) arba jungti savo domeną.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxMTAzMTQ1LDEwNjIwMDkwMjQsLTE2MT
-k3NTA4OTYsNTk1MDQ1MDUyXX0=
+eyJoaXN0b3J5IjpbLTExNTgzNDI4ODksODYxMTAzMTQ1LDEwNj
+IwMDkwMjQsLTE2MTk3NTA4OTYsNTk1MDQ1MDUyXX0=
 -->
