@@ -15,8 +15,11 @@ Ji tinka:
 
 Visos svetainės automatiškai prisitaiko prie telefono, planšetės ir kompiuterio ekrano, todėl puikiai tinka socialinių tinklų auditorijai.
 
+### Pavyzdžiai
+1. https://giedrevain.my.canva.site/?fbclid=PAZXh0bgNhZW0CMTEAAadDmrw_75j9cF-ZlSbzJ1t0HXSiVXL0ZV91MWEGbrZVZ8N8g4ecx5nXj17X1g_aem_OrOP5z2A-XcalUI8U7JXDg
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4NjY1NTcsLTE2MTk3NTA4OTYsNTk1MD
-Q1MDUyXX0=
+eyJoaXN0b3J5IjpbMTA2MjAwOTAyNCwtMTYxOTc1MDg5Niw1OT
+UwNDUwNTJdfQ==
 -->
