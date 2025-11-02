@@ -49,8 +49,10 @@ Canva Code – nauja (2025 pavasaris) funkcija, leidžianti kurti interaktyvius 
 - Nereikia programuotojo, viskas daroma per Canva.
 - Integruojama su kitais įrankiais (pvz., ManyChat ar el. pašto adeso surinkimo formomis).
 
-### Kodėl tai naudinga?
+# Praktinės užduotys
+
+### 1 užduotis.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ2NDg3MiwyMzE1ODExNSwtMTQ5MD
-k0NjMsODkwMTk3OTUyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNjQwMDQxOTQsMjMxNTgxMTUsLTE0OTA5ND
+YzLDg5MDE5Nzk1MiwtMjA4ODc0NjYxMl19
 -->
