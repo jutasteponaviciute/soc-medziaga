@@ -1,6 +1,6 @@
 # Tarpinis atsiskaitymas
 
-Tikslas: praktiškai ir savarankiškai pritaikyti per paskaitas įgytas žinias, sukurti vizualiai nuoseklų turinį, naudojant savo anksčiau sukurtą Canva Brand Kit.
+Tikslas: praktiškai ir savarankiškai pritaikyti per paskaitas įgytas žinias, sukurti vizualiai nuoseklius dizianus, naudojant savo anksčiau sukurtą Canva Brand Kit.
 
 ___
 
@@ -56,8 +56,9 @@ Užduotis:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjQxMDgwMCwtODI1MzYzNDkyLC03OT
-I5OTQ4NDMsLTU0Njc3ODc5LDE4Mzg3MDUzOTcsLTI4MDE4NjM5
-OSwxMjkyMjE0MjAyLDEzNDAwNjg2NzAsMTI4MjQwNDk0OSw0MT
-Q1ODYxMjEsLTIwODg3NDY2MTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE2NjQ2NjA3MzgsMTg3NjQxMDgwMCwtOD
+I1MzYzNDkyLC03OTI5OTQ4NDMsLTU0Njc3ODc5LDE4Mzg3MDUz
+OTcsLTI4MDE4NjM5OSwxMjkyMjE0MjAyLDEzNDAwNjg2NzAsMT
+I4MjQwNDk0OSw0MTQ1ODYxMjEsLTIwODg3NDY2MTIsNzMwOTk4
+MTE2XX0=
 -->
