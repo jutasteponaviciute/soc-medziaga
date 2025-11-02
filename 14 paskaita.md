@@ -67,7 +67,6 @@ Pagrindiniai elementai:
 **1 žingsnis. Sukurkite naują video dizainą**
 - Pasirinkite Video iš pagrindinio meniu arba eikite į „Create → Video“.
 - Galite pradėti nuo tuščio failo arba naudoti video šabloną (Instagram Reel, TikTok video ir pan.).
-https://www.youtube.com/watch?v=OjGS-Fxlg6A
 
 **2 žingsnis. Įkelkite turinį**
 - Įkelkite savo vaizdo įrašus, nuotraukas, grafiką arba naudokite esančius Canva bibliotekoje.
@@ -107,6 +106,8 @@ https://www.youtube.com/watch?v=OjGS-Fxlg6A
 - Venkite perkrautų kadrų, nes dažnai mažiau yra daugiau.
 - Nepamirškite CTA pabaigoje, pvz., „Sek profilį, jei nori daugiau tokių patarimų!“.
 
+Naudinga nuoroda: https://www.canva.com/help/creating-and-editing-videos/
+
 # Praktinė užduotis
 
 ### 1 užduotis. Sukurkite apie 30 sekundžių trukmės Reels „3 faktai apie mano veiklą“
@@ -128,8 +129,8 @@ Užduotis:
 
 Vertinama: ar video aiškiai struktūruotas, ar naudojami Brand Kit elementai, ar išlaikyta dizaino harmonija, skaitymo lengvumas ir tinkamas ritmo pojūtis (muzikos, tekstų ir vaizdų sinchronizacija).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjE3NTk4NywxODU3OTM5MTI5LDEzMT
-k4MDAzNjQsLTk3Nzc0MTE4NiwtNDM5NzQ5MzQ5LDE1MDQ2Mjkw
-MTYsNzM0NTgzMjYzLC0xODM4MDc0NDg0LC02MjkyNTExNjgsMT
-QyMjI1ODgxNywxMzA0NTcxODU5XX0=
+eyJoaXN0b3J5IjpbLTExOTQ2MzUzMzksMTkzMjE3NTk4NywxOD
+U3OTM5MTI5LDEzMTk4MDAzNjQsLTk3Nzc0MTE4NiwtNDM5NzQ5
+MzQ5LDE1MDQ2MjkwMTYsNzM0NTgzMjYzLC0xODM4MDc0NDg0LC
+02MjkyNTExNjgsMTQyMjI1ODgxNywxMzA0NTcxODU5XX0=
 -->
