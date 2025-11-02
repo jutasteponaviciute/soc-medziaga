@@ -18,7 +18,8 @@ https://www.canva.com/magic-design/
 
 ### 3. Magic Edit – išmanus vaizdų redagavimas
 https://www.canva.com/help/using-magic-edit/
-![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/15_paskaita/Magic%20Edit.avif)
+
+![Magic Edit](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/15_paskaita/Magic%20Edit.avif)
 
 ### 4. Magic Animate – automatinės animacijos
 https://www.canva.com/pro/animator/
@@ -30,6 +31,8 @@ https://www.canva.com/pro/magic-resize/
 
 ### 6. Magic Media – AI vaizdų ir video generatorius
 https://www.canva.com/help/using-magic-media/
+
+![Magic Media](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/15_paskaita/Magic%20Media.avif)
 
 ## Canva Code – interaktyvūs elementai be programavimo
 
@@ -88,9 +91,9 @@ Vertinamas kūrybiškas idėjos pritaikymas, Canva Code funkcionalumo panaudojim
 
 Pavyzdys: https://15paskaita.my.canva.site/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjExODkzMjgsLTU5MDgxNzM2MiwtNT
-kwODE3MzYyLDc1NzM1ODM2NCw0NzcxOTI2NjksLTQwMTU1ODIx
-Niw5MzgxNzc3NjUsLTE3MDI5NzA0MCwxNzE3MjY4ODY4LDY0MD
-A0MTk0LDIzMTU4MTE1LC0xNDkwOTQ2Myw4OTAxOTc5NTIsLTIw
-ODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTQ0MjE2MzUwMiwtNTkwODE3MzYyLC01OT
+A4MTczNjIsNzU3MzU4MzY0LDQ3NzE5MjY2OSwtNDAxNTU4MjE2
+LDkzODE3Nzc2NSwtMTcwMjk3MDQwLDE3MTcyNjg4NjgsNjQwMD
+QxOTQsMjMxNTgxMTUsLTE0OTA5NDYzLDg5MDE5Nzk1MiwtMjA4
+ODc0NjYxMl19
 -->
