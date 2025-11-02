@@ -62,8 +62,12 @@ Pvz., „Rezervuok laiką nemokamai konsultacijąi“, „Parsisiųsk gidą“, 
 - Palaikykite kontrastą tarp teksto ir fono.
 - CTA mygtukas turi išsiskirti spalva ir būti matomas.
 - Išlaikykite vientisumą su socialinių tinklų dizainais, tie patys šriftai, spalvos, stilius.
+
+# Praktinė užduotis
+
+### 1 užduotis. Sukurkite vieno puslapio svetainę Canvoje
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2NjE2NjEsMjA5ODQ3MTIyMiw4NjExMD
-MxNDUsMTA2MjAwOTAyNCwtMTYxOTc1MDg5Niw1OTUwNDUwNTJd
-fQ==
+eyJoaXN0b3J5IjpbLTEzMDkwODA3NjAsMjA5ODQ3MTIyMiw4Nj
+ExMDMxNDUsMTA2MjAwOTAyNCwtMTYxOTc1MDg5Niw1OTUwNDUw
+NTJdfQ==
 -->
