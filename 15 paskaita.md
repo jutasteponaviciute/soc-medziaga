@@ -17,6 +17,7 @@ https://www.canva.com/magic-design/
 ### 3. Magic Edit – išmanus vaizdų redagavimas
 https://www.canva.com/help/using-magic-edit/
 
+
 ### 4. Magic Animate – automatinės animacijos
 https://www.canva.com/pro/animator/
 
@@ -83,8 +84,8 @@ Vertinamas kūrybiškas idėjos pritaikymas, Canva Code funkcionalumo panaudojim
 
 Pavyzdys: https://15paskaita.my.canva.site/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDgxNzM2Miw0NzcxOTI2NjksLTQwMT
-U1ODIxNiw5MzgxNzc3NjUsLTE3MDI5NzA0MCwxNzE3MjY4ODY4
-LDY0MDA0MTk0LDIzMTU4MTE1LC0xNDkwOTQ2Myw4OTAxOTc5NT
-IsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNzU3MzU4MzY0LC01OTA4MTczNjIsNDc3MT
+kyNjY5LC00MDE1NTgyMTYsOTM4MTc3NzY1LC0xNzAyOTcwNDAs
+MTcxNzI2ODg2OCw2NDAwNDE5NCwyMzE1ODExNSwtMTQ5MDk0Nj
+MsODkwMTk3OTUyLC0yMDg4NzQ2NjEyXX0=
 -->
