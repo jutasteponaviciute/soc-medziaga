@@ -53,9 +53,17 @@ Pvz., „Rezervuok laiką nemokamai konsultacijąi“, „Parsisiųsk gidą“, 
 
 ***Galite naudoti unikalų Canva domeną (pvz., jutasteponaviciute.my.canva.site) arba jungti savo domeną, arba įsigyti domeną per Canva.***
 
-![kiti domeno pasirinkimai](https://github.com/IamJuniorMB/images/blob/main/social-long-material/16_paskaita/kiti%20domeno%20pasirinkimai.avif)
+![kiti domeno pasirinkimai](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/16_paskaita/kiti%20domeno%20pasirinkimai.avif)
+
+### Patarimai geram dizainui
+
+-Naudokite aiškią hierarchiją: didžiausia antraštė – viršuje, paprastesni tekstai žemiau.
+- Neperkraukite puslapio, viena mintis vienoje sekcijoje.
+- Palaikykite kontrastą tarp teksto ir fono.
+- CTA mygtukas turi išsiskirti spalva ir būti matomas.
+Išlaikykite vientisumą su socialinių tinklų dizainais – tie patys šriftai, spalvos, stilius.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyNDU4NjExLDIwOTg0NzEyMjIsODYxMT
-AzMTQ1LDEwNjIwMDkwMjQsLTE2MTk3NTA4OTYsNTk1MDQ1MDUy
-XX0=
+eyJoaXN0b3J5IjpbLTE4NjkzMTA2MTksMjA5ODQ3MTIyMiw4Nj
+ExMDMxNDUsMTA2MjAwOTAyNCwtMTYxOTc1MDg5Niw1OTUwNDUw
+NTJdfQ==
 -->
