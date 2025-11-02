@@ -33,7 +33,7 @@ Rekomenduojami formatai:
 Kiekvienas video turi turėti vieną mintį.
 
 **5. Išlaikykite vizualinį nuoseklumą.**
-Video turi atitikti prekės ženklą – spalvas, šriftus, toną ir stilių. Tai kuria atpažįstamumą.
+Video turi atitikti prekės ženklą ( jo spalvas, šriftus, toną ir stilių). Tai kuria atpažįstamumą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjY1MTYxNSwxMzA0NTcxODU5XX0=
+eyJoaXN0b3J5IjpbLTQ0NDk5MTIzNCwxMzA0NTcxODU5XX0=
 -->
