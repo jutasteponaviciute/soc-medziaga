@@ -100,11 +100,15 @@ Pagrindiniai elementai:
 
 ## Patarimai efektyviam video kūrimui
 
-
+- Naudokite teksto animacijas, jos greitai patraukia dėmesį.
+- Įtraukite judančius elementus (ikonas, linijas, grafikas), kurie sukuria dinamiką.
+- Išlaikykite vienodą ritmą, muzika ir vaizdas turi derėti.
+- Venkite perkrautų kadrų, nes dažnai mažiau yra daugiau.
+- Nepamirškite CTA pabaigoje, pvz., „Sek profilį, jei nori daugiau tokių patarių“, „Sužinok daugiau“, „Atsisiųsk gidą“.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDYyOTAxNiw3MzQ1ODMyNjMsLTE4Mz
-gwNzQ0ODQsLTYyOTI1MTE2OCwxNDIyMjU4ODE3LDEzMDQ1NzE4
-NTldfQ==
+eyJoaXN0b3J5IjpbLTkzNDY0ODYxLDE1MDQ2MjkwMTYsNzM0NT
+gzMjYzLC0xODM4MDc0NDg0LC02MjkyNTExNjgsMTQyMjI1ODgx
+NywxMzA0NTcxODU5XX0=
 -->
