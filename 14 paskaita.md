@@ -123,15 +123,12 @@ Užduotis:
 - trumpus paaiškinimus (1 sakinys),
 - animacijas, muziką ir perėjimus, kad video būtų dinamiškas.
 6. Pabaigoje įdėkite aiškų raginimą veikti (CTA), pvz., „Sek mano profilį, jei nori 
-
-Pateikite Canva peržiūros nuorodą („Anyone with the link can view“).
-
-Trukmė: apie 30 sekundžių.
+7. Pateikite Canva peržiūros nuorodą („Anyone with the link can view“).
 
 Vertinama: ar video aiškiai struktūruotas, ar naudojami Brand Kit elementai, ar išlaikyta dizaino harmonija, skaitymo lengvumas ir tinkamas ritmo pojūtis (muzikos, tekstų ir vaizdų sinchronizacija).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTgwMDM2NCwtOTc3NzQxMTg2LC00Mz
-k3NDkzNDksMTUwNDYyOTAxNiw3MzQ1ODMyNjMsLTE4MzgwNzQ0
-ODQsLTYyOTI1MTE2OCwxNDIyMjU4ODE3LDEzMDQ1NzE4NTldfQ
-==
+eyJoaXN0b3J5IjpbMTg1NzkzOTEyOSwxMzE5ODAwMzY0LC05Nz
+c3NDExODYsLTQzOTc0OTM0OSwxNTA0NjI5MDE2LDczNDU4MzI2
+MywtMTgzODA3NDQ4NCwtNjI5MjUxMTY4LDE0MjIyNTg4MTcsMT
+MwNDU3MTg1OV19
 -->
