@@ -43,8 +43,10 @@ Kas pasikeitė:
 **- Multi-track timeline** – galite sluoksniuoti video, tekstą, muziką ir efektus.
 - **Tiesioginis klipų redagavimas** – galite karpyti, skaidyti ir perkelti klipus pačioje laiko juostoje.
 **- Garso bangų vizualizacija** – matosi garso intensyvumas, lengviau sinchronizuoti su vaizdu.
-- Profesionalus apkarpymas: priartinkite laiko juostą, kad tiksliai apkarpytumėte
+- **Profesionalus apkarpymas** – priartinkite laiko juostą, kad tiksliai apkarpytumėte joje esančius elementus.
+
+## Laiko juosta (Timeline)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTc4ODQwMSwxMzA0NTcxODU5XX0=
+eyJoaXN0b3J5IjpbMTQyMjI1ODgxNywxMzA0NTcxODU5XX0=
 -->
