@@ -37,19 +37,15 @@ Video turi atitikti prekės ženklą ( jo spalvas, šriftus, toną ir stilių). 
 
 ## Canva vaizdo įrašų redagavimo aplinka
 
-Naujoji Canva vaizdo įrašų redagavimo aplinka tapo daug profesionalesnė — dabar tai pilnavertis montavimo įrankis su laiko juosta (timeline).
+Naujoji Canva vaizdo įrašų redagavimo aplinka tapo daug profesionalesnė (nuo 2025 spalio 30 d.).
 
 Kas pasikeitė:
-
-Multi-track timeline – galite sluoksniuoti video, tekstą, muziką ir efektus.
-
-Tiesioginis klipų redagavimas – galite karpyti, skaidyti ir perkelti klipus iš pačios laiko juostos.
-
-Garso bangų vizualizacija – matosi garso intensyvumas, lengviau sinchronizuoti su vaizdu.
-
-Perėjimai ir efektai – daugiau valdymo animacijoms ir trukmėms.
+**- Multi-track timeline** – galite sluoksniuoti video, tekstą, muziką ir efektus.
+- **Tiesioginis klipų redagavimas** – galite karpyti, skaidyti ir perkelti klipus iš pačios laiko juostos.
+**- Garso bangų vizualizacija** – matosi garso intensyvumas, lengviau sinchronizuoti su vaizdu.
+**- Perėjimai ir efektai** – daugiau valdymo animacijoms ir trukmėms.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzE5NTE3ODYsMTMwNDU3MTg1OV19
+eyJoaXN0b3J5IjpbLTE1Mjk4OTQ4NjUsMTMwNDU3MTg1OV19
 -->
