@@ -30,8 +30,10 @@ https://www.canva.com/help/using-magic-media/
 
 Canva Code – nauja (2025 pavasaris) funkcija, leidžianti kurti interaktyvius elementus (pvz., mygtukus, kvietimus, skaičiuotuvus, testus ar mini svetaines) be programavimo žinių.
 
-###
+### Kam skirtas Canva Code?
+
+### Kaip tai veikia?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxNTgxMTUsLTE0OTA5NDYzLDg5MDE5Nz
-k1MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNzgyODU1ODE4LDIzMTU4MTE1LC0xNDkwOT
+Q2Myw4OTAxOTc5NTIsLTIwODg3NDY2MTJdfQ==
 -->
