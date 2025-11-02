@@ -17,7 +17,13 @@ https://www.canva.com/magic-design/
 ### 3. Magic Edit – išmanus vaizdų redagavimas
 https://www.canva.com/help/using-magic-edit/
 
+### 4. Magic Animate – automatinės animacijos
+https://www.canva.com/pro/animator/
+
+### 5. Magic Switch – vienu paspaudimu pakeiskite formatą
+###
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTA5NDYzLDg5MDE5Nzk1MiwtMjA4OD
-c0NjYxMl19
+eyJoaXN0b3J5IjpbLTg4MDExNjA3OSwtMTQ5MDk0NjMsODkwMT
+k3OTUyLC0yMDg4NzQ2NjEyXX0=
 -->
