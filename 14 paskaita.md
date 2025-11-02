@@ -58,9 +58,10 @@ Pagrindiniai elementai:
 3. Time ruler: rodo sekundes ir minutes.
 4. Zoom in/out: leidžia priartinti ar nutolinti vaizdą, kad būtų patogiau redaguoti.
 
-Svarbu! Tai, kas yra viršuje – matoma virš visų sluoksnių.
-Pvz., jei tekstas yra virš pagrindinio vaizdo, jis rodysis ant viršaus.
+**Svarbu!** Tai, kas yra viršuje – matoma virš visų sluoksnių. Pvz., jei tekstas yra virš pagrindinio vaizdo, jis rodysis ant viršaus.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyOTI1MTE2OCwxNDIyMjU4ODE3LDEzMD
-Q1NzE4NTldfQ==
+eyJoaXN0b3J5IjpbLTE4MzgwNzQ0ODQsLTYyOTI1MTE2OCwxND
+IyMjU4ODE3LDEzMDQ1NzE4NTldfQ==
 -->
