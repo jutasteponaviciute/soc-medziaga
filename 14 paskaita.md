@@ -88,7 +88,7 @@ Pagrindiniai elementai:
 - Pasirinkite muziką iš Canva bibliotekos arba įkelkite savo garso takelį.
 - Garsą galima trumpinti, perstumti ir derinti su vizualais pagal garso bangų ritmą.
 
-6 žingsnis. Pridėkite animacijas
+**6 žingsnis. Pridėkite animacijas**
 - Pasirinkite elementą (tekstą, logotipą, piktogramą).
 - Spauskite „Animate“ ir pasirinkite efektą (pvz., Fade In, Pan, Pop).
 - Reguliuokite trukmę, kad judesys atitiktų muzikos ritmą.
@@ -104,11 +104,11 @@ Pagrindiniai elementai:
 - Įtraukite judančius elementus (ikonas, linijas, grafikas), kurie sukuria dinamiką.
 - Išlaikykite vienodą ritmą, muzika ir vaizdas turi derėti.
 - Venkite perkrautų kadrų, nes dažnai mažiau yra daugiau.
-- Nepamirškite CTA pabaigoje, pvz., „Sek profilį, jei nori daugiau tokių patarių“, „Sužinok daugiau“, „Atsisiųsk gidą“.
+- Nepamirškite CTA pabaigoje, pvz., „Sek profilį, jei nori daugiau tokių patarimų!“.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDY0ODYxLDE1MDQ2MjkwMTYsNzM0NT
-gzMjYzLC0xODM4MDc0NDg0LC02MjkyNTExNjgsMTQyMjI1ODgx
-NywxMzA0NTcxODU5XX0=
+eyJoaXN0b3J5IjpbLTQzOTc0OTM0OSwxNTA0NjI5MDE2LDczND
+U4MzI2MywtMTgzODA3NDQ4NCwtNjI5MjUxMTY4LDE0MjIyNTg4
+MTcsMTMwNDU3MTg1OV19
 -->
