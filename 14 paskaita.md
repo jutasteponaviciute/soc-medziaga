@@ -118,16 +118,11 @@ Užduotis:
 2.  Tai gali būti 3 įdomūs, naudingi ar netikėti faktai apie jūsų veiklą, paslaugą ar sritį, kurioje dirbate.
 3. Naudokite savo Brand Kit elementus – spalvas, šriftus, logotipą, stiliaus gaires.
 4. Kiekviename kadre pateikite po vieną faktą (3 faktai = 3 pagrindiniai kadrai + pradžia + CTA pabaigoje, iš viso turi būti 5 kadrai).
-
-Įtraukite:
-
-antraštes (pvz., „Faktas #1“),
-
-trumpus paaiškinimus (1 sakinys),
-
-animacijas, muziką ir perėjimus, kad video būtų dinamiškas.
-
-Pabaigoje įdėkite aiškų raginimą veikti (CTA) – pvz., „Sek naujienas“, „Užsuk į profilį“, „Sužinok daugiau“.
+5. Įtraukite:
+- antraštes (pvz., „#1 Faktas“),
+- trumpus paaiškinimus (1 sakinys),
+- animacijas, muziką ir perėjimus, kad video būtų dinamiškas.
+6. Pabaigoje įdėkite aiškų raginimą veikti (CTA), pvz., „Sek mano profilį, jei nori 
 
 Pateikite Canva peržiūros nuorodą („Anyone with the link can view“).
 
@@ -135,7 +130,8 @@ Trukmė: apie 30 sekundžių.
 
 Vertinama: ar video aiškiai struktūruotas, ar naudojami Brand Kit elementai, ar išlaikyta dizaino harmonija, skaitymo lengvumas ir tinkamas ritmo pojūtis (muzikos, tekstų ir vaizdų sinchronizacija).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3Nzc0MTE4NiwtNDM5NzQ5MzQ5LDE1MD
-Q2MjkwMTYsNzM0NTgzMjYzLC0xODM4MDc0NDg0LC02MjkyNTEx
-NjgsMTQyMjI1ODgxNywxMzA0NTcxODU5XX0=
+eyJoaXN0b3J5IjpbMTMxOTgwMDM2NCwtOTc3NzQxMTg2LC00Mz
+k3NDkzNDksMTUwNDYyOTAxNiw3MzQ1ODMyNjMsLTE4MzgwNzQ0
+ODQsLTYyOTI1MTE2OCwxNDIyMjU4ODE3LDEzMDQ1NzE4NTldfQ
+==
 -->
