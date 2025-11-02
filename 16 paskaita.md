@@ -66,8 +66,41 @@ Pvz., „Rezervuok laiką nemokamai konsultacijąi“, „Parsisiųsk gidą“, 
 # Praktinė užduotis
 
 ### 1 užduotis. Sukurkite vieno puslapio svetainę Canvoje
+
+Tikslas: išbandyti Canva Websites įrankį ir parodyti, kaip gebate pritaikyti savo Brand Kit kuriant paprastą vieno puslapio svetainę.
+
+Užduotis:
+1. Canva aplinkoje sukurkite vieno puslapio svetainę (Website design).
+
+Pasirinkite bet kurią temą, kuri jums artima – pvz., asmeninis portfolio, paslaugos pristatymas, renginio puslapis ar bio link tipo svetainė.
+
+Naudokite savo Brand Kit (spalvas, šriftus, logotipą, jei turite).
+
+Įtraukite bent:
+
+antraštę (kas tai per puslapis);
+
+trumpą aprašymą arba kelis tekstinius blokus;
+
+vieną CTA mygtuką („Susisiekti“, „Peržiūrėti daugiau“ arba „Sek mane Instagram“);
+
+nuorodą į savo socialinį tinklą ar kitą platformą.
+
+Išsaugokite svetainę ir publikuokite per Canva („Free domain by Canva“).
+
+Pateikite svetainės peržiūros nuorodą („Anyone with the link can view“) atsiskaitymui.
+
+Vertinama:
+
+ar svetainė sukurta naudojant Canva Websites įrankį;
+
+ar pritaikytas Brand Kit (spalvos, šriftai, stilius);
+
+ar svetainėje aiškiai matomi pagrindiniai elementai (antraštė, tekstas, mygtukas, nuoroda);
+
+bendras tvarkingumas ir vizualinis balansas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDkwODA3NjAsMjA5ODQ3MTIyMiw4Nj
-ExMDMxNDUsMTA2MjAwOTAyNCwtMTYxOTc1MDg5Niw1OTUwNDUw
-NTJdfQ==
+eyJoaXN0b3J5IjpbMTU5NDgwMzYyMCwyMDk4NDcxMjIyLDg2MT
+EwMzE0NSwxMDYyMDA5MDI0LC0xNjE5NzUwODk2LDU5NTA0NTA1
+Ml19
 -->
