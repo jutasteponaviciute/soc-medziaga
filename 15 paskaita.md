@@ -44,7 +44,7 @@ Canva Code – nauja (2025 pavasaris) funkcija, leidžianti kurti interaktyvius 
 
 https://www.canva.com/ai/code
 
-![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/15_paskaita/Canva%20Code.avif)
+![Canva Code](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/15_paskaita/Canva%20Code.avif)
 
 ### Kaip tai veikia?
 
@@ -73,7 +73,7 @@ Tikslas: išbandyti Canva AI funkcijas kuriant socialinių tinklų turinį.
 
 Užduotis:
 1. Naudokite bent du AI įrankius iš Magic Studio (pvz. BG remover + Magic Media).
-2. Sukurkite socialinių tinklų įrašą (1080×1080 arba 1080×1920).
+2. Sukurkite socialinių tinklų įrašą (1080×1920).
 3. Įraše turi būti:
 - AI sugeneruotas vaizdas.
 - jūsų Brand Kit elementai,
@@ -91,15 +91,16 @@ Sukurkite savo pasirinktą interaktyvų projektą naudodami Canva Code.
 Tai gali būti bet koks jums įdomus ar jūsų veiklai naudingas kūrinys: nuo paprasto kvietimo ar viktorinos iki mažo pristatymo ar interaktyvaus puslapio.
 
 Atsiskaitymas:
-Pateikite savo sukurto Canva Code projekto peržiūros nuorodą („Anyone with the link can view“).
+Pateikite savo sukurto Canva Code projekto aktyvią nuorodą.
+**Pavyzdys: https://15paskaita.my.canva.site/**
 
 Vertinamas kūrybiškas idėjos pritaikymas, Canva Code funkcionalumo panaudojimas.
 
-Pavyzdys: https://15paskaita.my.canva.site/
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjM2NTU3MzAsMTU2NjMyNTU3MSwtNT
-kwODE3MzYyLC01OTA4MTczNjIsNzU3MzU4MzY0LDQ3NzE5MjY2
-OSwtNDAxNTU4MjE2LDkzODE3Nzc2NSwtMTcwMjk3MDQwLDE3MT
-cyNjg4NjgsNjQwMDQxOTQsMjMxNTgxMTUsLTE0OTA5NDYzLDg5
-MDE5Nzk1MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNTI1NDIyOTQzLDE1NjYzMjU1NzEsLTU5MD
+gxNzM2MiwtNTkwODE3MzYyLDc1NzM1ODM2NCw0NzcxOTI2Njks
+LTQwMTU1ODIxNiw5MzgxNzc3NjUsLTE3MDI5NzA0MCwxNzE3Mj
+Y4ODY4LDY0MDA0MTk0LDIzMTU4MTE1LC0xNDkwOTQ2Myw4OTAx
+OTc5NTIsLTIwODg3NDY2MTJdfQ==
 -->
