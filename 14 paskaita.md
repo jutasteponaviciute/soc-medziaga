@@ -67,6 +67,7 @@ Pagrindiniai elementai:
 **1 žingsnis. Sukurkite naują video dizainą**
 - Pasirinkite Video iš pagrindinio meniu arba eikite į „Create → Video“.
 - Galite pradėti nuo tuščio failo arba naudoti video šabloną (Instagram Reel, TikTok video ir pan.).
+https://www.youtube.com/watch?v=OjGS-Fxlg6A
 
 **2 žingsnis. Įkelkite turinį**
 - Įkelkite savo vaizdo įrašus, nuotraukas, grafiką arba naudokite esančius Canva bibliotekoje.
@@ -127,8 +128,8 @@ Užduotis:
 
 Vertinama: ar video aiškiai struktūruotas, ar naudojami Brand Kit elementai, ar išlaikyta dizaino harmonija, skaitymo lengvumas ir tinkamas ritmo pojūtis (muzikos, tekstų ir vaizdų sinchronizacija).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzkzOTEyOSwxMzE5ODAwMzY0LC05Nz
-c3NDExODYsLTQzOTc0OTM0OSwxNTA0NjI5MDE2LDczNDU4MzI2
-MywtMTgzODA3NDQ4NCwtNjI5MjUxMTY4LDE0MjIyNTg4MTcsMT
-MwNDU3MTg1OV19
+eyJoaXN0b3J5IjpbMTkzMjE3NTk4NywxODU3OTM5MTI5LDEzMT
+k4MDAzNjQsLTk3Nzc0MTE4NiwtNDM5NzQ5MzQ5LDE1MDQ2Mjkw
+MTYsNzM0NTgzMjYzLC0xODM4MDc0NDg0LC02MjkyNTExNjgsMT
+QyMjI1ODgxNywxMzA0NTcxODU5XX0=
 -->
