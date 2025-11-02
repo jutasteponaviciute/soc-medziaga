@@ -53,18 +53,14 @@ Pagrindiniai elementai:
 1.  Playhead (žymeklis) – rodo, kuriame vaizdo taške esate.
 2.  Tracks (takeliai):
 - Main track – pagrindiniai video ar fono klipai (vienas po kito).
-
 - Upper track – tekstai, grafikos, logotipai ar papildomi vaizdo sluoksniai (gali persidengti).
+- Audio track – muzika, garso efektai, įgarsinimas.
+3. Time ruler: rodo sekundes ir minutes.
+4. Zoom in/out: leidžia priartinti ar nutolinti vaizdą, kad būtų patogiau redaguoti.
 
-Audio track – muzika, garso efektai, įgarsinimas.
-
-Time ruler: rodo sekundes ir minutes.
-
-Zoom in/out: leidžia priartinti ar nutolinti vaizdą, kad būtų patogiau redaguoti.
-
-Taisyklė: tai, kas yra viršuje – matoma virš visų sluoksnių.
+Svarbu! Tai, kas yra viršuje – matoma virš visų sluoksnių.
 Pvz., jei tekstas yra virš pagrindinio vaizdo, jis rodysis ant viršaus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTMyMTUwOCwxNDIyMjU4ODE3LDEzMD
+eyJoaXN0b3J5IjpbLTYyOTI1MTE2OCwxNDIyMjU4ODE3LDEzMD
 Q1NzE4NTldfQ==
 -->
