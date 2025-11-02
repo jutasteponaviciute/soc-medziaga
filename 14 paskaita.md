@@ -74,25 +74,19 @@ Pagrindiniai elementai:
 
 **3 žingsnis. Redaguokite klipus**
 - Apkarpykite (Trim): patraukite klipo kraštus, kad sutrumpintumėte.
-- Skaidykite (Split): pažymėkite klipą ir spauskite S (Split) – dalinkite į kelias dalis.
-Perkelkite: vilkite klipus kairėn arba dešinėn, keisdami jų eiliškumą.
-Sluoksniuokite: pridėkite tekstus ar logotipus virš vaizdo.
+- Skaidykite (Split): pažymėkite klipą ir spauskite S (Split) dalinkite į kelias dalis.
+- Perkelkite: vilkite klipus kairėn arba dešinėn, keisdami jų eiliškumą.
+- Sluoksniuokite: pridėkite tekstus ar logotipus virš vaizdo.
 
-4 žingsnis. Pridėkite perėjimus ir efektus
+**4 žingsnis. Pridėkite perėjimus ir efektus**
+- Užveskite pelę tarp dviejų klipų ir pasirinkite „Add transition“.
+- Pasirinkite efektą (pvz., Fade, Wipe, Match & Move) ir sureguliuokite trukmę.
+- Taip sukuriamas natūralus, vientisas perėjimas tarp kadrų.
 
-Užveskite pelę tarp dviejų klipų ir pasirinkite „Add transition“.
-
-Pasirinkite efektą (pvz., Fade, Wipe, Match & Move) ir sureguliuokite trukmę.
-
-Taip sukuriamas natūralus, vientisas perėjimas tarp kadrų.
-
-5 žingsnis. Įtraukite muziką ar garsus
-
-Spauskite „Add Audio“ mygtuką po pagrindine juosta.
-
-Pasirinkite muziką iš Canva bibliotekos arba įkelkite savo garso takelį.
-
-Garsą galima trumpinti, perstumti ir derinti su vizualais pagal bangų ritmą.
+**5 žingsnis. Įtraukite muziką ar garsus**
+- Spauskite „Add Audio“ mygtuką po pagrindine juosta.
+- Pasirinkite muziką iš Canva bibliotekos arba įkelkite savo garso takelį.
+- Garsą galima trumpinti, perstumti ir derinti su vizualais pagal garso bangų ritmą.
 
 6 žingsnis. Pridėkite animacijas
 
@@ -114,7 +108,7 @@ Taip pat galite tiesiogiai dalintis į Instagram, TikTok ar Facebook.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTE5MTc5Myw3MzQ1ODMyNjMsLTE4Mz
-gwNzQ0ODQsLTYyOTI1MTE2OCwxNDIyMjU4ODE3LDEzMDQ1NzE4
-NTldfQ==
+eyJoaXN0b3J5IjpbMzk0NjQ5MzI4LDczNDU4MzI2MywtMTgzOD
+A3NDQ4NCwtNjI5MjUxMTY4LDE0MjIyNTg4MTcsMTMwNDU3MTg1
+OV19
 -->
