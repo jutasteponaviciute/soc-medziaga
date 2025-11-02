@@ -20,10 +20,12 @@ https://www.canva.com/help/using-magic-edit/
 ### 4. Magic Animate – automatinės animacijos
 https://www.canva.com/pro/animator/
 
-### 5. Magic Switch – vienu paspaudimu pakeiskite formatą
+### 5. Magic Resize – keliais paspaudimais pakeiskite formatą
+https://www.canva.com/pro/magic-resize/
+
 ###
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MDExNjA3OSwtMTQ5MDk0NjMsODkwMT
-k3OTUyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTUxNDg3OTc4LC0xNDkwOTQ2Myw4OTAxOT
+c5NTIsLTIwODg3NDY2MTJdfQ==
 -->
