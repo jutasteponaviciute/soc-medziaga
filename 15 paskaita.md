@@ -26,7 +26,12 @@ https://www.canva.com/pro/magic-resize/
 ### 6. Magic Media – AI vaizdų ir video generatorius
 https://www.canva.com/help/using-magic-media/
 
+## Canva Code – interaktyvūs elementai be programavimo
+
+Canva Code – nauja (2025 pavasaris) funkcija, leidžianti kurti interaktyvius elementus (pvz., mygtukus, kvietimus, skaičiuotuvus, testus ar mini svetaines) be programavimo žinių.
+
+###
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjgwNTY4MCwtMTQ5MDk0NjMsODkwMT
-k3OTUyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMjMxNTgxMTUsLTE0OTA5NDYzLDg5MDE5Nz
+k1MiwtMjA4ODc0NjYxMl19
 -->
