@@ -44,6 +44,8 @@ Canva Code – nauja (2025 pavasaris) funkcija, leidžianti kurti interaktyvius 
 
 https://www.canva.com/ai/code
 
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/15_paskaita/Canva%20Code.avif)
+
 ### Kaip tai veikia?
 
 1. Pasirinkite „Apps → Canva Code“.
@@ -95,9 +97,9 @@ Vertinamas kūrybiškas idėjos pritaikymas, Canva Code funkcionalumo panaudojim
 
 Pavyzdys: https://15paskaita.my.canva.site/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NjMyNTU3MSwtNTkwODE3MzYyLC01OT
-A4MTczNjIsNzU3MzU4MzY0LDQ3NzE5MjY2OSwtNDAxNTU4MjE2
-LDkzODE3Nzc2NSwtMTcwMjk3MDQwLDE3MTcyNjg4NjgsNjQwMD
-QxOTQsMjMxNTgxMTUsLTE0OTA5NDYzLDg5MDE5Nzk1MiwtMjA4
-ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE5NjM2NTU3MzAsMTU2NjMyNTU3MSwtNT
+kwODE3MzYyLC01OTA4MTczNjIsNzU3MzU4MzY0LDQ3NzE5MjY2
+OSwtNDAxNTU4MjE2LDkzODE3Nzc2NSwtMTcwMjk3MDQwLDE3MT
+cyNjg4NjgsNjQwMDQxOTQsMjMxNTgxMTUsLTE0OTA5NDYzLDg5
+MDE5Nzk1MiwtMjA4ODc0NjYxMl19
 -->
