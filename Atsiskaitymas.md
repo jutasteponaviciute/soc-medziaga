@@ -50,15 +50,31 @@ Užduotis:
 5. Sukurtą dizainą pateikite atsiskaitymui kaip Canva peržiūros nuorodą („Anyone with the link can view“).
 6. Įkelkite karuselės Canva nuorodą į atsiskaitymo formą. 
 
+## Bendri vertinimo kriterijai
+
+- Vertinama, ar laikomasi pagrindinių dizaino principų: ar aiški kompozicija, išlaikytas kontrastas, balansas, proporcijos, informacijos hierarchija ir pakankamai erdvės tarp elementų. Dizainas turi būti tvarkingas, skaitomas ir logiškai išdėstytas.
+
+- Svarbu, kad būtų pritaikytas savo sukurtas Brand Kit: naudojamos savo spalvos, šriftai ir vizualiniai elementai. Turi matytis nuoseklumas tarp visų dizainų (tiek šablono, tiek karuselės).
+
+- Vertinama, ar išlaikytas vizualinis vientisumas. Abu darbai turi atrodyti priklausantys tam pačiam prekės ženklui.
+
+- Taip pat atsižvelgiama į kūrybiškumą, ar studentas geba savitai pritaikyti šabloną, ar dizainas atitinka pasirinktą temą ir prekės ženklo identitetą.
+
+- Vertinamas techninis Canva įrankių taikymas: ar tinkamai naudoti išlygiavimo įrankiai, spalvų ir šriftų nustatymai, ar teisingai pateikta Canva peržiūros nuoroda.
+
+- Svarbu, kad būtų aiškus kvietimas veikti (CTA), vizualiai išskirtas ir suprantamas.
+
+- Galutiniame įspūdyje vertinama bendra estetinė kokybė: ar dizainai atrodo profesionaliai, harmoningai ir tinka socialiniams tinklams.
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQ2NjA3MzgsMTg3NjQxMDgwMCwtOD
-I1MzYzNDkyLC03OTI5OTQ4NDMsLTU0Njc3ODc5LDE4Mzg3MDUz
-OTcsLTI4MDE4NjM5OSwxMjkyMjE0MjAyLDEzNDAwNjg2NzAsMT
-I4MjQwNDk0OSw0MTQ1ODYxMjEsLTIwODg3NDY2MTIsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbLTM3ODQ0MTg5NywtMTY2NDY2MDczOCwxOD
+c2NDEwODAwLC04MjUzNjM0OTIsLTc5Mjk5NDg0MywtNTQ2Nzc4
+NzksMTgzODcwNTM5NywtMjgwMTg2Mzk5LDEyOTIyMTQyMDIsMT
+M0MDA2ODY3MCwxMjgyNDA0OTQ5LDQxNDU4NjEyMSwtMjA4ODc0
+NjYxMiw3MzA5OTgxMTZdfQ==
 -->
