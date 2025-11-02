@@ -20,7 +20,7 @@ https://www.canva.com/help/using-magic-edit/
 ### 4. Magic Animate – automatinės animacijos
 https://www.canva.com/pro/animator/
 
-### 5.  Resize – keliais paspaudimais pakeiskite formatą
+### 5. Magic Resize – keliais paspaudimais pakeiskite formatą
 https://www.canva.com/pro/magic-resize/
 
 ### 6. Magic Media – AI vaizdų ir video generatorius
@@ -83,9 +83,9 @@ Vertinamas kūrybiškas idėjos pritaikymas, Canva Code funkcionalumo panaudojim
 
 Pavyzdys: https://15paskaita.my.canva.site/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDg3NjU5NjUsLTU5MDgxNzM2Miw3NT
-czNTgzNjQsNDc3MTkyNjY5LC00MDE1NTgyMTYsOTM4MTc3NzY1
-LC0xNzAyOTcwNDAsMTcxNzI2ODg2OCw2NDAwNDE5NCwyMzE1OD
-ExNSwtMTQ5MDk0NjMsODkwMTk3OTUyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTU5MDgxNzM2MiwtNTkwODE3MzYyLDc1Nz
+M1ODM2NCw0NzcxOTI2NjksLTQwMTU1ODIxNiw5MzgxNzc3NjUs
+LTE3MDI5NzA0MCwxNzE3MjY4ODY4LDY0MDA0MTk0LDIzMTU4MT
+E1LC0xNDkwOTQ2Myw4OTAxOTc5NTIsLTIwODg3NDY2MTJdfQ==
 
 -->
