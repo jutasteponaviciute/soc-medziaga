@@ -11,6 +11,8 @@ Canva AI įrankiai priklauso Magic Studio šeimai – tai kūrybos asistentas, k
 ### 1. Magic Write – AI tekstų kūrimas
 https://www.canva.com/magic-write/
 
+![enter image description here](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/15_paskaita/Magic%20Write.avif)
+
 ### 2. Magic Design – maketų kūrimas
 https://www.canva.com/magic-design/
 
@@ -28,6 +30,8 @@ https://www.canva.com/pro/animator/
 
 ### 5. Magic Resize – keliais paspaudimais pakeiskite formatą
 https://www.canva.com/pro/magic-resize/
+
+![Magic Resize](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/15_paskaita/Magic%20Resize.avif)
 
 ### 6. Magic Media – AI vaizdų ir video generatorius
 https://www.canva.com/help/using-magic-media/
@@ -91,7 +95,7 @@ Vertinamas kūrybiškas idėjos pritaikymas, Canva Code funkcionalumo panaudojim
 
 Pavyzdys: https://15paskaita.my.canva.site/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MjE2MzUwMiwtNTkwODE3MzYyLC01OT
+eyJoaXN0b3J5IjpbMTU2NjMyNTU3MSwtNTkwODE3MzYyLC01OT
 A4MTczNjIsNzU3MzU4MzY0LDQ3NzE5MjY2OSwtNDAxNTU4MjE2
 LDkzODE3Nzc2NSwtMTcwMjk3MDQwLDE3MTcyNjg4NjgsNjQwMD
 QxOTQsMjMxNTgxMTUsLTE0OTA5NDYzLDg5MDE5Nzk1MiwtMjA4
