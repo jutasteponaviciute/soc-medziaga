@@ -71,22 +71,22 @@ Tikslas: išbandyti Canva Websites įrankį ir parodyti, kaip gebate pritaikyti 
 
 Užduotis:
 1. Canva aplinkoje sukurkite vieno puslapio svetainę (Website design).
+
 2. Pasirinkite bet kurią temą, kuri jums artima, pvz., asmeninis portfolio, paslaugos pristatymas, renginio puslapis ar bio link tipo svetainė.
+
 3. Naudokite savo Brand Kit (spalvas, šriftus, logotipą, jei turite).
+
 4. Įtraukite bent:
 - antraštę (kas tai per puslapis);
 - trumpą aprašymą arba kelis tekstinius blokus;
 - vieną CTA mygtuką;
 - nuorodą į savo socialinį tinklą ar kitą platformą.
-- Atsiskaitymui pateikite svetainės redagavimo nuorodą („Anyone with the link can edit“).
 
-Bus vertinama  ar svetainė sukurta naudojant Canva Websites įrankį, ar pritaikytas Brand Kit (spalvos, šriftai, stilius);
+5.  Atsiskaitymui pateikite svetainės redagavimo nuorodą („Anyone with the link can edit“).
 
-ar svetainėje aiškiai matomi pagrindiniai elementai (antraštė, tekstas, mygtukas, nuoroda);
-
-bendras tvarkingumas ir vizualinis balansas.
+Bus vertinama  ar svetainė sukurta naudojant Canva Websites įrankį, ar pritaikytas Brand Kit (spalvos, šriftai, stilius), ar svetainėje aiškiai matomi pagrindiniai elementai (antraštė, tekstas, mygtukas, nuoroda), bendras tvarkingumas ir vizualinis balansas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzAwNjA5NywyMDk4NDcxMjIyLDg2MT
-EwMzE0NSwxMDYyMDA5MDI0LC0xNjE5NzUwODk2LDU5NTA0NTA1
-Ml19
+eyJoaXN0b3J5IjpbOTAyNTU1NDU5LDIwOTg0NzEyMjIsODYxMT
+AzMTQ1LDEwNjIwMDkwMjQsLTE2MTk3NTA4OTYsNTk1MDQ1MDUy
+XX0=
 -->
