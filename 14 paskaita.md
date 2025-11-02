@@ -41,11 +41,10 @@ Naujoji Canva vaizdo įrašų redagavimo aplinka tapo daug profesionalesnė (nuo
 
 Kas pasikeitė:
 **- Multi-track timeline** – galite sluoksniuoti video, tekstą, muziką ir efektus.
-- **Tiesioginis klipų redagavimas** – galite karpyti, skaidyti ir perkelti klipus iš pačios laiko juostos.
+- **Tiesioginis klipų redagavimas** – galite karpyti, skaidyti ir perkelti klipus pačioje laiko juostoje.
 **- Garso bangų vizualizacija** – matosi garso intensyvumas, lengviau sinchronizuoti su vaizdu.
-**- Perėjimai ir efektai** – daugiau valdymo animacijoms ir trukmėms.
-
+- Profesionalus apkarpymas: priartinkite laiko juostą, kad tiksliai apkarpytumėte
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk4OTQ4NjUsMTMwNDU3MTg1OV19
+eyJoaXN0b3J5IjpbLTM2MTc4ODQwMSwxMzA0NTcxODU5XX0=
 -->
