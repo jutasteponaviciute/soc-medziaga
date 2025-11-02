@@ -30,10 +30,21 @@ https://www.canva.com/help/using-magic-media/
 
 Canva Code – nauja (2025 pavasaris) funkcija, leidžianti kurti interaktyvius elementus (pvz., mygtukus, kvietimus, skaičiuotuvus, testus ar mini svetaines) be programavimo žinių.
 
-### Kam skirtas Canva Code?
+### Kaip tai veikia?
+
+1. Pasirinkite „Apps → Canva Code“.
+2. Galite pasirinkti:
+- „Blank Code project“ (tuščias projektas),
+- arba vieną iš šablonų (pvz., kvietimas, quiz, atgalinis skaičiavimas).
+3. Canva leidžia naudoti HTML, CSS ir JavaScript fragmentus, tačiau dauguma elementų jau paruošti kaip drag & drop blokai.
+4. Galite įterpti:
+- mygtukus („Sign up“, „Learn more“),
+- formų laukus (vardas, el. paštas),
+- įterpti video, animacijas, interaktyvius grafikus.
 
 ### Kaip tai veikia?
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyODU1ODE4LDIzMTU4MTE1LC0xNDkwOT
-Q2Myw4OTAxOTc5NTIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTIxMjk0NjA5NTAsMjMxNTgxMTUsLTE0OT
+A5NDYzLDg5MDE5Nzk1MiwtMjA4ODc0NjYxMl19
 -->
