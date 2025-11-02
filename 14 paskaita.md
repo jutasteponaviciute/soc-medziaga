@@ -89,26 +89,20 @@ Pagrindiniai elementai:
 - Garsą galima trumpinti, perstumti ir derinti su vizualais pagal garso bangų ritmą.
 
 6 žingsnis. Pridėkite animacijas
+- Pasirinkite elementą (tekstą, logotipą, piktogramą).
+- Spauskite „Animate“ ir pasirinkite efektą (pvz., Fade In, Pan, Pop).
+- Reguliuokite trukmę, kad judesys atitiktų muzikos ritmą.
 
-Pasirinkite elementą (tekstą, logotipą, piktogramą).
-
-Spauskite „Animate“ ir pasirinkite efektą (pvz., Fade In, Pan, Pop).
-
-Reguliuokite trukmę, kad judesys atitiktų muzikos ritmą.
-
-7 žingsnis. Peržiūrėkite ir eksportuokite
-
-Spauskite Play arba tarpo klavišą – peržiūrėkite video.
-
-Kai viskas atrodo gerai, pasirinkite Download → MP4 video.
-
-Taip pat galite tiesiogiai dalintis į Instagram, TikTok ar Facebook.
+**7 žingsnis. Peržiūrėkite ir eksportuokite**
+- Spauskite Play arba tarpo klavišą ir peržiūrėkite video.
+- Kai viskas atrodo gerai, pasirinkite Download → MP4 video.
+- Taip pat galite tiesiogiai dalintis į Instagram, TikTok ar Facebook.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0NjQ5MzI4LDczNDU4MzI2MywtMTgzOD
-A3NDQ4NCwtNjI5MjUxMTY4LDE0MjIyNTg4MTcsMTMwNDU3MTg1
-OV19
+eyJoaXN0b3J5IjpbLTE5NzM5Mjg5Niw3MzQ1ODMyNjMsLTE4Mz
+gwNzQ0ODQsLTYyOTI1MTE2OCwxNDIyMjU4ODE3LDEzMDQ1NzE4
+NTldfQ==
 -->
