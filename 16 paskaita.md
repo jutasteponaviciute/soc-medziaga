@@ -21,8 +21,21 @@ Visos svetainės automatiškai prisitaiko prie telefono, planšetės ir kompiute
 
 ###  Svetainės struktūra: ką turėtų turėti vieno puslapio dizainas?
 
+1. Hero sekcija – pirmasis įspūdis.
+Nuotrauka, antraštė, apibūdinimas ir pagrindinis CTA (pvz., „Susisiekti“, „Peržiūrėti darbus“).
 
+2. Apie – trumpai apie jus arba prekės ženklą.
+Kas esate, ką darote, kokią vertę kuriate.
+
+2. Paslaugos / darbai / projektai – pagrindinė turinio dalis.
+Naudokite ikonėles, aiškias antraštes.
+
+3. Atsiliepimai / įrodymai – jei turite, pridėkite citatas ar klientų atsiliepimus.
+CTA (Call To Action) – kvietimas veikti.
+Pvz., „Rezervuok laiką nemokamai konsultacijąi“, „Parsisiųsk gidą“, „Sek mane Instagram ir sužinok daugiau apie x“.
+
+Kontaktai / nuorodos – pabaigoje visada turi būti būdas susisiekti ar sekti.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTAyNjk4NiwxMDYyMDA5MDI0LC0xNj
-E5NzUwODk2LDU5NTA0NTA1Ml19
+eyJoaXN0b3J5IjpbLTEzNzM3NTc1MjUsMTA2MjAwOTAyNCwtMT
+YxOTc1MDg5Niw1OTUwNDUwNTJdfQ==
 -->
