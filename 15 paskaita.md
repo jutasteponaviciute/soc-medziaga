@@ -23,9 +23,10 @@ https://www.canva.com/pro/animator/
 ### 5. Magic Resize – keliais paspaudimais pakeiskite formatą
 https://www.canva.com/pro/magic-resize/
 
-###
+### 6. Magic Media – AI vaizdų ir video generatorius
+https://www.canva.com/help/using-magic-media/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDg3OTc4LC0xNDkwOTQ2Myw4OTAxOT
-c5NTIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTMxNjgwNTY4MCwtMTQ5MDk0NjMsODkwMT
+k3OTUyLC0yMDg4NzQ2NjEyXX0=
 -->
