@@ -51,8 +51,28 @@ Canva Code – nauja (2025 pavasaris) funkcija, leidžianti kurti interaktyvius 
 
 # Praktinės užduotys
 
-### 1 užduotis.
+### 1 užduotis. Sukurkite AI sugeneruotą vizualą ir pritaikykite jį socialinių tinklų įrašui
+
+Tikslas: išbandyti Canva AI funkcijas kuriant socialinių tinklų turinį.
+
+Užduotis:
+1. Naudokite bent du AI įrankius iš Magic Studio (pvz.  + Magic Design).
+
+Sukurkite socialinių tinklų įrašą (1080×1080 arba 1080×1920).
+
+Įraše turi būti:
+
+AI sugeneruotas tekstas ar vaizdas,
+
+jūsų Brand Kit elementai,
+
+CTA.
+
+Pateikite Canva peržiūros nuorodą („Anyone with the link can view“).
+
+Vertinama: kūrybiškas AI įrankių pritaikymas, dizaino nuoseklumas, aiški žinutė.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwMDQxOTQsMjMxNTgxMTUsLTE0OTA5ND
-YzLDg5MDE5Nzk1MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTMxNTAwMjU1MCw2NDAwNDE5NCwyMzE1OD
+ExNSwtMTQ5MDk0NjMsODkwMTk3OTUyLC0yMDg4NzQ2NjEyXX0=
+
 -->
