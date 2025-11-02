@@ -45,20 +45,14 @@ Pvz., „Rezervuok laiką nemokamai konsultacijąi“, „Parsisiųsk gidą“, 
 
 3. Sutvarkykite turinį. Aiškios sekcijos, trumpi tekstai, kontrastingi mygtukai.
 
-4. Pridėkite interaktyvumo. CTA mygtukai („View more“, „Contact me“);
+4. Pridėkite interaktyvumo. CTA mygtukai („View more“, „Contact me“), nuorodos į socialinius tinklus ar dokumentus.
 
-nuorodos į socialinius tinklus ar dokumentus;
+5. Peržiūrėkite „Mobile View“ režimu, patikrinkite ar viskas atrodo gerai telefone.
 
-animacijos arba švelnūs perėjimai tarp sekcijų.
+6. Publikuokite. Spauskite Publish Website → Free domain by Canva.
 
-Peržiūrėkite „Mobile View“ režimu – patikrinkite, ar viskas atrodo gerai telefone.
-
-Publikuokite:
-
-Spauskite Publish Website → Free domain by Canva.
-
-Galite naudoti unikalų Canva domeną (pvz., jutasteponaviciute.my.canva.site) arba jungti savo domeną.
+***Galite naudoti unikalų Canva domeną (pvz., jutasteponaviciute.my.canva.site) arba jungti savo domeną.***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTgzNDI4ODksODYxMTAzMTQ1LDEwNj
-IwMDkwMjQsLTE2MTk3NTA4OTYsNTk1MDQ1MDUyXX0=
+eyJoaXN0b3J5IjpbLTQ5OTY0ODc4Miw4NjExMDMxNDUsMTA2Mj
+AwOTAyNCwtMTYxOTc1MDg5Niw1OTUwNDUwNTJdfQ==
 -->
