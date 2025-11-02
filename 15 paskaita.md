@@ -79,14 +79,12 @@ Tai gali būti bet koks jums įdomus ar jūsų veiklai naudingas kūrinys: nuo p
 Atsiskaitymas:
 Pateikite savo sukurto Canva Code projekto peržiūros nuorodą („Anyone with the link can view“).
 
-Vertinama:
+Vertinamas kūrybiškas idėjos pritaikymas, Canva Code funkcionalumo panaudojimas.
 
-kūrybiškas idėjos pritaikymas;
-
-Canva Code funkcionalumo panaudojimas;
+Pavyzdys: https://15paskaita.my.canva.site/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3MTkyNjY5LC00MDE1NTgyMTYsOTM4MT
-c3NzY1LC0xNzAyOTcwNDAsMTcxNzI2ODg2OCw2NDAwNDE5NCwy
-MzE1ODExNSwtMTQ5MDk0NjMsODkwMTk3OTUyLC0yMDg4NzQ2Nj
-EyXX0=
+eyJoaXN0b3J5IjpbLTU5MDgxNzM2Miw0NzcxOTI2NjksLTQwMT
+U1ODIxNiw5MzgxNzc3NjUsLTE3MDI5NzA0MCwxNzE3MjY4ODY4
+LDY0MDA0MTk0LDIzMTU4MTE1LC0xNDkwOTQ2Myw4OTAxOTc5NT
+IsLTIwODg3NDY2MTJdfQ==
 -->
