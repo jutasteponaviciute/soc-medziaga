@@ -15,7 +15,7 @@ Ji tinka:
 
 Visos svetainės automatiškai prisitaiko prie telefono, planšetės ir kompiuterio ekrano, todėl puikiai tinka socialinių tinklų auditorijai.
 
-### Pavyzdžiai
+Pavyzdžiai:
 1. https://giedrevain.my.canva.site/?fbclid=PAZXh0bgNhZW0CMTEAAadDmrw_75j9cF-ZlSbzJ1t0HXSiVXL0ZV91MWEGbrZVZ8N8g4ecx5nXj17X1g_aem_OrOP5z2A-XcalUI8U7JXDg
 2. https://kornelijaugc.my.canva.site/portfolio?fbclid=PAZXh0bgNhZW0CMTEAAaYxwsCcBkBJ8mmKAEblQCWqGPfe2OifcTmOSQbeRNsm5lFDXg4BwBecod4_aem_PaqqNqqqOwVEs94xRQdLng
 
@@ -86,7 +86,7 @@ Užduotis:
 
 Bus vertinama  ar svetainė sukurta naudojant Canva Websites įrankį, ar pritaikytas Brand Kit (spalvos, šriftai, stilius), ar svetainėje aiškiai matomi pagrindiniai elementai (antraštė, tekstas, mygtukas, nuoroda), bendras tvarkingumas ir vizualinis balansas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyNTU1NDU5LDIwOTg0NzEyMjIsODYxMT
-AzMTQ1LDEwNjIwMDkwMjQsLTE2MTk3NTA4OTYsNTk1MDQ1MDUy
-XX0=
+eyJoaXN0b3J5IjpbLTEwMTA5NDE5NDgsMjA5ODQ3MTIyMiw4Nj
+ExMDMxNDUsMTA2MjAwOTAyNCwtMTYxOTc1MDg5Niw1OTUwNDUw
+NTJdfQ==
 -->
