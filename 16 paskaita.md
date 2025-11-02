@@ -51,8 +51,9 @@ Pvz., „Rezervuok laiką nemokamai konsultacijąi“, „Parsisiųsk gidą“, 
 
 6. Publikuokite. Spauskite Publish Website → Free domain by Canva.
 
-***Galite naudoti unikalų Canva domeną (pvz., jutasteponaviciute.my.canva.site) arba jungti savo domeną.***
+***Galite naudoti unikalų Canva domeną (pvz., jutasteponaviciute.my.canva.site) arba jungti savo domeną, arba įsigyti domeną per Canva.***
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTY0ODc4Miw4NjExMDMxNDUsMTA2Mj
+eyJoaXN0b3J5IjpbMjA5ODQ3MTIyMiw4NjExMDMxNDUsMTA2Mj
 AwOTAyNCwtMTYxOTc1MDg5Niw1OTUwNDUwNTJdfQ==
 -->
