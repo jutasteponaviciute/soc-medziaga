@@ -42,9 +42,15 @@ Canva Code – nauja (2025 pavasaris) funkcija, leidžianti kurti interaktyvius 
 - formų laukus (vardas, el. paštas),
 - įterpti video, animacijas, interaktyvius grafikus.
 
-### Kaip tai veikia?
+### Kodėl tai naudinga?
 
+- Leidžia kurti unikalius, interaktyvius įrankius, kurie išsiskiria iš tradicinio turinio.
+- Padidina įsitraukimą – vartotojas ne tik žiūri, bet ir veikia.
+- Nereikia programuotojo, viskas daroma per Canva.
+- Integruojama su kitais įrankiais (pvz., ManyChat ar el. pašto adeso surinkimo formomis).
+
+### Kodėl tai naudinga?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjk0NjA5NTAsMjMxNTgxMTUsLTE0OT
-A5NDYzLDg5MDE5Nzk1MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE3NDQ2NDg3MiwyMzE1ODExNSwtMTQ5MD
+k0NjMsODkwMTk3OTUyLC0yMDg4NzQ2NjEyXX0=
 -->
