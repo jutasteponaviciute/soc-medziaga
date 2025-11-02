@@ -47,6 +47,24 @@ Kas pasikeitė:
 
 ## Laiko juosta (Timeline)
 
+Laiko juosta – tai jūsų vaizdo įrašo montavimo pagrindas. Ji rodo, kas ir kada pasirodo vaizdo įrašo eigoje.
+
+Pagrindiniai elementai:
+1.  Playhead (žymeklis) – rodo, kuriame vaizdo taške esate.
+2.  Tracks (takeliai):
+- Main track – pagrindiniai video ar fono klipai (vienas po kito).
+
+- Upper track – tekstai, grafikos, logotipai ar papildomi vaizdo sluoksniai (gali persidengti).
+
+Audio track – muzika, garso efektai, įgarsinimas.
+
+Time ruler: rodo sekundes ir minutes.
+
+Zoom in/out: leidžia priartinti ar nutolinti vaizdą, kad būtų patogiau redaguoti.
+
+Taisyklė: tai, kas yra viršuje – matoma virš visų sluoksnių.
+Pvz., jei tekstas yra virš pagrindinio vaizdo, jis rodysis ant viršaus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjI1ODgxNywxMzA0NTcxODU5XX0=
+eyJoaXN0b3J5IjpbMTgwOTMyMTUwOCwxNDIyMjU4ODE3LDEzMD
+Q1NzE4NTldfQ==
 -->
