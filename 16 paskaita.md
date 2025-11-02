@@ -19,10 +19,10 @@ Visos svetainės automatiškai prisitaiko prie telefono, planšetės ir kompiute
 1. https://giedrevain.my.canva.site/?fbclid=PAZXh0bgNhZW0CMTEAAadDmrw_75j9cF-ZlSbzJ1t0HXSiVXL0ZV91MWEGbrZVZ8N8g4ecx5nXj17X1g_aem_OrOP5z2A-XcalUI8U7JXDg
 2. https://kornelijaugc.my.canva.site/portfolio?fbclid=PAZXh0bgNhZW0CMTEAAaYxwsCcBkBJ8mmKAEblQCWqGPfe2OifcTmOSQbeRNsm5lFDXg4BwBecod4_aem_PaqqNqqqOwVEs94xRQdLng
 
-###  Kas yra Canva Websites?
+###  Svetainės struktūra: ką turėtų turėti vieno puslapio dizainas?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3ODkxNjU5NCwxMDYyMDA5MDI0LC0xNj
+eyJoaXN0b3J5IjpbMTU3NTAyNjk4NiwxMDYyMDA5MDI0LC0xNj
 E5NzUwODk2LDU5NTA0NTA1Ml19
 -->
