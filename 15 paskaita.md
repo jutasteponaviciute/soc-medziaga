@@ -66,9 +66,11 @@ Užduotis:
 
 Vertinama: kūrybiškas AI įrankių pritaikymas, dizaino nuoseklumas, aiški žinutė.
 
-### 2 užduotis. ukurkite savo interaktyvų projektą su Canva Code
+### 2 užduotis. Sukurkite savo interaktyvų projektą su Canva Code
+
+Tikslas: išbandyti Canva Code funkcionalumą praktiškai
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjUzNzM1MTEsLTE3MDI5NzA0MCwxNz
-E3MjY4ODY4LDY0MDA0MTk0LDIzMTU4MTE1LC0xNDkwOTQ2Myw4
-OTAxOTc5NTIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNjIyOTQ1NDg0LC0xNzAyOTcwNDAsMTcxNz
+I2ODg2OCw2NDAwNDE5NCwyMzE1ODExNSwtMTQ5MDk0NjMsODkw
+MTk3OTUyLC0yMDg4NzQ2NjEyXX0=
 -->
