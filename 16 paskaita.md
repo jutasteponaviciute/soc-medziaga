@@ -53,7 +53,9 @@ Pvz., „Rezervuok laiką nemokamai konsultacijąi“, „Parsisiųsk gidą“, 
 
 ***Galite naudoti unikalų Canva domeną (pvz., jutasteponaviciute.my.canva.site) arba jungti savo domeną, arba įsigyti domeną per Canva.***
 
+![kiti domeno pasirinkimai](https://github.com/IamJuniorMB/images/blob/main/social-long-material/16_paskaita/kiti%20domeno%20pasirinkimai.avif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODQ3MTIyMiw4NjExMDMxNDUsMTA2Mj
-AwOTAyNCwtMTYxOTc1MDg5Niw1OTUwNDUwNTJdfQ==
+eyJoaXN0b3J5IjpbNzYyNDU4NjExLDIwOTg0NzEyMjIsODYxMT
+AzMTQ1LDEwNjIwMDkwMjQsLTE2MTk3NTA4OTYsNTk1MDQ1MDUy
+XX0=
 -->
