@@ -98,11 +98,13 @@ Pagrindiniai elementai:
 - Kai viskas atrodo gerai, pasirinkite Download → MP4 video.
 - Taip pat galite tiesiogiai dalintis į Instagram, TikTok ar Facebook.
 
+## Patarimai efektyviam video kūrimui
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzM5Mjg5Niw3MzQ1ODMyNjMsLTE4Mz
+eyJoaXN0b3J5IjpbMTUwNDYyOTAxNiw3MzQ1ODMyNjMsLTE4Mz
 gwNzQ0ODQsLTYyOTI1MTE2OCwxNDIyMjU4ODE3LDEzMDQ1NzE4
 NTldfQ==
 -->
