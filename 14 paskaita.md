@@ -60,12 +60,67 @@ Pagrindiniai elementai:
 
 ![laiko juosta](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/14_paskaita/laiko%20juosta.avif)
 
-**Svarbu!** Tai, kas yra viršuje – matoma virš visų sluoksnių. Pvz., jei tekstas yra virš pagrindinio vaizdo, jis rodysis ant viršaus.
+**Svarbu!** Tai, kas yra viršuje, matoma virš visų sluoksnių. Pvz., jei tekstas yra virš pagrindinio vaizdo, jis bus rodomas ant viršaus.
+
+## Video kūrimo procesas Canvoje
+
+**1 žingsnis. Sukurkite naują video dizainą**
+- Pasirinkite Video iš pagrindinio meniu arba eikite į „Create → Video“.
+-Galite pradėti nuo tuščio failo arba naudoti video šabloną („Instagram Reel“, „TikTok video“ ir pan.).
+
+2 žingsnis. Įkelkite turinį
+
+Įkelkite savo vaizdo įrašus, nuotraukas, grafiką arba naudokite Canva biblioteką.
+
+Galite vilkti turinį tiesiai į laiko juostą arba į drobę.
+
+3 žingsnis. Redaguokite klipus
+
+Apkarpykite (Trim): patraukite klipo kraštus, kad sutrumpintumėte.
+
+Skaidykite (Split): pažymėkite klipą ir spauskite S (Split) – dalinkite į kelias dalis.
+
+Perkelkite: vilkite klipus kairėn arba dešinėn, keisdami jų eiliškumą.
+
+Sluoksniuokite: pridėkite tekstus ar logotipus virš vaizdo.
+
+4 žingsnis. Pridėkite perėjimus ir efektus
+
+Užveskite pelę tarp dviejų klipų ir pasirinkite „Add transition“.
+
+Pasirinkite efektą (pvz., Fade, Wipe, Match & Move) ir sureguliuokite trukmę.
+
+Taip sukuriamas natūralus, vientisas perėjimas tarp kadrų.
+
+5 žingsnis. Įtraukite muziką ar garsus
+
+Spauskite „Add Audio“ mygtuką po pagrindine juosta.
+
+Pasirinkite muziką iš Canva bibliotekos arba įkelkite savo garso takelį.
+
+Garsą galima trumpinti, perstumti ir derinti su vizualais pagal bangų ritmą.
+
+6 žingsnis. Pridėkite animacijas
+
+Pasirinkite elementą (tekstą, logotipą, piktogramą).
+
+Spauskite „Animate“ ir pasirinkite efektą (pvz., Fade In, Pan, Pop).
+
+Reguliuokite trukmę, kad judesys atitiktų muzikos ritmą.
+
+7 žingsnis. Peržiūrėkite ir eksportuokite
+
+Spauskite Play arba tarpo klavišą – peržiūrėkite video.
+
+Kai viskas atrodo gerai, pasirinkite Download → MP4 video.
+
+Taip pat galite tiesiogiai dalintis į Instagram, TikTok ar Facebook.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0NTgzMjYzLC0xODM4MDc0NDg0LC02Mj
-kyNTExNjgsMTQyMjI1ODgxNywxMzA0NTcxODU5XX0=
+eyJoaXN0b3J5IjpbNDU5MTc2MzYzLDczNDU4MzI2MywtMTgzOD
+A3NDQ4NCwtNjI5MjUxMTY4LDE0MjIyNTg4MTcsMTMwNDU3MTg1
+OV19
 -->
