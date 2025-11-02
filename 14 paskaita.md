@@ -58,10 +58,14 @@ Pagrindiniai elementai:
 3. Time ruler: rodo sekundes ir minutes.
 4. Zoom in/out: leidžia priartinti ar nutolinti vaizdą, kad būtų patogiau redaguoti.
 
+![laiko juosta](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/14_paskaita/laiko%20juosta.avif)
+
 **Svarbu!** Tai, kas yra viršuje – matoma virš visų sluoksnių. Pvz., jei tekstas yra virš pagrindinio vaizdo, jis rodysis ant viršaus.
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzgwNzQ0ODQsLTYyOTI1MTE2OCwxND
-IyMjU4ODE3LDEzMDQ1NzE4NTldfQ==
+eyJoaXN0b3J5IjpbNzM0NTgzMjYzLC0xODM4MDc0NDg0LC02Mj
+kyNTExNjgsMTQyMjI1ODgxNywxMzA0NTcxODU5XX0=
 -->
