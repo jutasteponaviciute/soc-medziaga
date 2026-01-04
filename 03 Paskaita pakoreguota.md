@@ -146,6 +146,18 @@ Struktūra:
 
 Naudojimas: praktiniai patarimai, „checklist“ tipo turinys.
 
+**5. Mitas → Tiesa → CTA**
+Padeda keisti auditorijos mąstymą ir formuoti pasitikėjimą.
+
+Struktūra:
+- Mitas
+- Kodėl jis paplitęs
+- Tikroji situacija
+- Paaiškinimas
+- CTA
+
+Naudojimas: nuomonės formavimas, edukacija.
+
 **1. Edukacinė karuselė**
 Tikslas – paaiškinti, parodyti žingsnius arba pateikti vertingą informaciją paprastai.
 
@@ -266,5 +278,5 @@ pardaviminė (pasiūlymas ar produkto pristatymas).
 
 Vertinama karuselės struktūra, dizaino vientisumas pagal Brand Kit, informacijos aiškumas ir tinkamas nuorodos pateikimas atsiskaitymui.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3ODU4Mzc3LC03MzczNDY5NjZdfQ==
+eyJoaXN0b3J5IjpbLTIwNjk3MTgyNTksLTczNzM0Njk2Nl19
 -->
