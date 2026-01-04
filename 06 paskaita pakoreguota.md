@@ -390,14 +390,9 @@ Kad tekstas būtų skaitomas tiek telefone, tiek kompiuteryje:
 1. Kontrastas su fonu  
     - Tamsus tekstas ant šviesaus arba šviesus ant tamsaus.  
     - Venkite šviesaus teksto ant šviesaus fono ir tamsaus teksto ant tamsaus fono.  
-2. Teksto dydžiai (rekomendacijos):  
-    - Antraštė: 45–60 pt  
-    - Poantraštė: 22–30 pt  
-    - Pagrindinis tekstas: 12–18 pt  
-    - CTA mygtuko tekstas: 14–16 pt  
-3. Eilučių tarpai: 1.2–1.4 priklausomai nuo šrifto.  
-4. Raidžių tarpai: +1–2 pt antraštėms, standartinis – kūno tekstui.  
-5. Venk visų didžiųjų raidžių ilgam tekstui.  
+2. Eilučių tarpai: 1.2–1.4 priklausomai nuo šrifto.  
+3. Raidžių tarpai: +1–2 pt antraštėms, standartinis – kūno tekstui.  
+4. Venk visų didžiųjų raidžių ilgam tekstui.  
 
 ### Šrifto testavimas
 
@@ -571,6 +566,6 @@ Kodėl vienas dizainas veikia geriau už kitą?
 
 **Vertinamas:** logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTMwODczMCwxOTI3NzY2MDcyLC04Mj
-E3MjcxMzVdfQ==
+eyJoaXN0b3J5IjpbNTcyNTI1NzIzLDE5Mjc3NjYwNzIsLTgyMT
+cyNzEzNV19
 -->
