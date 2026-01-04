@@ -69,11 +69,6 @@ Tokie vizualiniai sprendimai leidžia kurti ryšį su vartotoju, nes kiekvieną 
 
 Vientisumas dizainuose taip pat kuria profesionalumo įspūdį. Kai skirtingos kampanijos ar įrašai atrodo darniai, tai rodo, kad prekės ženklas rūpinasi detalėmis, planuoja ir laikosi savo vertybių.
 
-### Canva patarimas:
-- Naudokite **Guides, Rulers, Margins**.
-
-![Naudokite Guides, Rulers, Margins](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/Naudokite%20Guides,%20Rulers,%20Margins..avif)
-
 ## Kompozicijos pagrindai
 
 ### Kas yra kompozicija ir kodėl ji svarbi?  
@@ -577,5 +572,5 @@ Kodėl vienas dizainas veikia geriau už kitą?
 
 **Vertinamas:** logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTcyNzEzNV19
+eyJoaXN0b3J5IjpbMTkyNzc2NjA3MiwtODIxNzI3MTM1XX0=
 -->
