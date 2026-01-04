@@ -531,7 +531,6 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 - Padarykite trumpą aprašymą (2–3 sakinius):  
   - Kodėl pasirinkote tokias spalvas?  
   - Ar kontrastas užtikrina aiškumą ir įskaitomumą?  
-- Atsiskaitymui įkelkite išeksportuotą dokumentą (PDF formatu) su spalvų palete, testavimu ir trumpu aprašymu.  
 
 **Vertinamas:** spalvų derinimo logika, aiškus 60%, 30%, 10% principo taikymas, pakankamas kontrastas ir skaitomumas.  
 
@@ -546,7 +545,8 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
   - Kodėl pasirinkote šiuos šriftus?  
   - Kodėl jie dera tarpusavyje?  
   - Ar palaiko lietuviškas raides?  
-- Atsiskaitymui įkelkite išeksportuotą dokumentą (PDF formatu) su šriftų deriniu, testavimu ir paaiškinimu.  
+
+1 užduoties (1-2 dalies) atsiskaitymui įkelkite išeksportuotą dokumentą (PDF formatu) su šriftų deriniu, testavimu ir paaiškinimais.  
 
 **Vertinamas:** logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.  
 
@@ -566,6 +566,6 @@ Kodėl vienas dizainas veikia geriau už kitą?
 
 **Vertinimas:** gebėjimas pastebėti hierarchiją, kontrastą, balansą ir dizaino tikslingumą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTkzNzI4NzQsMTkyNzc2NjA3MiwtOD
-IxNzI3MTM1XX0=
+eyJoaXN0b3J5IjpbOTAxOTA5MzIzLDE5Mjc3NjYwNzIsLTgyMT
+cyNzEzNV19
 -->
