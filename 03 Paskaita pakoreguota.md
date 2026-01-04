@@ -192,46 +192,19 @@ Struktūra:
 
 Naudojimas: asmeninis prekės ženklas, patirtys, vertybinis turinys.
 
-**1. Edukacinė karuselė**
-Tikslas – paaiškinti, parodyti žingsnius arba pateikti vertingą informaciją paprastai.
+**9. Palyginimo struktūra (A vs B)**
+Padeda auditorijai lengviau priimti sprendimus.
 
-Tinka, kai norite:
-- dalintis patarimais, kaip kažką padaryti;
-- parodyti klaidas ar pamokas;
-- padėti auditorijai suprasti jūsų sritį.
+Struktūra:
+- Tema
+- Variantų A ypatybės
+- Variantų B ypatybės
+- Kam kuris tinka?
+- CTA
 
- **2. Įkvepianti (emocinė) karuselė** 
-Tikslas – sukurti emocinį ryšį su auditorija ir įkvėpti veikti.
+Naudojimas: produktų, planų, paslaugų palyginimas.
 
-Tinka, kai norite:
-- pasidalinti mintimis apie kūrybą, verslą, motyvaciją;
-- sustiprinti prekės ženklo asmeniškumą;
-- sukurti palaikančią atmosferą bendruomenėje.
-- 
-**3. Pardaviminė karuselė**  
-Tikslas – pateikti pasiūlymą, parodyti vertę arba skatinti įsigyti.  
-
-Tinka, kai norite:  
-- pristatyti naują produktą ar paslaugą;  
-- paaiškinti, ką žmogus gaus;  
-- pabrėžti vertę per aiškią struktūrą.  
-
- **4. Storytelling karuselė**  
-Tikslas – papasakoti istoriją arba parodyti procesą.  
-
-Tinka, kai norite:  
-- parodyti užkulisius;  
-- pasidalinti savo ar kliento istorija;  
-- parodyti pokyčius („prieš ir po“).  
-
-
- **5. Portfolio arba projekto karuselė**  
-Tikslas – parodyti savo darbus, procesą arba rezultatus.  
-
-Tinka, kai norite:  
-- parodyti projektų pavyzdžius;  
-- pristatyti kliento sėkmės istoriją;  
-- parodyti, ką mokėte ar sukūrėte.  
+**9. Palyginimo struktūra (A vs B)**
 
 ### Bendri karuselės kūrimo principai
 
@@ -312,6 +285,6 @@ pardaviminė (pasiūlymas ar produkto pristatymas).
 
 Vertinama karuselės struktūra, dizaino vientisumas pagal Brand Kit, informacijos aiškumas ir tinkamas nuorodos pateikimas atsiskaitymui.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTA4NDI4NywtMjA2OTcxODI1OSwtNz
+eyJoaXN0b3J5IjpbLTk1OTEzMzE5NCwtMjA2OTcxODI1OSwtNz
 M3MzQ2OTY2XX0=
 -->
