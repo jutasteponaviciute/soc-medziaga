@@ -224,6 +224,7 @@ Naudojimas: kursai, narystės, paslaugos, produktai.
 - Išlaikykite vientisumą. Naudokite savo Brand Kit šriftus, spalvas ir elementus.  
   - Change all fonts.  
 - Ištestuokite skaitomumą. Peržiūrėkite karuselę telefone. Kas atrodo gerai kompiuteryje, telefone gali būti per maža arba per intensyvu.  
+- Svarbu dėmesį skirti ne tik pirmai, bet ir antrai skaidrei, nes dažnai Instagram algoritmas įrašo rodymą naujienų sraute pradeda būtent nuo antros skaidrės.
 
 ### Papildomas patarimas iš praktikos
 
@@ -295,6 +296,6 @@ pardaviminė (pasiūlymas ar produkto pristatymas).
 
 Vertinama karuselės struktūra, dizaino vientisumas pagal Brand Kit, informacijos aiškumas ir tinkamas nuorodos pateikimas atsiskaitymui.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjM5NDI4NCwtMjA2OTcxODI1OSwtNz
-M3MzQ2OTY2XX0=
+eyJoaXN0b3J5IjpbMTEzOTcwMTcwOCwxNzA2Mzk0Mjg0LC0yMD
+Y5NzE4MjU5LC03MzczNDY5NjZdfQ==
 -->
