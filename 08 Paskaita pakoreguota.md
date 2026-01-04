@@ -145,11 +145,11 @@ Viena iš dažniausiai naudojamų automatizacijų yra **Auto-DM links from comme
 1. **Išsirinkite šabloną**
 Iš „Canva“ šablonų bibliotekos pasirinkite tau tinkamiausią šabloną. Dažniausiai PDF dokumentams naudojamas A4 formatas. https://www.canva.com/templates
 2. **Redaguokite turinį**
-Pakeiskite tekstą, spalvas ir šriftus, įkelk savo nuotraukas ar logotipą. Kurdamas dizainą, vadovaukis savo Brand Kit.
+Pakeiskite tekstą, spalvas ir šriftus, įkelk savo nuotraukas ar logotipą. Kurdami dizainą, vadovaukitės savo prekės ženklo Brand Kit.
 3.  **Pridėk aktyvias nuorodas**
-Pasižymėk pasirinktą objektą (mygtuką, tekstą ar paveikslėlį), viršuje spausk tritaškį (⋯), pasirink Link, įklijuok norimą URL ir spausk Done.
-4. Atsisiųsk kaip PDF
-Spausk Share → Download → PDF Standard (arba PDF Print, jei reikia spaudai). Atsisiųstame PDF faile nuorodos bus paspaudžiamos, aktyvios.
+Pasižymėkite pasirinktą objektą (mygtuką, tekstą ar paveikslėlį), viršuje spauskite tritaškį (⋯), pasirinkite Link, įklijuokite norimą URL ir spauskite Done.
+4. Atsisiųskite kaip PDF
+Spauskite Share → Download → PDF Standard (arba PDF Print, jei reikia spaudai). Atsisiųstame PDF faile nuorodos bus paspaudžiamos, aktyvios.
 
 # Praktinės užduotys
 
@@ -180,6 +180,6 @@ Vertinamas dizaino aiškumas, struktūra, vizualinis nuoseklumas pagal Brand Kit
 
 Vertinama, ar maketas/karuselė aiškiai perteikia pasiūlymą, išlaiko vizualinį nuoseklumą ir turi motyvuojantį kvietimą veikti (CTA).  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NjQ2MDUwMSwtMjQwODUxODE0LC0xND
-E2NzcxNDE5LDMwOTYzNzg3Ml19
+eyJoaXN0b3J5IjpbLTIwNzYzNTA3NzYsLTI0MDg1MTgxNCwtMT
+QxNjc3MTQxOSwzMDk2Mzc4NzJdfQ==
 -->
