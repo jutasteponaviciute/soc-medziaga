@@ -128,7 +128,7 @@ Antraštė didžiausiu šriftu, po ja mažesnis paaiškinimas, o CTA (veiksmo my
 
 ### Taisyklė: mažiau yra daugiau (balanso ir tuščios erdvės reikšmė). 
 
-Perkrautas dizainas neatrodo įspūdingai, jis tiesiog vargina.
+Perkrautas dizainas neatrodo įspūdingai, jis tiesiog vargina. Nebent tai yra sąmoningas pasirinkimas, daromas dėl tam tikro tikslo.
 
 Tuščia erdvė (angl. white space) leidžia akiai pailsėti, padeda pabrėžti tai, kas svarbiausia. 
 
@@ -138,7 +138,7 @@ Tai nebūtinai reiškia simetriją, galima išlaikyti pusiausvyrą net ir su ski
 
 Pavyzdžiai: 
 
--   Tekstas užima vieną pusę, o vizualas užima kitą, tarp jų palikta oro.  
+-   Tekstas užima vieną pusę, o nuotrauka užima kitą, tarp jų palikta oro.  
 -   Logotipas ar mygtukas nėra priglaustas prie krašto, aplink palikta erdvės, kad jis „kvėpuotų“.
 
 ![balanso ir tuscios erdves pavyzdys](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/10_paskaita/balanso%20ir%20tuscios%20erdves%20pvz.avif)
@@ -572,5 +572,6 @@ Kodėl vienas dizainas veikia geriau už kitą?
 
 **Vertinamas:** logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzc2NjA3MiwtODIxNzI3MTM1XX0=
+eyJoaXN0b3J5IjpbLTIxMjg3NzIwNDMsMTkyNzc2NjA3MiwtOD
+IxNzI3MTM1XX0=
 -->
