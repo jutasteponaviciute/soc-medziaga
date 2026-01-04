@@ -73,6 +73,11 @@ Kai kitas žmogus ją paspaus, Canva sukurs naują failą su užrašu „A copy 
 - Tai padeda išlaikyti vienodą stilių komandoje ar grupėje.
 - Galite dalintis šablonais mokymams ar projektams, kad visi pradėtų nuo to paties pagrindo.
 
+## Šablonų bazė Canva programoje
+
+https://www.canva.com/templates
+
+
 ## Informacijos hierarchija
 
 Vienas dažniausių dizaino iššūkių: viskas atrodo svarbu. Kad to išvengtumėte, vadovaukitės informacijos hierarchijos principu:
@@ -292,6 +297,7 @@ Vertinama karuselės struktūra, dizaino vientisumas pagal Brand Kit, informacij
 
 Vertinama, ar studentas geba pagrįstai įvertinti karuselės struktūrą, dizaino sprendimus ir komunikacijos aiškumą, remdamasis konkrečiais pavyzdžiais.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDAzMzc2NSwtOTYwODY1NzY2LDE3MD
-YzOTQyODQsLTIwNjk3MTgyNTksLTczNzM0Njk2Nl19
+eyJoaXN0b3J5IjpbNzUzNzI2NDE3LDIwNDAwMzM3NjUsLTk2MD
+g2NTc2NiwxNzA2Mzk0Mjg0LC0yMDY5NzE4MjU5LC03MzczNDY5
+NjZdfQ==
 -->
