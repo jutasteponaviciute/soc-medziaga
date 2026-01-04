@@ -158,6 +158,8 @@ Struktūra:
 
 Naudojimas: nuomonės formavimas, edukacija.
 
+
+
 **1. Edukacinė karuselė**
 Tikslas – paaiškinti, parodyti žingsnius arba pateikti vertingą informaciją paprastai.
 
@@ -278,5 +280,6 @@ pardaviminė (pasiūlymas ar produkto pristatymas).
 
 Vertinama karuselės struktūra, dizaino vientisumas pagal Brand Kit, informacijos aiškumas ir tinkamas nuorodos pateikimas atsiskaitymui.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjk3MTgyNTksLTczNzM0Njk2Nl19
+eyJoaXN0b3J5IjpbMjEzMjIzNDIxNywtMjA2OTcxODI1OSwtNz
+M3MzQ2OTY2XX0=
 -->
