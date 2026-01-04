@@ -243,7 +243,7 @@ Karuselės yra ne tik dizainas, bet ir turinio strategijos įrankis. Kurdami jas
 
 Karuselių pavyzdžiai:
 1. https://www.instagram.com/p/DNXq8BNMPZC/?igsh=MXQ4Z3R2ZHR6eTI1cQ%3D%3D  
-2. https://www.instagram.com/p/DO8Q3LPCjPv/?igsh=MTBwZTh6MGRsZHo4dg%3D%3D  
+2. https://www.instagram.com/p/DSDQEJdiDXi/?img_index=1 
 3. https://www.instagram.com/p/DBLh-pYOucB/?igsh=MWZudGdpZTcyMWR6bg%3D%3D  
 4. https://www.instagram.com/p/DIHKXqUIdLY/?igsh=MXhsazY5eTR6YW5oYg%3D%3D  
 5. https://www.instagram.com/p/DBLrtGJucQc/?img_index=1  
@@ -296,6 +296,6 @@ pardaviminė (pasiūlymas ar produkto pristatymas).
 
 Vertinama karuselės struktūra, dizaino vientisumas pagal Brand Kit, informacijos aiškumas ir tinkamas nuorodos pateikimas atsiskaitymui.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTcwMTcwOCwxNzA2Mzk0Mjg0LC0yMD
-Y5NzE4MjU5LC03MzczNDY5NjZdfQ==
+eyJoaXN0b3J5IjpbMjUyNzI3NTgwLDE3MDYzOTQyODQsLTIwNj
+k3MTgyNTksLTczNzM0Njk2Nl19
 -->
