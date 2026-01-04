@@ -170,7 +170,7 @@ Vertinamas dizaino aiškumas, struktūra, vizualinis nuoseklumas pagal Brand Kit
 **Tikslas:** sukurti reklaminį vizualą ar Instagram karuselę, kviečiančią atsisiųsti jūsų sukurtą freebie.
 
 **Užduotis:**
-- Canvoje sukurkite 1 maketą arba 4–7 skaidrių karuselę, kurioje aiškiai pristatomas jūsų freebie.  Galima rinktis iš šablonų.
+- Canvoje sukurkite 1 maketą arba 4–7 skaidrių karuselę, kurioje aiškiai pristatomas jūsų freebie.  Galima pasirinkti Canvoje esamą šabloną ir jį pritaikyti savo temai bei vizualiniam identitetui.
 - Naudokite savo Brand Kit spalvas, šriftus ir kitus elementus.  
 - Makete turi būti aiškiai matoma:  
   - ką žmogus gaus atsisiųsdamas (pvz., „nemokamas gidas“, „checklistas“, „planas“);  
@@ -180,6 +180,6 @@ Vertinamas dizaino aiškumas, struktūra, vizualinis nuoseklumas pagal Brand Kit
 
 Vertinama, ar maketas/karuselė aiškiai perteikia pasiūlymą, išlaiko vizualinį nuoseklumą ir turi motyvuojantį kvietimą veikti (CTA).  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODU5ODAzNCwtMjQwODUxODE0LC0xND
-E2NzcxNDE5LDMwOTYzNzg3Ml19
+eyJoaXN0b3J5IjpbLTY4MTIzNTUzLC0yNDA4NTE4MTQsLTE0MT
+Y3NzE0MTksMzA5NjM3ODcyXX0=
 -->
