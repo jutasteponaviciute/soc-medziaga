@@ -557,15 +557,15 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 **Užduotis:**
 - Pasirinkite du vizualus iš socialinių tinklų (pvz., reklamos ar įrašų).
 - Vienas turi būti jūsų nuomone geras dizainas, kitas – ne toks sėkmingas.
-- Abu įkelkite į Canva arba dokumentą ir trumpai aprašykite:
-Kas pirmiausia patraukia dėmesį?
-Kaip išdėstyti elementai (ar aišku, kas svarbiausia)?
-Kaip panaudotos spalvos ir šriftai?
-Kodėl vienas dizainas veikia geriau už kitą?
+- Abu įkelkite į dokumentą ir trumpai aprašykite:
+	- Kas pirmiausia patraukia dėmesį?
+	- Kaip išdėstyti elementai (ar aišku, kas svarbiausia)?
+	- Kaip panaudotos spalvos ir šriftai?
+	- Kodėl vienas dizainas veikia geriau už kitą?
 - Nepamirškite įkelti atsiskaitymui.
 
 **Vertinimas:** gebėjimas pastebėti hierarchiją, kontrastą, balansą ir dizaino tikslingumą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxOTA5MzIzLDE5Mjc3NjYwNzIsLTgyMT
-cyNzEzNV19
+eyJoaXN0b3J5IjpbLTM0MDE4NzMxMiwxOTI3NzY2MDcyLC04Mj
+E3MjcxMzVdfQ==
 -->
