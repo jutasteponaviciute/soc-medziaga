@@ -259,17 +259,17 @@ Karuselių pavyzdžiai:
 - Pasirinkite vieną iš karuselių struktūrų.
 - Karuselė turėtų turėti 5–10 skaidrių, aiškią struktūrą ir raginimą veikti (CTA) paskutinėje skaidrėje.
 - Dizainui naudokite tik savo Brand Kit spalvas, šriftus.
-- Sukūrus dizainą, atsidarykite peržiūros režimu (View → Present) ir nukopijuokite viešą dizaino nuorodą (Share → Anyone with the link → Can Edit).
+- Sukūrus dizainą, nukopijuokite viešą dizaino nuorodą (Share → Anyone with the link → Can Edit).
 - Įkelkite karuselės Canva nuorodą į atsiskaitymo formą. 
 
 Vertinama karuselės struktūra, dizaino vientisumas pagal Brand Kit, informacijos aiškumas ir tinkamas nuorodos pateikimas atsiskaitymui.
 
 ### Papildoma užduotis. Instagram karuselės analizė
 
-**Tikslas:** išmokti atpažinti, kas daro karuselę veiksmingą arba neveiksmingą – nuo struktūros ir dizaino iki turinio aiškumo bei emocinio poveikio.
+**Tikslas:** išmokti atpažinti, kas daro karuselę veiksmingą arba neveiksmingą: nuo struktūros ir dizaino iki turinio aiškumo bei emocinio poveikio.
 
 **Užduotis:**
-- Nueikite į Instagramnir pasirinkite vieną karuselę – ji gali būti gera arba arba nelabai pavykusi, svarbu, kad jums keltų reakciją (patinka arba erzina).  
+- Nueikite į Instagramnir pasirinkite vieną karuselę, ji gali būti gera arba arba nelabai pavykusi, svarbu, kad jums keltų reakciją (patinka arba erzina).  
 - Padarykite ekrano nuotraukas arba nukopijuokite įrašo nuorodą.  
 - Atsakykite į šiuos klausimus (trumpai, bet argumentuotai):    
   - **A.** Struktūra ir turinys  
@@ -292,6 +292,6 @@ Vertinama karuselės struktūra, dizaino vientisumas pagal Brand Kit, informacij
 
 Vertinama, ar studentas geba pagrįstai įvertinti karuselės struktūrą, dizaino sprendimus ir komunikacijos aiškumą, remdamasis konkrečiais pavyzdžiais.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM4MTI0OSwxNzA2Mzk0Mjg0LC0yMD
+eyJoaXN0b3J5IjpbMTkxMzIzMDIwMiwxNzA2Mzk0Mjg0LC0yMD
 Y5NzE4MjU5LC03MzczNDY5NjZdfQ==
 -->
