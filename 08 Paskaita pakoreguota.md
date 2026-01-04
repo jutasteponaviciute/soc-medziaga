@@ -143,13 +143,14 @@ Viena iš dažniausiai naudojamų automatizacijų yra **Auto-DM links from comme
 ## PDF kūrimas Canva programoje
 
 1. Išsirink šabloną
-Iš šablonų bazės pasirink tau tinkamiausią. Dažniausiai tai bus A4 formatas. https://www.canva.com/templates
+Iš šablonų bazės pasirink tau tinkamiausią šabloną. Dažniausiai tai bus A4 formatas. https://www.canva.com/templates
 2. Redaguok turinį
 Pakeisk tekstą, spalvas, šriftus, įkelk savo nuotraukas ar logotipą, atsižvelgiant į savo Brand Kit.
 3.  Pridėk aktyvias nuorodas
+Pasižymėk pasirinktą objektą (mygtuką, tekstą ar paveikslėlį), viršuje spausk tritaškį (⋯), pasirink Link, įklijuok norimą URL ir spausk Done.
+4. Atsisiųsk kaip PDF
+Spausk Share  → Download  → PDF Standard
 
-Atsisiųsk kaip PDF
-Spausk Share / Dalintis → Download / Atsisiųsti → PDF (PDF Standard
 # Praktinės užduotys
 
 ### 1 užduotis. Sukurkite PDF gidą (freebie)
@@ -179,6 +180,6 @@ Vertinamas dizaino aiškumas, struktūra, vizualinis nuoseklumas pagal Brand Kit
 
 Vertinama, ar maketas/karuselė aiškiai perteikia pasiūlymą, išlaiko vizualinį nuoseklumą ir turi motyvuojantį kvietimą veikti (CTA).  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDg1MTgxNCwtMTQxNjc3MTQxOSwzMD
-k2Mzc4NzJdfQ==
+eyJoaXN0b3J5IjpbLTE1MTgwNDUyLC0yNDA4NTE4MTQsLTE0MT
+Y3NzE0MTksMzA5NjM3ODcyXX0=
 -->
