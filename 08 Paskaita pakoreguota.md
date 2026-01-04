@@ -149,7 +149,7 @@ Pakeisk tekstą, spalvas ir šriftus, įkelk savo nuotraukas ar logotipą. Kurda
 3.  Pridėk aktyvias nuorodas
 Pasižymėk pasirinktą objektą (mygtuką, tekstą ar paveikslėlį), viršuje spausk tritaškį (⋯), pasirink Link, įklijuok norimą URL ir spausk Done.
 4. Atsisiųsk kaip PDF
-Spausk Share  → Download  → PDF Standard
+Spausk Share → Download → PDF Standard (arba PDF Print, jei reikia spaudai). Atsisiųstame PDF faile nuorodos bus paspaudžiamos, aktyvios.
 
 # Praktinės užduotys
 
@@ -170,7 +170,7 @@ Vertinamas dizaino aiškumas, struktūra, vizualinis nuoseklumas pagal Brand Kit
 **Tikslas:** sukurti reklaminį vizualą ar Instagram karuselę, kviečiančią atsisiųsti jūsų sukurtą freebie.
 
 **Užduotis:**
-- Canvoje sukurkite 1 maketą arba 4–7 skaidrių karuselę, kurioje aiškiai pristatomas jūsų freebie.  
+- Canvoje sukurkite 1 maketą arba 4–7 skaidrių karuselę, kurioje aiškiai pristatomas jūsų freebie.  Galima rinktis iš šablonų.
 - Naudokite savo Brand Kit spalvas, šriftus ir kitus elementus.  
 - Makete turi būti aiškiai matoma:  
   - ką žmogus gaus atsisiųsdamas (pvz., „nemokamas gidas“, „checklistas“, „planas“);  
@@ -180,6 +180,6 @@ Vertinamas dizaino aiškumas, struktūra, vizualinis nuoseklumas pagal Brand Kit
 
 Vertinama, ar maketas/karuselė aiškiai perteikia pasiūlymą, išlaiko vizualinį nuoseklumą ir turi motyvuojantį kvietimą veikti (CTA).  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDE1NTI1ODYsLTI0MDg1MTgxNCwtMT
-QxNjc3MTQxOSwzMDk2Mzc4NzJdfQ==
+eyJoaXN0b3J5IjpbMTcyODU5ODAzNCwtMjQwODUxODE0LC0xND
+E2NzcxNDE5LDMwOTYzNzg3Ml19
 -->
