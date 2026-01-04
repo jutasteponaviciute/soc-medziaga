@@ -247,6 +247,7 @@ Karuselių pavyzdžiai:
 3. https://www.instagram.com/p/DBLh-pYOucB/?igsh=MWZudGdpZTcyMWR6bg%3D%3D  
 4. https://www.instagram.com/p/DIHKXqUIdLY/?igsh=MXhsazY5eTR6YW5oYg%3D%3D  
 5. https://www.instagram.com/p/DBLrtGJucQc/?img_index=1  
+6.  https://www.instagram.com/p/DNF5CKRtRFH/?img_index=1
 
 # Praktinės užduotys
 
@@ -291,6 +292,6 @@ Vertinama karuselės struktūra, dizaino vientisumas pagal Brand Kit, informacij
 
 Vertinama, ar studentas geba pagrįstai įvertinti karuselės struktūrą, dizaino sprendimus ir komunikacijos aiškumą, remdamasis konkrečiais pavyzdžiais.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDk0NDcxOTMsLTk2MDg2NTc2NiwxNz
-A2Mzk0Mjg0LC0yMDY5NzE4MjU5LC03MzczNDY5NjZdfQ==
+eyJoaXN0b3J5IjpbMjA0MDAzMzc2NSwtOTYwODY1NzY2LDE3MD
+YzOTQyODQsLTIwNjk3MTgyNTksLTczNzM0Njk2Nl19
 -->
