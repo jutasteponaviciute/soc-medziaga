@@ -140,6 +140,9 @@ Viena iš dažniausiai naudojamų automatizacijų yra **Auto-DM links from comme
 
 ![ManyChat IG automatizacija](https://raw.githubusercontent.com/IamJuniorMB/images/refs/heads/main/social-long-material/13_paskaita/manychat%20IG%20automatizacija.avif)  
 
+## PDF kūrimas Canva programoje
+
+
 # Praktinės užduotys
 
 ### 1 užduotis. Sukurkite PDF gidą (freebie)
@@ -169,5 +172,5 @@ Vertinamas dizaino aiškumas, struktūra, vizualinis nuoseklumas pagal Brand Kit
 
 Vertinama, ar maketas/karuselė aiškiai perteikia pasiūlymą, išlaiko vizualinį nuoseklumą ir turi motyvuojantį kvietimą veikti (CTA).  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5NjM3ODcyXX0=
+eyJoaXN0b3J5IjpbLTE0MTY3NzE0MTksMzA5NjM3ODcyXX0=
 -->
