@@ -204,7 +204,17 @@ Struktūra:
 
 Naudojimas: produktų, planų, paslaugų palyginimas.
 
-**9. Palyginimo struktūra (A vs B)**
+**10. Pardaviminė karuselė (subtilus pardavimas)**
+Orientuota į problemos sprendimą, o ne tiesioginį pardavimą.
+
+Struktūra:
+- Problema
+- Pasekmė
+- Sprendimas
+- Nauda vartotojui
+- CTA
+
+Naudojimas: kursai, narystės, paslaugos, produktai.
 
 ### Bendri karuselės kūrimo principai
 
@@ -285,6 +295,6 @@ pardaviminė (pasiūlymas ar produkto pristatymas).
 
 Vertinama karuselės struktūra, dizaino vientisumas pagal Brand Kit, informacijos aiškumas ir tinkamas nuorodos pateikimas atsiskaitymui.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTEzMzE5NCwtMjA2OTcxODI1OSwtNz
+eyJoaXN0b3J5IjpbMTcwNjM5NDI4NCwtMjA2OTcxODI1OSwtNz
 M3MzQ2OTY2XX0=
 -->
