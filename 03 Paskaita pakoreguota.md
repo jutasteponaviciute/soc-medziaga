@@ -180,6 +180,18 @@ Struktūra:
 
 Naudojimas: bendruomenės stiprinimas, diskusijos, ekspertiškumo demonstravimas.
 
+**8. Istorijos pasakojimo (Storytelling) struktūra**
+Emociškai įtraukianti struktūra, padedanti kurti ryšį.
+
+Struktūra:
+- Situacijos pradžia
+- Problema ar iššūkis
+- Lūžio taškas
+- Rezultatas
+- Pamoka ir CTA
+
+Naudojimas: asmeninis prekės ženklas, patirtys, vertybinis turinys.
+
 **1. Edukacinė karuselė**
 Tikslas – paaiškinti, parodyti žingsnius arba pateikti vertingą informaciją paprastai.
 
@@ -300,6 +312,6 @@ pardaviminė (pasiūlymas ar produkto pristatymas).
 
 Vertinama karuselės struktūra, dizaino vientisumas pagal Brand Kit, informacijos aiškumas ir tinkamas nuorodos pateikimas atsiskaitymui.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTg2MjQwNzEsLTIwNjk3MTgyNTksLT
-czNzM0Njk2Nl19
+eyJoaXN0b3J5IjpbLTczMTA4NDI4NywtMjA2OTcxODI1OSwtNz
+M3MzQ2OTY2XX0=
 -->
