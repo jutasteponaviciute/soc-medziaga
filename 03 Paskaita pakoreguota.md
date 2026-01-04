@@ -124,7 +124,7 @@ Struktūra:
 
 Naudojimas: mokomasis turinys, ekspertinio įvaizdžio formavimas.
 
-**3. Prieš → Po → Kaip tai buvo pasiekta→ CTA**
+**3. Prieš → Po → Kaip tai buvo pasiekta → CTA**
 Vizualiai ir emociškai stipri struktūra, paremta pokyčio demonstravimu.
 
 Struktūra:
@@ -136,19 +136,15 @@ Struktūra:
 
 Naudojimas: klientų istorijos, atvejai, asmeninis prekės ženklas.
 
-**4. Sąrašo struktūra (X patarimų / žingsnių)**
-Aiški, lengvai skaitoma struktūra
+**4. Sąrašo struktūra (X patarimų / žingsnių) → CTA**
+Aiški, lengvai skaitoma struktūra.
 
 Struktūra:
+- Pavadinimas ir pažadas
+- Vienas patarimas – viena skaidrė
+- Baigiamoji skaidrė su CTA
 
-Pavadinimas ir pažadas
-
-Vienas patarimas – viena skaidrė
-
-Baigiamoji skaidrė su CTA
-
-Naudojimas:
-Praktiniai patarimai, „checklist“ tipo turinys.
+Naudojimas: praktiniai patarimai, „checklist“ tipo turinys.
 
 **1. Edukacinė karuselė**
 Tikslas – paaiškinti, parodyti žingsnius arba pateikti vertingą informaciją paprastai.
@@ -270,5 +266,5 @@ pardaviminė (pasiūlymas ar produkto pristatymas).
 
 Vertinama karuselės struktūra, dizaino vientisumas pagal Brand Kit, informacijos aiškumas ir tinkamas nuorodos pateikimas atsiskaitymui.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODg2MTgzNjAsLTczNzM0Njk2Nl19
+eyJoaXN0b3J5IjpbODA3ODU4Mzc3LC03MzczNDY5NjZdfQ==
 -->
