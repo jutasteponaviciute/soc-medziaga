@@ -134,7 +134,21 @@ Struktūra:
 - Esminė pamoka
 - CTA
 
-Naudojimas:lientų istorijos, atvejai, asmeninis prekės ženklas.
+Naudojimas: klientų istorijos, atvejai, asmeninis prekės ženklas.
+
+**4. Sąrašo struktūra (X patarimų / žingsnių)**
+Aiški, lengvai skaitoma struktūra
+
+Struktūra:
+
+Pavadinimas ir pažadas
+
+Vienas patarimas – viena skaidrė
+
+Baigiamoji skaidrė su CTA
+
+Naudojimas:
+Praktiniai patarimai, „checklist“ tipo turinys.
 
 **1. Edukacinė karuselė**
 Tikslas – paaiškinti, parodyti žingsnius arba pateikti vertingą informaciją paprastai.
@@ -256,5 +270,5 @@ pardaviminė (pasiūlymas ar produkto pristatymas).
 
 Vertinama karuselės struktūra, dizaino vientisumas pagal Brand Kit, informacijos aiškumas ir tinkamas nuorodos pateikimas atsiskaitymui.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTk1OTg4NCwtNzM3MzQ2OTY2XX0=
+eyJoaXN0b3J5IjpbLTE1ODg2MTgzNjAsLTczNzM0Njk2Nl19
 -->
