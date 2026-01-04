@@ -606,7 +606,7 @@ Skirtingi pasidalinimo būdai:
 
 # Praktinės užduotys
 
-### 1 užduotis. Pateikto dizaino maketo atkartojimas  
+### 1 užduotis. Pateikto dizaino maketo atkartojimas (su dėstytojo pagalba) 
 
 **Tikslas:** praktikoje, savarankiškai išbandyti pagrindines funkcijas.  
 
@@ -730,5 +730,6 @@ Pastaba: Vertinamas gebėjimas savarankiškai pritaikyti Canva įrankius ir logi
    - Ar vizualas atitinka prekės ženklo stilių?   
 - Įkelkite įrašo nuorodą arba ekrano nuotrauką ir aprašymą.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDY4OTcwNDVdfQ==
+eyJoaXN0b3J5IjpbLTIwOTc3NjE3MTEsLTEyMDY4OTcwNDVdfQ
+==
 -->
