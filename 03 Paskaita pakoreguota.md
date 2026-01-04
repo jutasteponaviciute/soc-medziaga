@@ -124,6 +124,18 @@ Struktūra:
 
 Naudojimas: mokomasis turinys, ekspertinio įvaizdžio formavimas.
 
+**3. Prieš → Po → Kaip tai buvo pasiekta→ CTA**
+Vizualiai ir emociškai stipri struktūra, paremta pokyčio demonstravimu.
+
+Struktūra:
+- Pradinė situacija
+- Galutinis rezultatas
+- Veiksmai ar sprendimai
+- Esminė pamoka
+- CTA
+
+Naudojimas:lientų istorijos, atvejai, asmeninis prekės ženklas.
+
 **1. Edukacinė karuselė**
 Tikslas – paaiškinti, parodyti žingsnius arba pateikti vertingą informaciją paprastai.
 
@@ -244,5 +256,5 @@ pardaviminė (pasiūlymas ar produkto pristatymas).
 
 Vertinama karuselės struktūra, dizaino vientisumas pagal Brand Kit, informacijos aiškumas ir tinkamas nuorodos pateikimas atsiskaitymui.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzM0Njk2Nl19
+eyJoaXN0b3J5IjpbMTA5NTk1OTg4NCwtNzM3MzQ2OTY2XX0=
 -->
