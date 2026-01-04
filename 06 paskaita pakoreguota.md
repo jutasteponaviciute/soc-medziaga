@@ -527,7 +527,7 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
   - 60 % – pagrindinė spalva (fono ar bazinė);  
   - 30 % – antrinė spalva (tekstas, formos, papildomi akcentai);  
   - 10 % – akcentinė spalva (CTA, svarbiausia informacija).  
-- Patikrinkite, ar kontrastas tarp teksto ir fono yra pakankamas (naudokite Canva Canva Accessibility / Contrast checker arba kitą įrankį).  
+- Patikrinkite, ar kontrastas tarp teksto ir fono yra pakankamas (naudokite Canva Accessibility / Contrast checker arba kitą įrankį).  
 - Padarykite trumpą aprašymą (2–3 sakinius):  
   - Kodėl pasirinkote tokias spalvas?  
   - Ar kontrastas užtikrina aiškumą ir įskaitomumą?  
@@ -566,6 +566,6 @@ Kodėl vienas dizainas veikia geriau už kitą?
 
 **Vertinimas:** gebėjimas pastebėti hierarchiją, kontrastą, balansą ir dizaino tikslingumą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzE1MzA1MSwxOTI3NzY2MDcyLC04Mj
-E3MjcxMzVdfQ==
+eyJoaXN0b3J5IjpbLTE4MTkzNzI4NzQsMTkyNzc2NjA3MiwtOD
+IxNzI3MTM1XX0=
 -->
