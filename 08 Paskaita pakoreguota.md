@@ -142,11 +142,11 @@ Viena iš dažniausiai naudojamų automatizacijų yra **Auto-DM links from comme
 
 ## PDF kūrimas Canva programoje
 
-1. Išsirink šabloną
-Iš „Canva“ šablonų bibliotekos pasirink tau tinkamiausią šabloną. Dažniausiai PDF dokumentams naudojamas A4 formatas. https://www.canva.com/templates
-2. Redaguok turinį
-Pakeisk tekstą, spalvas ir šriftus, įkelk savo nuotraukas ar logotipą. Kurdamas dizainą, vadovaukis savo Brand Kit.
-3.  Pridėk aktyvias nuorodas
+1. **Išsirinkite šabloną**
+Iš „Canva“ šablonų bibliotekos pasirinkite tau tinkamiausią šabloną. Dažniausiai PDF dokumentams naudojamas A4 formatas. https://www.canva.com/templates
+2. **Redaguokite turinį**
+Pakeiskite tekstą, spalvas ir šriftus, įkelk savo nuotraukas ar logotipą. Kurdamas dizainą, vadovaukis savo Brand Kit.
+3.  **Pridėk aktyvias nuorodas**
 Pasižymėk pasirinktą objektą (mygtuką, tekstą ar paveikslėlį), viršuje spausk tritaškį (⋯), pasirink Link, įklijuok norimą URL ir spausk Done.
 4. Atsisiųsk kaip PDF
 Spausk Share → Download → PDF Standard (arba PDF Print, jei reikia spaudai). Atsisiųstame PDF faile nuorodos bus paspaudžiamos, aktyvios.
@@ -159,7 +159,7 @@ Spausk Share → Download → PDF Standard (arba PDF Print, jei reikia spaudai).
 
 **Užduotis:**  
 - Pasirinkite temą, kuri būtų naudinga jūsų auditorijai (pvz., patarimai, kontrolinis sąrašas, mini gidas).  
-- Canvoje sukurkite 3–5 puslapių PDF naudodami savo Brand Kit (spalvas, šriftus, logotipą ir kt. elementus).  
+- Canvoje sukurkite 3–5 puslapių PDF naudodami savo Brand Kit (spalvas, šriftus, logotipą ir kt. elementus).  Galima pasirinkti Canvoje esamą šabloną ir jį pritaikyti savo temai bei vizualiniam identitetui.
 - Įtraukite interaktyvius elementus: nuorodą, CTA mygtuką („Sekite mane Instagram“ ar pan.).  
 - Eksportuokite kaip PDF su aktyviomis nuorodomis ir pateikite jį atsiskaitymui.  
 
@@ -180,6 +180,6 @@ Vertinamas dizaino aiškumas, struktūra, vizualinis nuoseklumas pagal Brand Kit
 
 Vertinama, ar maketas/karuselė aiškiai perteikia pasiūlymą, išlaiko vizualinį nuoseklumą ir turi motyvuojantį kvietimą veikti (CTA).  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTIzNTUzLC0yNDA4NTE4MTQsLTE0MT
-Y3NzE0MTksMzA5NjM3ODcyXX0=
+eyJoaXN0b3J5IjpbLTk3NjQ2MDUwMSwtMjQwODUxODE0LC0xND
+E2NzcxNDE5LDMwOTYzNzg3Ml19
 -->
