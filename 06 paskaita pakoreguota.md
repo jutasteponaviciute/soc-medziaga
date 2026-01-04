@@ -514,27 +514,11 @@ Formos, linijos, piktogramos, iliustracijos, tekstūros, rėmeliai ir šešėlia
 
 # Praktinės užduotys
 
-### 1 užduotis. Dizaino analizė.
-
-**Tikslas:** išmokti atpažinti aiškią struktūrą, hierarchiją ir prekės ženklo vientisumą.
-
-**Užduotis:**
-- Pasirinkite du vizualus iš socialinių tinklų (pvz., reklamos ar įrašų).
-- Vienas turi būti jūsų nuomone geras dizainas, kitas – ne toks sėkmingas.
-- Abu įkelkite į Canva arba dokumentą ir trumpai aprašykite:
-Kas pirmiausia patraukia dėmesį?
-Kaip išdėstyti elementai (ar aišku, kas svarbiausia)?
-Kaip panaudotos spalvos ir šriftai?
-Kodėl vienas dizainas veikia geriau už kitą?
-- Nepamirškite įkelti atsiskaitymui.
-
-**Vertinimas:** gebėjimas pastebėti hierarchiją, kontrastą, balansą ir dizaino tikslingumą.
-
-## 2-3 užduoties darbas vyksta šiame dokumente:  
+## 1 užduoties (1-2 dalies) darbas vyksta šiame dokumente:  
 
 [https://www.canva.com/design/DAGYsMDA0Z0/yt80V58eWnkvvOfEYfUcVA/view?utm_content=DAGYsMDA0Z0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview](https://www.canva.com/design/DAGYsMDA0Z0/yt80V58eWnkvvOfEYfUcVA/view?utm_content=DAGYsMDA0Z0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
-### 2 užduotis. Spalvų paletės kūrimas ir testavimas
+### 1 dalis. Spalvų paletės kūrimas ir testavimas
 
 **Tikslas:** išmokti kurti subalansuotą spalvų paletę ir įvertinti jos pritaikomumą praktikoje.
 
@@ -551,7 +535,7 @@ Kodėl vienas dizainas veikia geriau už kitą?
 
 **Vertinamas:** spalvų derinimo logika, aiškus 60%, 30%, 10% principo taikymas, pakankamas kontrastas ir skaitomumas.  
 
-### 3 užduotis. Šriftų derinio kūrimas ir testavimas
+### 2 dalis. Šriftų derinio kūrimas ir testavimas
 
 **Tikslas:** išmokti parinkti šriftų derinius ir patikrinti jų tinkamumą turiniui lietuvių kalba.
 
@@ -565,7 +549,23 @@ Kodėl vienas dizainas veikia geriau už kitą?
 - Atsiskaitymui įkelkite išeksportuotą dokumentą (PDF formatu) su šriftų deriniu, testavimu ir paaiškinimu.  
 
 **Vertinamas:** logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.  
+
+### Papildoma užduotis. Dizaino analizė.
+
+**Tikslas:** išmokti atpažinti aiškią struktūrą, hierarchiją ir prekės ženklo vientisumą.
+
+**Užduotis:**
+- Pasirinkite du vizualus iš socialinių tinklų (pvz., reklamos ar įrašų).
+- Vienas turi būti jūsų nuomone geras dizainas, kitas – ne toks sėkmingas.
+- Abu įkelkite į Canva arba dokumentą ir trumpai aprašykite:
+Kas pirmiausia patraukia dėmesį?
+Kaip išdėstyti elementai (ar aišku, kas svarbiausia)?
+Kaip panaudotos spalvos ir šriftai?
+Kodėl vienas dizainas veikia geriau už kitą?
+- Nepamirškite įkelti atsiskaitymui.
+
+**Vertinimas:** gebėjimas pastebėti hierarchiją, kontrastą, balansą ir dizaino tikslingumą.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyNTI1NzIzLDE5Mjc3NjYwNzIsLTgyMT
-cyNzEzNV19
+eyJoaXN0b3J5IjpbMTgzMzE1MzA1MSwxOTI3NzY2MDcyLC04Mj
+E3MjcxMzVdfQ==
 -->
