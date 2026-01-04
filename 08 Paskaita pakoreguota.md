@@ -142,7 +142,14 @@ Viena iš dažniausiai naudojamų automatizacijų yra **Auto-DM links from comme
 
 ## PDF kūrimas Canva programoje
 
+1. Išsirink šabloną
+Iš šablonų bazės pasirink tau tinkamiausią. Dažniausiai tai bus A4 formatas. https://www.canva.com/templates
 
+2. Redaguok turinį
+Pakeisk tekstą, spalvas, šriftus, įkelk savo nuotraukas ar logotipą.
+
+Atsisiųsk kaip PDF
+Spausk Share / Dalintis → Download / Atsisiųsti → PDF (PDF Standard
 # Praktinės užduotys
 
 ### 1 užduotis. Sukurkite PDF gidą (freebie)
@@ -172,5 +179,6 @@ Vertinamas dizaino aiškumas, struktūra, vizualinis nuoseklumas pagal Brand Kit
 
 Vertinama, ar maketas/karuselė aiškiai perteikia pasiūlymą, išlaiko vizualinį nuoseklumą ir turi motyvuojantį kvietimą veikti (CTA).  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTY3NzE0MTksMzA5NjM3ODcyXX0=
+eyJoaXN0b3J5IjpbMTA5NjExMDYxNSwtMTQxNjc3MTQxOSwzMD
+k2Mzc4NzJdfQ==
 -->
