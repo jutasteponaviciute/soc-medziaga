@@ -273,9 +273,8 @@ Vertinama karuselės struktūra, dizaino vientisumas pagal Brand Kit, informacij
 - Padarykite ekrano nuotraukas arba nukopijuokite įrašo nuorodą.  
 - Atsakykite į šiuos klausimus (trumpai, bet argumentuotai):    
   - **A.** Struktūra ir turinys  
-    - Kiek skaidrių?    
-    - Koks karuselės tipas (edukacinė, įkvepianti, pardaviminė, storytelling ar kt.)?    
-    - Ar matyti pradžia, vidurys ir pabaiga?  
+    - Kiek skaidrių?     
+    - Ar matyti struktūra?  
   - **B**. Dizainas ir vizualai  
     - Kokios spalvos ir šriftai naudojami, ar jie dera tarpusavyje?  
     - Ar pakankamas kontrastas?    
@@ -292,6 +291,6 @@ Vertinama karuselės struktūra, dizaino vientisumas pagal Brand Kit, informacij
 
 Vertinama, ar studentas geba pagrįstai įvertinti karuselės struktūrą, dizaino sprendimus ir komunikacijos aiškumą, remdamasis konkrečiais pavyzdžiais.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzIzMDIwMiwxNzA2Mzk0Mjg0LC0yMD
+eyJoaXN0b3J5IjpbLTk2MDg2NTc2NiwxNzA2Mzk0Mjg0LC0yMD
 Y5NzE4MjU5LC03MzczNDY5NjZdfQ==
 -->
