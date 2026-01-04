@@ -77,6 +77,12 @@ Kai kitas žmogus ją paspaus, Canva sukurs naują failą su užrašu „A copy 
 
 https://www.canva.com/templates
 
+Canva šablonų bazė – tai plati paruoštų dizainų biblioteka, leidžianti greitai kurti profesionaliai atrodančius dizainus.
+
+Ji naudinga, nes taupo laiką ir suteikia struktūrą turiniui.
+
+Reikėtų žinoti, kad dalis šablonų yra nemokami, o kai kurie – mokami (Pro), taip pat svarbu patikrinti dokumento formatą (pvz., A4) ir pritaikyti šabloną savo prekės ženklo spalvoms, šriftams ir turiniui, kad rezultatas būtų autentiškas.
+
 
 ## Informacijos hierarchija
 
@@ -297,7 +303,7 @@ Vertinama karuselės struktūra, dizaino vientisumas pagal Brand Kit, informacij
 
 Vertinama, ar studentas geba pagrįstai įvertinti karuselės struktūrą, dizaino sprendimus ir komunikacijos aiškumą, remdamasis konkrečiais pavyzdžiais.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzNzI2NDE3LDIwNDAwMzM3NjUsLTk2MD
+eyJoaXN0b3J5IjpbODg1ODY2NDcxLDIwNDAwMzM3NjUsLTk2MD
 g2NTc2NiwxNzA2Mzk0Mjg0LC0yMDY5NzE4MjU5LC03MzczNDY5
 NjZdfQ==
 -->
