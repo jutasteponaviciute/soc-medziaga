@@ -100,7 +100,7 @@ Tai tarsi mini prezentacija ar istorija, kurią žmogus slenka iš kairės į de
 
 ### Instagram karuselių struktūros
 
-**1. Kabliukas → Problema → Sprendimas → CTA**
+**1. Kabliukas → Problema → Sprendimas**
 Struktūra pradedama stipriu dėmesį pritraukiančiu teiginiu arba klausimu, kuris įveda į problemą. Toliau pateikiamas sprendimas ir aiškus kvietimas veikti.
 
 Struktūra:
@@ -112,7 +112,7 @@ Struktūra:
 
 Naudojimas: pardaviminis ir edukacinis turinys, prekių, paslaugų ar kursų pristatymas.
 
-**2. Klaida → Kodėl tai klaida → Kaip daryti teisingai → CTA**
+**2. Klaida → Kodėl tai klaida → Kaip daryti teisingai**
 Ši struktūra padeda parodyti kompetenciją ir ugdyti auditoriją per dažniausiai pasitaikančias klaidas.
 
 Struktūra:
@@ -124,7 +124,7 @@ Struktūra:
 
 Naudojimas: mokomasis turinys, ekspertinio įvaizdžio formavimas.
 
-**3. Prieš → Po → Kaip tai buvo pasiekta → CTA**
+**3. Prieš → Po → Kaip tai buvo pasiekta**
 Vizualiai ir emociškai stipri struktūra, paremta pokyčio demonstravimu.
 
 Struktūra:
@@ -136,7 +136,7 @@ Struktūra:
 
 Naudojimas: klientų istorijos, atvejai, asmeninis prekės ženklas.
 
-**4. Sąrašo struktūra (X patarimų / žingsnių) → CTA**
+**4. Sąrašo struktūra (X patarimų / žingsnių)**
 Aiški, lengvai skaitoma struktūra.
 
 Struktūra:
@@ -146,7 +146,7 @@ Struktūra:
 
 Naudojimas: praktiniai patarimai, „checklist“ tipo turinys.
 
-**5. Mitas → Tiesa → CTA**
+**5. Mitas → Tiesa **
 Padeda keisti auditorijos mąstymą ir formuoti pasitikėjimą.
 
 Struktūra:
@@ -158,7 +158,18 @@ Struktūra:
 
 Naudojimas: nuomonės formavimas, edukacija.
 
+**6. Žingsniai (Step by step)**
+Struktūra orientuota į procesą ir praktinį pritaikymą.
 
+Struktūra:
+- Ką auditorija išmoks?
+- 1 žingsnis
+- 2 žingsnis
+- 3 žingsnis
+- CTA
+
+Naudojimas: instrukcijos, mokymai, techniniai paaiškinimai.
+**6. Žingsniai (Step by step)**
 
 **1. Edukacinė karuselė**
 Tikslas – paaiškinti, parodyti žingsnius arba pateikti vertingą informaciją paprastai.
@@ -280,6 +291,6 @@ pardaviminė (pasiūlymas ar produkto pristatymas).
 
 Vertinama karuselės struktūra, dizaino vientisumas pagal Brand Kit, informacijos aiškumas ir tinkamas nuorodos pateikimas atsiskaitymui.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjIzNDIxNywtMjA2OTcxODI1OSwtNz
-M3MzQ2OTY2XX0=
+eyJoaXN0b3J5IjpbLTE1NjE3MDY1NDgsLTIwNjk3MTgyNTksLT
+czNzM0Njk2Nl19
 -->
