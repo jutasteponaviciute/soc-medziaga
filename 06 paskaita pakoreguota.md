@@ -243,8 +243,7 @@ Ar jis:
 -   Kūrybiškas, jaunatviškas, žaismingas? Galima rinktis pastelinius tonus ar netikėtus derinius (pvz., mėtų žalia + violetinė).    
 -   Natūralus ar tvarus? Dominuoja žemės tonai – žalsva, ruda, smėlio, švelniai pilka.  
 
-### Spalvų derinimo principas 60%, 30%, 10%
-  
+### Spalvų derinimo principas 60%, 30%, 10%  
 
 Yra tokia ganėtinai paprasta taisyklė, kuri padeda sukurti FUNKCIONALIĄ spalvų paletę.
 
@@ -305,7 +304,7 @@ Socialiniuose tinkluose tipografija yra ypač svarbi, nes vartotojas sprendžia 
 
 Net jei vizualas minimalus, šriftas gali suteikti profesionalumo, modernumo ar žaismingumo įspūdį.
 
-### Kodėl šriftai tokie svarbūs socialiniuose tinkluose?
+### Kodėl šriftai tokie svarbūs?
 
 - Jie **sustiprina žinutę**, pavyzdžiui, reklamos įraše padeda išryškinti pasiūlymą ar emocinį akcentą, jį parašant kitokiu arba paryškintu šriftu.
 - Jie **kuria atpažįstamumą.** Nuosekliai naudojamas šriftas tampa prekės ženklo dalimi. Kai kurie prekės ženklai net susikuria savo šriftus, pavyzdžiui, Google, Spotify, Apple, Coca-Cola, Netflix ir kiti yra sukūrę savo tipografiją.
@@ -572,6 +571,6 @@ Kodėl vienas dizainas veikia geriau už kitą?
 
 **Vertinamas:** logiškas ir akiai malonus šriftų derinimas, aiškiai parodytas testavimas su lietuviškomis raidėmis ir skyrybos ženklais ir apgalvota argumentacija, kodėl derinys tinkamas naudoti komunikacijoje.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzExNjkzMSwxOTI3NzY2MDcyLC04Mj
+eyJoaXN0b3J5IjpbMTM4NTMwODczMCwxOTI3NzY2MDcyLC04Mj
 E3MjcxMzVdfQ==
 -->
